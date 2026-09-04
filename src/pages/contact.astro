@@ -1,0 +1,44 @@
+---
+import Base from '../layouts/Base.astro';
+import { CONTACT } from '../consts';
+---
+
+<Base
+  title="お問い合わせ"
+  description="AI仕事ラボへのご指摘・ご質問・ご依頼はこちらから受け付けています。"
+>
+  <article class="narrow prose" style="padding-block:2.5rem 1rem;">
+    <h1>お問い合わせ</h1>
+
+    <p>
+      記事内容へのご指摘、検証してほしいテーマのご要望、その他のご連絡は
+      以下のメールアドレス宛にお願いします。
+    </p>
+
+    <p style="font-size:1.125rem;">
+      <strong><a href={`mailto:${CONTACT.email}`}>{CONTACT.email}</a></strong>
+    </p>
+
+    <div class="note">
+      <p>
+        <strong>誤りのご指摘は特に歓迎しています。</strong>
+        当サイトは実測データを扱う性質上、検証の設計ミスや集計ミスが混じる可能性が常にあります。
+        ご指摘いただいた内容は確認のうえ訂正し、<strong>いつ・どこを・なぜ訂正したかを記事内に明記します。</strong>
+      </p>
+    </div>
+
+    <h2>お返事について</h2>
+    <p>
+      いただいたご連絡にはできる限り目を通していますが、内容によっては返信できない場合があります。
+      あらかじめご了承ください。
+    </p>
+
+    <h2>取材・掲載依頼について</h2>
+    <p>
+      製品やサービスの掲載をご希望の場合もこちらからご連絡ください。
+      ただし当サイトは<a href="/about/">編集方針</a>のとおり、
+      <strong>報酬の有無にかかわらず、実際に試した結果をそのまま書きます。</strong>
+      好意的な記事を前提としたご依頼にはお応えできません。
+    </p>
+  </article>
+</Base>

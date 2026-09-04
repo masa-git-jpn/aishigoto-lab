@@ -1,0 +1,83 @@
+---
+import '../styles/global.css';
+import { SITE, CATEGORIES } from '../consts';
+
+interface Props {
+  title: string;
+  description: string;
+  /** そのページ固有の JSON-LD */
+  jsonLd?: Record<string, unknown> | Record<string, unknown>[];
+  noindex?: boolean;
+}
+
+const { title, description, jsonLd, noindex = false } = Astro.props;
+const canonical = new URL(Astro.url.pathname, SITE.url).href;
+const fullTitle = title === SITE.name ? `${SITE.name}｜${SITE.tagline}` : `${title}｜${SITE.name}`;
+---
+
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    {noindex && <meta name="robots" content="noindex, follow" />}
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={SITE.name} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:locale" content={SITE.locale} />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <link rel="alternate" type="application/rss+xml" title={SITE.name} href="/rss.xml" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+
+    {jsonLd && (
+      <script
+        type="application/ld+json"
+        set:html={JSON.stringify(jsonLd)}
+      />
+    )}
+  </head>
+  <body>
+    <a class="skip" href="#main">本文へスキップ</a>
+
+    <header class="site-header">
+      <div class="wrap bar">
+        <a class="brand" href="/">AI<span>仕事</span>ラボ</a>
+        <span class="brand-tag">試した結果だけを載せる。</span>
+        <nav class="site-nav" aria-label="メインナビゲーション">
+          {Object.values(CATEGORIES).map((c) => (
+            <a href={`/${c.slug}/`}>{c.name}</a>
+          ))}
+          <a href="/about/">運営者情報</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main">
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <nav aria-label="フッターナビゲーション">
+          <a href="/about/">運営者情報・編集方針</a>
+          <a href="/privacy/">プライバシーポリシー</a>
+          <a href="/disclaimer/">免責事項</a>
+          <a href="/contact/">お問い合わせ</a>
+          <a href="/rss.xml">RSS</a>
+        </nav>
+        <p>
+          © {new Date().getFullYear()} {SITE.name}<br />
+          このサイトの記事は生成AIが執筆し、掲載しているデータはすべて実際に実行して取得したものです。
+          詳しくは<a href="/about/">運営者情報</a>をご覧ください。
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>

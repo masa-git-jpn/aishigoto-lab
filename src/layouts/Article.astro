@@ -1,0 +1,92 @@
+---
+import Base from './Base.astro';
+import { SITE, CATEGORIES } from '../consts';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  entry: CollectionEntry<'articles'>;
+}
+const { entry } = Astro.props;
+const d = entry.data;
+const cat = CATEGORIES[d.category];
+const url = new URL(`/${cat.slug}/${entry.id}/`, SITE.url).href;
+
+const fmt = (x: Date) =>
+  new Intl.DateTimeFormat('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' }).format(x);
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: d.title,
+    description: d.description,
+    datePublished: d.publishedAt.toISOString(),
+    dateModified: (d.updatedAt ?? d.publishedAt).toISOString(),
+    inLanguage: 'ja',
+    mainEntityOfPage: { '@type': 'WebPage', '@id': url },
+    author: { '@type': 'Organization', name: SITE.author, url: `${SITE.url}/about/` },
+    publisher: { '@type': 'Organization', name: SITE.name, url: SITE.url },
+    articleSection: cat.name,
+    keywords: d.tags.join(', '),
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'ホーム', item: SITE.url },
+      { '@type': 'ListItem', position: 2, name: cat.name, item: `${SITE.url}/${cat.slug}/` },
+      { '@type': 'ListItem', position: 3, name: d.title, item: url },
+    ],
+  },
+];
+---
+
+<Base title={d.title} description={d.description} jsonLd={jsonLd}>
+  <article class="narrow" style="padding-block: 2.5rem 1rem;">
+    <div class="meta" style="margin-bottom:0.75rem;">
+      <span class="badge">{cat.name}</span>
+      <time datetime={d.publishedAt.toISOString()}>{fmt(d.publishedAt)} 公開</time>
+      {d.updatedAt && (
+        <time datetime={d.updatedAt.toISOString()}>{fmt(d.updatedAt)} 更新</time>
+      )}
+    </div>
+
+    <h1>{d.title}</h1>
+    <p style="color:var(--ink-2); font-size:1.0625rem; margin-top:0.75rem;">{d.description}</p>
+
+    {d.verification && (
+      <section class="verify-box" aria-label="この記事の検証方法">
+        <h2>この記事の検証方法</h2>
+        <dl>
+          <dt>やったこと</dt>
+          <dd>{d.verification.method}</dd>
+          <dt>実行環境</dt>
+          <dd>{d.verification.environment}</dd>
+          {d.verification.sampleSize && (
+            <>
+              <dt>試行数</dt>
+              <dd>{d.verification.sampleSize}</dd>
+            </>
+          )}
+          {d.verification.dataUrl && (
+            <>
+              <dt>生データ</dt>
+              <dd><a href={d.verification.dataUrl}>公開しています</a></dd>
+            </>
+          )}
+        </dl>
+      </section>
+    )}
+
+    <div class="prose">
+      <slot />
+    </div>
+
+    <hr />
+    <p style="font-size:0.875rem;color:var(--ink-3);">
+      この記事に載せている数値は、すべて上記の環境で実際に実行して取得したものです。
+      手順とデータを公開しているので、同じ結果を再現できます。
+      誤りを見つけた場合は<a href="/contact/">お問い合わせ</a>からご指摘ください。確認のうえ訂正し、訂正した旨を記事に明記します。
+    </p>
+  </article>
+</Base>

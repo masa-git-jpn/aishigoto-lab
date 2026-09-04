@@ -1,0 +1,56 @@
+---
+import Base from '../../layouts/Base.astro';
+import { CATEGORIES, SITE } from '../../consts';
+import { getCollection } from 'astro:content';
+import type { GetStaticPaths } from 'astro';
+
+export const getStaticPaths: GetStaticPaths = async () => {
+  const all = await getCollection('articles', ({ data }) => !data.draft);
+  return Object.values(CATEGORIES).map((c) => ({
+    params: { category: c.slug },
+    props: {
+      cat: c,
+      items: all
+        .filter((a) => a.data.category === c.slug)
+        .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime()),
+    },
+  }));
+};
+
+const { cat, items } = Astro.props;
+const fmt = (x: Date) =>
+  new Intl.DateTimeFormat('ja-JP', { year: 'numeric', month: 'short', day: 'numeric' }).format(x);
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: cat.name,
+  description: cat.description,
+  url: `${SITE.url}/${cat.slug}/`,
+  inLanguage: 'ja',
+};
+---
+
+<Base title={cat.name} description={cat.description} jsonLd={jsonLd}>
+  <section class="wrap" style="padding-block:3rem 1rem;">
+    <h1>{cat.name}</h1>
+    <p style="color:var(--ink-2);max-width:42rem;">{cat.description}</p>
+  </section>
+  <section class="wrap" style="padding-bottom:2rem;">
+    {items.length === 0 ? (
+      <p style="color:var(--ink-3);">このカテゴリの記事は準備中です。</p>
+    ) : (
+      <ul class="card-list">
+        {items.map((a) => (
+          <li class="card">
+            <div class="meta">
+              <time datetime={a.data.publishedAt.toISOString()}>{fmt(a.data.publishedAt)}</time>
+            </div>
+            <h3><a href={`/${cat.slug}/${a.id}/`}>{a.data.title}</a></h3>
+            <p>{a.data.description}</p>
+          </li>
+        ))}
+      </ul>
+    )}
+  </section>
+</Base>

@@ -1,0 +1,78 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE, CATEGORIES } from '../consts';
+import { getCollection } from 'astro:content';
+
+const all = (await getCollection('articles', ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime()
+);
+
+const fmt = (x: Date) =>
+  new Intl.DateTimeFormat('ja-JP', { year: 'numeric', month: 'short', day: 'numeric' }).format(x);
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: SITE.name,
+  url: SITE.url,
+  description: SITE.description,
+  inLanguage: 'ja',
+  publisher: { '@type': 'Organization', name: SITE.name, url: SITE.url },
+};
+---
+
+<Base title={SITE.name} description={SITE.description} jsonLd={jsonLd}>
+  <section class="wrap" style="padding-block: 3rem 1rem;">
+    <div style="max-width:42rem;">
+      <h1 style="font-size:clamp(1.7rem,1.1rem+2.4vw,2.5rem);">
+        「たぶん動く」ではなく、<br />実際に動かした結果を書いています。
+      </h1>
+      <p style="font-size:1.0625rem;color:var(--ink-2);">
+        生成AIの使い方を説明する記事は、もう十分すぎるほどあります。
+        足りないのは、<strong>それが本当に正しいのかを確かめた記事</strong>のほうです。
+      </p>
+      <p style="font-size:1.0625rem;color:var(--ink-2);">
+        このサイトでは、実際にコードを走らせ、数を数え、失敗した分も含めて公開しています。
+        載せている数字はすべて手順つきなので、同じ結果をご自身で再現できます。
+      </p>
+    </div>
+  </section>
+
+  <section class="wrap" style="padding-block: 1.5rem 0;">
+    <h2 style="border:0;font-size:0.8125rem;letter-spacing:0.1em;color:var(--ink-3);margin-bottom:1rem;">
+      新着記事
+    </h2>
+    {all.length === 0 ? (
+      <p style="color:var(--ink-3);">準備中です。</p>
+    ) : (
+      <ul class="card-list">
+        {all.map((a) => (
+          <li class="card">
+            <div class="meta">
+              <span class="badge">{CATEGORIES[a.data.category].name}</span>
+              <time datetime={a.data.publishedAt.toISOString()}>{fmt(a.data.publishedAt)}</time>
+            </div>
+            <h3>
+              <a href={`/${CATEGORIES[a.data.category].slug}/${a.id}/`}>{a.data.title}</a>
+            </h3>
+            <p>{a.data.description}</p>
+          </li>
+        ))}
+      </ul>
+    )}
+  </section>
+
+  <section class="wrap" style="padding-block: 3.5rem 0;">
+    <h2 style="border:0;font-size:0.8125rem;letter-spacing:0.1em;color:var(--ink-3);margin-bottom:1rem;">
+      カテゴリ
+    </h2>
+    <ul class="card-list" style="grid-template-columns:repeat(auto-fit,minmax(15rem,1fr));">
+      {Object.values(CATEGORIES).map((c) => (
+        <li class="card">
+          <h3><a href={`/${c.slug}/`}>{c.name}</a></h3>
+          <p>{c.description}</p>
+        </li>
+      ))}
+    </ul>
+  </section>
+</Base>
