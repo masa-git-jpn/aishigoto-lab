@@ -1,0 +1,39 @@
+---
+import Base from '../layouts/Base.astro';
+import { CATEGORIES } from '../consts';
+import { getCollection } from 'astro:content';
+
+const recent = (await getCollection('articles', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime())
+  .slice(0, 5);
+---
+
+<Base
+  title="ページが見つかりません"
+  description="お探しのページは見つかりませんでした。移動または削除された可能性があります。"
+  noindex={true}
+>
+  <section class="narrow" style="padding-block:4rem 2rem;">
+    <p style="font-size:0.8125rem;letter-spacing:0.1em;color:var(--ink-3);margin:0;">404</p>
+    <h1>ページが見つかりません</h1>
+    <p style="color:var(--ink-2);">
+      お探しのページは、移動または削除された可能性があります。
+      URLの打ち間違いでなければ、こちらの手違いです。
+      <a href="/contact/">お問い合わせ</a>から教えていただけると助かります。
+    </p>
+
+    <h2 style="font-size:0.8125rem;letter-spacing:0.1em;color:var(--ink-3);border:0;margin-top:2.5rem;">
+      最近の記事
+    </h2>
+    <ul class="card-list">
+      {recent.map((a) => (
+        <li class="card">
+          <div class="meta"><span class="badge">{CATEGORIES[a.data.category].name}</span></div>
+          <h3><a href={`/${CATEGORIES[a.data.category].slug}/${a.id}/`}>{a.data.title}</a></h3>
+        </li>
+      ))}
+    </ul>
+
+    <p style="margin-top:2rem;"><a href="/">トップページへ戻る</a></p>
+  </section>
+</Base>

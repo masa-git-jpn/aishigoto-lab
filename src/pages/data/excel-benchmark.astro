@@ -1,0 +1,135 @@
+---
+import Base from '../../layouts/Base.astro';
+import { SITE } from '../../consts';
+
+const BASE = '/downloads/excel-benchmark';
+
+const groups = [
+  {
+    heading: '課題',
+    files: [
+      { f: 'tasks_all.json', d: '課題100問。丁寧な指示文、シートに入れるデータ、期待値、期待値をPythonで独立に算出するコード（oracle_code）を含みます' },
+      { f: 'prompts_vague.json', d: '各課題の指示文を雑な言い方に書き換えたもの。元の文も併記しています' },
+    ],
+  },
+  {
+    heading: 'モデルの解答',
+    files: [
+      { f: 'answers_opus.json', d: '丁寧な指示に対する Opus の数式100本' },
+      { f: 'answers_sonnet.json', d: '丁寧な指示に対する Sonnet の数式100本' },
+      { f: 'answers_haiku.json', d: '丁寧な指示に対する Haiku の数式100本' },
+      { f: 'vague_answers_opus.json', d: '雑な指示に対する Opus の数式100本' },
+      { f: 'vague_answers_sonnet.json', d: '雑な指示に対する Sonnet の数式100本' },
+      { f: 'vague_answers_haiku.json', d: '雑な指示に対する Haiku の数式100本' },
+    ],
+  },
+  {
+    heading: '判定結果',
+    files: [
+      { f: 'results.json', d: '丁寧条件の判定結果300件。数式、実際の計算結果、正誤、誤りの内容' },
+      { f: 'results_vague.json', d: '雑条件の判定結果300件' },
+    ],
+  },
+  {
+    heading: '検証コード',
+    files: [
+      { f: 'harness.py', d: 'LibreOffice Calc を UNO ブリッジ経由で操作し、数式を実際に計算させる検証ハーネス' },
+      { f: 'run_bench.py', d: '丁寧条件の実行スクリプト' },
+      { f: 'run_bench_vague.py', d: '雑条件の実行スクリプト' },
+      { f: 'offbyone.py', d: '誤答の参照行を±1ずらして計算し直し、それだけで正解になるかを機械的に確かめるスクリプト' },
+      { f: 'README.md', d: 'データ形式と再現手順の説明' },
+    ],
+  },
+];
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Dataset',
+  name: 'AIが書いたExcel数式のベンチマーク（日本語100問・2条件・3モデル）',
+  description:
+    '日本語の実務Excel課題100問に対して、Claude の Opus / Sonnet / Haiku が書いた数式600本と、LibreOffice Calc で実際に計算させた正誤判定の結果。指示文の丁寧さを2条件で比較しています。',
+  url: `${SITE.url}/data/excel-benchmark/`,
+  inLanguage: 'ja',
+  license: 'https://creativecommons.org/publicdomain/zero/1.0/',
+  creator: { '@type': 'Organization', name: SITE.name, url: SITE.url },
+  distribution: {
+    '@type': 'DataDownload',
+    encodingFormat: 'application/zip',
+    contentUrl: `${SITE.url}/downloads/excel-benchmark-dataset.zip`,
+  },
+};
+---
+
+<Base
+  title="Excel数式ベンチマーク 生データ"
+  description="AIが書いたExcel数式600本と、表計算ソフトで実際に計算させた正誤判定の全データ。課題・解答・判定結果・検証コードをすべて公開しています。自由に利用できます。"
+  jsonLd={jsonLd}
+>
+  <article class="narrow prose" style="padding-block:2.5rem 1rem;">
+    <h1>Excel数式ベンチマーク 生データ</h1>
+
+    <p>
+      以下の記事で使った検証データの全部です。課題も、モデルの解答も、判定結果も、検証コードも隠していません。
+      <strong>同じ手順で再現できます。</strong>
+    </p>
+
+    <ul>
+      <li><a href="/lab/ai-excel-formula-accuracy-300/">AIが書いたExcel関数300本を実際に計算させたら、軽量モデルは4本に1本間違えた</a></li>
+      <li><a href="/lab/ai-excel-prompt-detail-vs-accuracy/">「AIへの指示は丁寧なほど正確」は本当か</a></li>
+    </ul>
+
+    <div class="verify-box">
+      <h2>まとめてダウンロード</h2>
+      <p style="margin:0 0 0.5rem;">
+        <strong><a href={`${BASE}-dataset.zip`}>excel-benchmark-dataset.zip</a></strong>（約450KB / 15ファイル）
+      </p>
+      <p style="margin:0;font-size:0.875rem;color:var(--ink-2);">
+        著作権は主張しません。自由に利用・再配布してください。
+        引用の際に出典として記事URLを示していただけると助かります。
+      </p>
+    </div>
+
+    <h2>検証環境</h2>
+    <ul>
+      <li>LibreOffice Calc 24.2.7.2（headless / UNOブリッジ）</li>
+      <li>Ubuntu 24.04 / Python 3.11</li>
+      <li>検証日 2026-09-04</li>
+    </ul>
+
+    <h2>期待値の作り方について</h2>
+    <p>
+      各課題の期待値は、Excelの関数ではなく<strong>素のPythonで独立に算出しています</strong>（各課題の
+      <code>oracle_code</code> がその計算です）。つまり「Excelの考え方で作った答え」と
+      「Excelで計算した答え」を突き合わせているのではなく、<strong>Excelとは無関係に出した答え</strong>と
+      照合しています。全100問で <code>oracle_code</code> の実行結果が期待値と一致することを確認済みです。
+    </p>
+
+    <h2>ファイル一覧</h2>
+    {groups.map((g) => (
+      <>
+        <h3>{g.heading}</h3>
+        <ul>
+          {g.files.map((x) => (
+            <li>
+              <a href={`${BASE}/${x.f}`}><code>{x.f}</code></a> — {x.d}
+            </li>
+          ))}
+        </ul>
+      </>
+    ))}
+
+    <h2>再現方法</h2>
+    <pre><code>{`sudo apt install libreoffice-calc python3-uno
+python3 run_bench.py          # 丁寧条件
+python3 run_bench_vague.py    # 雑条件`}</code></pre>
+
+    <div class="note">
+      <p>
+        <strong>誤りを見つけた場合はご指摘ください。</strong>
+        検証の設計ミスや集計ミスが混じっている可能性は常にあります。
+        <a href="/contact/">お問い合わせ</a>からご連絡いただければ、確認のうえ訂正し、
+        いつ・どこを・なぜ訂正したかを該当記事に明記します。
+      </p>
+    </div>
+  </article>
+</Base>

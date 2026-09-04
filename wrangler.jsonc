@@ -1,0 +1,17 @@
+{
+  // Cloudflare Workers に静的サイトとして配信させる設定。
+  // "main"（Workerスクリプト）を置いていないため assets-only の構成になり、
+  // すべてのリクエストが静的アセットへのアクセスとして扱われる。
+  // 静的アセットへのリクエストは課金対象外・無制限なので、運用コストは0円のまま。
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "aishigoto-lab",
+  "compatibility_date": "2026-09-01",
+  "assets": {
+    // npm run build（Astro）の出力先
+    "directory": "./dist",
+    // /lab/xxx でも /lab/xxx/ でも同じページを返す（Astroのdirectory形式に合わせる）
+    "html_handling": "auto-trailing-slash",
+    // 存在しないURLは 404.astro が生成した 404 ページを返す
+    "not_found_handling": "404-page"
+  }
+}
