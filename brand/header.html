@@ -1,0 +1,71 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body {
+    width:1500px; height:500px; overflow:hidden;
+    font-family:'Noto Sans CJK JP','Noto Sans JP',sans-serif;
+    font-feature-settings:'palt' 1;
+  }
+  .header {
+    width:1500px; height:500px; background:#fbfbf9;
+    display:flex; align-items:center; position:relative;
+    padding:0 90px;
+  }
+  /* 左下はXのアイコンが重なるので何も置かない */
+  .left { width:640px; padding-bottom:30px; }
+  .name {
+    font-size:62px; font-weight:900; color:#1c1b19;
+    letter-spacing:0.02em; line-height:1.2;
+  }
+  .name em { font-style:normal; color:#1a5f4a; }
+  .tag {
+    margin-top:18px; font-size:29px; font-weight:700;
+    color:#1a5f4a; letter-spacing:0.02em;
+  }
+  .sub {
+    margin-top:14px; font-size:19px; color:#6f6c66; line-height:1.7;
+  }
+
+  /* 右側：実際の検証結果の表をそのまま見せる */
+  .panel {
+    position:absolute; right:90px; top:95px;
+    width:600px;
+    background:#fff; border:1px solid #e4e1da; border-radius:14px;
+    padding:26px 30px 28px;
+    box-shadow:0 2px 18px rgba(28,27,25,0.05);
+  }
+  .panel .cap {
+    font-size:14px; letter-spacing:0.11em; color:#1a5f4a;
+    font-weight:700; margin-bottom:16px;
+  }
+  table { width:100%; border-collapse:collapse; }
+  th, td { padding:9px 6px; text-align:left; font-size:21px; }
+  th { color:#6f6c66; font-size:15px; font-weight:700; border-bottom:2px solid #e4e1da; }
+  td { border-bottom:1px solid #f0eee8; font-weight:700; color:#1c1b19; }
+  td.n { text-align:right; font-variant-numeric:tabular-nums; }
+  tr:last-child td { border-bottom:0; }
+  .dim { color:#6f6c66; font-weight:400; }
+  .hit { color:#1a5f4a; }
+  .warn { color:#b1492c; }
+  .foot { margin-top:14px; font-size:14px; color:#8f8d88; }
+</style></head>
+<body>
+  <div class="header">
+    <div class="left">
+      <div class="name">AI<em>仕事</em>ラボ</div>
+      <div class="tag">試した結果だけを載せる。</div>
+      <div class="sub">生成AIを仕事で使うための検証メディア。<br>実際に動かして測った数字と、生データを公開しています。</div>
+    </div>
+
+    <div class="panel">
+      <div class="cap">AIが書いたExcel関数 300本を実際に計算させた</div>
+      <table>
+        <tr><th>モデル</th><th style="text-align:right">正解</th><th style="text-align:right">誤答</th></tr>
+        <tr><td>Claude Opus</td><td class="n hit">100 / 100</td><td class="n dim">0</td></tr>
+        <tr><td>Claude Sonnet</td><td class="n hit">98 / 100</td><td class="n dim">2</td></tr>
+        <tr><td>Claude Haiku</td><td class="n warn">76 / 100</td><td class="n dim">24</td></tr>
+      </table>
+      <div class="foot">LibreOffice Calc で300本すべて実際に計算・照合</div>
+    </div>
+  </div>
+</body></html>

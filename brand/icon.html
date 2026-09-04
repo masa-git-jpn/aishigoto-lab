@@ -1,0 +1,35 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { width:400px; height:400px; overflow:hidden; }
+  .icon {
+    width:400px; height:400px;
+    background:#1a5f4a;
+    position:relative;
+    display:flex; align-items:center; justify-content:center;
+  }
+  /* 表計算のセルを思わせる格子。ブランドの「実際に計算して確かめる」を示す */
+  .grid { position:absolute; inset:0; }
+  .grid span {
+    position:absolute; background:rgba(255,255,255,0.085);
+  }
+  .h { left:0; right:0; height:2px; }
+  .v { top:0; bottom:0; width:2px; }
+  /* チェックマーク */
+  svg { position:relative; z-index:2; }
+</style></head>
+<body>
+  <div class="icon">
+    <div class="grid">
+      <span class="h" style="top:133px"></span>
+      <span class="h" style="top:267px"></span>
+      <span class="v" style="left:133px"></span>
+      <span class="v" style="left:267px"></span>
+    </div>
+    <svg width="230" height="230" viewBox="0 0 100 100" fill="none">
+      <path d="M18 52 L40 74 L82 26"
+            stroke="#7fd8b4" stroke-width="13"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </div>
+</body></html>

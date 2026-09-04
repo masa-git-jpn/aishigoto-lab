@@ -1,0 +1,146 @@
+---
+import Base from '../../layouts/Base.astro';
+import { SITE } from '../../consts';
+
+const BASE = '/downloads/pdf-table-benchmark';
+
+const groups = [
+  {
+    heading: '正解データと検証用PDF',
+    files: [
+      { f: 'tables.py', d: '表12種の正解定義。全セルの文字列がここに書いてあります' },
+      { f: 'test-pdfs.zip', d: '実際に測定に使った24本のPDF（LibreOffice経由12本＋Chromium経由12本）' },
+    ],
+  },
+  {
+    heading: 'スクリプト',
+    files: [
+      { f: 'make_pdfs.py', d: '正解の表からPDFを2経路で生成する' },
+      { f: 'sanity.py', d: '測定前の検査。全セルの文字がPDFのテキスト層に載っているかを確認する' },
+      { f: 'run_extract.py', d: '7手法を実行して正解と突き合わせる。採点方法もここに書いてあります' },
+    ],
+  },
+  {
+    heading: '測定結果',
+    files: [
+      { f: 'results.json', d: '168回分の測定結果すべて。検出表数、セル一致率、行一致数、化け文字数、処理時間' },
+      { f: 'results.csv', d: '同じ内容のCSV（Excelで開けます）' },
+      { f: 'summary_by_method.csv', d: '手法ごとの集計' },
+    ],
+  },
+];
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Dataset',
+  name: 'PDF表抽出ベンチマーク（日本語・正解確定データ・7手法）',
+  description:
+    '中身が既知の日本語の表12種を2通りの経路でPDF化し、pdfplumber・camelot・tabula-py・PyMuPDF・pdftotextなど7つの方法で抽出した結果の全記録。検証用PDFそのものも含みます。',
+  url: `${SITE.url}/data/pdf-table-benchmark/`,
+  inLanguage: 'ja',
+  license: 'https://creativecommons.org/publicdomain/zero/1.0/',
+  creator: { '@type': 'Organization', name: SITE.name, url: SITE.url },
+  distribution: {
+    '@type': 'DataDownload',
+    encodingFormat: 'application/zip',
+    contentUrl: `${SITE.url}/downloads/pdf-table-benchmark-dataset.zip`,
+  },
+};
+---
+
+<Base
+  title="PDF表抽出ベンチマーク 生データ"
+  description="日本語PDFからの表抽出7手法を比較した検証の全データ。正解定義、検証用PDF24本、実行スクリプト、168回分の測定結果を公開しています。自由に利用できます。"
+  jsonLd={jsonLd}
+>
+  <article class="narrow prose" style="padding-block:2.5rem 1rem;">
+    <h1>PDF表抽出ベンチマーク 生データ</h1>
+
+    <p>
+      以下の記事で使った検証データの全部です。
+      <strong>測定に使ったPDFそのものも入れてあります</strong>ので、まったく同じ条件で再現できます。
+    </p>
+
+    <ul>
+      <li><a href="/lab/pdf-table-extraction-benchmark/">PDFの表をCSVにする7つの方法を実測した。差を決めていたのはライブラリではなく「縦罫線があるか」だった</a></li>
+    </ul>
+
+    <div class="verify-box">
+      <h2>まとめてダウンロード</h2>
+      <p style="margin:0 0 0.5rem;">
+        <strong><a href={`${BASE}-dataset.zip`}>pdf-table-benchmark-dataset.zip</a></strong>（約630KB / 8ファイル）
+      </p>
+      <p style="margin:0;font-size:0.875rem;color:var(--ink-2);">
+        著作権は主張しません。自由に利用・再配布してください。
+        引用の際に出典として記事URLを示していただけると助かります。
+      </p>
+    </div>
+
+    <h2>検証環境</h2>
+    <ul>
+      <li>Ubuntu 24.04 / Python 3.11 / OpenJDK 21</li>
+      <li>pdfplumber 0.11.9 / camelot 1.0.9 / tabula-py 2.10.0 / PyMuPDF 1.28.2 / poppler-utils 24.02.0</li>
+      <li>PDF生成：LibreOffice 24.2.7.2 と Chromium 141.0.7390.37</li>
+      <li>検証日 2026-09-04</li>
+    </ul>
+
+    <h2>なぜPDFを自作したのか</h2>
+    <p>
+      実在の配布PDFを使うと、<strong>「正解」が分かりません。</strong>
+      抽出結果が合っているかを判定するには、元の表の中身が確定している必要があります。
+      そこで中身を先に決め、そこからPDFを作る形にしました。
+    </p>
+    <p>
+      ただしこの作り方には落とし穴があります。<strong>セルの文字が枠からはみ出て切れていた場合、
+      抽出できないのはライブラリのせいではなくPDFの作りが悪いだけ</strong>になります。
+      そこで測定前に <code>sanity.py</code> で、正解の641セル分の文字がすべてPDFのテキスト層に
+      存在することを24本すべてについて確認しています。
+    </p>
+
+    <h2>採点の方法</h2>
+    <ul>
+      <li>
+        <strong>セル一致率（F1）</strong>：空でないセルを文字列の多重集合として比較。
+        比較前に空白だけを除去し、<strong>全角→半角の変換はしていません</strong>
+        （全角のまま取れているかも測定対象のため）
+      </li>
+      <li>
+        <strong>行の完全一致</strong>：正解の各行が、抽出結果のどこかに同じ並びで現れるかを数えたもの
+      </li>
+      <li>
+        <strong>化け文字数</strong>：康熙部首など、正規化すると通常の漢字になる別コードの文字の個数
+      </li>
+    </ul>
+
+    <h2>ファイル一覧</h2>
+    {groups.map((g) => (
+      <>
+        <h3>{g.heading}</h3>
+        <ul>
+          {g.files.map((x) => (
+            <li>
+              <a href={`${BASE}/${x.f}`}><code>{x.f}</code></a> — {x.d}
+            </li>
+          ))}
+        </ul>
+      </>
+    ))}
+
+    <h2>再現方法</h2>
+    <pre><code>{`pip install pdfplumber camelot-py tabula-py pymupdf openpyxl playwright
+sudo apt install libreoffice-calc poppler-utils default-jre
+
+python3 make_pdfs.py     # 検証用PDFを生成
+python3 sanity.py        # 全セルがPDFに載っているか検査
+python3 run_extract.py   # 7手法を実行して採点`}</code></pre>
+
+    <div class="note">
+      <p>
+        <strong>誤りを見つけた場合はご指摘ください。</strong>
+        検証の設計ミスや集計ミスが混じっている可能性は常にあります。
+        <a href="/contact/">お問い合わせ</a>からご連絡いただければ、確認のうえ訂正し、
+        いつ・どこを・なぜ訂正したかを該当記事に明記します。
+      </p>
+    </div>
+  </article>
+</Base>
