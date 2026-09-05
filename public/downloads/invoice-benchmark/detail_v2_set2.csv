@@ -1,0 +1,51 @@
+﻿file,template,invoice_no,issue_date,vendor,subtotal,tax,total,rows,flagged
+invoice2_01_F.pdf,F,OK,OK,OK,OK,OK,OK,6/6（抽出6行）,
+invoice2_02_F.pdf,F,OK,OK,OK,OK,OK,OK,7/7（抽出7行）,
+invoice2_03_F.pdf,F,OK,OK,OK,OK,OK,OK,6/6（抽出6行）,
+invoice2_04_F.pdf,F,OK,OK,OK,OK,OK,OK,7/7（抽出7行）,
+invoice2_05_F.pdf,F,OK,OK,OK,OK,OK,OK,7/7（抽出7行）,
+invoice2_06_F.pdf,F,OK,OK,OK,OK,OK,OK,3/3（抽出3行）,
+invoice2_07_F.pdf,F,OK,OK,OK,OK,OK,OK,4/4（抽出4行）,
+invoice2_08_F.pdf,F,OK,OK,OK,OK,OK,OK,5/5（抽出5行）,
+invoice2_09_F.pdf,F,OK,OK,OK,OK,OK,OK,6/6（抽出6行）,
+invoice2_10_F.pdf,F,OK,OK,OK,OK,OK,OK,5/5（抽出5行）,
+invoice2_11_G.pdf,G,OK,OK,OK,OK,OK,OK,5/5（抽出5行）,
+invoice2_12_G.pdf,G,OK,OK,OK,OK,OK,OK,6/6（抽出6行）,
+invoice2_13_G.pdf,G,OK,OK,OK,OK,OK,OK,7/7（抽出7行）,
+invoice2_14_G.pdf,G,OK,OK,OK,OK,OK,OK,4/4（抽出4行）,
+invoice2_15_G.pdf,G,OK,OK,OK,OK,OK,OK,7/7（抽出7行）,
+invoice2_16_G.pdf,G,OK,OK,OK,OK,OK,OK,3/3（抽出3行）,
+invoice2_17_G.pdf,G,OK,OK,OK,OK,OK,OK,7/7（抽出7行）,
+invoice2_18_G.pdf,G,OK,OK,OK,OK,OK,OK,3/3（抽出3行）,
+invoice2_19_G.pdf,G,OK,OK,OK,OK,OK,OK,4/4（抽出4行）,
+invoice2_20_G.pdf,G,OK,OK,OK,OK,OK,OK,7/7（抽出7行）,
+invoice2_21_H.pdf,H,OK,OK,OK,OK,OK,OK,7/7（抽出7行）,
+invoice2_22_H.pdf,H,OK,OK,OK,OK,OK,OK,5/5（抽出5行）,
+invoice2_23_H.pdf,H,OK,OK,OK,OK,OK,OK,3/3（抽出3行）,
+invoice2_24_H.pdf,H,OK,OK,OK,OK,OK,OK,3/3（抽出3行）,
+invoice2_25_H.pdf,H,OK,OK,OK,OK,OK,OK,6/6（抽出6行）,
+invoice2_26_H.pdf,H,OK,OK,OK,OK,OK,OK,5/5（抽出5行）,
+invoice2_27_H.pdf,H,OK,OK,OK,OK,OK,OK,7/7（抽出7行）,
+invoice2_28_H.pdf,H,OK,OK,OK,OK,OK,OK,4/4（抽出4行）,
+invoice2_29_H.pdf,H,OK,OK,OK,OK,OK,OK,7/7（抽出7行）,
+invoice2_30_H.pdf,H,OK,OK,OK,OK,OK,OK,6/6（抽出6行）,
+invoice2_31_I.pdf,I,NG(得:None / 正:No.A00131),NG(得:None / 正:2026-08-17),NG(得:None / 正:株式会社ミドリ電機),NG(得:None / 正:2865600),NG(得:None / 正:286560),NG(得:None / 正:3152160),0/6（抽出0行）,テキスト層が無い（スキャンPDF）。OCRが必要
+invoice2_32_I.pdf,I,NG(得:None / 正:SEI-2607-132),NG(得:None / 正:2026-07-07),NG(得:None / 正:有限会社さくら工業),NG(得:None / 正:974700),NG(得:None / 正:97470),NG(得:None / 正:1072170),0/5（抽出0行）,テキスト層が無い（スキャンPDF）。OCRが必要
+invoice2_33_I.pdf,I,NG(得:None / 正:INV-2026-0133),NG(得:None / 正:2026-08-25),NG(得:None / 正:合同会社ブルースカイ),NG(得:None / 正:3241600),NG(得:None / 正:324160),NG(得:None / 正:3565760),0/3（抽出0行）,テキスト層が無い（スキャンPDF）。OCRが必要
+invoice2_34_I.pdf,I,NG(得:None / 正:20260816-134),NG(得:None / 正:2026-08-16),NG(得:None / 正:株式会社アオイ商事),NG(得:None / 正:1030000),NG(得:None / 正:103000),NG(得:None / 正:1133000),0/5（抽出0行）,テキスト層が無い（スキャンPDF）。OCRが必要
+invoice2_35_I.pdf,I,NG(得:None / 正:No.A00135),NG(得:None / 正:2026-08-13),NG(得:None / 正:トウホク精機株式会社),NG(得:None / 正:2419800),NG(得:None / 正:241980),NG(得:None / 正:2661780),0/6（抽出0行）,テキスト層が無い（スキャンPDF）。OCRが必要
+invoice2_36_I.pdf,I,NG(得:None / 正:SEI-2607-136),NG(得:None / 正:2026-07-27),NG(得:None / 正:株式会社ひかりソリューションズ),NG(得:None / 正:3221300),NG(得:None / 正:322130),NG(得:None / 正:3543430),0/7（抽出0行）,テキスト層が無い（スキャンPDF）。OCRが必要
+invoice2_37_I.pdf,I,NG(得:None / 正:INV-2026-0137),NG(得:None / 正:2026-07-14),NG(得:None / 正:西川製作所株式会社),NG(得:None / 正:207500),NG(得:None / 正:20750),NG(得:None / 正:228250),0/5（抽出0行）,テキスト層が無い（スキャンPDF）。OCRが必要
+invoice2_38_I.pdf,I,NG(得:None / 正:20260716-138),NG(得:None / 正:2026-07-16),NG(得:None / 正:株式会社コスモテック),NG(得:None / 正:1102000),NG(得:None / 正:110200),NG(得:None / 正:1212200),0/3（抽出0行）,テキスト層が無い（スキャンPDF）。OCRが必要
+invoice2_39_I.pdf,I,NG(得:None / 正:No.A00139),NG(得:None / 正:2026-08-15),NG(得:None / 正:ヤマト梱包資材株式会社),NG(得:None / 正:903300),NG(得:None / 正:90330),NG(得:None / 正:993630),0/3（抽出0行）,テキスト層が無い（スキャンPDF）。OCRが必要
+invoice2_40_I.pdf,I,NG(得:None / 正:SEI-2608-140),NG(得:None / 正:2026-08-29),NG(得:None / 正:株式会社ニシキ印刷),NG(得:None / 正:1468800),NG(得:None / 正:146880),NG(得:None / 正:1615680),0/6（抽出0行）,テキスト層が無い（スキャンPDF）。OCRが必要
+invoice2_41_J.pdf,J,OK,OK,OK,OK,OK,OK,5/5（抽出5行）,
+invoice2_42_J.pdf,J,OK,OK,OK,OK,OK,OK,5/5（抽出5行）,
+invoice2_43_J.pdf,J,OK,OK,OK,OK,OK,OK,6/6（抽出6行）,
+invoice2_44_J.pdf,J,OK,OK,OK,OK,OK,OK,7/7（抽出7行）,
+invoice2_45_J.pdf,J,OK,OK,OK,OK,OK,OK,4/4（抽出4行）,
+invoice2_46_J.pdf,J,OK,OK,OK,OK,OK,OK,7/7（抽出7行）,
+invoice2_47_J.pdf,J,OK,OK,OK,OK,OK,OK,3/3（抽出3行）,
+invoice2_48_J.pdf,J,OK,OK,OK,OK,OK,OK,5/5（抽出5行）,
+invoice2_49_J.pdf,J,OK,OK,OK,OK,OK,OK,6/6（抽出6行）,
+invoice2_50_J.pdf,J,OK,OK,OK,OK,OK,OK,3/3（抽出3行）,

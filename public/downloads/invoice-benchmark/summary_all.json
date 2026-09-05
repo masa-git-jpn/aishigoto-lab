@@ -1,0 +1,457 @@
+[
+ {
+  "label": "v1 / 第1セット(想定した5形式)",
+  "n": 50,
+  "fields": {
+   "invoice_no": 50,
+   "issue_date": 50,
+   "vendor": 50,
+   "subtotal": 50,
+   "tax": 50,
+   "total": 50
+  },
+  "rows_exact": 50,
+  "row_tp": 389,
+  "row_truth": 389,
+  "row_got": 389,
+  "wrong": 0,
+  "flagged": 0,
+  "flagged_and_wrong": 0,
+  "missed": [],
+  "per_template": {
+   "A": {
+    "n": 10,
+    "invoice_no": 10,
+    "issue_date": 10,
+    "vendor": 10,
+    "subtotal": 10,
+    "tax": 10,
+    "total": 10,
+    "rows_exact": 10
+   },
+   "B": {
+    "n": 10,
+    "invoice_no": 10,
+    "issue_date": 10,
+    "vendor": 10,
+    "subtotal": 10,
+    "tax": 10,
+    "total": 10,
+    "rows_exact": 10
+   },
+   "C": {
+    "n": 10,
+    "invoice_no": 10,
+    "issue_date": 10,
+    "vendor": 10,
+    "subtotal": 10,
+    "tax": 10,
+    "total": 10,
+    "rows_exact": 10
+   },
+   "D": {
+    "n": 10,
+    "invoice_no": 10,
+    "issue_date": 10,
+    "vendor": 10,
+    "subtotal": 10,
+    "tax": 10,
+    "total": 10,
+    "rows_exact": 10
+   },
+   "E": {
+    "n": 10,
+    "invoice_no": 10,
+    "issue_date": 10,
+    "vendor": 10,
+    "subtotal": 10,
+    "tax": 10,
+    "total": 10,
+    "rows_exact": 10
+   }
+  },
+  "version": "v1",
+  "set": "第1セット(想定した5形式)"
+ },
+ {
+  "label": "v1 / 第2セット(想定外の5形式)",
+  "n": 50,
+  "fields": {
+   "invoice_no": 30,
+   "issue_date": 30,
+   "vendor": 40,
+   "subtotal": 20,
+   "tax": 20,
+   "total": 30
+  },
+  "rows_exact": 0,
+  "row_tp": 0,
+  "row_truth": 262,
+  "row_got": 53,
+  "wrong": 50,
+  "flagged": 40,
+  "flagged_and_wrong": 40,
+  "missed": [
+   "invoice2_11_G.pdf",
+   "invoice2_12_G.pdf",
+   "invoice2_13_G.pdf",
+   "invoice2_14_G.pdf",
+   "invoice2_15_G.pdf",
+   "invoice2_16_G.pdf",
+   "invoice2_17_G.pdf",
+   "invoice2_18_G.pdf",
+   "invoice2_19_G.pdf",
+   "invoice2_20_G.pdf"
+  ],
+  "per_template": {
+   "F": {
+    "n": 10,
+    "invoice_no": 10,
+    "issue_date": 10,
+    "vendor": 10,
+    "subtotal": 10,
+    "tax": 10,
+    "total": 10,
+    "rows_exact": 0
+   },
+   "G": {
+    "n": 10,
+    "invoice_no": 10,
+    "issue_date": 10,
+    "vendor": 10,
+    "subtotal": 10,
+    "tax": 10,
+    "total": 10,
+    "rows_exact": 0
+   },
+   "H": {
+    "n": 10,
+    "invoice_no": 10,
+    "issue_date": 10,
+    "vendor": 10,
+    "subtotal": 0,
+    "tax": 0,
+    "total": 10,
+    "rows_exact": 0
+   },
+   "I": {
+    "n": 10,
+    "invoice_no": 0,
+    "issue_date": 0,
+    "vendor": 0,
+    "subtotal": 0,
+    "tax": 0,
+    "total": 0,
+    "rows_exact": 0
+   },
+   "J": {
+    "n": 10,
+    "invoice_no": 0,
+    "issue_date": 0,
+    "vendor": 10,
+    "subtotal": 0,
+    "tax": 0,
+    "total": 0,
+    "rows_exact": 0
+   }
+  },
+  "version": "v1",
+  "set": "第2セット(想定外の5形式)"
+ },
+ {
+  "label": "v1 / 第3セット(ホールドアウト)",
+  "n": 50,
+  "fields": {
+   "invoice_no": 40,
+   "issue_date": 50,
+   "vendor": 50,
+   "subtotal": 40,
+   "tax": 50,
+   "total": 50
+  },
+  "rows_exact": 30,
+  "row_tp": 249,
+  "row_truth": 322,
+  "row_got": 297,
+  "wrong": 30,
+  "flagged": 30,
+  "flagged_and_wrong": 30,
+  "missed": [],
+  "per_template": {
+   "K": {
+    "n": 10,
+    "invoice_no": 0,
+    "issue_date": 10,
+    "vendor": 10,
+    "subtotal": 10,
+    "tax": 10,
+    "total": 10,
+    "rows_exact": 10
+   },
+   "L": {
+    "n": 10,
+    "invoice_no": 10,
+    "issue_date": 10,
+    "vendor": 10,
+    "subtotal": 0,
+    "tax": 10,
+    "total": 10,
+    "rows_exact": 0
+   },
+   "M": {
+    "n": 10,
+    "invoice_no": 10,
+    "issue_date": 10,
+    "vendor": 10,
+    "subtotal": 10,
+    "tax": 10,
+    "total": 10,
+    "rows_exact": 0
+   },
+   "N": {
+    "n": 10,
+    "invoice_no": 10,
+    "issue_date": 10,
+    "vendor": 10,
+    "subtotal": 10,
+    "tax": 10,
+    "total": 10,
+    "rows_exact": 10
+   },
+   "O": {
+    "n": 10,
+    "invoice_no": 10,
+    "issue_date": 10,
+    "vendor": 10,
+    "subtotal": 10,
+    "tax": 10,
+    "total": 10,
+    "rows_exact": 10
+   }
+  },
+  "version": "v1",
+  "set": "第3セット(ホールドアウト)"
+ },
+ {
+  "label": "v2 / 第1セット(想定した5形式)",
+  "n": 50,
+  "fields": {
+   "invoice_no": 50,
+   "issue_date": 50,
+   "vendor": 50,
+   "subtotal": 50,
+   "tax": 50,
+   "total": 50
+  },
+  "rows_exact": 50,
+  "row_tp": 389,
+  "row_truth": 389,
+  "row_got": 389,
+  "wrong": 0,
+  "flagged": 0,
+  "flagged_and_wrong": 0,
+  "missed": [],
+  "per_template": {
+   "A": {
+    "n": 10,
+    "invoice_no": 10,
+    "issue_date": 10,
+    "vendor": 10,
+    "subtotal": 10,
+    "tax": 10,
+    "total": 10,
+    "rows_exact": 10
+   },
+   "B": {
+    "n": 10,
+    "invoice_no": 10,
+    "issue_date": 10,
+    "vendor": 10,
+    "subtotal": 10,
+    "tax": 10,
+    "total": 10,
+    "rows_exact": 10
+   },
+   "C": {
+    "n": 10,
+    "invoice_no": 10,
+    "issue_date": 10,
+    "vendor": 10,
+    "subtotal": 10,
+    "tax": 10,
+    "total": 10,
+    "rows_exact": 10
+   },
+   "D": {
+    "n": 10,
+    "invoice_no": 10,
+    "issue_date": 10,
+    "vendor": 10,
+    "subtotal": 10,
+    "tax": 10,
+    "total": 10,
+    "rows_exact": 10
+   },
+   "E": {
+    "n": 10,
+    "invoice_no": 10,
+    "issue_date": 10,
+    "vendor": 10,
+    "subtotal": 10,
+    "tax": 10,
+    "total": 10,
+    "rows_exact": 10
+   }
+  },
+  "version": "v2",
+  "set": "第1セット(想定した5形式)"
+ },
+ {
+  "label": "v2 / 第2セット(想定外の5形式)",
+  "n": 50,
+  "fields": {
+   "invoice_no": 40,
+   "issue_date": 40,
+   "vendor": 40,
+   "subtotal": 40,
+   "tax": 40,
+   "total": 40
+  },
+  "rows_exact": 40,
+  "row_tp": 213,
+  "row_truth": 262,
+  "row_got": 213,
+  "wrong": 10,
+  "flagged": 10,
+  "flagged_and_wrong": 10,
+  "missed": [],
+  "per_template": {
+   "F": {
+    "n": 10,
+    "invoice_no": 10,
+    "issue_date": 10,
+    "vendor": 10,
+    "subtotal": 10,
+    "tax": 10,
+    "total": 10,
+    "rows_exact": 10
+   },
+   "G": {
+    "n": 10,
+    "invoice_no": 10,
+    "issue_date": 10,
+    "vendor": 10,
+    "subtotal": 10,
+    "tax": 10,
+    "total": 10,
+    "rows_exact": 10
+   },
+   "H": {
+    "n": 10,
+    "invoice_no": 10,
+    "issue_date": 10,
+    "vendor": 10,
+    "subtotal": 10,
+    "tax": 10,
+    "total": 10,
+    "rows_exact": 10
+   },
+   "I": {
+    "n": 10,
+    "invoice_no": 0,
+    "issue_date": 0,
+    "vendor": 0,
+    "subtotal": 0,
+    "tax": 0,
+    "total": 0,
+    "rows_exact": 0
+   },
+   "J": {
+    "n": 10,
+    "invoice_no": 10,
+    "issue_date": 10,
+    "vendor": 10,
+    "subtotal": 10,
+    "tax": 10,
+    "total": 10,
+    "rows_exact": 10
+   }
+  },
+  "version": "v2",
+  "set": "第2セット(想定外の5形式)"
+ },
+ {
+  "label": "v2 / 第3セット(ホールドアウト)",
+  "n": 50,
+  "fields": {
+   "invoice_no": 50,
+   "issue_date": 50,
+   "vendor": 50,
+   "subtotal": 40,
+   "tax": 50,
+   "total": 50
+  },
+  "rows_exact": 30,
+  "row_tp": 220,
+  "row_truth": 322,
+  "row_got": 220,
+  "wrong": 20,
+  "flagged": 20,
+  "flagged_and_wrong": 20,
+  "missed": [],
+  "per_template": {
+   "K": {
+    "n": 10,
+    "invoice_no": 10,
+    "issue_date": 10,
+    "vendor": 10,
+    "subtotal": 10,
+    "tax": 10,
+    "total": 10,
+    "rows_exact": 10
+   },
+   "L": {
+    "n": 10,
+    "invoice_no": 10,
+    "issue_date": 10,
+    "vendor": 10,
+    "subtotal": 0,
+    "tax": 10,
+    "total": 10,
+    "rows_exact": 0
+   },
+   "M": {
+    "n": 10,
+    "invoice_no": 10,
+    "issue_date": 10,
+    "vendor": 10,
+    "subtotal": 10,
+    "tax": 10,
+    "total": 10,
+    "rows_exact": 10
+   },
+   "N": {
+    "n": 10,
+    "invoice_no": 10,
+    "issue_date": 10,
+    "vendor": 10,
+    "subtotal": 10,
+    "tax": 10,
+    "total": 10,
+    "rows_exact": 10
+   },
+   "O": {
+    "n": 10,
+    "invoice_no": 10,
+    "issue_date": 10,
+    "vendor": 10,
+    "subtotal": 10,
+    "tax": 10,
+    "total": 10,
+    "rows_exact": 0
+   }
+  },
+  "version": "v2",
+  "set": "第3セット(ホールドアウト)"
+ }
+]

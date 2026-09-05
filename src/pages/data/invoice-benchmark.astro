@@ -1,0 +1,205 @@
+---
+import Base from '../../layouts/Base.astro';
+import { SITE } from '../../consts';
+
+const BASE = '/downloads/invoice-benchmark';
+
+const groups = [
+  {
+    heading: '正解データと検証用PDF',
+    files: [
+      { f: 'truth.json', d: '第1セット50枚の正解。紙面に印字されている値をそのまま持っています' },
+      { f: 'truth2.json', d: '第2セット50枚の正解（想定外の5書式）' },
+      { f: 'truth3.json', d: '第3セット50枚の正解（ホールドアウトの5書式）' },
+      { f: 'test-invoices.zip', d: '測定に使った150枚のPDFそのもの（約7.7MB）' },
+    ],
+  },
+  {
+    heading: 'スクリプト',
+    files: [
+      { f: 'extract_invoices_v2.py', d: '記事で配っている抽出スクリプト。フォルダ内のPDFをExcel1つにまとめる' },
+      { f: 'extract_invoices.py', d: '最初に書いた版（v1）。何がどう壊れたかを確かめる用' },
+      { f: 'make_invoices.py', d: '第1セット50枚（想定した5書式）を生成する' },
+      { f: 'make_invoices2.py', d: '第2セット50枚（想定外の5書式）を生成する' },
+      { f: 'make_invoices3.py', d: '第3セット50枚（ホールドアウト）を生成する' },
+      { f: 'sanity.py', d: '測定前の検査。正解の文字がPDFのテキスト層に載っているかを確認する' },
+      { f: 'score.py', d: '抽出結果を正解と突き合わせて数える。採点方法もここに書いてあります' },
+    ],
+  },
+  {
+    heading: '測定結果',
+    files: [
+      { f: 'summary_all.csv', d: '2版 × 3セット = 6回分の集計（Excelで開けます）' },
+      { f: 'summary_all.json', d: '同じ内容のJSON。書式ごとの内訳も入っています' },
+      { f: 'detail_v2_set3.csv', d: '請求書1枚ごとの採点表（v2・ホールドアウト）。どこがどう違ったかが書いてあります' },
+      { f: 'detail_v2_set1.csv', d: '同（v2・第1セット）' },
+      { f: 'detail_v2_set2.csv', d: '同（v2・第2セット）' },
+      { f: 'detail_v1_set1.csv', d: '同（v1・第1セット）' },
+      { f: 'detail_v1_set2.csv', d: '同（v1・第2セット）' },
+      { f: 'detail_v1_set3.csv', d: '同（v1・第3セット）' },
+      { f: 'sample_output_v2_set3.xlsx', d: 'スクリプトの出力そのもの。一覧・明細・要確認の3シート' },
+      { f: 'README.md', d: '再現手順と検証環境' },
+    ],
+  },
+];
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Dataset',
+  name: '請求書PDF一括Excel化ベンチマーク（日本語・正解確定データ・150枚）',
+  description:
+    '正解が確定している日本語の請求書PDFを15書式×各10枚＝150枚生成し、抽出スクリプト2版で項目ごとに突き合わせた全記録。検証用PDF150枚そのもの、生成スクリプト、抽出スクリプト、採点スクリプトを含みます。',
+  url: `${SITE.url}/data/invoice-benchmark/`,
+  inLanguage: 'ja',
+  license: 'https://creativecommons.org/publicdomain/zero/1.0/',
+  creator: { '@type': 'Organization', name: SITE.name, url: SITE.url },
+  distribution: {
+    '@type': 'DataDownload',
+    encodingFormat: 'application/zip',
+    contentUrl: `${SITE.url}/downloads/invoice-benchmark-dataset.zip`,
+  },
+};
+---
+
+<Base
+  title="請求書PDF一括Excel化ベンチマーク 生データ"
+  description="請求書PDF150枚を一括でExcel化した検証の全データ。正解データ、検証用PDF150枚、生成・抽出・採点スクリプト、6回分の測定結果を公開しています。自由に利用できます。"
+  jsonLd={jsonLd}
+>
+  <article class="narrow prose" style="padding-block:2.5rem 1rem;">
+    <h1>請求書PDF一括Excel化ベンチマーク 生データ</h1>
+
+    <p>
+      以下の記事で使った検証データの全部です。
+      <strong>測定に使った請求書PDF150枚そのものも入れてあります</strong>ので、
+      まったく同じ条件で再現できます。
+    </p>
+
+    <ul>
+      <li><a href="/recipe/invoice-pdf-to-excel-recipe/">請求書PDF150枚を一括でExcelにした。精度を上げるより「間違いに気づく仕掛け」のほうが効いた</a></li>
+    </ul>
+
+    <div class="verify-box">
+      <h2>まとめてダウンロード</h2>
+      <p style="margin:0 0 0.5rem;">
+        <strong><a href={`${BASE}-dataset.zip`}>invoice-benchmark-dataset.zip</a></strong>（約7.8MB / PDF150枚を含む一式）
+      </p>
+      <p style="margin:0;font-size:0.875rem;color:var(--ink-2);">
+        著作権は主張しません。自由に利用・再配布してください。
+        引用の際に出典として記事URLを示していただけると助かります。
+      </p>
+    </div>
+
+    <h2>測定の要約</h2>
+    <p>
+      数字は「請求書番号・発行日・請求元・小計・消費税・合計の6項目と、
+      明細行がすべて正しかった請求書の枚数 / 各50枚」です。
+    </p>
+
+    <div class="table-scroll">
+      <table>
+        <thead>
+          <tr>
+            <th>版</th>
+            <th>第1セット<br />想定した書式</th>
+            <th>第2セット<br />想定外の書式</th>
+            <th>第3セット<br />ホールドアウト</th>
+            <th>合計</th>
+            <th>検算を通過した誤り</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>v1</td><td>50</td><td>0</td><td>20</td><td>70 / 150</td><td>10枚</td></tr>
+          <tr><td>v2</td><td>50</td><td>40</td><td>30</td><td>120 / 150</td><td>0枚</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h2>検証環境</h2>
+    <ul>
+      <li>Ubuntu 24.04 / Python 3.11.15</li>
+      <li>pdfplumber 0.11.9 / openpyxl 3.1.5 / poppler-utils 24.02.0</li>
+      <li>PDF生成：Chromium 141（HTML→印刷）、LibreOffice 24.2（xlsx→PDF）</li>
+      <li>検証日 2026-09-05</li>
+    </ul>
+
+    <h2>なぜPDFを自作したのか</h2>
+    <p>
+      実在の請求書を集めると、<strong>「正解」が確定しません。</strong>
+      抽出結果が合っているかを1項目ずつ判定するには、元の請求書の中身が確定している必要があります。
+      そこで中身を先に決め、そこからPDFを生成する形にしました。
+      会社名・住所・金額・品目はすべて架空で、実在の企業や取引とは関係ありません。
+    </p>
+    <p>
+      測定前に <code>sanity.py</code> で、正解の値がPDFのテキスト層に載っていることを確認しています。
+      文字が枠から切れて消えていた場合、それは抽出側の責任ではないためです。
+    </p>
+
+    <h2>3つのセットの違い</h2>
+    <ul>
+      <li>
+        <strong>第1セット（A〜E）</strong>：抽出スクリプトv1を書くときに想定していた書式。
+        格子罫線／横罫線のみ／罫線なし／xlsx由来／全角数字・△表記
+      </li>
+      <li>
+        <strong>第2セット（F〜J）</strong>：v1を書き終えたあとに作った書式。
+        列が足りない／セル内改行／8%と10%の混在／スキャン画像／英語ラベルと和暦
+      </li>
+      <li>
+        <strong>第3セット（K〜O）</strong>：<strong>v2を書き終えたあとに作った書式（ホールドアウト）。</strong>
+        ラベル違い／途中の小計行／列順が逆／空セル／2ページ目に見出しなし。
+        当てるときにコードは1文字も変更していません
+      </li>
+    </ul>
+
+    <h2>採点の方法</h2>
+    <ul>
+      <li>
+        <strong>ヘッダ6項目</strong>：正解と文字列比較。比較前にNFKC正規化と空白除去だけを行っています
+      </li>
+      <li>
+        <strong>明細行</strong>：品目・数量・単価・金額の4つがすべて一致した行だけを正解として数えます。
+        「明細が完全一致」は、行数まで含めて1行も過不足なく取れた請求書のこと
+      </li>
+      <li>
+        <strong>見逃し</strong>：正解と違っているのに、スクリプトの検算に引っかからなかった請求書の数。
+        実務ではこれが最も高くつくため、独立して数えています
+      </li>
+    </ul>
+
+    <h2>ファイル一覧</h2>
+    {groups.map((g) => (
+      <>
+        <h3>{g.heading}</h3>
+        <ul>
+          {g.files.map((x) => (
+            <li>
+              <a href={`${BASE}/${x.f}`}><code>{x.f}</code></a> — {x.d}
+            </li>
+          ))}
+        </ul>
+      </>
+    ))}
+
+    <h2>再現方法</h2>
+    <pre><code>{`pip install pdfplumber openpyxl
+sudo apt install poppler-utils libreoffice
+
+python3 make_invoices.py    # 第1セット50枚を生成
+python3 make_invoices2.py   # 第2セット50枚を生成
+python3 make_invoices3.py   # 第3セット50枚を生成
+python3 sanity.py           # 正解の文字がPDFに載っているか検査
+
+python3 extract_invoices_v2.py ./pdfs3 -o v2_set3.xlsx --json extract_v2_set3.json
+TRUTH=truth3.json PAIRS='[["extract_v2_set3.json","v2/set3","detail.csv"]]' python3 score.py`}</code></pre>
+
+    <div class="note">
+      <p>
+        <strong>誤りを見つけた場合はご指摘ください。</strong>
+        検証の設計ミスや集計ミスが混じっている可能性は常にあります。
+        <a href="/contact/">お問い合わせ</a>からご連絡いただければ、確認のうえ訂正し、
+        いつ・どこを・なぜ訂正したかを該当記事に明記します。
+      </p>
+    </div>
+  </article>
+</Base>

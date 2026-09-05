@@ -1,0 +1,3525 @@
+[
+ {
+  "file": "invoice_01_A.pdf",
+  "template": "A",
+  "invoice_no": "INV-2026-0001",
+  "invoice_no_raw": "INV-2026-0001",
+  "issue_date": "2026-08-07",
+  "issue_date_raw": "2026年8月7日",
+  "vendor": "株式会社ミドリ電機",
+  "vendor_addr": "東京都千代田区神田錦町1-2-3",
+  "subtotal": 899400,
+  "tax": 89940,
+  "total": 989340,
+  "rows": [
+   {
+    "name": "サーバー利用料",
+    "qty": 23,
+    "unit": "式",
+    "price": 35000,
+    "amount": 805000
+   },
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 4,
+    "unit": "枚",
+    "price": 4800,
+    "amount": 19200
+   },
+   {
+    "name": "保守サポート費（月額）",
+    "qty": 10,
+    "unit": "式",
+    "price": 4800,
+    "amount": 48000
+   },
+   {
+    "name": "設計作業費",
+    "qty": 2,
+    "unit": "人日",
+    "price": 4800,
+    "amount": 9600
+   },
+   {
+    "name": "保守サポート費（月額）",
+    "qty": 22,
+    "unit": "式",
+    "price": 800,
+    "amount": 17600
+   }
+  ],
+  "n_rows": 5
+ },
+ {
+  "file": "invoice_02_A.pdf",
+  "template": "A",
+  "invoice_no": "20260827-002",
+  "invoice_no_raw": "20260827-002",
+  "issue_date": "2026-08-27",
+  "issue_date_raw": "2026/08/27",
+  "vendor": "有限会社さくら工業",
+  "vendor_addr": "大阪府大阪市北区梅田4-5-6",
+  "subtotal": 2014000,
+  "tax": 201400,
+  "total": 2215400,
+  "rows": [
+   {
+    "name": "追加開発費",
+    "qty": 22,
+    "unit": "人日",
+    "price": 2500,
+    "amount": 55000
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 21,
+    "unit": "個",
+    "price": 35000,
+    "amount": 735000
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 30,
+    "unit": "回",
+    "price": 800,
+    "amount": 24000
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 25,
+    "unit": "式",
+    "price": 48000,
+    "amount": 1200000
+   }
+  ],
+  "n_rows": 4
+ },
+ {
+  "file": "invoice_03_A.pdf",
+  "template": "A",
+  "invoice_no": "No.A00003",
+  "invoice_no_raw": "No.A00003",
+  "issue_date": "2026-08-22",
+  "issue_date_raw": "2026-08-22",
+  "vendor": "合同会社ブルースカイ",
+  "vendor_addr": "神奈川県横浜市西区北幸2-1-8",
+  "subtotal": 324800,
+  "tax": 32480,
+  "total": 357280,
+  "rows": [
+   {
+    "name": "消耗品一式",
+    "qty": 26,
+    "unit": "式",
+    "price": 12000,
+    "amount": 312000
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 14,
+    "unit": "式",
+    "price": 800,
+    "amount": 11200
+   },
+   {
+    "name": "追加開発費",
+    "qty": 2,
+    "unit": "人日",
+    "price": 800,
+    "amount": 1600
+   }
+  ],
+  "n_rows": 3
+ },
+ {
+  "file": "invoice_04_A.pdf",
+  "template": "A",
+  "invoice_no": "SEI-2608-004",
+  "invoice_no_raw": "SEI-2608-004",
+  "issue_date": "2026-08-03",
+  "issue_date_raw": "2026年8月3日",
+  "vendor": "株式会社アオイ商事",
+  "vendor_addr": "愛知県名古屋市中区栄3-9-1",
+  "subtotal": 647000,
+  "tax": 64700,
+  "total": 711700,
+  "rows": [
+   {
+    "name": "サーバー利用料",
+    "qty": 24,
+    "unit": "式",
+    "price": 800,
+    "amount": 19200
+   },
+   {
+    "name": "設計作業費",
+    "qty": 17,
+    "unit": "人日",
+    "price": 4800,
+    "amount": 81600
+   },
+   {
+    "name": "追加開発費",
+    "qty": 18,
+    "unit": "人日",
+    "price": 1200,
+    "amount": 21600
+   },
+   {
+    "name": "梱包資材（Lサイズ）",
+    "qty": 14,
+    "unit": "箱",
+    "price": 4800,
+    "amount": 67200
+   },
+   {
+    "name": "運送費",
+    "qty": 3,
+    "unit": "回",
+    "price": 800,
+    "amount": 2400
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 13,
+    "unit": "個",
+    "price": 35000,
+    "amount": 455000
+   }
+  ],
+  "n_rows": 6
+ },
+ {
+  "file": "invoice_05_A.pdf",
+  "template": "A",
+  "invoice_no": "INV-2026-0005",
+  "invoice_no_raw": "INV-2026-0005",
+  "issue_date": "2026-08-25",
+  "issue_date_raw": "2026/08/25",
+  "vendor": "トウホク精機株式会社",
+  "vendor_addr": "宮城県仙台市青葉区一番町2-4-7",
+  "subtotal": 2304000,
+  "tax": 230400,
+  "total": 2534400,
+  "rows": [
+   {
+    "name": "消耗品一式",
+    "qty": 24,
+    "unit": "式",
+    "price": 48000,
+    "amount": 1152000
+   },
+   {
+    "name": "保守サポート費（月額）",
+    "qty": 6,
+    "unit": "式",
+    "price": 1200,
+    "amount": 7200
+   },
+   {
+    "name": "梱包資材（Lサイズ）",
+    "qty": 21,
+    "unit": "箱",
+    "price": 4800,
+    "amount": 100800
+   },
+   {
+    "name": "運送費",
+    "qty": 27,
+    "unit": "回",
+    "price": 12000,
+    "amount": 324000
+   },
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 6,
+    "unit": "枚",
+    "price": 120000,
+    "amount": 720000
+   }
+  ],
+  "n_rows": 5
+ },
+ {
+  "file": "invoice_06_A.pdf",
+  "template": "A",
+  "invoice_no": "20260823-006",
+  "invoice_no_raw": "20260823-006",
+  "issue_date": "2026-08-23",
+  "issue_date_raw": "2026-08-23",
+  "vendor": "株式会社ひかりソリューションズ",
+  "vendor_addr": "福岡県福岡市博多区博多駅前1-1-1",
+  "subtotal": 5270000,
+  "tax": 527000,
+  "total": 5797000,
+  "rows": [
+   {
+    "name": "追加開発費",
+    "qty": 27,
+    "unit": "人日",
+    "price": 120000,
+    "amount": 3240000
+   },
+   {
+    "name": "ライセンス更新料",
+    "qty": 13,
+    "unit": "本",
+    "price": 800,
+    "amount": 10400
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 27,
+    "unit": "式",
+    "price": 800,
+    "amount": 21600
+   },
+   {
+    "name": "運送費",
+    "qty": 19,
+    "unit": "回",
+    "price": 48000,
+    "amount": 912000
+   },
+   {
+    "name": "ライセンス更新料",
+    "qty": 25,
+    "unit": "本",
+    "price": 1200,
+    "amount": 30000
+   },
+   {
+    "name": "運送費",
+    "qty": 22,
+    "unit": "回",
+    "price": 48000,
+    "amount": 1056000
+   }
+  ],
+  "n_rows": 6
+ },
+ {
+  "file": "invoice_07_A.pdf",
+  "template": "A",
+  "invoice_no": "No.A00007",
+  "invoice_no_raw": "No.A00007",
+  "issue_date": "2026-07-30",
+  "issue_date_raw": "2026年7月30日",
+  "vendor": "西川製作所株式会社",
+  "vendor_addr": "京都府京都市下京区烏丸通6-3",
+  "subtotal": 1816600,
+  "tax": 181660,
+  "total": 1998260,
+  "rows": [
+   {
+    "name": "定期点検作業",
+    "qty": 29,
+    "unit": "回",
+    "price": 12000,
+    "amount": 348000
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 19,
+    "unit": "回",
+    "price": 48000,
+    "amount": 912000
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 10,
+    "unit": "個",
+    "price": 48000,
+    "amount": 480000
+   },
+   {
+    "name": "保守サポート費（月額）",
+    "qty": 18,
+    "unit": "式",
+    "price": 2500,
+    "amount": 45000
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 7,
+    "unit": "個",
+    "price": 1200,
+    "amount": 8400
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 2,
+    "unit": "式",
+    "price": 800,
+    "amount": 1600
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 27,
+    "unit": "式",
+    "price": 800,
+    "amount": 21600
+   }
+  ],
+  "n_rows": 7
+ },
+ {
+  "file": "invoice_08_A.pdf",
+  "template": "A",
+  "invoice_no": "SEI-2607-008",
+  "invoice_no_raw": "SEI-2607-008",
+  "issue_date": "2026-07-19",
+  "issue_date_raw": "2026/07/19",
+  "vendor": "株式会社コスモテック",
+  "vendor_addr": "北海道札幌市中央区大通西5-8",
+  "subtotal": 292800,
+  "tax": 29280,
+  "total": 322080,
+  "rows": [
+   {
+    "name": "サーバー利用料",
+    "qty": 21,
+    "unit": "式",
+    "price": 12000,
+    "amount": 252000
+   },
+   {
+    "name": "出張旅費",
+    "qty": 17,
+    "unit": "式",
+    "price": 1200,
+    "amount": 20400
+   },
+   {
+    "name": "梱包資材（Lサイズ）",
+    "qty": 17,
+    "unit": "箱",
+    "price": 1200,
+    "amount": 20400
+   }
+  ],
+  "n_rows": 3
+ },
+ {
+  "file": "invoice_09_A.pdf",
+  "template": "A",
+  "invoice_no": "INV-2026-0009",
+  "invoice_no_raw": "INV-2026-0009",
+  "issue_date": "2026-07-19",
+  "issue_date_raw": "2026-07-19",
+  "vendor": "ヤマト梱包資材株式会社",
+  "vendor_addr": "埼玉県さいたま市大宮区桜木町1-7-5",
+  "subtotal": 1768800,
+  "tax": 176880,
+  "total": 1945680,
+  "rows": [
+   {
+    "name": "追加開発費",
+    "qty": 23,
+    "unit": "人日",
+    "price": 48000,
+    "amount": 1104000
+   },
+   {
+    "name": "設計作業費",
+    "qty": 22,
+    "unit": "人日",
+    "price": 12000,
+    "amount": 264000
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 10,
+    "unit": "式",
+    "price": 35000,
+    "amount": 350000
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 4,
+    "unit": "個",
+    "price": 4800,
+    "amount": 19200
+   },
+   {
+    "name": "設計作業費",
+    "qty": 17,
+    "unit": "人日",
+    "price": 800,
+    "amount": 13600
+   },
+   {
+    "name": "ライセンス更新料",
+    "qty": 15,
+    "unit": "本",
+    "price": 1200,
+    "amount": 18000
+   }
+  ],
+  "n_rows": 6
+ },
+ {
+  "file": "invoice_10_A.pdf",
+  "template": "A",
+  "invoice_no": "20260704-010",
+  "invoice_no_raw": "20260704-010",
+  "issue_date": "2026-07-04",
+  "issue_date_raw": "2026年7月4日",
+  "vendor": "株式会社ニシキ印刷",
+  "vendor_addr": "広島県広島市中区八丁堀12-2",
+  "subtotal": 403200,
+  "tax": 40320,
+  "total": 443520,
+  "rows": [
+   {
+    "name": "出張旅費",
+    "qty": 24,
+    "unit": "式",
+    "price": 1200,
+    "amount": 28800
+   },
+   {
+    "name": "追加開発費",
+    "qty": 5,
+    "unit": "人日",
+    "price": 48000,
+    "amount": 240000
+   },
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 22,
+    "unit": "枚",
+    "price": 4800,
+    "amount": 105600
+   },
+   {
+    "name": "保守サポート費（月額）",
+    "qty": 24,
+    "unit": "式",
+    "price": 1200,
+    "amount": 28800
+   }
+  ],
+  "n_rows": 4
+ },
+ {
+  "file": "invoice_11_B.pdf",
+  "template": "B",
+  "invoice_no": "No.A00011",
+  "invoice_no_raw": "No.A00011",
+  "issue_date": "2026-08-04",
+  "issue_date_raw": "2026/08/04",
+  "vendor": "株式会社ミドリ電機",
+  "vendor_addr": "東京都千代田区神田錦町1-2-3",
+  "subtotal": 1449600,
+  "tax": 144960,
+  "total": 1594560,
+  "rows": [
+   {
+    "name": "追加開発費",
+    "qty": 8,
+    "unit": "人日",
+    "price": 48000,
+    "amount": 384000
+   },
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 13,
+    "unit": "枚",
+    "price": 1200,
+    "amount": 15600
+   },
+   {
+    "name": "出張旅費",
+    "qty": 30,
+    "unit": "式",
+    "price": 35000,
+    "amount": 1050000
+   }
+  ],
+  "n_rows": 3
+ },
+ {
+  "file": "invoice_12_B.pdf",
+  "template": "B",
+  "invoice_no": "SEI-2608-012",
+  "invoice_no_raw": "SEI-2608-012",
+  "issue_date": "2026-08-06",
+  "issue_date_raw": "2026-08-06",
+  "vendor": "有限会社さくら工業",
+  "vendor_addr": "大阪府大阪市北区梅田4-5-6",
+  "subtotal": 935000,
+  "tax": 93500,
+  "total": 1028500,
+  "rows": [
+   {
+    "name": "梱包資材（Lサイズ）",
+    "qty": 28,
+    "unit": "箱",
+    "price": 1200,
+    "amount": 33600
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 13,
+    "unit": "個",
+    "price": 2500,
+    "amount": 32500
+   },
+   {
+    "name": "追加開発費",
+    "qty": 9,
+    "unit": "人日",
+    "price": 2500,
+    "amount": 22500
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 16,
+    "unit": "回",
+    "price": 48000,
+    "amount": 768000
+   },
+   {
+    "name": "ライセンス更新料",
+    "qty": 1,
+    "unit": "本",
+    "price": 48000,
+    "amount": 48000
+   },
+   {
+    "name": "運送費",
+    "qty": 8,
+    "unit": "回",
+    "price": 800,
+    "amount": 6400
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 5,
+    "unit": "式",
+    "price": 4800,
+    "amount": 24000
+   }
+  ],
+  "n_rows": 7
+ },
+ {
+  "file": "invoice_13_B.pdf",
+  "template": "B",
+  "invoice_no": "INV-2026-0013",
+  "invoice_no_raw": "INV-2026-0013",
+  "issue_date": "2026-07-25",
+  "issue_date_raw": "2026年7月25日",
+  "vendor": "合同会社ブルースカイ",
+  "vendor_addr": "神奈川県横浜市西区北幸2-1-8",
+  "subtotal": 4426000,
+  "tax": 442600,
+  "total": 4868600,
+  "rows": [
+   {
+    "name": "運送費",
+    "qty": 5,
+    "unit": "回",
+    "price": 12000,
+    "amount": 60000
+   },
+   {
+    "name": "追加開発費",
+    "qty": 20,
+    "unit": "人日",
+    "price": 120000,
+    "amount": 2400000
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 22,
+    "unit": "式",
+    "price": 48000,
+    "amount": 1056000
+   },
+   {
+    "name": "保守サポート費（月額）",
+    "qty": 26,
+    "unit": "式",
+    "price": 35000,
+    "amount": 910000
+   }
+  ],
+  "n_rows": 4
+ },
+ {
+  "file": "invoice_14_B.pdf",
+  "template": "B",
+  "invoice_no": "20260802-014",
+  "invoice_no_raw": "20260802-014",
+  "issue_date": "2026-08-02",
+  "issue_date_raw": "2026/08/02",
+  "vendor": "株式会社アオイ商事",
+  "vendor_addr": "愛知県名古屋市中区栄3-9-1",
+  "subtotal": 330400,
+  "tax": 33040,
+  "total": 363440,
+  "rows": [
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 15,
+    "unit": "枚",
+    "price": 1200,
+    "amount": 18000
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 3,
+    "unit": "式",
+    "price": 1200,
+    "amount": 3600
+   },
+   {
+    "name": "梱包資材（Lサイズ）",
+    "qty": 1,
+    "unit": "箱",
+    "price": 800,
+    "amount": 800
+   },
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 20,
+    "unit": "枚",
+    "price": 2500,
+    "amount": 50000
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 12,
+    "unit": "式",
+    "price": 2500,
+    "amount": 30000
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 19,
+    "unit": "式",
+    "price": 12000,
+    "amount": 228000
+   }
+  ],
+  "n_rows": 6
+ },
+ {
+  "file": "invoice_15_B.pdf",
+  "template": "B",
+  "invoice_no": "No.A00015",
+  "invoice_no_raw": "No.A00015",
+  "issue_date": "2026-07-21",
+  "issue_date_raw": "2026-07-21",
+  "vendor": "トウホク精機株式会社",
+  "vendor_addr": "宮城県仙台市青葉区一番町2-4-7",
+  "subtotal": 1313800,
+  "tax": 131380,
+  "total": 1445180,
+  "rows": [
+   {
+    "name": "追加開発費",
+    "qty": 1,
+    "unit": "人日",
+    "price": 1200,
+    "amount": 1200
+   },
+   {
+    "name": "出張旅費",
+    "qty": 15,
+    "unit": "式",
+    "price": 48000,
+    "amount": 720000
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 15,
+    "unit": "式",
+    "price": 35000,
+    "amount": 525000
+   },
+   {
+    "name": "保守サポート費（月額）",
+    "qty": 22,
+    "unit": "式",
+    "price": 800,
+    "amount": 17600
+   },
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 20,
+    "unit": "枚",
+    "price": 2500,
+    "amount": 50000
+   }
+  ],
+  "n_rows": 5
+ },
+ {
+  "file": "invoice_16_B.pdf",
+  "template": "B",
+  "invoice_no": "SEI-2607-016",
+  "invoice_no_raw": "SEI-2607-016",
+  "issue_date": "2026-07-21",
+  "issue_date_raw": "2026年7月21日",
+  "vendor": "株式会社ひかりソリューションズ",
+  "vendor_addr": "福岡県福岡市博多区博多駅前1-1-1",
+  "subtotal": 2148500,
+  "tax": 214850,
+  "total": 2363350,
+  "rows": [
+   {
+    "name": "設計作業費",
+    "qty": 2,
+    "unit": "人日",
+    "price": 35000,
+    "amount": 70000
+   },
+   {
+    "name": "追加開発費",
+    "qty": 3,
+    "unit": "人日",
+    "price": 48000,
+    "amount": 144000
+   },
+   {
+    "name": "出張旅費",
+    "qty": 10,
+    "unit": "式",
+    "price": 48000,
+    "amount": 480000
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 25,
+    "unit": "式",
+    "price": 2500,
+    "amount": 62500
+   },
+   {
+    "name": "出張旅費",
+    "qty": 29,
+    "unit": "式",
+    "price": 48000,
+    "amount": 1392000
+   }
+  ],
+  "n_rows": 5
+ },
+ {
+  "file": "invoice_17_B.pdf",
+  "template": "B",
+  "invoice_no": "INV-2026-0017",
+  "invoice_no_raw": "INV-2026-0017",
+  "issue_date": "2026-07-08",
+  "issue_date_raw": "2026/07/08",
+  "vendor": "西川製作所株式会社",
+  "vendor_addr": "京都府京都市下京区烏丸通6-3",
+  "subtotal": 2565600,
+  "tax": 256560,
+  "total": 2822160,
+  "rows": [
+   {
+    "name": "梱包資材（Lサイズ）",
+    "qty": 27,
+    "unit": "箱",
+    "price": 800,
+    "amount": 21600
+   },
+   {
+    "name": "梱包資材（Lサイズ）",
+    "qty": 19,
+    "unit": "箱",
+    "price": 120000,
+    "amount": 2280000
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 22,
+    "unit": "回",
+    "price": 12000,
+    "amount": 264000
+   }
+  ],
+  "n_rows": 3
+ },
+ {
+  "file": "invoice_18_B.pdf",
+  "template": "B",
+  "invoice_no": "20260806-018",
+  "invoice_no_raw": "20260806-018",
+  "issue_date": "2026-08-06",
+  "issue_date_raw": "2026-08-06",
+  "vendor": "株式会社コスモテック",
+  "vendor_addr": "北海道札幌市中央区大通西5-8",
+  "subtotal": 3331200,
+  "tax": 333120,
+  "total": 3664320,
+  "rows": [
+   {
+    "name": "定期点検作業",
+    "qty": 13,
+    "unit": "回",
+    "price": 120000,
+    "amount": 1560000
+   },
+   {
+    "name": "ライセンス更新料",
+    "qty": 5,
+    "unit": "本",
+    "price": 4800,
+    "amount": 24000
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 14,
+    "unit": "回",
+    "price": 120000,
+    "amount": 1680000
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 14,
+    "unit": "個",
+    "price": 4800,
+    "amount": 67200
+   }
+  ],
+  "n_rows": 4
+ },
+ {
+  "file": "invoice_19_B.pdf",
+  "template": "B",
+  "invoice_no": "No.A00019",
+  "invoice_no_raw": "No.A00019",
+  "issue_date": "2026-07-26",
+  "issue_date_raw": "2026年7月26日",
+  "vendor": "ヤマト梱包資材株式会社",
+  "vendor_addr": "埼玉県さいたま市大宮区桜木町1-7-5",
+  "subtotal": 1426600,
+  "tax": 142660,
+  "total": 1569260,
+  "rows": [
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 14,
+    "unit": "枚",
+    "price": 4800,
+    "amount": 67200
+   },
+   {
+    "name": "保守サポート費（月額）",
+    "qty": 12,
+    "unit": "式",
+    "price": 1200,
+    "amount": 14400
+   },
+   {
+    "name": "出張旅費",
+    "qty": 24,
+    "unit": "式",
+    "price": 2500,
+    "amount": 60000
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 27,
+    "unit": "式",
+    "price": 2500,
+    "amount": 67500
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 25,
+    "unit": "式",
+    "price": 48000,
+    "amount": 1200000
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 7,
+    "unit": "式",
+    "price": 2500,
+    "amount": 17500
+   }
+  ],
+  "n_rows": 6
+ },
+ {
+  "file": "invoice_20_B.pdf",
+  "template": "B",
+  "invoice_no": "SEI-2608-020",
+  "invoice_no_raw": "SEI-2608-020",
+  "issue_date": "2026-08-18",
+  "issue_date_raw": "2026/08/18",
+  "vendor": "株式会社ニシキ印刷",
+  "vendor_addr": "広島県広島市中区八丁堀12-2",
+  "subtotal": 2198600,
+  "tax": 219860,
+  "total": 2418460,
+  "rows": [
+   {
+    "name": "保守サポート費（月額）",
+    "qty": 3,
+    "unit": "式",
+    "price": 1200,
+    "amount": 3600
+   },
+   {
+    "name": "追加開発費",
+    "qty": 20,
+    "unit": "人日",
+    "price": 35000,
+    "amount": 700000
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 22,
+    "unit": "回",
+    "price": 2500,
+    "amount": 55000
+   },
+   {
+    "name": "設計作業費",
+    "qty": 30,
+    "unit": "人日",
+    "price": 48000,
+    "amount": 1440000
+   }
+  ],
+  "n_rows": 4
+ },
+ {
+  "file": "invoice_21_C.pdf",
+  "template": "C",
+  "invoice_no": "INV-2026-0021",
+  "invoice_no_raw": "INV-2026-0021",
+  "issue_date": "2026-07-30",
+  "issue_date_raw": "2026-07-30",
+  "vendor": "株式会社ミドリ電機",
+  "vendor_addr": "東京都千代田区神田錦町1-2-3",
+  "subtotal": 2630600,
+  "tax": 263060,
+  "total": 2893660,
+  "rows": [
+   {
+    "name": "設計作業費",
+    "qty": 22,
+    "unit": "人日",
+    "price": 4800,
+    "amount": 105600
+   },
+   {
+    "name": "運送費",
+    "qty": 21,
+    "unit": "回",
+    "price": 35000,
+    "amount": 735000
+   },
+   {
+    "name": "運送費",
+    "qty": 12,
+    "unit": "回",
+    "price": 120000,
+    "amount": 1440000
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 10,
+    "unit": "回",
+    "price": 35000,
+    "amount": 350000
+   }
+  ],
+  "n_rows": 4
+ },
+ {
+  "file": "invoice_22_C.pdf",
+  "template": "C",
+  "invoice_no": "20260729-022",
+  "invoice_no_raw": "20260729-022",
+  "issue_date": "2026-07-29",
+  "issue_date_raw": "2026年7月29日",
+  "vendor": "有限会社さくら工業",
+  "vendor_addr": "大阪府大阪市北区梅田4-5-6",
+  "subtotal": 4281000,
+  "tax": 428100,
+  "total": 4709100,
+  "rows": [
+   {
+    "name": "運送費",
+    "qty": 24,
+    "unit": "回",
+    "price": 800,
+    "amount": 19200
+   },
+   {
+    "name": "出張旅費",
+    "qty": 11,
+    "unit": "式",
+    "price": 35000,
+    "amount": 385000
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 10,
+    "unit": "式",
+    "price": 48000,
+    "amount": 480000
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 26,
+    "unit": "式",
+    "price": 120000,
+    "amount": 3120000
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 19,
+    "unit": "個",
+    "price": 800,
+    "amount": 15200
+   },
+   {
+    "name": "梱包資材（Lサイズ）",
+    "qty": 18,
+    "unit": "箱",
+    "price": 1200,
+    "amount": 21600
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 5,
+    "unit": "回",
+    "price": 48000,
+    "amount": 240000
+   }
+  ],
+  "n_rows": 7
+ },
+ {
+  "file": "invoice_23_C.pdf",
+  "template": "C",
+  "invoice_no": "No.A00023",
+  "invoice_no_raw": "No.A00023",
+  "issue_date": "2026-08-13",
+  "issue_date_raw": "2026/08/13",
+  "vendor": "合同会社ブルースカイ",
+  "vendor_addr": "神奈川県横浜市西区北幸2-1-8",
+  "subtotal": 3664400,
+  "tax": 366440,
+  "total": 4030840,
+  "rows": [
+   {
+    "name": "サーバー利用料",
+    "qty": 29,
+    "unit": "式",
+    "price": 120000,
+    "amount": 3480000
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 4,
+    "unit": "式",
+    "price": 35000,
+    "amount": 140000
+   },
+   {
+    "name": "追加開発費",
+    "qty": 5,
+    "unit": "人日",
+    "price": 1200,
+    "amount": 6000
+   },
+   {
+    "name": "保守サポート費（月額）",
+    "qty": 8,
+    "unit": "式",
+    "price": 4800,
+    "amount": 38400
+   }
+  ],
+  "n_rows": 4
+ },
+ {
+  "file": "invoice_24_C.pdf",
+  "template": "C",
+  "invoice_no": "SEI-2607-024",
+  "invoice_no_raw": "SEI-2607-024",
+  "issue_date": "2026-07-22",
+  "issue_date_raw": "2026-07-22",
+  "vendor": "株式会社アオイ商事",
+  "vendor_addr": "愛知県名古屋市中区栄3-9-1",
+  "subtotal": 2111300,
+  "tax": 211130,
+  "total": 2322430,
+  "rows": [
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 17,
+    "unit": "枚",
+    "price": 2500,
+    "amount": 42500
+   },
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 17,
+    "unit": "枚",
+    "price": 120000,
+    "amount": 2040000
+   },
+   {
+    "name": "設計作業費",
+    "qty": 6,
+    "unit": "人日",
+    "price": 4800,
+    "amount": 28800
+   }
+  ],
+  "n_rows": 3
+ },
+ {
+  "file": "invoice_25_C.pdf",
+  "template": "C",
+  "invoice_no": "INV-2026-0025",
+  "invoice_no_raw": "INV-2026-0025",
+  "issue_date": "2026-08-22",
+  "issue_date_raw": "2026年8月22日",
+  "vendor": "トウホク精機株式会社",
+  "vendor_addr": "宮城県仙台市青葉区一番町2-4-7",
+  "subtotal": 1168000,
+  "tax": 116800,
+  "total": 1284800,
+  "rows": [
+   {
+    "name": "設計作業費",
+    "qty": 1,
+    "unit": "人日",
+    "price": 2500,
+    "amount": 2500
+   },
+   {
+    "name": "出張旅費",
+    "qty": 5,
+    "unit": "式",
+    "price": 2500,
+    "amount": 12500
+   },
+   {
+    "name": "梱包資材（Lサイズ）",
+    "qty": 29,
+    "unit": "箱",
+    "price": 12000,
+    "amount": 348000
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 23,
+    "unit": "個",
+    "price": 35000,
+    "amount": 805000
+   }
+  ],
+  "n_rows": 4
+ },
+ {
+  "file": "invoice_26_C.pdf",
+  "template": "C",
+  "invoice_no": "20260823-026",
+  "invoice_no_raw": "20260823-026",
+  "issue_date": "2026-08-23",
+  "issue_date_raw": "2026/08/23",
+  "vendor": "株式会社ひかりソリューションズ",
+  "vendor_addr": "福岡県福岡市博多区博多駅前1-1-1",
+  "subtotal": 3750000,
+  "tax": 375000,
+  "total": 4125000,
+  "rows": [
+   {
+    "name": "サーバー利用料",
+    "qty": 16,
+    "unit": "式",
+    "price": 35000,
+    "amount": 560000
+   },
+   {
+    "name": "追加開発費",
+    "qty": 2,
+    "unit": "人日",
+    "price": 35000,
+    "amount": 70000
+   },
+   {
+    "name": "ライセンス更新料",
+    "qty": 26,
+    "unit": "本",
+    "price": 120000,
+    "amount": 3120000
+   }
+  ],
+  "n_rows": 3
+ },
+ {
+  "file": "invoice_27_C.pdf",
+  "template": "C",
+  "invoice_no": "No.A00027",
+  "invoice_no_raw": "No.A00027",
+  "issue_date": "2026-07-29",
+  "issue_date_raw": "2026-07-29",
+  "vendor": "西川製作所株式会社",
+  "vendor_addr": "京都府京都市下京区烏丸通6-3",
+  "subtotal": 95500,
+  "tax": 9550,
+  "total": 105050,
+  "rows": [
+   {
+    "name": "出張旅費",
+    "qty": 10,
+    "unit": "式",
+    "price": 4800,
+    "amount": 48000
+   },
+   {
+    "name": "追加開発費",
+    "qty": 17,
+    "unit": "人日",
+    "price": 2500,
+    "amount": 42500
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 2,
+    "unit": "式",
+    "price": 2500,
+    "amount": 5000
+   }
+  ],
+  "n_rows": 3
+ },
+ {
+  "file": "invoice_28_C.pdf",
+  "template": "C",
+  "invoice_no": "SEI-2608-028",
+  "invoice_no_raw": "SEI-2608-028",
+  "issue_date": "2026-08-07",
+  "issue_date_raw": "2026年8月7日",
+  "vendor": "株式会社コスモテック",
+  "vendor_addr": "北海道札幌市中央区大通西5-8",
+  "subtotal": 3811400,
+  "tax": 381140,
+  "total": 4192540,
+  "rows": [
+   {
+    "name": "追加開発費",
+    "qty": 14,
+    "unit": "人日",
+    "price": 120000,
+    "amount": 1680000
+   },
+   {
+    "name": "運送費",
+    "qty": 6,
+    "unit": "回",
+    "price": 35000,
+    "amount": 210000
+   },
+   {
+    "name": "ライセンス更新料",
+    "qty": 13,
+    "unit": "本",
+    "price": 800,
+    "amount": 10400
+   },
+   {
+    "name": "保守サポート費（月額）",
+    "qty": 6,
+    "unit": "式",
+    "price": 2500,
+    "amount": 15000
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 24,
+    "unit": "式",
+    "price": 48000,
+    "amount": 1152000
+   },
+   {
+    "name": "運送費",
+    "qty": 22,
+    "unit": "回",
+    "price": 12000,
+    "amount": 264000
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 4,
+    "unit": "個",
+    "price": 120000,
+    "amount": 480000
+   }
+  ],
+  "n_rows": 7
+ },
+ {
+  "file": "invoice_29_C.pdf",
+  "template": "C",
+  "invoice_no": "INV-2026-0029",
+  "invoice_no_raw": "INV-2026-0029",
+  "issue_date": "2026-08-22",
+  "issue_date_raw": "2026/08/22",
+  "vendor": "ヤマト梱包資材株式会社",
+  "vendor_addr": "埼玉県さいたま市大宮区桜木町1-7-5",
+  "subtotal": 2500200,
+  "tax": 250020,
+  "total": 2750220,
+  "rows": [
+   {
+    "name": "サーバー利用料",
+    "qty": 30,
+    "unit": "式",
+    "price": 2500,
+    "amount": 75000
+   },
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 21,
+    "unit": "枚",
+    "price": 1200,
+    "amount": 25200
+   },
+   {
+    "name": "設計作業費",
+    "qty": 20,
+    "unit": "人日",
+    "price": 120000,
+    "amount": 2400000
+   }
+  ],
+  "n_rows": 3
+ },
+ {
+  "file": "invoice_30_C.pdf",
+  "template": "C",
+  "invoice_no": "20260717-030",
+  "invoice_no_raw": "20260717-030",
+  "issue_date": "2026-07-17",
+  "issue_date_raw": "2026-07-17",
+  "vendor": "株式会社ニシキ印刷",
+  "vendor_addr": "広島県広島市中区八丁堀12-2",
+  "subtotal": 1136100,
+  "tax": 113610,
+  "total": 1249710,
+  "rows": [
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 19,
+    "unit": "枚",
+    "price": 35000,
+    "amount": 665000
+   },
+   {
+    "name": "追加開発費",
+    "qty": 23,
+    "unit": "人日",
+    "price": 2500,
+    "amount": 57500
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 2,
+    "unit": "回",
+    "price": 48000,
+    "amount": 96000
+   },
+   {
+    "name": "梱包資材（Lサイズ）",
+    "qty": 26,
+    "unit": "箱",
+    "price": 800,
+    "amount": 20800
+   },
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 6,
+    "unit": "枚",
+    "price": 48000,
+    "amount": 288000
+   },
+   {
+    "name": "梱包資材（Lサイズ）",
+    "qty": 11,
+    "unit": "箱",
+    "price": 800,
+    "amount": 8800
+   }
+  ],
+  "n_rows": 6
+ },
+ {
+  "file": "invoice_31_D.pdf",
+  "template": "D",
+  "invoice_no": "No.A00031",
+  "invoice_no_raw": "No.A00031",
+  "issue_date": "2026-07-30",
+  "issue_date_raw": "2026年7月30日",
+  "vendor": "株式会社ミドリ電機",
+  "vendor_addr": "東京都千代田区神田錦町1-2-3",
+  "subtotal": 163300,
+  "tax": 16330,
+  "total": 179630,
+  "rows": [
+   {
+    "name": "設計作業費",
+    "qty": 25,
+    "unit": "人日",
+    "price": 4800,
+    "amount": 120000
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 4,
+    "unit": "式",
+    "price": 4800,
+    "amount": 19200
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 18,
+    "unit": "回",
+    "price": 800,
+    "amount": 14400
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 1,
+    "unit": "式",
+    "price": 2500,
+    "amount": 2500
+   },
+   {
+    "name": "出張旅費",
+    "qty": 6,
+    "unit": "式",
+    "price": 1200,
+    "amount": 7200
+   }
+  ],
+  "n_rows": 5
+ },
+ {
+  "file": "invoice_32_D.pdf",
+  "template": "D",
+  "invoice_no": "SEI-2607-032",
+  "invoice_no_raw": "SEI-2607-032",
+  "issue_date": "2026-07-04",
+  "issue_date_raw": "2026/07/04",
+  "vendor": "有限会社さくら工業",
+  "vendor_addr": "大阪府大阪市北区梅田4-5-6",
+  "subtotal": 5056000,
+  "tax": 505600,
+  "total": 5561600,
+  "rows": [
+   {
+    "name": "部品A-2200",
+    "qty": 30,
+    "unit": "個",
+    "price": 1200,
+    "amount": 36000
+   },
+   {
+    "name": "出張旅費",
+    "qty": 26,
+    "unit": "式",
+    "price": 120000,
+    "amount": 3120000
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 20,
+    "unit": "式",
+    "price": 35000,
+    "amount": 700000
+   },
+   {
+    "name": "出張旅費",
+    "qty": 25,
+    "unit": "式",
+    "price": 48000,
+    "amount": 1200000
+   }
+  ],
+  "n_rows": 4
+ },
+ {
+  "file": "invoice_33_D.pdf",
+  "template": "D",
+  "invoice_no": "INV-2026-0033",
+  "invoice_no_raw": "INV-2026-0033",
+  "issue_date": "2026-07-07",
+  "issue_date_raw": "2026-07-07",
+  "vendor": "合同会社ブルースカイ",
+  "vendor_addr": "神奈川県横浜市西区北幸2-1-8",
+  "subtotal": 3586000,
+  "tax": 358600,
+  "total": 3944600,
+  "rows": [
+   {
+    "name": "出張旅費",
+    "qty": 28,
+    "unit": "式",
+    "price": 120000,
+    "amount": 3360000
+   },
+   {
+    "name": "設計作業費",
+    "qty": 13,
+    "unit": "人日",
+    "price": 12000,
+    "amount": 156000
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 28,
+    "unit": "個",
+    "price": 2500,
+    "amount": 70000
+   }
+  ],
+  "n_rows": 3
+ },
+ {
+  "file": "invoice_34_D.pdf",
+  "template": "D",
+  "invoice_no": "20260829-034",
+  "invoice_no_raw": "20260829-034",
+  "issue_date": "2026-08-29",
+  "issue_date_raw": "2026年8月29日",
+  "vendor": "株式会社アオイ商事",
+  "vendor_addr": "愛知県名古屋市中区栄3-9-1",
+  "subtotal": 515300,
+  "tax": 51530,
+  "total": 566830,
+  "rows": [
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 14,
+    "unit": "枚",
+    "price": 35000,
+    "amount": 490000
+   },
+   {
+    "name": "梱包資材（Lサイズ）",
+    "qty": 1,
+    "unit": "箱",
+    "price": 2500,
+    "amount": 2500
+   },
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 19,
+    "unit": "枚",
+    "price": 1200,
+    "amount": 22800
+   }
+  ],
+  "n_rows": 3
+ },
+ {
+  "file": "invoice_35_D.pdf",
+  "template": "D",
+  "invoice_no": "No.A00035",
+  "invoice_no_raw": "No.A00035",
+  "issue_date": "2026-07-19",
+  "issue_date_raw": "2026/07/19",
+  "vendor": "トウホク精機株式会社",
+  "vendor_addr": "宮城県仙台市青葉区一番町2-4-7",
+  "subtotal": 679700,
+  "tax": 67970,
+  "total": 747670,
+  "rows": [
+   {
+    "name": "消耗品一式",
+    "qty": 15,
+    "unit": "式",
+    "price": 35000,
+    "amount": 525000
+   },
+   {
+    "name": "保守サポート費（月額）",
+    "qty": 11,
+    "unit": "式",
+    "price": 2500,
+    "amount": 27500
+   },
+   {
+    "name": "設計作業費",
+    "qty": 3,
+    "unit": "人日",
+    "price": 800,
+    "amount": 2400
+   },
+   {
+    "name": "運送費",
+    "qty": 26,
+    "unit": "回",
+    "price": 4800,
+    "amount": 124800
+   }
+  ],
+  "n_rows": 4
+ },
+ {
+  "file": "invoice_36_D.pdf",
+  "template": "D",
+  "invoice_no": "SEI-2608-036",
+  "invoice_no_raw": "SEI-2608-036",
+  "issue_date": "2026-08-23",
+  "issue_date_raw": "2026-08-23",
+  "vendor": "株式会社ひかりソリューションズ",
+  "vendor_addr": "福岡県福岡市博多区博多駅前1-1-1",
+  "subtotal": 3695500,
+  "tax": 369550,
+  "total": 4065050,
+  "rows": [
+   {
+    "name": "定期点検作業",
+    "qty": 11,
+    "unit": "回",
+    "price": 48000,
+    "amount": 528000
+   },
+   {
+    "name": "出張旅費",
+    "qty": 26,
+    "unit": "式",
+    "price": 120000,
+    "amount": 3120000
+   },
+   {
+    "name": "ライセンス更新料",
+    "qty": 18,
+    "unit": "本",
+    "price": 2500,
+    "amount": 45000
+   },
+   {
+    "name": "運送費",
+    "qty": 1,
+    "unit": "回",
+    "price": 2500,
+    "amount": 2500
+   }
+  ],
+  "n_rows": 4
+ },
+ {
+  "file": "invoice_37_D.pdf",
+  "template": "D",
+  "invoice_no": "INV-2026-0037",
+  "invoice_no_raw": "INV-2026-0037",
+  "issue_date": "2026-08-21",
+  "issue_date_raw": "2026年8月21日",
+  "vendor": "西川製作所株式会社",
+  "vendor_addr": "京都府京都市下京区烏丸通6-3",
+  "subtotal": 6129500,
+  "tax": 612950,
+  "total": 6742450,
+  "rows": [
+   {
+    "name": "運送費",
+    "qty": 13,
+    "unit": "回",
+    "price": 35000,
+    "amount": 455000
+   },
+   {
+    "name": "保守サポート費（月額）",
+    "qty": 9,
+    "unit": "式",
+    "price": 120000,
+    "amount": 1080000
+   },
+   {
+    "name": "追加開発費",
+    "qty": 23,
+    "unit": "人日",
+    "price": 2500,
+    "amount": 57500
+   },
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 11,
+    "unit": "枚",
+    "price": 35000,
+    "amount": 385000
+   },
+   {
+    "name": "出張旅費",
+    "qty": 17,
+    "unit": "式",
+    "price": 120000,
+    "amount": 2040000
+   },
+   {
+    "name": "追加開発費",
+    "qty": 29,
+    "unit": "人日",
+    "price": 48000,
+    "amount": 1392000
+   },
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 6,
+    "unit": "枚",
+    "price": 120000,
+    "amount": 720000
+   }
+  ],
+  "n_rows": 7
+ },
+ {
+  "file": "invoice_38_D.pdf",
+  "template": "D",
+  "invoice_no": "20260803-038",
+  "invoice_no_raw": "20260803-038",
+  "issue_date": "2026-08-03",
+  "issue_date_raw": "2026/08/03",
+  "vendor": "株式会社コスモテック",
+  "vendor_addr": "北海道札幌市中央区大通西5-8",
+  "subtotal": 1719600,
+  "tax": 171960,
+  "total": 1891560,
+  "rows": [
+   {
+    "name": "設計作業費",
+    "qty": 11,
+    "unit": "人日",
+    "price": 12000,
+    "amount": 132000
+   },
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 19,
+    "unit": "枚",
+    "price": 48000,
+    "amount": 912000
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 3,
+    "unit": "式",
+    "price": 1200,
+    "amount": 3600
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 14,
+    "unit": "式",
+    "price": 48000,
+    "amount": 672000
+   }
+  ],
+  "n_rows": 4
+ },
+ {
+  "file": "invoice_39_D.pdf",
+  "template": "D",
+  "invoice_no": "No.A00039",
+  "invoice_no_raw": "No.A00039",
+  "issue_date": "2026-07-25",
+  "issue_date_raw": "2026-07-25",
+  "vendor": "ヤマト梱包資材株式会社",
+  "vendor_addr": "埼玉県さいたま市大宮区桜木町1-7-5",
+  "subtotal": 45800,
+  "tax": 4580,
+  "total": 50380,
+  "rows": [
+   {
+    "name": "出張旅費",
+    "qty": 26,
+    "unit": "式",
+    "price": 800,
+    "amount": 20800
+   },
+   {
+    "name": "追加開発費",
+    "qty": 4,
+    "unit": "人日",
+    "price": 2500,
+    "amount": 10000
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 6,
+    "unit": "式",
+    "price": 2500,
+    "amount": 15000
+   }
+  ],
+  "n_rows": 3
+ },
+ {
+  "file": "invoice_40_D.pdf",
+  "template": "D",
+  "invoice_no": "SEI-2607-040",
+  "invoice_no_raw": "SEI-2607-040",
+  "issue_date": "2026-07-28",
+  "issue_date_raw": "2026年7月28日",
+  "vendor": "株式会社ニシキ印刷",
+  "vendor_addr": "広島県広島市中区八丁堀12-2",
+  "subtotal": 1299000,
+  "tax": 129900,
+  "total": 1428900,
+  "rows": [
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 21,
+    "unit": "枚",
+    "price": 12000,
+    "amount": 252000
+   },
+   {
+    "name": "出張旅費",
+    "qty": 24,
+    "unit": "式",
+    "price": 1200,
+    "amount": 28800
+   },
+   {
+    "name": "運送費",
+    "qty": 29,
+    "unit": "回",
+    "price": 35000,
+    "amount": 1015000
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 4,
+    "unit": "回",
+    "price": 800,
+    "amount": 3200
+   }
+  ],
+  "n_rows": 4
+ },
+ {
+  "file": "invoice_41_E.pdf",
+  "template": "E",
+  "invoice_no": "INV-2026-0041",
+  "invoice_no_raw": "INV-2026-0041",
+  "issue_date": "2026-07-27",
+  "issue_date_raw": "2026/07/27",
+  "vendor": "株式会社ミドリ電機",
+  "vendor_addr": "東京都千代田区神田錦町1-2-3",
+  "subtotal": 9563100,
+  "tax": 956310,
+  "total": 10519410,
+  "rows": [
+   {
+    "name": "保守サポート費（月額）",
+    "qty": 30,
+    "unit": "式",
+    "price": 2500,
+    "amount": 75000
+   },
+   {
+    "name": "ライセンス更新料",
+    "qty": 16,
+    "unit": "本",
+    "price": 12000,
+    "amount": 192000
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 2,
+    "unit": "式",
+    "price": 35000,
+    "amount": 70000
+   },
+   {
+    "name": "保守サポート費（月額）",
+    "qty": 1,
+    "unit": "式",
+    "price": 48000,
+    "amount": 48000
+   },
+   {
+    "name": "梱包資材（Lサイズ）",
+    "qty": 2,
+    "unit": "箱",
+    "price": 1200,
+    "amount": 2400
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 28,
+    "unit": "式",
+    "price": 2500,
+    "amount": 70000
+   },
+   {
+    "name": "梱包資材（Lサイズ）",
+    "qty": 2,
+    "unit": "箱",
+    "price": 12000,
+    "amount": 24000
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 27,
+    "unit": "個",
+    "price": 12000,
+    "amount": 324000
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 26,
+    "unit": "式",
+    "price": 1200,
+    "amount": 31200
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 26,
+    "unit": "個",
+    "price": 48000,
+    "amount": 1248000
+   },
+   {
+    "name": "運送費",
+    "qty": 12,
+    "unit": "回",
+    "price": 35000,
+    "amount": 420000
+   },
+   {
+    "name": "保守サポート費（月額）",
+    "qty": 29,
+    "unit": "式",
+    "price": 48000,
+    "amount": 1392000
+   },
+   {
+    "name": "設計作業費",
+    "qty": 12,
+    "unit": "人日",
+    "price": 1200,
+    "amount": 14400
+   },
+   {
+    "name": "保守サポート費（月額）",
+    "qty": 29,
+    "unit": "式",
+    "price": 120000,
+    "amount": 3480000
+   },
+   {
+    "name": "運送費",
+    "qty": 11,
+    "unit": "回",
+    "price": 2500,
+    "amount": 27500
+   },
+   {
+    "name": "ライセンス更新料",
+    "qty": 28,
+    "unit": "本",
+    "price": 35000,
+    "amount": 980000
+   },
+   {
+    "name": "保守サポート費（月額）",
+    "qty": 14,
+    "unit": "式",
+    "price": 35000,
+    "amount": 490000
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 27,
+    "unit": "回",
+    "price": 4800,
+    "amount": 129600
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 25,
+    "unit": "式",
+    "price": 1200,
+    "amount": 30000
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 15,
+    "unit": "式",
+    "price": 35000,
+    "amount": 525000
+   },
+   {
+    "name": "お値引き",
+    "qty": 1,
+    "unit": "式",
+    "price": -10000,
+    "amount": -10000
+   }
+  ],
+  "n_rows": 21
+ },
+ {
+  "file": "invoice_42_E.pdf",
+  "template": "E",
+  "invoice_no": "20260705-042",
+  "invoice_no_raw": "20260705-042",
+  "issue_date": "2026-07-05",
+  "issue_date_raw": "2026-07-05",
+  "vendor": "有限会社さくら工業",
+  "vendor_addr": "大阪府大阪市北区梅田4-5-6",
+  "subtotal": 9833600,
+  "tax": 983360,
+  "total": 10816960,
+  "rows": [
+   {
+    "name": "消耗品一式",
+    "qty": 6,
+    "unit": "式",
+    "price": 48000,
+    "amount": 288000
+   },
+   {
+    "name": "追加開発費",
+    "qty": 17,
+    "unit": "人日",
+    "price": 800,
+    "amount": 13600
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 27,
+    "unit": "個",
+    "price": 120000,
+    "amount": 3240000
+   },
+   {
+    "name": "出張旅費",
+    "qty": 17,
+    "unit": "式",
+    "price": 4800,
+    "amount": 81600
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 20,
+    "unit": "個",
+    "price": 4800,
+    "amount": 96000
+   },
+   {
+    "name": "梱包資材（Lサイズ）",
+    "qty": 24,
+    "unit": "箱",
+    "price": 4800,
+    "amount": 115200
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 20,
+    "unit": "回",
+    "price": 2500,
+    "amount": 50000
+   },
+   {
+    "name": "設計作業費",
+    "qty": 18,
+    "unit": "人日",
+    "price": 800,
+    "amount": 14400
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 19,
+    "unit": "回",
+    "price": 1200,
+    "amount": 22800
+   },
+   {
+    "name": "出張旅費",
+    "qty": 24,
+    "unit": "式",
+    "price": 800,
+    "amount": 19200
+   },
+   {
+    "name": "保守サポート費（月額）",
+    "qty": 29,
+    "unit": "式",
+    "price": 4800,
+    "amount": 139200
+   },
+   {
+    "name": "運送費",
+    "qty": 10,
+    "unit": "回",
+    "price": 12000,
+    "amount": 120000
+   },
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 23,
+    "unit": "枚",
+    "price": 800,
+    "amount": 18400
+   },
+   {
+    "name": "設計作業費",
+    "qty": 16,
+    "unit": "人日",
+    "price": 2500,
+    "amount": 40000
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 8,
+    "unit": "式",
+    "price": 48000,
+    "amount": 384000
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 30,
+    "unit": "式",
+    "price": 120000,
+    "amount": 3600000
+   },
+   {
+    "name": "ライセンス更新料",
+    "qty": 12,
+    "unit": "本",
+    "price": 120000,
+    "amount": 1440000
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 6,
+    "unit": "式",
+    "price": 4800,
+    "amount": 28800
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 2,
+    "unit": "回",
+    "price": 35000,
+    "amount": 70000
+   },
+   {
+    "name": "設計作業費",
+    "qty": 13,
+    "unit": "人日",
+    "price": 4800,
+    "amount": 62400
+   },
+   {
+    "name": "お値引き",
+    "qty": 1,
+    "unit": "式",
+    "price": -10000,
+    "amount": -10000
+   }
+  ],
+  "n_rows": 21
+ },
+ {
+  "file": "invoice_43_E.pdf",
+  "template": "E",
+  "invoice_no": "No.A00043",
+  "invoice_no_raw": "No.A00043",
+  "issue_date": "2026-07-04",
+  "issue_date_raw": "2026年7月4日",
+  "vendor": "合同会社ブルースカイ",
+  "vendor_addr": "神奈川県横浜市西区北幸2-1-8",
+  "subtotal": 7620300,
+  "tax": 762030,
+  "total": 8382330,
+  "rows": [
+   {
+    "name": "追加開発費",
+    "qty": 21,
+    "unit": "人日",
+    "price": 48000,
+    "amount": 1008000
+   },
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 30,
+    "unit": "枚",
+    "price": 1200,
+    "amount": 36000
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 13,
+    "unit": "式",
+    "price": 35000,
+    "amount": 455000
+   },
+   {
+    "name": "設計作業費",
+    "qty": 2,
+    "unit": "人日",
+    "price": 48000,
+    "amount": 96000
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 14,
+    "unit": "回",
+    "price": 1200,
+    "amount": 16800
+   },
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 26,
+    "unit": "枚",
+    "price": 4800,
+    "amount": 124800
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 20,
+    "unit": "個",
+    "price": 35000,
+    "amount": 700000
+   },
+   {
+    "name": "出張旅費",
+    "qty": 6,
+    "unit": "式",
+    "price": 1200,
+    "amount": 7200
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 21,
+    "unit": "式",
+    "price": 4800,
+    "amount": 100800
+   },
+   {
+    "name": "ライセンス更新料",
+    "qty": 25,
+    "unit": "本",
+    "price": 120000,
+    "amount": 3000000
+   },
+   {
+    "name": "保守サポート費（月額）",
+    "qty": 15,
+    "unit": "式",
+    "price": 2500,
+    "amount": 37500
+   },
+   {
+    "name": "出張旅費",
+    "qty": 11,
+    "unit": "式",
+    "price": 120000,
+    "amount": 1320000
+   },
+   {
+    "name": "設計作業費",
+    "qty": 6,
+    "unit": "人日",
+    "price": 2500,
+    "amount": 15000
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 3,
+    "unit": "個",
+    "price": 4800,
+    "amount": 14400
+   },
+   {
+    "name": "保守サポート費（月額）",
+    "qty": 12,
+    "unit": "式",
+    "price": 800,
+    "amount": 9600
+   },
+   {
+    "name": "ライセンス更新料",
+    "qty": 6,
+    "unit": "本",
+    "price": 4800,
+    "amount": 28800
+   },
+   {
+    "name": "設計作業費",
+    "qty": 11,
+    "unit": "人日",
+    "price": 35000,
+    "amount": 385000
+   },
+   {
+    "name": "運送費",
+    "qty": 23,
+    "unit": "回",
+    "price": 800,
+    "amount": 18400
+   },
+   {
+    "name": "ライセンス更新料",
+    "qty": 20,
+    "unit": "本",
+    "price": 1200,
+    "amount": 24000
+   },
+   {
+    "name": "梱包資材（Lサイズ）",
+    "qty": 19,
+    "unit": "箱",
+    "price": 12000,
+    "amount": 228000
+   },
+   {
+    "name": "お値引き",
+    "qty": 1,
+    "unit": "式",
+    "price": -5000,
+    "amount": -5000
+   }
+  ],
+  "n_rows": 21
+ },
+ {
+  "file": "invoice_44_E.pdf",
+  "template": "E",
+  "invoice_no": "SEI-2608-044",
+  "invoice_no_raw": "SEI-2608-044",
+  "issue_date": "2026-08-25",
+  "issue_date_raw": "2026/08/25",
+  "vendor": "株式会社アオイ商事",
+  "vendor_addr": "愛知県名古屋市中区栄3-9-1",
+  "subtotal": 2796600,
+  "tax": 279660,
+  "total": 3076260,
+  "rows": [
+   {
+    "name": "定期点検作業",
+    "qty": 5,
+    "unit": "回",
+    "price": 1200,
+    "amount": 6000
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 19,
+    "unit": "個",
+    "price": 2500,
+    "amount": 47500
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 6,
+    "unit": "回",
+    "price": 12000,
+    "amount": 72000
+   },
+   {
+    "name": "設計作業費",
+    "qty": 29,
+    "unit": "人日",
+    "price": 800,
+    "amount": 23200
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 11,
+    "unit": "式",
+    "price": 2500,
+    "amount": 27500
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 29,
+    "unit": "式",
+    "price": 1200,
+    "amount": 34800
+   },
+   {
+    "name": "追加開発費",
+    "qty": 24,
+    "unit": "人日",
+    "price": 4800,
+    "amount": 115200
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 27,
+    "unit": "式",
+    "price": 4800,
+    "amount": 129600
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 7,
+    "unit": "回",
+    "price": 4800,
+    "amount": 33600
+   },
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 6,
+    "unit": "枚",
+    "price": 35000,
+    "amount": 210000
+   },
+   {
+    "name": "運送費",
+    "qty": 23,
+    "unit": "回",
+    "price": 12000,
+    "amount": 276000
+   },
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 14,
+    "unit": "枚",
+    "price": 2500,
+    "amount": 35000
+   },
+   {
+    "name": "運送費",
+    "qty": 21,
+    "unit": "回",
+    "price": 1200,
+    "amount": 25200
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 11,
+    "unit": "個",
+    "price": 35000,
+    "amount": 385000
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 20,
+    "unit": "個",
+    "price": 12000,
+    "amount": 240000
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 18,
+    "unit": "回",
+    "price": 2500,
+    "amount": 45000
+   },
+   {
+    "name": "設計作業費",
+    "qty": 26,
+    "unit": "人日",
+    "price": 2500,
+    "amount": 65000
+   },
+   {
+    "name": "追加開発費",
+    "qty": 21,
+    "unit": "人日",
+    "price": 48000,
+    "amount": 1008000
+   },
+   {
+    "name": "追加開発費",
+    "qty": 6,
+    "unit": "人日",
+    "price": 1200,
+    "amount": 7200
+   },
+   {
+    "name": "設計作業費",
+    "qty": 26,
+    "unit": "人日",
+    "price": 800,
+    "amount": 20800
+   },
+   {
+    "name": "お値引き",
+    "qty": 1,
+    "unit": "式",
+    "price": -10000,
+    "amount": -10000
+   }
+  ],
+  "n_rows": 21
+ },
+ {
+  "file": "invoice_45_E.pdf",
+  "template": "E",
+  "invoice_no": "INV-2026-0045",
+  "invoice_no_raw": "INV-2026-0045",
+  "issue_date": "2026-08-11",
+  "issue_date_raw": "2026-08-11",
+  "vendor": "トウホク精機株式会社",
+  "vendor_addr": "宮城県仙台市青葉区一番町2-4-7",
+  "subtotal": 10803800,
+  "tax": 1080380,
+  "total": 11884180,
+  "rows": [
+   {
+    "name": "消耗品一式",
+    "qty": 28,
+    "unit": "式",
+    "price": 48000,
+    "amount": 1344000
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 30,
+    "unit": "個",
+    "price": 48000,
+    "amount": 1440000
+   },
+   {
+    "name": "運送費",
+    "qty": 21,
+    "unit": "回",
+    "price": 2500,
+    "amount": 52500
+   },
+   {
+    "name": "追加開発費",
+    "qty": 12,
+    "unit": "人日",
+    "price": 4800,
+    "amount": 57600
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 21,
+    "unit": "式",
+    "price": 12000,
+    "amount": 252000
+   },
+   {
+    "name": "保守サポート費（月額）",
+    "qty": 17,
+    "unit": "式",
+    "price": 2500,
+    "amount": 42500
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 13,
+    "unit": "回",
+    "price": 4800,
+    "amount": 62400
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 7,
+    "unit": "式",
+    "price": 120000,
+    "amount": 840000
+   },
+   {
+    "name": "設計作業費",
+    "qty": 7,
+    "unit": "人日",
+    "price": 2500,
+    "amount": 17500
+   },
+   {
+    "name": "設計作業費",
+    "qty": 11,
+    "unit": "人日",
+    "price": 2500,
+    "amount": 27500
+   },
+   {
+    "name": "追加開発費",
+    "qty": 13,
+    "unit": "人日",
+    "price": 4800,
+    "amount": 62400
+   },
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 30,
+    "unit": "枚",
+    "price": 120000,
+    "amount": 3600000
+   },
+   {
+    "name": "出張旅費",
+    "qty": 11,
+    "unit": "式",
+    "price": 4800,
+    "amount": 52800
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 12,
+    "unit": "個",
+    "price": 120000,
+    "amount": 1440000
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 20,
+    "unit": "式",
+    "price": 800,
+    "amount": 16000
+   },
+   {
+    "name": "設計作業費",
+    "qty": 2,
+    "unit": "人日",
+    "price": 35000,
+    "amount": 70000
+   },
+   {
+    "name": "追加開発費",
+    "qty": 28,
+    "unit": "人日",
+    "price": 4800,
+    "amount": 134400
+   },
+   {
+    "name": "梱包資材（Lサイズ）",
+    "qty": 20,
+    "unit": "箱",
+    "price": 4800,
+    "amount": 96000
+   },
+   {
+    "name": "追加開発費",
+    "qty": 10,
+    "unit": "人日",
+    "price": 120000,
+    "amount": 1200000
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 1,
+    "unit": "回",
+    "price": 1200,
+    "amount": 1200
+   },
+   {
+    "name": "お値引き",
+    "qty": 1,
+    "unit": "式",
+    "price": -5000,
+    "amount": -5000
+   }
+  ],
+  "n_rows": 21
+ },
+ {
+  "file": "invoice_46_E.pdf",
+  "template": "E",
+  "invoice_no": "20260827-046",
+  "invoice_no_raw": "20260827-046",
+  "issue_date": "2026-08-27",
+  "issue_date_raw": "2026年8月27日",
+  "vendor": "株式会社ひかりソリューションズ",
+  "vendor_addr": "福岡県福岡市博多区博多駅前1-1-1",
+  "subtotal": 5540600,
+  "tax": 554060,
+  "total": 6094660,
+  "rows": [
+   {
+    "name": "追加開発費",
+    "qty": 12,
+    "unit": "人日",
+    "price": 800,
+    "amount": 9600
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 17,
+    "unit": "個",
+    "price": 1200,
+    "amount": 20400
+   },
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 4,
+    "unit": "枚",
+    "price": 800,
+    "amount": 3200
+   },
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 28,
+    "unit": "枚",
+    "price": 4800,
+    "amount": 134400
+   },
+   {
+    "name": "設計作業費",
+    "qty": 23,
+    "unit": "人日",
+    "price": 48000,
+    "amount": 1104000
+   },
+   {
+    "name": "追加開発費",
+    "qty": 21,
+    "unit": "人日",
+    "price": 12000,
+    "amount": 252000
+   },
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 21,
+    "unit": "枚",
+    "price": 48000,
+    "amount": 1008000
+   },
+   {
+    "name": "追加開発費",
+    "qty": 24,
+    "unit": "人日",
+    "price": 1200,
+    "amount": 28800
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 29,
+    "unit": "個",
+    "price": 1200,
+    "amount": 34800
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 15,
+    "unit": "回",
+    "price": 800,
+    "amount": 12000
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 18,
+    "unit": "式",
+    "price": 12000,
+    "amount": 216000
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 6,
+    "unit": "式",
+    "price": 4800,
+    "amount": 28800
+   },
+   {
+    "name": "設計作業費",
+    "qty": 7,
+    "unit": "人日",
+    "price": 120000,
+    "amount": 840000
+   },
+   {
+    "name": "設計作業費",
+    "qty": 7,
+    "unit": "人日",
+    "price": 120000,
+    "amount": 840000
+   },
+   {
+    "name": "出張旅費",
+    "qty": 25,
+    "unit": "式",
+    "price": 35000,
+    "amount": 875000
+   },
+   {
+    "name": "保守サポート費（月額）",
+    "qty": 14,
+    "unit": "式",
+    "price": 1200,
+    "amount": 16800
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 4,
+    "unit": "回",
+    "price": 12000,
+    "amount": 48000
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 26,
+    "unit": "式",
+    "price": 1200,
+    "amount": 31200
+   },
+   {
+    "name": "梱包資材（Lサイズ）",
+    "qty": 1,
+    "unit": "箱",
+    "price": 4800,
+    "amount": 4800
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 11,
+    "unit": "個",
+    "price": 4800,
+    "amount": 52800
+   },
+   {
+    "name": "お値引き",
+    "qty": 1,
+    "unit": "式",
+    "price": -20000,
+    "amount": -20000
+   }
+  ],
+  "n_rows": 21
+ },
+ {
+  "file": "invoice_47_E.pdf",
+  "template": "E",
+  "invoice_no": "No.A00047",
+  "invoice_no_raw": "No.A00047",
+  "issue_date": "2026-08-14",
+  "issue_date_raw": "2026/08/14",
+  "vendor": "西川製作所株式会社",
+  "vendor_addr": "京都府京都市下京区烏丸通6-3",
+  "subtotal": 11880200,
+  "tax": 1188020,
+  "total": 13068220,
+  "rows": [
+   {
+    "name": "運送費",
+    "qty": 27,
+    "unit": "回",
+    "price": 1200,
+    "amount": 32400
+   },
+   {
+    "name": "出張旅費",
+    "qty": 28,
+    "unit": "式",
+    "price": 800,
+    "amount": 22400
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 29,
+    "unit": "回",
+    "price": 1200,
+    "amount": 34800
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 26,
+    "unit": "式",
+    "price": 120000,
+    "amount": 3120000
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 21,
+    "unit": "回",
+    "price": 35000,
+    "amount": 735000
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 4,
+    "unit": "個",
+    "price": 1200,
+    "amount": 4800
+   },
+   {
+    "name": "設計作業費",
+    "qty": 20,
+    "unit": "人日",
+    "price": 48000,
+    "amount": 960000
+   },
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 14,
+    "unit": "枚",
+    "price": 48000,
+    "amount": 672000
+   },
+   {
+    "name": "出張旅費",
+    "qty": 14,
+    "unit": "式",
+    "price": 1200,
+    "amount": 16800
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 12,
+    "unit": "個",
+    "price": 120000,
+    "amount": 1440000
+   },
+   {
+    "name": "設計作業費",
+    "qty": 19,
+    "unit": "人日",
+    "price": 120000,
+    "amount": 2280000
+   },
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 10,
+    "unit": "枚",
+    "price": 35000,
+    "amount": 350000
+   },
+   {
+    "name": "梱包資材（Lサイズ）",
+    "qty": 18,
+    "unit": "箱",
+    "price": 800,
+    "amount": 14400
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 15,
+    "unit": "式",
+    "price": 800,
+    "amount": 12000
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 24,
+    "unit": "式",
+    "price": 4800,
+    "amount": 115200
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 29,
+    "unit": "回",
+    "price": 800,
+    "amount": 23200
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 21,
+    "unit": "式",
+    "price": 4800,
+    "amount": 100800
+   },
+   {
+    "name": "保守サポート費（月額）",
+    "qty": 10,
+    "unit": "式",
+    "price": 48000,
+    "amount": 480000
+   },
+   {
+    "name": "運送費",
+    "qty": 12,
+    "unit": "回",
+    "price": 120000,
+    "amount": 1440000
+   },
+   {
+    "name": "梱包資材（Lサイズ）",
+    "qty": 22,
+    "unit": "箱",
+    "price": 1200,
+    "amount": 26400
+   }
+  ],
+  "n_rows": 20
+ },
+ {
+  "file": "invoice_48_E.pdf",
+  "template": "E",
+  "invoice_no": "SEI-2608-048",
+  "invoice_no_raw": "SEI-2608-048",
+  "issue_date": "2026-08-08",
+  "issue_date_raw": "2026-08-08",
+  "vendor": "株式会社コスモテック",
+  "vendor_addr": "北海道札幌市中央区大通西5-8",
+  "subtotal": 11074100,
+  "tax": 1107410,
+  "total": 12181510,
+  "rows": [
+   {
+    "name": "出張旅費",
+    "qty": 10,
+    "unit": "式",
+    "price": 48000,
+    "amount": 480000
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 2,
+    "unit": "個",
+    "price": 48000,
+    "amount": 96000
+   },
+   {
+    "name": "追加開発費",
+    "qty": 5,
+    "unit": "人日",
+    "price": 12000,
+    "amount": 60000
+   },
+   {
+    "name": "保守サポート費（月額）",
+    "qty": 19,
+    "unit": "式",
+    "price": 4800,
+    "amount": 91200
+   },
+   {
+    "name": "設計作業費",
+    "qty": 30,
+    "unit": "人日",
+    "price": 1200,
+    "amount": 36000
+   },
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 25,
+    "unit": "枚",
+    "price": 120000,
+    "amount": 3000000
+   },
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 17,
+    "unit": "枚",
+    "price": 35000,
+    "amount": 595000
+   },
+   {
+    "name": "ライセンス更新料",
+    "qty": 30,
+    "unit": "本",
+    "price": 12000,
+    "amount": 360000
+   },
+   {
+    "name": "梱包資材（Lサイズ）",
+    "qty": 9,
+    "unit": "箱",
+    "price": 2500,
+    "amount": 22500
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 23,
+    "unit": "式",
+    "price": 1200,
+    "amount": 27600
+   },
+   {
+    "name": "設計作業費",
+    "qty": 27,
+    "unit": "人日",
+    "price": 48000,
+    "amount": 1296000
+   },
+   {
+    "name": "保守サポート費（月額）",
+    "qty": 22,
+    "unit": "式",
+    "price": 1200,
+    "amount": 26400
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 29,
+    "unit": "式",
+    "price": 35000,
+    "amount": 1015000
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 2,
+    "unit": "式",
+    "price": 35000,
+    "amount": 70000
+   },
+   {
+    "name": "保守サポート費（月額）",
+    "qty": 12,
+    "unit": "式",
+    "price": 2500,
+    "amount": 30000
+   },
+   {
+    "name": "ライセンス更新料",
+    "qty": 8,
+    "unit": "本",
+    "price": 800,
+    "amount": 6400
+   },
+   {
+    "name": "設計作業費",
+    "qty": 18,
+    "unit": "人日",
+    "price": 48000,
+    "amount": 864000
+   },
+   {
+    "name": "ライセンス更新料",
+    "qty": 28,
+    "unit": "本",
+    "price": 2500,
+    "amount": 70000
+   },
+   {
+    "name": "ライセンス更新料",
+    "qty": 16,
+    "unit": "本",
+    "price": 120000,
+    "amount": 1920000
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 21,
+    "unit": "回",
+    "price": 48000,
+    "amount": 1008000
+   }
+  ],
+  "n_rows": 20
+ },
+ {
+  "file": "invoice_49_E.pdf",
+  "template": "E",
+  "invoice_no": "INV-2026-0049",
+  "invoice_no_raw": "INV-2026-0049",
+  "issue_date": "2026-07-30",
+  "issue_date_raw": "2026年7月30日",
+  "vendor": "ヤマト梱包資材株式会社",
+  "vendor_addr": "埼玉県さいたま市大宮区桜木町1-7-5",
+  "subtotal": 7263500,
+  "tax": 726350,
+  "total": 7989850,
+  "rows": [
+   {
+    "name": "梱包資材（Lサイズ）",
+    "qty": 21,
+    "unit": "箱",
+    "price": 1200,
+    "amount": 25200
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 28,
+    "unit": "式",
+    "price": 1200,
+    "amount": 33600
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 11,
+    "unit": "回",
+    "price": 35000,
+    "amount": 385000
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 7,
+    "unit": "式",
+    "price": 12000,
+    "amount": 84000
+   },
+   {
+    "name": "梱包資材（Lサイズ）",
+    "qty": 4,
+    "unit": "箱",
+    "price": 4800,
+    "amount": 19200
+   },
+   {
+    "name": "運送費",
+    "qty": 20,
+    "unit": "回",
+    "price": 1200,
+    "amount": 24000
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 28,
+    "unit": "回",
+    "price": 800,
+    "amount": 22400
+   },
+   {
+    "name": "設計作業費",
+    "qty": 20,
+    "unit": "人日",
+    "price": 800,
+    "amount": 16000
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 16,
+    "unit": "個",
+    "price": 48000,
+    "amount": 768000
+   },
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 21,
+    "unit": "枚",
+    "price": 35000,
+    "amount": 735000
+   },
+   {
+    "name": "消耗品一式",
+    "qty": 19,
+    "unit": "式",
+    "price": 12000,
+    "amount": 228000
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 26,
+    "unit": "式",
+    "price": 4800,
+    "amount": 124800
+   },
+   {
+    "name": "追加開発費",
+    "qty": 1,
+    "unit": "人日",
+    "price": 48000,
+    "amount": 48000
+   },
+   {
+    "name": "ライセンス更新料",
+    "qty": 18,
+    "unit": "本",
+    "price": 120000,
+    "amount": 2160000
+   },
+   {
+    "name": "定期点検作業",
+    "qty": 13,
+    "unit": "回",
+    "price": 48000,
+    "amount": 624000
+   },
+   {
+    "name": "出張旅費",
+    "qty": 14,
+    "unit": "式",
+    "price": 120000,
+    "amount": 1680000
+   },
+   {
+    "name": "出張旅費",
+    "qty": 2,
+    "unit": "式",
+    "price": 1200,
+    "amount": 2400
+   },
+   {
+    "name": "設計作業費",
+    "qty": 11,
+    "unit": "人日",
+    "price": 2500,
+    "amount": 27500
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 22,
+    "unit": "個",
+    "price": 1200,
+    "amount": 26400
+   },
+   {
+    "name": "設計作業費",
+    "qty": 2,
+    "unit": "人日",
+    "price": 120000,
+    "amount": 240000
+   },
+   {
+    "name": "お値引き",
+    "qty": 1,
+    "unit": "式",
+    "price": -10000,
+    "amount": -10000
+   }
+  ],
+  "n_rows": 21
+ },
+ {
+  "file": "invoice_50_E.pdf",
+  "template": "E",
+  "invoice_no": "20260809-050",
+  "invoice_no_raw": "20260809-050",
+  "issue_date": "2026-08-09",
+  "issue_date_raw": "2026/08/09",
+  "vendor": "株式会社ニシキ印刷",
+  "vendor_addr": "広島県広島市中区八丁堀12-2",
+  "subtotal": 8550500,
+  "tax": 855050,
+  "total": 9405550,
+  "rows": [
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 30,
+    "unit": "枚",
+    "price": 35000,
+    "amount": 1050000
+   },
+   {
+    "name": "追加開発費",
+    "qty": 26,
+    "unit": "人日",
+    "price": 1200,
+    "amount": 31200
+   },
+   {
+    "name": "追加開発費",
+    "qty": 4,
+    "unit": "人日",
+    "price": 35000,
+    "amount": 140000
+   },
+   {
+    "name": "運送費",
+    "qty": 28,
+    "unit": "回",
+    "price": 2500,
+    "amount": 70000
+   },
+   {
+    "name": "設計作業費",
+    "qty": 1,
+    "unit": "人日",
+    "price": 1200,
+    "amount": 1200
+   },
+   {
+    "name": "梱包資材（Lサイズ）",
+    "qty": 7,
+    "unit": "箱",
+    "price": 120000,
+    "amount": 840000
+   },
+   {
+    "name": "運送費",
+    "qty": 16,
+    "unit": "回",
+    "price": 12000,
+    "amount": 192000
+   },
+   {
+    "name": "ライセンス更新料",
+    "qty": 18,
+    "unit": "本",
+    "price": 12000,
+    "amount": 216000
+   },
+   {
+    "name": "梱包資材（Lサイズ）",
+    "qty": 22,
+    "unit": "箱",
+    "price": 35000,
+    "amount": 770000
+   },
+   {
+    "name": "追加開発費",
+    "qty": 1,
+    "unit": "人日",
+    "price": 48000,
+    "amount": 48000
+   },
+   {
+    "name": "梱包資材（Lサイズ）",
+    "qty": 13,
+    "unit": "箱",
+    "price": 35000,
+    "amount": 455000
+   },
+   {
+    "name": "ライセンス更新料",
+    "qty": 6,
+    "unit": "本",
+    "price": 12000,
+    "amount": 72000
+   },
+   {
+    "name": "部品A-2200",
+    "qty": 10,
+    "unit": "個",
+    "price": 800,
+    "amount": 8000
+   },
+   {
+    "name": "出張旅費",
+    "qty": 21,
+    "unit": "式",
+    "price": 12000,
+    "amount": 252000
+   },
+   {
+    "name": "追加開発費",
+    "qty": 30,
+    "unit": "人日",
+    "price": 12000,
+    "amount": 360000
+   },
+   {
+    "name": "出張旅費",
+    "qty": 29,
+    "unit": "式",
+    "price": 120000,
+    "amount": 3480000
+   },
+   {
+    "name": "サーバー利用料",
+    "qty": 1,
+    "unit": "式",
+    "price": 120000,
+    "amount": 120000
+   },
+   {
+    "name": "保守サポート費（月額）",
+    "qty": 13,
+    "unit": "式",
+    "price": 2500,
+    "amount": 32500
+   },
+   {
+    "name": "ライセンス更新料",
+    "qty": 12,
+    "unit": "本",
+    "price": 4800,
+    "amount": 57600
+   },
+   {
+    "name": "印刷代（A4カラー）",
+    "qty": 3,
+    "unit": "枚",
+    "price": 120000,
+    "amount": 360000
+   },
+   {
+    "name": "お値引き",
+    "qty": 1,
+    "unit": "式",
+    "price": -5000,
+    "amount": -5000
+   }
+  ],
+  "n_rows": 21
+ }
+]

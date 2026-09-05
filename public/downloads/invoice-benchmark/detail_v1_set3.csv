@@ -1,0 +1,51 @@
+﻿file,template,invoice_no,issue_date,vendor,subtotal,tax,total,rows,flagged
+invoice3_01_K.pdf,K,NG(得:None / 正:INV-2026-0201),OK,OK,OK,OK,OK,5/5（抽出5行）,invoice_noが取れていない
+invoice3_02_K.pdf,K,NG(得:None / 正:20260809-202),OK,OK,OK,OK,OK,3/3（抽出3行）,invoice_noが取れていない
+invoice3_03_K.pdf,K,NG(得:None / 正:No.A00203),OK,OK,OK,OK,OK,5/5（抽出5行）,invoice_noが取れていない
+invoice3_04_K.pdf,K,NG(得:None / 正:SEI-2607-204),OK,OK,OK,OK,OK,3/3（抽出3行）,invoice_noが取れていない
+invoice3_05_K.pdf,K,NG(得:None / 正:INV-2026-0205),OK,OK,OK,OK,OK,3/3（抽出3行）,invoice_noが取れていない
+invoice3_06_K.pdf,K,NG(得:None / 正:20260722-206),OK,OK,OK,OK,OK,6/6（抽出6行）,invoice_noが取れていない
+invoice3_07_K.pdf,K,NG(得:None / 正:No.A00207),OK,OK,OK,OK,OK,7/7（抽出7行）,invoice_noが取れていない
+invoice3_08_K.pdf,K,NG(得:None / 正:SEI-2608-208),OK,OK,OK,OK,OK,7/7（抽出7行）,invoice_noが取れていない
+invoice3_09_K.pdf,K,NG(得:None / 正:INV-2026-0209),OK,OK,OK,OK,OK,7/7（抽出7行）,invoice_noが取れていない
+invoice3_10_K.pdf,K,NG(得:None / 正:20260802-210),OK,OK,OK,OK,OK,3/3（抽出3行）,invoice_noが取れていない
+invoice3_11_L.pdf,L,OK,OK,OK,NG(得:1039200 / 正:2288200),OK,OK,3/6（抽出3行）,小計+消費税が合計と一致しない
+invoice3_12_L.pdf,L,OK,OK,OK,NG(得:409600 / 正:1792000),OK,OK,3/7（抽出3行）,小計+消費税が合計と一致しない
+invoice3_13_L.pdf,L,OK,OK,OK,NG(得:19200 / 正:724000),OK,OK,1/3（抽出1行）,小計+消費税が合計と一致しない
+invoice3_14_L.pdf,L,OK,OK,OK,NG(得:3254400 / 正:6854400),OK,OK,2/4（抽出2行）,小計+消費税が合計と一致しない
+invoice3_15_L.pdf,L,OK,OK,OK,NG(得:15600 / 正:944400),OK,OK,1/3（抽出1行）,小計+消費税が合計と一致しない
+invoice3_16_L.pdf,L,OK,OK,OK,NG(得:325200 / 正:2554000),OK,OK,2/5（抽出2行）,小計+消費税が合計と一致しない
+invoice3_17_L.pdf,L,OK,OK,OK,NG(得:70000 / 正:1272500),OK,OK,1/3（抽出1行）,小計+消費税が合計と一致しない
+invoice3_18_L.pdf,L,OK,OK,OK,NG(得:17600 / 正:93600),OK,OK,2/4（抽出2行）,小計+消費税が合計と一致しない
+invoice3_19_L.pdf,L,OK,OK,OK,NG(得:335000 / 正:1019000),OK,OK,2/4（抽出2行）,小計+消費税が合計と一致しない
+invoice3_20_L.pdf,L,OK,OK,OK,NG(得:141600 / 正:6211600),OK,OK,2/5（抽出2行）,小計+消費税が合計と一致しない
+invoice3_21_M.pdf,M,OK,OK,OK,OK,OK,OK,0/7（抽出7行）,"明細合計(264,000)と小計(4,485,600)が不一致 / 数量x単価が金額と合わない行がある（出張旅費）"
+invoice3_22_M.pdf,M,OK,OK,OK,OK,OK,OK,0/7（抽出7行）,"明細合計(332,800)と小計(2,278,900)が不一致 / 数量x単価が金額と合わない行がある（定期点検作業）"
+invoice3_23_M.pdf,M,OK,OK,OK,OK,OK,OK,0/6（抽出6行）,"明細合計(283,100)と小計(4,040,100)が不一致 / 数量x単価が金額と合わない行がある（追加開発費）"
+invoice3_24_M.pdf,M,OK,OK,OK,OK,OK,OK,0/4（抽出4行）,"明細合計(169,600)と小計(4,300,800)が不一致 / 数量x単価が金額と合わない行がある（ライセンス更新料）"
+invoice3_25_M.pdf,M,OK,OK,OK,OK,OK,OK,1/5（抽出5行）,"明細合計(163,500)と小計(3,352,100)が不一致 / 数量x単価が金額と合わない行がある（追加開発費）"
+invoice3_26_M.pdf,M,OK,OK,OK,OK,OK,OK,0/4（抽出4行）,"明細合計(60,200)と小計(995,400)が不一致 / 数量x単価が金額と合わない行がある（設計作業費）"
+invoice3_27_M.pdf,M,OK,OK,OK,OK,OK,OK,0/4（抽出4行）,"明細合計(73,200)と小計(782,400)が不一致 / 数量x単価が金額と合わない行がある（定期点検作業）"
+invoice3_28_M.pdf,M,OK,OK,OK,OK,OK,OK,0/5（抽出5行）,"明細合計(52,000)と小計(646,000)が不一致 / 数量x単価が金額と合わない行がある（保守サポート費(月額)）"
+invoice3_29_M.pdf,M,OK,OK,OK,OK,OK,OK,0/4（抽出4行）,"明細合計(52,600)と小計(603,000)が不一致 / 数量x単価が金額と合わない行がある（部品A-2200）"
+invoice3_30_M.pdf,M,OK,OK,OK,OK,OK,OK,0/3（抽出3行）,"明細合計(132,800)と小計(2,111,200)が不一致 / 数量x単価が金額と合わない行がある（サーバー利用料）"
+invoice3_31_N.pdf,N,OK,OK,OK,OK,OK,OK,6/6（抽出6行）,
+invoice3_32_N.pdf,N,OK,OK,OK,OK,OK,OK,5/5（抽出5行）,
+invoice3_33_N.pdf,N,OK,OK,OK,OK,OK,OK,4/4（抽出4行）,
+invoice3_34_N.pdf,N,OK,OK,OK,OK,OK,OK,6/6（抽出6行）,
+invoice3_35_N.pdf,N,OK,OK,OK,OK,OK,OK,7/7（抽出7行）,
+invoice3_36_N.pdf,N,OK,OK,OK,OK,OK,OK,3/3（抽出3行）,
+invoice3_37_N.pdf,N,OK,OK,OK,OK,OK,OK,7/7（抽出7行）,
+invoice3_38_N.pdf,N,OK,OK,OK,OK,OK,OK,4/4（抽出4行）,
+invoice3_39_N.pdf,N,OK,OK,OK,OK,OK,OK,7/7（抽出7行）,
+invoice3_40_N.pdf,N,OK,OK,OK,OK,OK,OK,4/4（抽出4行）,
+invoice3_41_O.pdf,O,OK,OK,OK,OK,OK,OK,15/15（抽出15行）,
+invoice3_42_O.pdf,O,OK,OK,OK,OK,OK,OK,15/15（抽出15行）,
+invoice3_43_O.pdf,O,OK,OK,OK,OK,OK,OK,11/11（抽出11行）,
+invoice3_44_O.pdf,O,OK,OK,OK,OK,OK,OK,11/11（抽出11行）,
+invoice3_45_O.pdf,O,OK,OK,OK,OK,OK,OK,12/12（抽出12行）,
+invoice3_46_O.pdf,O,OK,OK,OK,OK,OK,OK,11/11（抽出11行）,
+invoice3_47_O.pdf,O,OK,OK,OK,OK,OK,OK,13/13（抽出13行）,
+invoice3_48_O.pdf,O,OK,OK,OK,OK,OK,OK,11/11（抽出11行）,
+invoice3_49_O.pdf,O,OK,OK,OK,OK,OK,OK,15/15（抽出15行）,
+invoice3_50_O.pdf,O,OK,OK,OK,OK,OK,OK,13/13（抽出13行）,
