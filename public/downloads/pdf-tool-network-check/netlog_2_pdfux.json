@@ -1,0 +1,29 @@
+{
+  "tool": "pdfux（PDFを圧縮）",
+  "url": "https://pdfux.com/ja/assaku-pdf/",
+  "claim_quote": "ファイルはコンピューターから外に出ません。処理はブラウザー内で行われます。（ページタイトルにも「アップロード不要の無料PDFツール」と明記）",
+  "claim_source_urls": [
+    "https://pdfux.com/ja/",
+    "https://pdfux.com/ja/assaku-pdf/"
+  ],
+  "test_time_jst": "2026-09-06T11:45頃",
+  "test_action": "dummy_test.pdf（2895バイト）を選択し、圧縮レベル「中（良いバランス）」でPDFを圧縮ボタンを押した",
+  "result_on_page": "2.8 KB → 2.5 KB（10.7%小さく）。ファイルの準備ができました、と表示されダウンロード可能に",
+  "detection_methods": [
+    "ページ内でwindow.fetchとXMLHttpRequest.prototype.sendを差し替え、送信されたリクエストのURL・method・bodyを記録",
+    "performance.getEntriesByType('resource')で読み込んだ全リソースのURLを確認（自社ドメイン以外はゼロ件）",
+    "ブラウザのネットワーク要求一覧でも突き合わせ"
+  ],
+  "captured_requests_during_upload_and_compress": [
+    {
+      "type": "xhr",
+      "method": "POST",
+      "url": "/stats/api",
+      "bodySize": 231,
+      "body_full_text": "{\"n\":\"tool-usage\",\"u\":\"https://pdfux.com/ja/assaku-pdf/\",\"d\":\"pdfux.com\",\"r\":null,\"p\":{\"page_count\":\"1\",\"processing_time\":\"0-1s\",\"compression_percentage\":\"10-25\",\"compression_level\":\"medium\",\"action\":\"compress\",\"version\":\"2.0.44\"}}",
+      "note": "自社ドメインへの匿名の利用統計送信のみ。ページ数・処理時間の範囲・圧縮率の範囲・圧縮レベル・機能名・ソフトウェアバージョンだけで、ファイル名もファイルの中身も含まれない"
+    }
+  ],
+  "third_party_hosts_contacted": [],
+  "verdict": "主張と一致。第三者ドメインへの通信は0件。自社への通信も匿名の利用統計のみで、ファイルの中身は含まれない"
+}

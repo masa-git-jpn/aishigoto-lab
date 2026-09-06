@@ -1,0 +1,113 @@
+---
+import Base from '../../layouts/Base.astro';
+import { SITE } from '../../consts';
+
+const BASE = '/downloads/pdf-tool-network-check';
+
+const groups = [
+  {
+    heading: 'ダミーPDFと生成スクリプト',
+    files: [
+      { f: 'make_dummy_pdf.py', d: '検証用ダミーPDFの生成スクリプト（意味のないテキストのみ・機密情報なし）' },
+      { f: 'dummy_test.pdf', d: '実際にアップロードしたダミーPDF（2895バイト）' },
+      { f: 'dummy_test2.pdf', d: '結合テスト用の2つ目のダミーPDF（同内容）' },
+    ],
+  },
+  {
+    heading: '各ツールの通信記録',
+    files: [
+      { f: 'netlog_1_freetool.json', d: 'FreeTool（PDF圧縮）の検証記録' },
+      { f: 'netlog_2_pdfux.json', d: 'pdfux（PDF圧縮）の検証記録' },
+      { f: 'netlog_3_epmelody.json', d: 'ポケットツールズ（PDF結合）の検証記録' },
+      { f: 'netlog_4_ilovepdf_control.json', d: 'iLovePDF（対照群・PDF圧縮）の検証記録' },
+    ],
+  },
+  {
+    heading: '集計',
+    files: [{ f: 'summary.csv', d: '4件の結果一覧（表計算ソフトで開けます）' }],
+  },
+];
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Dataset',
+  name: '無料PDFツールのアップロード有無 通信ログ検証',
+  description:
+    '「アップロード不要」を謳う無料PDFツール3種と、クラウド処理を公言するiLovePDF（対照群）について、ダミーPDFを渡した際の通信を記録した全データ。',
+  url: `${SITE.url}/data/pdf-tool-network-check/`,
+  inLanguage: 'ja',
+  license: 'https://creativecommons.org/publicdomain/zero/1.0/',
+  creator: { '@type': 'Organization', name: SITE.name, url: SITE.url },
+};
+---
+
+<Base
+  title="無料PDFツール 通信ログ検証 生データ"
+  description="「アップロード不要」を謳う無料PDFツール3種と対照群iLovePDFについて、ダミーPDFを渡した際の通信の全記録。検証用ダミーPDF、通信記録コード、生ログを公開しています。"
+  jsonLd={jsonLd}
+>
+  <article class="narrow prose" style="padding-block:2.5rem 1rem;">
+    <h1>無料PDFツール 通信ログ検証 生データ</h1>
+
+    <p>
+      以下の記事で使った検証データの全部です。
+      <strong>検証に使ったダミーPDFそのもの</strong>も入れてあります。
+    </p>
+
+    <ul>
+      <li><a href="/review/pdf-tool-upload-network-check/">無料PDFツールは本当に「アップロード不要」なのか、通信ログで確認した</a></li>
+    </ul>
+
+    <div class="verify-box">
+      <h2>検証環境</h2>
+      <ul style="margin:0;">
+        <li>Chromium系ブラウザ（148系）</li>
+        <li>検証日 2026-09-06（日本時間）</li>
+      </ul>
+    </div>
+
+    <h2>なぜ対照群（iLovePDF）を入れたのか</h2>
+    <p>
+      「3件とも送信されなかった」という結果だけを見せると、<strong>測り方が甘くて見逃しているだけではないか</strong>
+      という疑問が残ります。そこで「アップロード不要」を謳っていない、素直にサーバー処理を行うiLovePDFを
+      同じ方法で計測し、<strong>実際にファイルがアップロードされる様子をこの方法で検出できるか</strong>を確認しました。
+      結果、ファイル名・ファイルサイズが完全一致した状態でのアップロードを検出できています（<code>netlog_4_ilovepdf_control.json</code>）。
+    </p>
+
+    <h2>測り方</h2>
+    <ol>
+      <li>中身が既知のダミーPDF（2895バイト、機密情報なし）を用意する</li>
+      <li>各ツールのページでJavaScriptの通信関数（fetch / XMLHttpRequest）を差し替え、以降の全通信のURL・送信内容を記録する状態にする</li>
+      <li>ダミーPDFをツールに渡し、圧縮または結合を実行する</li>
+      <li>記録された通信に、ファイル名・ファイルサイズ・ファイル内容が含まれていないかを確認する</li>
+      <li>ブラウザのネットワーク要求一覧でも二重に確認する</li>
+    </ol>
+    <p>通信を記録するために使ったコードは <code>README.md</code> に全文を載せています。</p>
+
+    <h2>ファイル一覧</h2>
+    {groups.map((g) => (
+      <>
+        <h3>{g.heading}</h3>
+        <ul>
+          {g.files.map((x) => (
+            <li>
+              <a href={`${BASE}/${x.f}`}><code>{x.f}</code></a> — {x.d}
+            </li>
+          ))}
+        </ul>
+      </>
+    ))}
+    <p>
+      <a href={`${BASE}/README.md`}><code>README.md</code></a> — 検証方法・通信記録コードの全文・検証の限界
+    </p>
+
+    <div class="note">
+      <p>
+        <strong>誤りを見つけた場合はご指摘ください。</strong>
+        検証の設計ミスや見落としが混じっている可能性は常にあります。
+        <a href="/contact/">お問い合わせ</a>からご連絡いただければ、確認のうえ訂正し、
+        いつ・どこを・なぜ訂正したかを該当記事に明記します。
+      </p>
+    </div>
+  </article>
+</Base>

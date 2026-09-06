@@ -1,0 +1,45 @@
+{
+  "tool": "iLovePDF（PDF圧縮）",
+  "url": "https://www.ilovepdf.com/ja/compress_pdf",
+  "role": "対照群（ポジティブコントロール）。「アップロード不要」は謳っておらず、無料版に回数制限があることを公言しているクラウド処理サービス",
+  "claim_quote": "（『アップロード不要』のような主張はしていない。他社比較表で『ファイルのサーバー送信：あり』と自ら明記している例もある）",
+  "test_time_jst": "2026-09-06T12:15頃",
+  "test_action": "dummy_test.pdf（2895バイト）を選択し、PDF圧縮ボタンを押した",
+  "result_on_page": "ダウンロードページへ自動遷移し、圧縮済みファイルのダウンロードリンクが表示された",
+  "detection_methods": [
+    "ページ内でwindow.fetchとXMLHttpRequest.prototype.sendを差し替え、FormDataの中身（キー・ファイル名・ファイルサイズ・MIMEタイプ）まで記録",
+    "記録はsessionStorageに保存し、ダウンロードページへの画面遷移後も内容が失われないようにした"
+  ],
+  "captured_requests_during_upload_and_compress": [
+    {
+      "type": "xhr",
+      "method": "POST",
+      "url": "https://api67.ilovepdf.com/v1/upload",
+      "form_data": {
+        "name": "dummy_test.pdf",
+        "chunk": "0",
+        "chunks": "1",
+        "task": "（サーバー発行のタスクトークン、英数字185文字）",
+        "file": { "isFile": true, "name": "dummy_test.pdf", "size": 2895, "type": "application/pdf" }
+      },
+      "note": "検証用ファイルそのもの（ファイル名・サイズ2895バイトとも元ファイルと完全一致）が、multipart/form-dataとして第三者的な処理用サーバーapi67.ilovepdf.comへ送信された"
+    },
+    {
+      "type": "xhr",
+      "method": "POST",
+      "url": "//api67.ilovepdf.com/v1/process",
+      "form_data": {
+        "compression_level": "recommended",
+        "task": "（上と同じタスクトークン）",
+        "tool": "compress",
+        "files[0][server_filename]": "（サーバー側で採番されたファイル名）",
+        "files[0][filename]": "dummy_test.pdf"
+      },
+      "note": "アップロード済みのファイルに対してサーバー側で圧縮処理を実行する指示"
+    }
+  ],
+  "third_party_hosts_contacted": [
+    "api67.ilovepdf.com（ファイル本体のアップロード先・処理サーバー）"
+  ],
+  "verdict": "実際にファイルのアップロードを観測した。これは同社が『アップロード不要』を謳っていないことと矛盾しない。今回の計測手法（fetch/XHR差し替え）が実際のアップロードを正しく検出できることを確認する対照実験として実施した"
+}

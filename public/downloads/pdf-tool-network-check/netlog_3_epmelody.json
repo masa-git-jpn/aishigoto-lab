@@ -1,0 +1,30 @@
+{
+  "tool": "ポケットツールズ（PDF結合）",
+  "url": "https://www.ep-melody.com/tools/pdfcomb/",
+  "claim_quote": "ブラウザで完結！PDF結合。データはサーバーに送信されず、すべてお使いの端末上で処理されます。「PDFを結合する」ボタンを押すと端末内での処理が開始されます。完了後、1つにまとまった新しいPDFファイルが自動的にお使いの端末へ保存されます。",
+  "claim_source_urls": [
+    "https://www.ep-melody.com/tools/pdfcomb/"
+  ],
+  "test_time_jst": "2026-09-06T12:02頃",
+  "test_action": "dummy_test.pdf（2895バイト）とdummy_test2.pdf（同内容2895バイト）の2ファイルを選択し、PDFを結合するボタンを押した",
+  "result_on_page": "ページの説明どおり、処理完了後にブラウザが自動でファイルをダウンロードする仕様（ページ表示自体はファイル一覧のまま変化しない）",
+  "detection_methods": [
+    "ページ内でwindow.fetchとXMLHttpRequest.prototype.sendを差し替え、送信されたリクエストのURL・method・bodyを記録",
+    "記録したリクエスト本文にファイル名（dummy_test.pdf等）や検証用マーカー文字列（AISHIGOTO-LAB-TEST-8823-NETLOG）が含まれていないかを機械的にチェック",
+    "ブラウザのネットワーク要求一覧でも突き合わせ"
+  ],
+  "captured_requests_during_upload_and_merge": [
+    {
+      "type": "fetch",
+      "method": "POST",
+      "url": "https://pagead2.googlesyndication.com/pagead/ping?e=1",
+      "bodySize": 3266,
+      "note": "Google AdSenseの広告表示計測ping。本文はAdSenseの広告設定ID列（ca-pub-...や広告枠ID等）のみで、ファイル名・ファイル内容のマーカー文字列は含まれていなかった。処理中に3〜4回発生したが、いずれも同種の広告計測データだった"
+    }
+  ],
+  "third_party_hosts_contacted": [
+    "pagead2.googlesyndication.com（Google AdSenseの広告計測pingのみ）"
+  ],
+  "note_for_readers": "この手のサイトでは広告の計測通信（AdSense等）がファイル操作と同じタイミングで発生するため、通信ログだけを見ると『何か送っている』ように見えてしまう。本文の中身まで確認しないと誤判定する典型例だったので、あえてそのまま記録した",
+  "verdict": "主張と一致。観測範囲内でファイルの中身・ファイル名を含む通信は確認できなかった"
+}

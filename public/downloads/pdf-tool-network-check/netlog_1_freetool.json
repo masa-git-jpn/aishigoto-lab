@@ -1,0 +1,37 @@
+{
+  "tool": "FreeTool（PDF圧縮）",
+  "url": "https://freetool.jp/pdf/compress",
+  "claim_quote": "サーバー送信なし・ブラウザ内で処理 / すべての処理はブラウザ内で完結します。",
+  "claim_source_urls": [
+    "https://freetool.jp/pdf/compress",
+    "https://freetool.jp/security"
+  ],
+  "test_time_jst": "2026-09-06T11:34頃",
+  "test_action": "dummy_test.pdf（2895バイト）を選択し、圧縮レベル「標準」でPDFを圧縮ボタンを押した",
+  "result_on_page": "「これ以上は圧縮できませんでした」→ 元のファイルをそのまま返す（テキスト中心PDFのため）",
+  "detection_methods": [
+    "ページ内でwindow.fetchとXMLHttpRequest.prototype.sendを差し替え、送信されたリクエストのURL・method・bodyを記録",
+    "performance.getEntriesByType('resource')で読み込んだ全リソースのURLを確認",
+    "ブラウザのネットワーク要求一覧（開発者ツールのNetworkタブに相当）でも突き合わせ"
+  ],
+  "captured_requests_during_upload_and_compress": [
+    {
+      "type": "fetch",
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-QZYMZ785C8&...&en=tool_start&...&ep.tool_id=pdf-compress&...",
+      "bodySize": 0,
+      "note": "Google Analytics(GA4)の標準イベント計測ビーコン。クエリ文字列にページURL・画面解像度・言語等は含まれるが、ファイル名・ファイル内容は一切含まれない"
+    },
+    {
+      "type": "network_get",
+      "method": "GET",
+      "url": "https://freetool.jp/pdf.worker.min.mjs",
+      "note": "PDF.js（PDFプレビュー描画用）のワーカースクリプト。自社ドメインからの静的ファイル取得で、ファイルを外部に送るものではない"
+    }
+  ],
+  "third_party_hosts_contacted": [
+    "www.googletagmanager.com（ページ読み込み時のGAスクリプト読み込みのみ）",
+    "www.google-analytics.com（上記イベントビーコンのみ）"
+  ],
+  "verdict": "主張と一致。ファイルの中身、ファイル名、ファイルサイズを含む通信は観測されなかった"
+}

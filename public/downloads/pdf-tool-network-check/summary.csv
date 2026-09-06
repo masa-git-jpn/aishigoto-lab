@@ -1,0 +1,5 @@
+tool,url,claim,test_action,third_party_upload_observed,file_bytes_sent,verdict
+FreeTool,https://freetool.jp/pdf/compress,サーバー送信なし・ブラウザ内で処理,PDF圧縮,no,no,主張と一致
+pdfux,https://pdfux.com/ja/assaku-pdf/,アップロード不要（ファイルは端末外に出ない）,PDF圧縮,no,no,主張と一致
+ポケットツールズ,https://www.ep-melody.com/tools/pdfcomb/,データはサーバーに送信されず端末上で処理,PDF結合(2ファイル),no,no,主張と一致
+iLovePDF(対照群),https://www.ilovepdf.com/ja/compress_pdf,（アップロード不要は非主張。クラウド処理を公言）,PDF圧縮,yes,yes(2895 bytes一致),クラウド処理を実測で確認（手法の妥当性確認）
