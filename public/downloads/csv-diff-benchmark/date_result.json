@@ -1,0 +1,184 @@
+{
+ "cells": [
+  {
+   "original": "1-2",
+   "note": "月と日の区切りに見える",
+   "standard_display": "1-2",
+   "standard_value": 0.0,
+   "standard_type": "TEXT",
+   "standard_changed": false,
+   "text_display": "1-2",
+   "text_type": "TEXT",
+   "text_changed": false
+  },
+  {
+   "original": "2-3",
+   "note": "同上",
+   "standard_display": "2-3",
+   "standard_value": 0.0,
+   "standard_type": "TEXT",
+   "standard_changed": false,
+   "text_display": "2-3",
+   "text_type": "TEXT",
+   "text_changed": false
+  },
+  {
+   "original": "3/4",
+   "note": "分数にも日付にも見える",
+   "standard_display": "03/04/26",
+   "standard_value": 46085.0,
+   "standard_type": "VALUE",
+   "standard_changed": true,
+   "text_display": "3/4",
+   "text_type": "TEXT",
+   "text_changed": false
+  },
+  {
+   "original": "2026-1-2",
+   "note": "年月日に見える",
+   "standard_display": "2026-01-02",
+   "standard_value": 46024.0,
+   "standard_type": "VALUE",
+   "standard_changed": true,
+   "text_display": "2026-1-2",
+   "text_type": "TEXT",
+   "text_changed": false
+  },
+  {
+   "original": "01-02",
+   "note": "先頭ゼロ付きの日付風",
+   "standard_display": "01-02",
+   "standard_value": 0.0,
+   "standard_type": "TEXT",
+   "standard_changed": false,
+   "text_display": "01-02",
+   "text_type": "TEXT",
+   "text_changed": false
+  },
+  {
+   "original": "0012",
+   "note": "先頭ゼロ付きの番号",
+   "standard_display": "12",
+   "standard_value": 12.0,
+   "standard_type": "VALUE",
+   "standard_changed": true,
+   "text_display": "0012",
+   "text_type": "TEXT",
+   "text_changed": false
+  },
+  {
+   "original": "00123456789",
+   "note": "先頭ゼロ付きの長い番号",
+   "standard_display": "123456789",
+   "standard_value": 123456789.0,
+   "standard_type": "VALUE",
+   "standard_changed": true,
+   "text_display": "00123456789",
+   "text_type": "TEXT",
+   "text_changed": false
+  },
+  {
+   "original": "1E5",
+   "note": "指数表記に見える",
+   "standard_display": "1.00E+05",
+   "standard_value": 100000.0,
+   "standard_type": "VALUE",
+   "standard_changed": true,
+   "text_display": "1E5",
+   "text_type": "TEXT",
+   "text_changed": false
+  },
+  {
+   "original": "1234567890123456",
+   "note": "16桁の番号",
+   "standard_display": "1234567890123456",
+   "standard_value": 1234567890123456.0,
+   "standard_type": "VALUE",
+   "standard_changed": false,
+   "text_display": "1234567890123456",
+   "text_type": "TEXT",
+   "text_changed": false
+  },
+  {
+   "original": "9999999999999999",
+   "note": "16桁の番号（大きいほう）",
+   "standard_display": "1E+016",
+   "standard_value": 1e+16,
+   "standard_type": "VALUE",
+   "standard_changed": true,
+   "text_display": "9999999999999999",
+   "text_type": "TEXT",
+   "text_changed": false
+  },
+  {
+   "original": "+81 90",
+   "note": "電話番号の一部",
+   "standard_display": "+81 90",
+   "standard_value": 0.0,
+   "standard_type": "TEXT",
+   "standard_changed": false,
+   "text_display": "+81 90",
+   "text_type": "TEXT",
+   "text_changed": false
+  },
+  {
+   "original": "(123)",
+   "note": "括弧つき",
+   "standard_display": "-123",
+   "standard_value": -123.0,
+   "standard_type": "VALUE",
+   "standard_changed": true,
+   "text_display": "(123)",
+   "text_type": "TEXT",
+   "text_changed": false
+  },
+  {
+   "original": "１２３",
+   "note": "全角数字",
+   "standard_display": "１２３",
+   "standard_value": 0.0,
+   "standard_type": "TEXT",
+   "standard_changed": false,
+   "text_display": "１２３",
+   "text_type": "TEXT",
+   "text_changed": false
+  },
+  {
+   "original": "TRUE",
+   "note": "真偽値に見える",
+   "standard_display": "TRUE",
+   "standard_value": 1.0,
+   "standard_type": "VALUE",
+   "standard_changed": false,
+   "text_display": "TRUE",
+   "text_type": "TEXT",
+   "text_changed": false
+  },
+  {
+   "original": "NA",
+   "note": "欠損値に見える",
+   "standard_display": "NA",
+   "standard_value": 0.0,
+   "standard_type": "TEXT",
+   "standard_changed": false,
+   "text_display": "NA",
+   "text_type": "TEXT",
+   "text_changed": false
+  },
+  {
+   "original": "１-２",
+   "note": "全角の日付風",
+   "standard_display": "１-２",
+   "standard_value": 0.0,
+   "standard_type": "TEXT",
+   "standard_changed": false,
+   "text_display": "１-２",
+   "text_type": "TEXT",
+   "text_changed": false
+  }
+ ],
+ "roundtrip_csv": "\"元の値\",\"説明\"\n\"1-2\",\"月と日の区切りに見える\"\n\"2-3\",\"同上\"\n03/04/26,\"分数にも日付にも見える\"\n2026-01-02,\"年月日に見える\"\n\"01-02\",\"先頭ゼロ付きの日付風\"\n12,\"先頭ゼロ付きの番号\"\n123456789,\"先頭ゼロ付きの長い番号\"\n1.00E+05,\"指数表記に見える\"\n1234567890123456,\"16桁の番号\"\n1E+016,\"16桁の番号（大きいほう）\"\n\"+81 90\",\"電話番号の一部\"\n-123,\"括弧つき\"\n\"１２３\",\"全角数字\"\nTRUE,\"真偽値に見える\"\n\"NA\",\"欠損値に見える\"\n\"１-２\",\"全角の日付風\"\n",
+ "changed_count_standard": 7,
+ "changed_count_text": 0,
+ "total": 16
+}

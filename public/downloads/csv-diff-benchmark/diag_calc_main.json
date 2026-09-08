@@ -1,0 +1,142 @@
+{
+ "standard": {
+  "digit16_value_equal": 156,
+  "digit16_string_equal": 499,
+  "digit16_both_equal": 156,
+  "digit16_examples_value_equal": [
+   {
+    "row": 9,
+    "a_string": "9.9539037755349E+015",
+    "b_string": "9.9539037755349E+015",
+    "a_value": "9953903775534896.0",
+    "b_value": "9953903775534896.0"
+   },
+   {
+    "row": 12,
+    "a_string": "9.32292299627884E+015",
+    "b_string": "9.32292299627884E+015",
+    "a_value": "9322922996278836.0",
+    "b_value": "9322922996278836.0"
+   },
+   {
+    "row": 26,
+    "a_string": "9.64576770081848E+015",
+    "b_string": "9.64576770081848E+015",
+    "a_value": "9645767700818476.0",
+    "b_value": "9645767700818476.0"
+   },
+   {
+    "row": 304,
+    "a_string": "9.75511927124916E+015",
+    "b_string": "9.75511927124916E+015",
+    "a_value": "9755119271249156.0",
+    "b_value": "9755119271249156.0"
+   },
+   {
+    "row": 323,
+    "a_string": "9.11007447137941E+015",
+    "b_string": "9.11007447137941E+015",
+    "a_value": "9110074471379412.0",
+    "b_value": "9110074471379412.0"
+   },
+   {
+    "row": 327,
+    "a_string": "9.69783541016564E+015",
+    "b_string": "9.69783541016564E+015",
+    "a_value": "9697835410165636.0",
+    "b_value": "9697835410165636.0"
+   },
+   {
+    "row": 364,
+    "a_string": "9.16896780152147E+015",
+    "b_string": "9.16896780152147E+015",
+    "a_value": "9168967801521468.0",
+    "b_value": "9168967801521468.0"
+   },
+   {
+    "row": 472,
+    "a_string": "9.79186071209952E+015",
+    "b_string": "9.79186071209952E+015",
+    "a_value": "9791860712099516.0",
+    "b_value": "9791860712099516.0"
+   }
+  ],
+  "digit16_examples_string_equal_only": [
+   {
+    "row": 44,
+    "a_string": "9.08850086983978E+015",
+    "b_string": "9.08850086983978E+015",
+    "a_value": "9088500869839780.0",
+    "b_value": "9088500869839782.0"
+   },
+   {
+    "row": 48,
+    "a_string": "9.05210465141682E+015",
+    "b_string": "9.05210465141682E+015",
+    "a_value": "9052104651416820.0",
+    "b_value": "9052104651416824.0"
+   },
+   {
+    "row": 62,
+    "a_string": "9.34998665738526E+015",
+    "b_string": "9.34998665738526E+015",
+    "a_value": "9349986657385262.0",
+    "b_value": "9349986657385264.0"
+   },
+   {
+    "row": 99,
+    "a_string": "9.32257198889148E+015",
+    "b_string": "9.32257198889148E+015",
+    "a_value": "9322571988891476.0",
+    "b_value": "9322571988891478.0"
+   },
+   {
+    "row": 111,
+    "a_string": "9.62700524944541E+015",
+    "b_string": "9.62700524944541E+015",
+    "a_value": "9627005249445406.0",
+    "b_value": "9627005249445408.0"
+   },
+   {
+    "row": 132,
+    "a_string": "9.05320469300204E+015",
+    "b_string": "9.05320469300204E+015",
+    "a_value": "9053204693002040.0",
+    "b_value": "9053204693002036.0"
+   },
+   {
+    "row": 140,
+    "a_string": "9.67433738749339E+015",
+    "b_string": "9.67433738749339E+015",
+    "a_value": "9674337387493390.0",
+    "b_value": "9674337387493392.0"
+   },
+   {
+    "row": 158,
+    "a_string": "9.60799205642196E+015",
+    "b_string": "9.60799205642196E+015",
+    "a_value": "9607992056421964.0",
+    "b_value": "9607992056421962.0"
+   }
+  ],
+  "setting_CaseSensitive": null,
+  "setting_IsIterationEnabled": false,
+  "setting_CalcAsShown": false,
+  "setting_LookUpLabels": false,
+  "xlookup_error_code": 525,
+  "xlookup_display": "#NAME?"
+ },
+ "text": {
+  "digit16_value_equal": 0,
+  "digit16_string_equal": 0,
+  "digit16_both_equal": 0,
+  "digit16_examples_value_equal": [],
+  "digit16_examples_string_equal_only": [],
+  "setting_CaseSensitive": null,
+  "setting_IsIterationEnabled": false,
+  "setting_CalcAsShown": false,
+  "setting_LookUpLabels": false,
+  "xlookup_error_code": 525,
+  "xlookup_display": "#NAME?"
+ }
+}

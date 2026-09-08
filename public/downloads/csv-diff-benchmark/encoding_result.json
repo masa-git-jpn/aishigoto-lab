@@ -1,0 +1,91 @@
+{
+ "columns": [
+  "id",
+  "登録日",
+  "顧客名",
+  "金額",
+  "確認用番号",
+  "照合番号",
+  "商品コード"
+ ],
+ "rows": 500,
+ "pairs": {
+  "utf8_vs_utf8_bom": {
+   "python_no_encoding": {
+    "rows": 501,
+    "diff_rows": 1
+   },
+   "python_utf8": {
+    "rows": 501,
+    "diff_rows": 1
+   },
+   "pandas_default": {
+    "rows": 500,
+    "diff_rows": 0
+   },
+   "cmp_bytes": {
+    "returncode": 1,
+    "stdout_head": "enc_utf8.csv enc_utf8_bom.csv differ: char 1, line 1\n",
+    "stderr_head": ""
+   },
+   "diff": {
+    "returncode": 1,
+    "stdout_head": "Files enc_utf8.csv and enc_utf8_bom.csv differ\n",
+    "stderr_head": ""
+   }
+  },
+  "utf8_vs_sjis": {
+   "python_no_encoding": {
+    "error": "UnicodeDecodeError: 'utf-8' codec can't decode byte 0x93 in position 3: invalid start byte"
+   },
+   "python_utf8": {
+    "error": "UnicodeDecodeError: 'utf-8' codec can't decode byte 0x93 in position 3: invalid start byte"
+   },
+   "pandas_default": {
+    "error": "UnicodeDecodeError: 'utf-8' codec can't decode byte 0x93 in position 3: invalid start byte"
+   },
+   "cmp_bytes": {
+    "returncode": 1,
+    "stdout_head": "enc_utf8.csv enc_sjis.csv differ: char 4, line 1\n",
+    "stderr_head": ""
+   },
+   "diff": {
+    "returncode": 1,
+    "stdout_head": "Files enc_utf8.csv and enc_sjis.csv differ\n",
+    "stderr_head": ""
+   }
+  },
+  "utf8_bom_vs_sjis": {
+   "python_no_encoding": {
+    "error": "UnicodeDecodeError: 'utf-8' codec can't decode byte 0x93 in position 3: invalid start byte"
+   },
+   "python_utf8": {
+    "error": "UnicodeDecodeError: 'utf-8' codec can't decode byte 0x93 in position 3: invalid start byte"
+   },
+   "pandas_default": {
+    "error": "UnicodeDecodeError: 'utf-8' codec can't decode byte 0x93 in position 3: invalid start byte"
+   },
+   "cmp_bytes": {
+    "returncode": 1,
+    "stdout_head": "enc_utf8_bom.csv enc_sjis.csv differ: char 1, line 1\n",
+    "stderr_head": ""
+   },
+   "diff": {
+    "returncode": 1,
+    "stdout_head": "Files enc_utf8_bom.csv and enc_sjis.csv differ\n",
+    "stderr_head": ""
+   }
+  },
+  "utf8_vs_utf8_control": {
+   "python_utf8": {
+    "rows": 501,
+    "diff_rows": 0
+   },
+   "cmp_bytes": {
+    "returncode": 0,
+    "stdout_head": "",
+    "stderr_head": ""
+   }
+  }
+ }
+}

@@ -1,0 +1,142 @@
+{
+ "standard": {
+  "digit16_value_equal": 701,
+  "digit16_string_equal": 1165,
+  "digit16_both_equal": 701,
+  "digit16_examples_value_equal": [
+   {
+    "row": 4,
+    "a_string": "7.64567513787132E+017",
+    "b_string": "7.64567513787132E+017",
+    "a_value": "7.645675137871324e+17",
+    "b_value": "7.645675137871324e+17"
+   },
+   {
+    "row": 16,
+    "a_string": "9.96955936533863E+017",
+    "b_string": "9.96955936533863E+017",
+    "a_value": "9.969559365338634e+17",
+    "b_value": "9.969559365338634e+17"
+   },
+   {
+    "row": 17,
+    "a_string": "2.42262982734672E+016",
+    "b_string": "2.42262982734672E+016",
+    "a_value": "2.422629827346719e+16",
+    "b_value": "2.422629827346719e+16"
+   },
+   {
+    "row": 20,
+    "a_string": "9.34987757332689E+016",
+    "b_string": "9.34987757332689E+016",
+    "a_value": "9.349877573326885e+16",
+    "b_value": "9.349877573326885e+16"
+   },
+   {
+    "row": 24,
+    "a_string": "6.98154121257193E+017",
+    "b_string": "6.98154121257193E+017",
+    "a_value": "6.981541212571933e+17",
+    "b_value": "6.981541212571933e+17"
+   },
+   {
+    "row": 25,
+    "a_string": "5.5828919873246E+016",
+    "b_string": "5.5828919873246E+016",
+    "a_value": "5.582891987324602e+16",
+    "b_value": "5.582891987324602e+16"
+   },
+   {
+    "row": 28,
+    "a_string": "7.60431212025398E+017",
+    "b_string": "7.60431212025398E+017",
+    "a_value": "7.604312120253978e+17",
+    "b_value": "7.604312120253978e+17"
+   },
+   {
+    "row": 29,
+    "a_string": "8.11020681922937E+017",
+    "b_string": "8.11020681922937E+017",
+    "a_value": "8.11020681922937e+17",
+    "b_value": "8.11020681922937e+17"
+   }
+  ],
+  "digit16_examples_string_equal_only": [
+   {
+    "row": 2,
+    "a_string": "1.44520605951269E+017",
+    "b_string": "1.44520605951269E+017",
+    "a_value": "1.4452060595126902e+17",
+    "b_value": "1.4452060595126906e+17"
+   },
+   {
+    "row": 3,
+    "a_string": "8.53224134777636E+016",
+    "b_string": "8.53224134777636E+016",
+    "a_value": "8.53224134777636e+16",
+    "b_value": "8.532241347776358e+16"
+   },
+   {
+    "row": 6,
+    "a_string": "3.36116458678993E+016",
+    "b_string": "3.36116458678993E+016",
+    "a_value": "3.36116458678993e+16",
+    "b_value": "3.3611645867899308e+16"
+   },
+   {
+    "row": 11,
+    "a_string": "2.0877829084249E+017",
+    "b_string": "2.0877829084249E+017",
+    "a_value": "2.0877829084249005e+17",
+    "b_value": "2.0877829084249002e+17"
+   },
+   {
+    "row": 15,
+    "a_string": "8.40914263138921E+016",
+    "b_string": "8.40914263138921E+016",
+    "a_value": "8.409142631389206e+16",
+    "b_value": "8.40914263138921e+16"
+   },
+   {
+    "row": 21,
+    "a_string": "9.06166686055976E+017",
+    "b_string": "9.06166686055976E+017",
+    "a_value": "9.061666860559761e+17",
+    "b_value": "9.061666860559762e+17"
+   },
+   {
+    "row": 23,
+    "a_string": "6.61663523533753E+016",
+    "b_string": "6.61663523533753E+016",
+    "a_value": "6.6166352353375256e+16",
+    "b_value": "6.616635235337526e+16"
+   },
+   {
+    "row": 26,
+    "a_string": "9.92996555985758E+017",
+    "b_string": "9.92996555985758E+017",
+    "a_value": "9.929965559857582e+17",
+    "b_value": "9.929965559857581e+17"
+   }
+  ],
+  "setting_CaseSensitive": null,
+  "setting_IsIterationEnabled": false,
+  "setting_CalcAsShown": false,
+  "setting_LookUpLabels": false,
+  "xlookup_error_code": 525,
+  "xlookup_display": "#NAME?"
+ },
+ "text": {
+  "digit16_value_equal": 0,
+  "digit16_string_equal": 0,
+  "digit16_both_equal": 0,
+  "digit16_examples_value_equal": [],
+  "digit16_examples_string_equal_only": [],
+  "setting_CaseSensitive": null,
+  "setting_IsIterationEnabled": false,
+  "setting_CalcAsShown": false,
+  "setting_LookUpLabels": false,
+  "xlookup_error_code": 525,
+  "xlookup_display": "#NAME?"
+ }
+}

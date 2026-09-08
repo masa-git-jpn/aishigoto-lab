@@ -1,0 +1,688 @@
+{
+ "oracle_raw_string": {
+  "same": {
+   "n": 2000,
+   "false_positive": 0,
+   "rate": 0.0
+  },
+  "control_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "digit16_last": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "leading_zero": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "space_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "width_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "case_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "newline_in_cell": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  }
+ },
+ "pandas_default": {
+  "same": {
+   "n": 2000,
+   "false_positive": 0,
+   "rate": 0.0
+  },
+  "control_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "digit16_last": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "leading_zero": {
+   "n": 2000,
+   "detected": 0,
+   "missed": 2000,
+   "rate": 0.0
+  },
+  "space_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "width_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "case_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "newline_in_cell": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  }
+ },
+ "pandas_dtype_str": {
+  "same": {
+   "n": 2000,
+   "false_positive": 0,
+   "rate": 0.0
+  },
+  "control_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "digit16_last": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "leading_zero": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "space_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "width_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "case_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "newline_in_cell": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  }
+ },
+ "pandas_normalized": {
+  "same": {
+   "n": 2000,
+   "false_positive": 0,
+   "rate": 0.0
+  },
+  "control_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "digit16_last": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "leading_zero": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "space_diff": {
+   "n": 2000,
+   "detected": 394,
+   "missed": 1606,
+   "rate": 19.7
+  },
+  "width_diff": {
+   "n": 2000,
+   "detected": 0,
+   "missed": 2000,
+   "rate": 0.0
+  },
+  "case_diff": {
+   "n": 2000,
+   "detected": 0,
+   "missed": 2000,
+   "rate": 0.0
+  },
+  "newline_in_cell": {
+   "n": 2000,
+   "detected": 972,
+   "missed": 1028,
+   "rate": 48.6
+  }
+ },
+ "diff": {
+  "same": {
+   "n": 2000,
+   "false_positive": 0,
+   "rate": 0.0
+  },
+  "control_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "digit16_last": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "leading_zero": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "space_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "width_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "case_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "newline_in_cell": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  }
+ },
+ "comm": {
+  "same": {
+   "n": 2000,
+   "false_positive": 0,
+   "rate": 0.0
+  },
+  "control_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "digit16_last": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "leading_zero": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "space_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "width_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "case_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "newline_in_cell": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  }
+ },
+ "lo_equals__standard": {
+  "same": {
+   "n": 2000,
+   "false_positive": 0,
+   "rate": 0.0
+  },
+  "control_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "digit16_last": {
+   "n": 2000,
+   "detected": 623,
+   "missed": 1377,
+   "rate": 31.15
+  },
+  "leading_zero": {
+   "n": 2000,
+   "detected": 0,
+   "missed": 2000,
+   "rate": 0.0
+  },
+  "space_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "width_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "case_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "newline_in_cell": {
+   "n": 2000,
+   "detected": 1460,
+   "missed": 540,
+   "rate": 73.0
+  }
+ },
+ "lo_exact__standard": {
+  "same": {
+   "n": 2000,
+   "false_positive": 0,
+   "rate": 0.0
+  },
+  "control_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "digit16_last": {
+   "n": 2000,
+   "detected": 835,
+   "missed": 1165,
+   "rate": 41.75
+  },
+  "leading_zero": {
+   "n": 2000,
+   "detected": 0,
+   "missed": 2000,
+   "rate": 0.0
+  },
+  "space_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "width_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "case_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "newline_in_cell": {
+   "n": 2000,
+   "detected": 1460,
+   "missed": 540,
+   "rate": 73.0
+  }
+ },
+ "lo_countif__standard": {
+  "same": {
+   "n": 2000,
+   "false_positive": 0,
+   "rate": 0.0
+  },
+  "control_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "digit16_last": {
+   "n": 2000,
+   "detected": 623,
+   "missed": 1377,
+   "rate": 31.15
+  },
+  "leading_zero": {
+   "n": 2000,
+   "detected": 0,
+   "missed": 2000,
+   "rate": 0.0
+  },
+  "space_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "width_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "case_diff": {
+   "n": 2000,
+   "detected": 0,
+   "missed": 2000,
+   "rate": 0.0
+  },
+  "newline_in_cell": {
+   "n": 2000,
+   "detected": 1460,
+   "missed": 540,
+   "rate": 73.0
+  }
+ },
+ "lo_vlookup__standard": {
+  "same": {
+   "n": 1000,
+   "false_positive": 0,
+   "rate": 0.0
+  },
+  "control_diff": {
+   "n": 1000,
+   "detected": 1000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "digit16_last": {
+   "n": 1000,
+   "detected": 426,
+   "missed": 574,
+   "rate": 42.6
+  },
+  "leading_zero": {
+   "n": 1000,
+   "detected": 0,
+   "missed": 1000,
+   "rate": 0.0
+  },
+  "space_diff": {
+   "n": 1000,
+   "detected": 1000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "width_diff": {
+   "n": 1000,
+   "detected": 1000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "case_diff": {
+   "n": 1000,
+   "detected": 1000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "newline_in_cell": {
+   "n": 1000,
+   "detected": 737,
+   "missed": 263,
+   "rate": 73.7
+  }
+ },
+ "lo_equals__text": {
+  "same": {
+   "n": 2000,
+   "false_positive": 0,
+   "rate": 0.0
+  },
+  "control_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "digit16_last": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "leading_zero": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "space_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "width_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "case_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "newline_in_cell": {
+   "n": 2000,
+   "detected": 1460,
+   "missed": 540,
+   "rate": 73.0
+  }
+ },
+ "lo_exact__text": {
+  "same": {
+   "n": 2000,
+   "false_positive": 0,
+   "rate": 0.0
+  },
+  "control_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "digit16_last": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "leading_zero": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "space_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "width_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "case_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "newline_in_cell": {
+   "n": 2000,
+   "detected": 1460,
+   "missed": 540,
+   "rate": 73.0
+  }
+ },
+ "lo_countif__text": {
+  "same": {
+   "n": 2000,
+   "false_positive": 0,
+   "rate": 0.0
+  },
+  "control_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "digit16_last": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "leading_zero": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "space_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "width_diff": {
+   "n": 2000,
+   "detected": 2000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "case_diff": {
+   "n": 2000,
+   "detected": 0,
+   "missed": 2000,
+   "rate": 0.0
+  },
+  "newline_in_cell": {
+   "n": 2000,
+   "detected": 1460,
+   "missed": 540,
+   "rate": 73.0
+  }
+ },
+ "lo_vlookup__text": {
+  "same": {
+   "n": 1000,
+   "false_positive": 0,
+   "rate": 0.0
+  },
+  "control_diff": {
+   "n": 1000,
+   "detected": 1000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "digit16_last": {
+   "n": 1000,
+   "detected": 1000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "leading_zero": {
+   "n": 1000,
+   "detected": 1000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "space_diff": {
+   "n": 1000,
+   "detected": 1000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "width_diff": {
+   "n": 1000,
+   "detected": 1000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "case_diff": {
+   "n": 1000,
+   "detected": 1000,
+   "missed": 0,
+   "rate": 100.0
+  },
+  "newline_in_cell": {
+   "n": 1000,
+   "detected": 737,
+   "missed": 263,
+   "rate": 73.7
+  }
+ }
+}

@@ -1,0 +1,192 @@
+---
+import Base from '../../layouts/Base.astro';
+import { SITE } from '../../consts';
+
+const BASE = '/downloads/csv-diff-benchmark';
+
+const groups = [
+  {
+    heading: '検証データ（正解つき）',
+    files: [
+      { f: 'main_a.csv', d: '本番用のCSV（A側）。10,000行。差分の種類ごとに専用の列を持つ' },
+      { f: 'main_b.csv', d: '本番用のCSV（B側）。id で行が対応する' },
+      { f: 'main_truth.csv', d: '本番用の正解。1行＝1セルの判定で、どの行にどの種類を仕込んだかと期待される答え（80,000件）' },
+      { f: 'holdout2_a.csv', d: 'ホールドアウト用のCSV（A側）。2,000行。集計コードを書き終えた後で作った' },
+      { f: 'holdout2_b.csv', d: 'ホールドアウト用のCSV（B側）' },
+      { f: 'holdout2_truth.csv', d: 'ホールドアウト用の正解（16,000件）' },
+    ],
+  },
+  {
+    heading: '検証コード',
+    files: [
+      { f: 'gen_corpus.py', d: '本番コーパスの生成。same 以外の列は value_a と value_b が必ず異なることを assert で保証している' },
+      { f: 'gen_holdout_v2.py', d: 'ホールドアウトの生成。本番とは別スクリプトで、17〜18桁の番号やゼロ幅スペースなど新しいパターンを入れてある' },
+      { f: 'run_calc_methods.py', d: 'LibreOffice Calc を UNO ブリッジ経由で操作し、CSVを実際に開いて数式で突合する。取り込み条件2通り×数式4種' },
+      { f: 'run_python_methods.py', d: 'Python側4手法（生の文字列 / pandas / pandas dtype=str / 正規化してから比較）' },
+      { f: 'run_shell_methods.py', d: 'コマンド2手法。実際に diff と comm を起動して出力を解析している' },
+      { f: 'score.py', d: '手法×カテゴリの集計表を作る' },
+      { f: 'sanity.py', d: '「なぜそうなったか」の説明が正しいかを機械的に検算する' },
+      { f: 'probe_threshold.py', d: '2^53 をまたぐ番号のペアで、格納値・= ・EXACT の挙動を1件ずつ確認する' },
+      { f: 'probe_tolerance.py', d: '「=」がどれだけ離れれば「違う」と言うのか、境界を実測する' },
+      { f: 'run_encoding_test.py', d: '副実験：文字コードだけが違う2ファイルの突合' },
+      { f: 'run_date_test.py', d: '副実験：開いて保存し直すと値が書き換わるか' },
+    ],
+  },
+  {
+    heading: '結果',
+    files: [
+      { f: 'summary_main.csv', d: '本番の集計表（14手法 × 8カテゴリ）' },
+      { f: 'summary_holdout2.csv', d: 'ホールドアウトの集計表' },
+      { f: 'diag_calc_main.json', d: '16桁番号列の内訳。値まで同じになった156件と、表示だけ同じになった499件の実例つき' },
+      { f: 'tolerance_result.json', d: '「=」の許容差の実測（2^53以下は差1で検出、直後は48未満が「同じ」、17桁では512未満が「同じ」）' },
+      { f: 'threshold_result.json', d: '2^53 をまたぐペアの実測' },
+      { f: 'date_result.json', d: '開いて保存し直す副実験の結果' },
+      { f: 'date_roundtrip.csv', d: '標準設定で開いて保存し直したCSV。16個中7個の値が書き換わっている' },
+      { f: 'encoding_result.json', d: '文字コード副実験の結果' },
+      { f: 'results_shell_meta_main.json', d: 'diff/comm に渡したファイルの物理行数。セル内改行で10,000行が13,405行と20,000行になった記録' },
+      { f: 'README.md', d: 'データ形式と再現手順の説明' },
+    ],
+  },
+];
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Dataset',
+  name: 'CSV突合ベンチマーク（正解つき2ファイル・14手法・80,000件）',
+  description:
+    '正解が分かっている2つのCSVを自作し、表計算ソフトの関数・Python・コマンドの14通りで突合して、本当は違うのに「同じ」と判定された件数を数えた検証データ。8種類の差分（16桁番号の末尾違い、先頭ゼロの消失、全角半角、大文字小文字、セル内改行、空白）を種類ごとの列に仕込んである。',
+  url: `${SITE.url}/data/csv-diff-benchmark/`,
+  inLanguage: 'ja',
+  license: 'https://creativecommons.org/publicdomain/zero/1.0/',
+  creator: { '@type': 'Organization', name: SITE.name, url: SITE.url },
+  distribution: {
+    '@type': 'DataDownload',
+    encodingFormat: 'application/zip',
+    contentUrl: `${SITE.url}/downloads/csv-diff-benchmark-dataset.zip`,
+  },
+};
+---
+
+<Base
+  title="CSV突合ベンチマーク 生データ"
+  description="正解が分かっている2つのCSVと、14通りの突合方法の判定結果すべて。検証コードとホールドアウトも公開しています。自由に利用できます。"
+  jsonLd={jsonLd}
+>
+  <article class="narrow prose" style="padding-block:2.5rem 1rem;">
+    <h1>CSV突合ベンチマーク 生データ</h1>
+
+    <p>
+      以下の記事で使った検証データの全部です。2つのCSVも、正解データも、14手法の検証コードも、
+      ホールドアウトも隠していません。<strong>同じ手順で再現できます。</strong>
+    </p>
+
+    <ul>
+      <li>
+        <a href="/lab/csv-diff-silent-miss/">
+          2つのCSVの差分を14通りの方法で突合したら、16桁の番号は末尾が違っても「一致」になった
+        </a>
+      </li>
+    </ul>
+
+    <div class="verify-box">
+      <h2>まとめてダウンロード</h2>
+      <p style="margin:0 0 0.5rem;">
+        <strong><a href={`${BASE}-dataset.zip`}>csv-diff-benchmark-dataset.zip</a></strong>（約3.6MB / 33ファイル）
+      </p>
+      <p style="margin:0;font-size:0.875rem;color:var(--ink-2);">
+        著作権は主張しません。自由に利用・再配布してください。
+        引用の際に出典として記事URLを示していただけると助かります。
+      </p>
+    </div>
+
+    <h2>検証環境</h2>
+    <ul>
+      <li>LibreOffice Calc 24.2.7.2（headless / UNOブリッジ）</li>
+      <li>Python 3.11 / pandas 3.0.2 / GNU diffutils</li>
+      <li>Ubuntu 24.04</li>
+      <li>検証日 2026-09-08</li>
+    </ul>
+    <p>
+      <strong>Excel本体では検証していません。</strong>
+      この環境にExcelが無いためです。記事中の「表計算ソフト」はすべて LibreOffice Calc を指します。
+    </p>
+
+    <h2>正解データの作り方について</h2>
+    <p>
+      2つのCSVは <code>id</code> で行が対応しており、<strong>差分の種類ごとに専用の列</strong>を
+      1本ずつ持っています（16桁番号の末尾違いは <code>照合番号</code> 列、先頭ゼロは
+      <code>商品コード</code> 列、というように）。列を分けているのは、実務のCSVでは列ごとに書式が
+      揃っているためで、1列に混ぜると表計算ソフトやpandasの型推定が働かず、
+      <strong>検証したい「型変換による取りこぼし」自体が起きなくなる</strong>からです。
+    </p>
+    <p>
+      <code>確認用番号</code> 列を除くすべての列で、<code>value_a</code> と <code>value_b</code> が
+      生の文字列として異なることを、生成時に <code>assert</code> で保証しています。
+      つまり<strong>正解は常に「違う」</strong>です。
+      <code>確認用番号</code> 列は逆に常に完全一致で、誤検出（同じものを違うと言う失敗）の測定に使っています。
+      <code>対照用コード</code> 列は対照群で、まったく別の値が入っています。
+      <strong>これを検出できない手法は、測定系自体が壊れていると判断できます</strong>（今回は全手法が全件検出しました）。
+    </p>
+
+    <h2>ファイル一覧</h2>
+    {groups.map((g) => (
+      <>
+        <h3>{g.heading}</h3>
+        <ul>
+          {g.files.map((x) => (
+            <li>
+              <a href={`${BASE}/${x.f}`}><code>{x.f}</code></a> — {x.d}
+            </li>
+          ))}
+        </ul>
+      </>
+    ))}
+
+    <p style="font-size:0.875rem;color:var(--ink-2);">
+      手法ごと・行ごとの生の判定（1件ずつのTRUE/FALSE）は合計40MB近くになるため同梱していません。
+      下の手順で再実行すれば同じものが手元に出ます。乱数のシードを固定しているので、
+      同じシードなら同じCSVが再生成されます。
+    </p>
+
+    <h2>再現方法</h2>
+    <pre><code>{`sudo apt install libreoffice-calc python3-uno
+pip install pandas
+
+# 本番
+python3 gen_corpus.py --n 10000 --seed 20260908 --out-prefix main
+python3 run_python_methods.py --prefix main
+python3 run_shell_methods.py  --prefix main
+python3 run_calc_methods.py   --prefix main --n 10000 --vlookup-sample 1000
+python3 score.py  --prefix main
+python3 sanity.py main
+
+# ホールドアウト（集計コードは変更しない）
+python3 gen_holdout_v2.py --n 2000 --seed 31415926 --out-prefix holdout2
+python3 run_python_methods.py --prefix holdout2
+python3 run_shell_methods.py  --prefix holdout2
+python3 run_calc_methods.py   --prefix holdout2 --n 2000 --vlookup-sample 1000
+python3 score.py  --prefix holdout2
+
+# 副実験と境界の実測
+python3 probe_threshold.py
+python3 probe_tolerance.py
+python3 run_encoding_test.py
+python3 run_date_test.py`}</code></pre>
+
+    <p style="font-size:0.875rem;color:var(--ink-2);">
+      <code>run_calc_methods.py</code> は本番（10,000行）で20分ほどかかります。
+      VLOOKUP は1件ごとに全行を線形探索するため行数の2乗に比例して遅くなり、全行では
+      現実的な時間で終わらないので先頭1,000行だけで測っています（集計表のVLOOKUPの行だけ
+      分母が1,000なのはこのためです）。
+    </p>
+
+    <div class="note">
+      <p>
+        <strong>誤りを見つけた場合はご指摘ください。</strong>
+        検証の設計ミスや集計ミスが混じっている可能性は常にあります。
+        <a href="/contact/">お問い合わせ</a>からご連絡いただければ、確認のうえ訂正し、
+        いつ・どこを・なぜ訂正したかを該当記事に明記します。
+      </p>
+    </div>
+  </article>
+</Base>
