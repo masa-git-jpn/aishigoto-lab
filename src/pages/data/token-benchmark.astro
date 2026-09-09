@@ -1,0 +1,186 @@
+---
+import Base from '../../layouts/Base.astro';
+import { SITE } from '../../consts';
+
+const BASE = '/downloads/token-benchmark';
+
+const tokenizers = [
+  { n: 'o200k_base', use: 'GPT-4o / GPT-4.1 / o系', vocab: '200,019', src: 'tiktoken 形式のBPEファイル' },
+  { n: 'cl100k_base', use: 'GPT-4 / GPT-3.5-turbo', vocab: '100,277', src: '同上' },
+  { n: 'p50k_base', use: 'GPT-3（davinci 系）', vocab: '50,281', src: '同上' },
+  { n: 'r50k_base', use: 'GPT-2 / GPT-3 初期', vocab: '50,257', src: '同上' },
+  { n: 'Claude 1〜2 世代', use: '当時公開されていたもの', vocab: '64,995', src: 'npm @anthropic-ai/tokenizer 0.0.4' },
+  { n: 'Gemma', use: 'Googleが公開しているもの', vocab: '256,000', src: 'GitHub google/gemma_pytorch' },
+];
+
+const groups = [
+  {
+    heading: '検証データ（全文）',
+    files: [
+      { f: 'corpus.py', d: '本番のコーパス。8ジャンル×3本＝24本、5,985文字。すべて書き下ろし。英語の対照群2本を含む' },
+      { f: 'corpus_holdout.py', d: 'ホールドアウトのコーパス。8ジャンル×2本＝16本、3,691文字。測定コードを書き終えた後に、別ジャンルで書き下ろしたもの' },
+    ],
+  },
+  {
+    heading: '検証コード',
+    files: [
+      { f: 'download_vocab.py', d: '語彙ファイルを取得し、tiktokenパッケージ同梱の公式SHA-256と照合する' },
+      { f: 'tokenizers_setup.py', d: '6つのトークナイザーをローカルファイルから組み立てる' },
+      { f: 'measure.py', d: 'コーパスを全トークナイザーにかけ、1文字あたりのトークン数を出す' },
+      { f: 'charclass.py', d: '文字種で切り分ける。単独1文字のコスト、同じ文字種の連なり、全角と半角の対比' },
+      { f: 'rewrite_test.py', d: '意味を変えずに表記だけを変えた8組の前後を比べる' },
+      { f: 'verify.py', d: '測定そのものの検算。SHA-256、符号化と復号の一致、語彙数、対照群、公式テストの再現、集計の突合' },
+      { f: 'verify_article.py', d: '記事に書いた数字が結果ファイルと一致するかの照合' },
+    ],
+  },
+  {
+    heading: '結果',
+    files: [
+      { f: 'results_corpus_main.json', d: '本番の測定結果（文章ごと・カテゴリごと）' },
+      { f: 'results_corpus_holdout.json', d: 'ホールドアウトの測定結果' },
+      { f: 'results_charclass.json', d: '文字種別の内訳。単独1文字のコスト分布、連なりの比率、全角と半角の対比' },
+      { f: 'results_rewrite.json', d: '書き換え8組の全文と、前後のトークン数' },
+      { f: 'README.md', d: 'データ形式と再現手順の説明' },
+    ],
+  },
+];
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Dataset',
+  name: '日本語トークン数ベンチマーク（16ジャンル・40本・6トークナイザー）',
+  description:
+    '業務で使われる文体の日本語文書16ジャンル9,676文字を書き下ろし、GPT-2世代からGPT-4o世代までの6つのトークナイザーで1文字あたりのトークン数を実測したデータ。文字種別の内訳、全角と半角の比較、書き換えによる削減効果、ホールドアウトを含む。',
+  url: `${SITE.url}/data/token-benchmark/`,
+  inLanguage: 'ja',
+  license: 'https://creativecommons.org/publicdomain/zero/1.0/',
+  creator: { '@type': 'Organization', name: SITE.name, url: SITE.url },
+  distribution: {
+    '@type': 'DataDownload',
+    encodingFormat: 'application/zip',
+    contentUrl: `${SITE.url}/downloads/token-benchmark-dataset.zip`,
+  },
+};
+---
+
+<Base
+  title="日本語トークン数ベンチマーク 生データ"
+  description="日本語16ジャンル40本の全文と、6つのトークナイザーでの測定結果すべて。検証コードとホールドアウトも公開しています。自由に利用できます。"
+  jsonLd={jsonLd}
+>
+  <article class="narrow prose" style="padding-block:2.5rem 1rem;">
+    <h1>日本語トークン数ベンチマーク 生データ</h1>
+
+    <p>
+      以下の記事で使った検証データの全部です。<strong>コーパスの文章はすべて書き下ろし</strong>なので、
+      引用の制約なく全文を公開しています。同じ手順で再現できます。
+    </p>
+
+    <ul>
+      <li>
+        <a href="/lab/japanese-token-count-measured/">
+          「日本語は1文字1トークン」を6つのトークナイザーで測ったら、当たっていたのは一世代前だけだった
+        </a>
+      </li>
+    </ul>
+
+    <div class="verify-box">
+      <h2>まとめてダウンロード</h2>
+      <p style="margin:0 0 0.5rem;">
+        <strong><a href={`${BASE}-dataset.zip`}>token-benchmark-dataset.zip</a></strong>（約47KB / 14ファイル）
+      </p>
+      <p style="margin:0;font-size:0.875rem;color:var(--ink-2);">
+        著作権は主張しません。自由に利用・再配布してください。
+        引用の際に出典として記事URLを示していただけると助かります。
+      </p>
+    </div>
+
+    <h2>測ったトークナイザー</h2>
+    <div class="table-scroll">
+      <table>
+        <thead>
+          <tr><th>名前</th><th>何に使われているか</th><th>語彙数</th><th>入手元</th></tr>
+        </thead>
+        <tbody>
+          {tokenizers.map((t) => (
+            <tr><td><code>{t.n}</code></td><td>{t.use}</td><td>{t.vocab}</td><td>{t.src}</td></tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+
+    <div class="note">
+      <p>
+        <strong>現行の Claude と Gemini のトークナイザーは公開されていないため測れていません。</strong>
+        「Claude 1〜2 世代」は当時公開されていたトークナイザーであって<strong>現行Claudeのものではなく</strong>、
+        「Gemma」はGemmaのものであって<strong>Geminiのものではありません</strong>。
+      </p>
+    </div>
+
+    <h2>語彙ファイルが本物であることの確認</h2>
+    <p>
+      検証環境から配布元（<code>openaipublic.blob.core.windows.net</code> と
+      <code>huggingface.co</code>）に接続できなかったため、OpenAIの4ファイルは
+      GitHub上のミラーから取得しています。ただし取得後に、
+      <strong><code>tiktoken</code> パッケージに同梱されている公式のSHA-256と、
+      4ファイルすべてがバイト単位で一致することを確認</strong>しています。
+      照合するコード自体も <code>download_vocab.py</code> として公開しています。
+    </p>
+    <pre><code>{`cl100k_base.tiktoken  223921b76ee99bde995b7ff738513eef100fb51d18c93597a113bcffe865b2a7
+o200k_base.tiktoken   446a9538cb6c348e3516120d7c08b09f57c36495e2acfffe59a5bf8b0cfb1a2d
+p50k_base.tiktoken    94b5ca7dff4d00767bc256fdd1b27e5b17361d7b8a5f968547f9f23eb70d2069
+r50k_base.tiktoken    306cd27f03c1a714eca7108e03d66b7dc042abe8c258b44c199a7ed9838dd930`}</code></pre>
+    <p>
+      Claude 1〜2 世代の <code>claude.json</code> は、<code>bpe_ranks</code> の先頭2要素だけが
+      base64ではないヘッダになっています。読み飛ばす実装が正しいことは、
+      <strong>パッケージ同梱のテスト4件（<code>hello world!</code>=3 / <code>™</code>=1 /
+      <code>ϰ</code>=1 / <code>&lt;EOT&gt;</code>=1）をすべて再現して確認</strong>しました。
+    </p>
+
+    <h2>ファイル一覧</h2>
+    {groups.map((g) => (
+      <>
+        <h3>{g.heading}</h3>
+        <ul>
+          {g.files.map((x) => (
+            <li>
+              <a href={`${BASE}/${x.f}`}><code>{x.f}</code></a> — {x.d}
+            </li>
+          ))}
+        </ul>
+      </>
+    ))}
+
+    <p style="font-size:0.875rem;color:var(--ink-2);">
+      <code>vocab/</code> の中身は同梱していません（配布元の再配布になるため）。
+      <code>download_vocab.py</code> が取得と照合を行います。
+    </p>
+
+    <h2>再現方法</h2>
+    <pre><code>{`pip install tiktoken sentencepiece
+
+python3 download_vocab.py          # 語彙ファイルの取得とSHA-256照合
+python3 verify.py                  # 測定そのものの検算
+python3 measure.py --prefix main                              # 本番
+python3 measure.py --corpus corpus_holdout --prefix holdout   # ホールドアウト
+python3 charclass.py               # 文字種の切り分け
+python3 rewrite_test.py            # 書き換えの効果
+python3 verify_article.py          # 記事の数字との照合`}</code></pre>
+
+    <h2>自分の文章で測り直す</h2>
+    <p>
+      <code>corpus.py</code> の <code>CORPUS</code> を自分の文書に差し替えれば、同じコードがそのまま動きます。
+      今回のコーパスは私が書き下ろしたもので、<strong>語彙や言い回しに偏りがある可能性は残ります。</strong>
+      実際の業務文書で確かめたい場合は、そちらで測り直してください。
+    </p>
+
+    <div class="note">
+      <p>
+        <strong>誤りを見つけた場合はご指摘ください。</strong>
+        検証の設計ミスや集計ミスが混じっている可能性は常にあります。
+        <a href="/contact/">お問い合わせ</a>からご連絡いただければ、確認のうえ訂正し、
+        いつ・どこを・なぜ訂正したかを該当記事に明記します。
+      </p>
+    </div>
+  </article>
+</Base>

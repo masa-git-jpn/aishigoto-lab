@@ -1,0 +1,386 @@
+[
+ {
+  "name": "全角英数を半角にする",
+  "before": "型番ＳＫＵ－２０２４－Ａ１００を２０個、単価１，２５０円で発注してください。",
+  "after": "型番SKU-2024-A100を20個、単価1,250円で発注してください。",
+  "note": "表記のみ。数値・型番は同一",
+  "chars": {
+   "before": 38,
+   "after": 38
+  },
+  "tokens": {
+   "r50k_base": {
+    "before": 90,
+    "after": 42,
+    "delta": -48,
+    "cut_pct": 53.3
+   },
+   "p50k_base": {
+    "before": 90,
+    "after": 42,
+    "delta": -48,
+    "cut_pct": 53.3
+   },
+   "cl100k_base": {
+    "before": 38,
+    "after": 27,
+    "delta": -11,
+    "cut_pct": 28.9
+   },
+   "o200k_base": {
+    "before": 29,
+    "after": 23,
+    "delta": -6,
+    "cut_pct": 20.7
+   },
+   "claude_legacy": {
+    "before": 32,
+    "after": 32,
+    "delta": 0,
+    "cut_pct": 0.0
+   },
+   "gemma": {
+    "before": 32,
+    "after": 30,
+    "delta": -2,
+    "cut_pct": 6.2
+   }
+  }
+ },
+ {
+  "name": "全角スペースのインデントをやめる",
+  "before": "・議題1　先月の受注実績について\n　　- 達成率は九割二分\n　　- 大口案件が翌月へずれ込んだ",
+  "after": "- 議題1 先月の受注実績について\n  - 達成率は九割二分\n  - 大口案件が翌月へずれ込んだ",
+  "note": "箇条書きの記号と字下げのみ変更",
+  "chars": {
+   "before": 47,
+   "after": 48
+  },
+  "tokens": {
+   "r50k_base": {
+    "before": 83,
+    "after": 76,
+    "delta": -7,
+    "cut_pct": 8.4
+   },
+   "p50k_base": {
+    "before": 83,
+    "after": 76,
+    "delta": -7,
+    "cut_pct": 8.4
+   },
+   "cl100k_base": {
+    "before": 61,
+    "after": 60,
+    "delta": -1,
+    "cut_pct": 1.6
+   },
+   "o200k_base": {
+    "before": 42,
+    "after": 42,
+    "delta": 0,
+    "cut_pct": 0.0
+   },
+   "claude_legacy": {
+    "before": 52,
+    "after": 53,
+    "delta": 1,
+    "cut_pct": -1.9
+   },
+   "gemma": {
+    "before": 32,
+    "after": 34,
+    "delta": 2,
+    "cut_pct": -6.2
+   }
+  }
+ },
+ {
+  "name": "クッション言葉と定型の挨拶を削る",
+  "before": "お世話になっております。大変恐れ入りますが、先日ご相談させていただきました件につきまして、もしよろしければ、ご確認のうえご回答いただけますと大変幸いに存じます。",
+  "after": "先日ご相談した件について、確認して回答してください。",
+  "note": "依頼内容は同じ。敬語と前置きを削除",
+  "chars": {
+   "before": 80,
+   "after": 26
+  },
+  "tokens": {
+   "r50k_base": {
+    "before": 115,
+    "after": 39,
+    "delta": -76,
+    "cut_pct": 66.1
+   },
+   "p50k_base": {
+    "before": 115,
+    "after": 39,
+    "delta": -76,
+    "cut_pct": 66.1
+   },
+   "cl100k_base": {
+    "before": 80,
+    "after": 25,
+    "delta": -55,
+    "cut_pct": 68.8
+   },
+   "o200k_base": {
+    "before": 56,
+    "after": 13,
+    "delta": -43,
+    "cut_pct": 76.8
+   },
+   "claude_legacy": {
+    "before": 83,
+    "after": 26,
+    "delta": -57,
+    "cut_pct": 68.7
+   },
+   "gemma": {
+    "before": 36,
+    "after": 11,
+    "delta": -25,
+    "cut_pct": 69.4
+   }
+  }
+ },
+ {
+  "name": "漢数字をアラビア数字にする",
+  "before": "第五条 契約期間は二十四箇月とし、違約金は残存期間の三十パーセントとする。",
+  "after": "第5条 契約期間は24箇月とし、違約金は残存期間の30%とする。",
+  "note": "数値は同一",
+  "chars": {
+   "before": 37,
+   "after": 32
+  },
+  "tokens": {
+   "r50k_base": {
+    "before": 61,
+    "after": 50,
+    "delta": -11,
+    "cut_pct": 18.0
+   },
+   "p50k_base": {
+    "before": 61,
+    "after": 50,
+    "delta": -11,
+    "cut_pct": 18.0
+   },
+   "cl100k_base": {
+    "before": 41,
+    "after": 35,
+    "delta": -6,
+    "cut_pct": 14.6
+   },
+   "o200k_base": {
+    "before": 32,
+    "after": 28,
+    "delta": -4,
+    "cut_pct": 12.5
+   },
+   "claude_legacy": {
+    "before": 41,
+    "after": 35,
+    "delta": -6,
+    "cut_pct": 14.6
+   },
+   "gemma": {
+    "before": 24,
+    "after": 26,
+    "delta": 2,
+    "cut_pct": -8.3
+   }
+  }
+ },
+ {
+  "name": "表を罫線からCSVにする",
+  "before": "｜商品コード　｜数量　｜単価　｜\n｜4901234567890｜320　｜480　｜\n｜4901234567906｜85　　｜1250 ｜",
+  "after": "商品コード,数量,単価\n4901234567890,320,480\n4901234567906,85,1250",
+  "note": "含まれる値は同一",
+  "chars": {
+   "before": 69,
+   "after": 55
+  },
+  "tokens": {
+   "r50k_base": {
+    "before": 87,
+    "after": 43,
+    "delta": -44,
+    "cut_pct": 50.6
+   },
+   "p50k_base": {
+    "before": 87,
+    "after": 43,
+    "delta": -44,
+    "cut_pct": 50.6
+   },
+   "cl100k_base": {
+    "before": 56,
+    "after": 30,
+    "delta": -26,
+    "cut_pct": 46.4
+   },
+   "o200k_base": {
+    "before": 39,
+    "after": 28,
+    "delta": -11,
+    "cut_pct": 28.2
+   },
+   "claude_legacy": {
+    "before": 34,
+    "after": 27,
+    "delta": -7,
+    "cut_pct": 20.6
+   },
+   "gemma": {
+    "before": 64,
+    "after": 51,
+    "delta": -13,
+    "cut_pct": 20.3
+   }
+  }
+ },
+ {
+  "name": "カタカナ語を漢語にする",
+  "before": "スケジュールのアップデートとリソースのアサインについてレビューを実施します。",
+  "after": "日程の更新と要員の割当について検討します。",
+  "note": "指す内容は同じ。語彙を変更",
+  "chars": {
+   "before": 38,
+   "after": 21
+  },
+  "tokens": {
+   "r50k_base": {
+    "before": 40,
+    "after": 36,
+    "delta": -4,
+    "cut_pct": 10.0
+   },
+   "p50k_base": {
+    "before": 40,
+    "after": 36,
+    "delta": -4,
+    "cut_pct": 10.0
+   },
+   "cl100k_base": {
+    "before": 36,
+    "after": 23,
+    "delta": -13,
+    "cut_pct": 36.1
+   },
+   "o200k_base": {
+    "before": 23,
+    "after": 15,
+    "delta": -8,
+    "cut_pct": 34.8
+   },
+   "claude_legacy": {
+    "before": 40,
+    "after": 22,
+    "delta": -18,
+    "cut_pct": 45.0
+   },
+   "gemma": {
+    "before": 14,
+    "after": 12,
+    "delta": -2,
+    "cut_pct": 14.3
+   }
+  }
+ },
+ {
+  "name": "丁寧語をやめて体言止めにする",
+  "before": "本システムは、受信した注文データを検証したうえで在庫管理システムへ連携する構成となっています。処理は毎時零分に起動します。",
+  "after": "本システムは注文データを検証後、在庫管理システムへ連携。処理は毎時0分に起動。",
+  "note": "動作の説明は同一",
+  "chars": {
+   "before": 61,
+   "after": 39
+  },
+  "tokens": {
+   "r50k_base": {
+    "before": 93,
+    "after": 65,
+    "delta": -28,
+    "cut_pct": 30.1
+   },
+   "p50k_base": {
+    "before": 93,
+    "after": 65,
+    "delta": -28,
+    "cut_pct": 30.1
+   },
+   "cl100k_base": {
+    "before": 65,
+    "after": 47,
+    "delta": -18,
+    "cut_pct": 27.7
+   },
+   "o200k_base": {
+    "before": 46,
+    "after": 34,
+    "delta": -12,
+    "cut_pct": 26.1
+   },
+   "claude_legacy": {
+    "before": 59,
+    "after": 42,
+    "delta": -17,
+    "cut_pct": 28.8
+   },
+   "gemma": {
+    "before": 30,
+    "after": 22,
+    "delta": -8,
+    "cut_pct": 26.7
+   }
+  }
+ },
+ {
+  "name": "繰り返す長い固有名詞を短縮して定義する",
+  "before": "株式会社サンプル商事の担当者は、株式会社サンプル商事の規程に従い、株式会社サンプル商事の様式で申請する。",
+  "after": "株式会社サンプル商事（以下A社）の担当者は、A社の規程に従い、A社の様式で申請する。",
+  "note": "指す対象は同一",
+  "chars": {
+   "before": 52,
+   "after": 42
+  },
+  "tokens": {
+   "r50k_base": {
+    "before": 87,
+    "after": 73,
+    "delta": -14,
+    "cut_pct": 16.1
+   },
+   "p50k_base": {
+    "before": 87,
+    "after": 73,
+    "delta": -14,
+    "cut_pct": 16.1
+   },
+   "cl100k_base": {
+    "before": 62,
+    "after": 49,
+    "delta": -13,
+    "cut_pct": 21.0
+   },
+   "o200k_base": {
+    "before": 39,
+    "after": 35,
+    "delta": -4,
+    "cut_pct": 10.3
+   },
+   "claude_legacy": {
+    "before": 59,
+    "after": 46,
+    "delta": -13,
+    "cut_pct": 22.0
+   },
+   "gemma": {
+    "before": 29,
+    "after": 28,
+    "delta": -1,
+    "cut_pct": 3.4
+   }
+  }
+ }
+]

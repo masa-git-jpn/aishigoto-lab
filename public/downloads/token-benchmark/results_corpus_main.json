@@ -1,0 +1,756 @@
+{
+ "rows": [
+  {
+   "category": "ビジネスメール",
+   "index": 1,
+   "chars": 259,
+   "tokens": {
+    "r50k_base": 394,
+    "p50k_base": 394,
+    "cl100k_base": 259,
+    "o200k_base": 167,
+    "claude_legacy": 284,
+    "gemma": 124
+   },
+   "ratio": {
+    "r50k_base": 1.5212,
+    "p50k_base": 1.5212,
+    "cl100k_base": 1.0,
+    "o200k_base": 0.6448,
+    "claude_legacy": 1.0965,
+    "gemma": 0.4788
+   }
+  },
+  {
+   "category": "ビジネスメール",
+   "index": 2,
+   "chars": 224,
+   "tokens": {
+    "r50k_base": 333,
+    "p50k_base": 333,
+    "cl100k_base": 216,
+    "o200k_base": 149,
+    "claude_legacy": 229,
+    "gemma": 110
+   },
+   "ratio": {
+    "r50k_base": 1.4866,
+    "p50k_base": 1.4866,
+    "cl100k_base": 0.9643,
+    "o200k_base": 0.6652,
+    "claude_legacy": 1.0223,
+    "gemma": 0.4911
+   }
+  },
+  {
+   "category": "ビジネスメール",
+   "index": 3,
+   "chars": 218,
+   "tokens": {
+    "r50k_base": 329,
+    "p50k_base": 329,
+    "cl100k_base": 229,
+    "o200k_base": 150,
+    "claude_legacy": 235,
+    "gemma": 108
+   },
+   "ratio": {
+    "r50k_base": 1.5092,
+    "p50k_base": 1.5092,
+    "cl100k_base": 1.0505,
+    "o200k_base": 0.6881,
+    "claude_legacy": 1.078,
+    "gemma": 0.4954
+   }
+  },
+  {
+   "category": "技術文書",
+   "index": 1,
+   "chars": 249,
+   "tokens": {
+    "r50k_base": 386,
+    "p50k_base": 386,
+    "cl100k_base": 267,
+    "o200k_base": 192,
+    "claude_legacy": 247,
+    "gemma": 131
+   },
+   "ratio": {
+    "r50k_base": 1.5502,
+    "p50k_base": 1.5502,
+    "cl100k_base": 1.0723,
+    "o200k_base": 0.7711,
+    "claude_legacy": 0.992,
+    "gemma": 0.5261
+   }
+  },
+  {
+   "category": "技術文書",
+   "index": 2,
+   "chars": 253,
+   "tokens": {
+    "r50k_base": 398,
+    "p50k_base": 398,
+    "cl100k_base": 275,
+    "o200k_base": 192,
+    "claude_legacy": 248,
+    "gemma": 139
+   },
+   "ratio": {
+    "r50k_base": 1.5731,
+    "p50k_base": 1.5731,
+    "cl100k_base": 1.087,
+    "o200k_base": 0.7589,
+    "claude_legacy": 0.9802,
+    "gemma": 0.5494
+   }
+  },
+  {
+   "category": "技術文書",
+   "index": 3,
+   "chars": 272,
+   "tokens": {
+    "r50k_base": 426,
+    "p50k_base": 426,
+    "cl100k_base": 284,
+    "o200k_base": 215,
+    "claude_legacy": 274,
+    "gemma": 152
+   },
+   "ratio": {
+    "r50k_base": 1.5662,
+    "p50k_base": 1.5662,
+    "cl100k_base": 1.0441,
+    "o200k_base": 0.7904,
+    "claude_legacy": 1.0074,
+    "gemma": 0.5588
+   }
+  },
+  {
+   "category": "議事録・箇条書き",
+   "index": 1,
+   "chars": 236,
+   "tokens": {
+    "r50k_base": 400,
+    "p50k_base": 400,
+    "cl100k_base": 274,
+    "o200k_base": 206,
+    "claude_legacy": 250,
+    "gemma": 159
+   },
+   "ratio": {
+    "r50k_base": 1.6949,
+    "p50k_base": 1.6949,
+    "cl100k_base": 1.161,
+    "o200k_base": 0.8729,
+    "claude_legacy": 1.0593,
+    "gemma": 0.6737
+   }
+  },
+  {
+   "category": "議事録・箇条書き",
+   "index": 2,
+   "chars": 203,
+   "tokens": {
+    "r50k_base": 373,
+    "p50k_base": 373,
+    "cl100k_base": 256,
+    "o200k_base": 176,
+    "claude_legacy": 229,
+    "gemma": 132
+   },
+   "ratio": {
+    "r50k_base": 1.8374,
+    "p50k_base": 1.8374,
+    "cl100k_base": 1.2611,
+    "o200k_base": 0.867,
+    "claude_legacy": 1.1281,
+    "gemma": 0.6502
+   }
+  },
+  {
+   "category": "議事録・箇条書き",
+   "index": 3,
+   "chars": 239,
+   "tokens": {
+    "r50k_base": 342,
+    "p50k_base": 342,
+    "cl100k_base": 259,
+    "o200k_base": 197,
+    "claude_legacy": 243,
+    "gemma": 137
+   },
+   "ratio": {
+    "r50k_base": 1.431,
+    "p50k_base": 1.431,
+    "cl100k_base": 1.0837,
+    "o200k_base": 0.8243,
+    "claude_legacy": 1.0167,
+    "gemma": 0.5732
+   }
+  },
+  {
+   "category": "カタカナ多め",
+   "index": 1,
+   "chars": 265,
+   "tokens": {
+    "r50k_base": 312,
+    "p50k_base": 312,
+    "cl100k_base": 249,
+    "o200k_base": 171,
+    "claude_legacy": 258,
+    "gemma": 113
+   },
+   "ratio": {
+    "r50k_base": 1.1774,
+    "p50k_base": 1.1774,
+    "cl100k_base": 0.9396,
+    "o200k_base": 0.6453,
+    "claude_legacy": 0.9736,
+    "gemma": 0.4264
+   }
+  },
+  {
+   "category": "カタカナ多め",
+   "index": 2,
+   "chars": 261,
+   "tokens": {
+    "r50k_base": 301,
+    "p50k_base": 301,
+    "cl100k_base": 241,
+    "o200k_base": 170,
+    "claude_legacy": 257,
+    "gemma": 109
+   },
+   "ratio": {
+    "r50k_base": 1.1533,
+    "p50k_base": 1.1533,
+    "cl100k_base": 0.9234,
+    "o200k_base": 0.6513,
+    "claude_legacy": 0.9847,
+    "gemma": 0.4176
+   }
+  },
+  {
+   "category": "カタカナ多め",
+   "index": 3,
+   "chars": 234,
+   "tokens": {
+    "r50k_base": 269,
+    "p50k_base": 269,
+    "cl100k_base": 216,
+    "o200k_base": 149,
+    "claude_legacy": 225,
+    "gemma": 114
+   },
+   "ratio": {
+    "r50k_base": 1.1496,
+    "p50k_base": 1.1496,
+    "cl100k_base": 0.9231,
+    "o200k_base": 0.6368,
+    "claude_legacy": 0.9615,
+    "gemma": 0.4872
+   }
+  },
+  {
+   "category": "漢字多め（法務・契約風）",
+   "index": 1,
+   "chars": 266,
+   "tokens": {
+    "r50k_base": 438,
+    "p50k_base": 438,
+    "cl100k_base": 312,
+    "o200k_base": 230,
+    "claude_legacy": 303,
+    "gemma": 165
+   },
+   "ratio": {
+    "r50k_base": 1.6466,
+    "p50k_base": 1.6466,
+    "cl100k_base": 1.1729,
+    "o200k_base": 0.8647,
+    "claude_legacy": 1.1391,
+    "gemma": 0.6203
+   }
+  },
+  {
+   "category": "漢字多め（法務・契約風）",
+   "index": 2,
+   "chars": 275,
+   "tokens": {
+    "r50k_base": 456,
+    "p50k_base": 456,
+    "cl100k_base": 293,
+    "o200k_base": 210,
+    "claude_legacy": 278,
+    "gemma": 155
+   },
+   "ratio": {
+    "r50k_base": 1.6582,
+    "p50k_base": 1.6582,
+    "cl100k_base": 1.0655,
+    "o200k_base": 0.7636,
+    "claude_legacy": 1.0109,
+    "gemma": 0.5636
+   }
+  },
+  {
+   "category": "漢字多め（法務・契約風）",
+   "index": 3,
+   "chars": 228,
+   "tokens": {
+    "r50k_base": 398,
+    "p50k_base": 398,
+    "cl100k_base": 285,
+    "o200k_base": 209,
+    "claude_legacy": 268,
+    "gemma": 157
+   },
+   "ratio": {
+    "r50k_base": 1.7456,
+    "p50k_base": 1.7456,
+    "cl100k_base": 1.25,
+    "o200k_base": 0.9167,
+    "claude_legacy": 1.1754,
+    "gemma": 0.6886
+   }
+  },
+  {
+   "category": "ひらがな多め（やさしい日本語）",
+   "index": 1,
+   "chars": 202,
+   "tokens": {
+    "r50k_base": 252,
+    "p50k_base": 252,
+    "cl100k_base": 189,
+    "o200k_base": 153,
+    "claude_legacy": 197,
+    "gemma": 121
+   },
+   "ratio": {
+    "r50k_base": 1.2475,
+    "p50k_base": 1.2475,
+    "cl100k_base": 0.9356,
+    "o200k_base": 0.7574,
+    "claude_legacy": 0.9752,
+    "gemma": 0.599
+   }
+  },
+  {
+   "category": "ひらがな多め（やさしい日本語）",
+   "index": 2,
+   "chars": 222,
+   "tokens": {
+    "r50k_base": 265,
+    "p50k_base": 265,
+    "cl100k_base": 206,
+    "o200k_base": 168,
+    "claude_legacy": 218,
+    "gemma": 132
+   },
+   "ratio": {
+    "r50k_base": 1.1937,
+    "p50k_base": 1.1937,
+    "cl100k_base": 0.9279,
+    "o200k_base": 0.7568,
+    "claude_legacy": 0.982,
+    "gemma": 0.5946
+   }
+  },
+  {
+   "category": "ひらがな多め（やさしい日本語）",
+   "index": 3,
+   "chars": 201,
+   "tokens": {
+    "r50k_base": 246,
+    "p50k_base": 246,
+    "cl100k_base": 183,
+    "o200k_base": 147,
+    "claude_legacy": 205,
+    "gemma": 121
+   },
+   "ratio": {
+    "r50k_base": 1.2239,
+    "p50k_base": 1.2239,
+    "cl100k_base": 0.9104,
+    "o200k_base": 0.7313,
+    "claude_legacy": 1.0199,
+    "gemma": 0.602
+   }
+  },
+  {
+   "category": "数字・金額多め",
+   "index": 1,
+   "chars": 272,
+   "tokens": {
+    "r50k_base": 373,
+    "p50k_base": 373,
+    "cl100k_base": 265,
+    "o200k_base": 191,
+    "claude_legacy": 268,
+    "gemma": 214
+   },
+   "ratio": {
+    "r50k_base": 1.3713,
+    "p50k_base": 1.3713,
+    "cl100k_base": 0.9743,
+    "o200k_base": 0.7022,
+    "claude_legacy": 0.9853,
+    "gemma": 0.7868
+   }
+  },
+  {
+   "category": "数字・金額多め",
+   "index": 2,
+   "chars": 248,
+   "tokens": {
+    "r50k_base": 340,
+    "p50k_base": 340,
+    "cl100k_base": 235,
+    "o200k_base": 183,
+    "claude_legacy": 240,
+    "gemma": 189
+   },
+   "ratio": {
+    "r50k_base": 1.371,
+    "p50k_base": 1.371,
+    "cl100k_base": 0.9476,
+    "o200k_base": 0.7379,
+    "claude_legacy": 0.9677,
+    "gemma": 0.7621
+   }
+  },
+  {
+   "category": "数字・金額多め",
+   "index": 3,
+   "chars": 263,
+   "tokens": {
+    "r50k_base": 325,
+    "p50k_base": 325,
+    "cl100k_base": 232,
+    "o200k_base": 172,
+    "claude_legacy": 216,
+    "gemma": 208
+   },
+   "ratio": {
+    "r50k_base": 1.2357,
+    "p50k_base": 1.2357,
+    "cl100k_base": 0.8821,
+    "o200k_base": 0.654,
+    "claude_legacy": 0.8213,
+    "gemma": 0.7909
+   }
+  },
+  {
+   "category": "英数字混じり",
+   "index": 1,
+   "chars": 322,
+   "tokens": {
+    "r50k_base": 255,
+    "p50k_base": 255,
+    "cl100k_base": 192,
+    "o200k_base": 154,
+    "claude_legacy": 212,
+    "gemma": 147
+   },
+   "ratio": {
+    "r50k_base": 0.7919,
+    "p50k_base": 0.7919,
+    "cl100k_base": 0.5963,
+    "o200k_base": 0.4783,
+    "claude_legacy": 0.6584,
+    "gemma": 0.4565
+   }
+  },
+  {
+   "category": "英数字混じり",
+   "index": 2,
+   "chars": 319,
+   "tokens": {
+    "r50k_base": 302,
+    "p50k_base": 302,
+    "cl100k_base": 210,
+    "o200k_base": 169,
+    "claude_legacy": 225,
+    "gemma": 199
+   },
+   "ratio": {
+    "r50k_base": 0.9467,
+    "p50k_base": 0.9467,
+    "cl100k_base": 0.6583,
+    "o200k_base": 0.5298,
+    "claude_legacy": 0.7053,
+    "gemma": 0.6238
+   }
+  },
+  {
+   "category": "英数字混じり",
+   "index": 3,
+   "chars": 254,
+   "tokens": {
+    "r50k_base": 271,
+    "p50k_base": 271,
+    "cl100k_base": 197,
+    "o200k_base": 159,
+    "claude_legacy": 197,
+    "gemma": 160
+   },
+   "ratio": {
+    "r50k_base": 1.0669,
+    "p50k_base": 1.0669,
+    "cl100k_base": 0.7756,
+    "o200k_base": 0.626,
+    "claude_legacy": 0.7756,
+    "gemma": 0.6299
+   }
+  },
+  {
+   "category": "対照群：英語",
+   "index": 1,
+   "chars": 539,
+   "tokens": {
+    "r50k_base": 110,
+    "p50k_base": 110,
+    "cl100k_base": 108,
+    "o200k_base": 108,
+    "claude_legacy": 108,
+    "gemma": 107
+   },
+   "ratio": {
+    "r50k_base": 0.2041,
+    "p50k_base": 0.2041,
+    "cl100k_base": 0.2004,
+    "o200k_base": 0.2004,
+    "claude_legacy": 0.2004,
+    "gemma": 0.1985
+   }
+  },
+  {
+   "category": "対照群：英語",
+   "index": 2,
+   "chars": 477,
+   "tokens": {
+    "r50k_base": 91,
+    "p50k_base": 91,
+    "cl100k_base": 91,
+    "o200k_base": 91,
+    "claude_legacy": 91,
+    "gemma": 91
+   },
+   "ratio": {
+    "r50k_base": 0.1908,
+    "p50k_base": 0.1908,
+    "cl100k_base": 0.1908,
+    "o200k_base": 0.1908,
+    "claude_legacy": 0.1908,
+    "gemma": 0.1908
+   }
+  }
+ ],
+ "categories": {
+  "ビジネスメール": {
+   "chars": 701,
+   "texts": 3,
+   "tokens": {
+    "r50k_base": 1056,
+    "p50k_base": 1056,
+    "cl100k_base": 704,
+    "o200k_base": 466,
+    "claude_legacy": 748,
+    "gemma": 342
+   },
+   "ratio": {
+    "r50k_base": 1.5064,
+    "p50k_base": 1.5064,
+    "cl100k_base": 1.0043,
+    "o200k_base": 0.6648,
+    "claude_legacy": 1.067,
+    "gemma": 0.4879
+   }
+  },
+  "技術文書": {
+   "chars": 774,
+   "texts": 3,
+   "tokens": {
+    "r50k_base": 1210,
+    "p50k_base": 1210,
+    "cl100k_base": 826,
+    "o200k_base": 599,
+    "claude_legacy": 769,
+    "gemma": 422
+   },
+   "ratio": {
+    "r50k_base": 1.5633,
+    "p50k_base": 1.5633,
+    "cl100k_base": 1.0672,
+    "o200k_base": 0.7739,
+    "claude_legacy": 0.9935,
+    "gemma": 0.5452
+   }
+  },
+  "議事録・箇条書き": {
+   "chars": 678,
+   "texts": 3,
+   "tokens": {
+    "r50k_base": 1115,
+    "p50k_base": 1115,
+    "cl100k_base": 789,
+    "o200k_base": 579,
+    "claude_legacy": 722,
+    "gemma": 428
+   },
+   "ratio": {
+    "r50k_base": 1.6445,
+    "p50k_base": 1.6445,
+    "cl100k_base": 1.1637,
+    "o200k_base": 0.854,
+    "claude_legacy": 1.0649,
+    "gemma": 0.6313
+   }
+  },
+  "カタカナ多め": {
+   "chars": 760,
+   "texts": 3,
+   "tokens": {
+    "r50k_base": 882,
+    "p50k_base": 882,
+    "cl100k_base": 706,
+    "o200k_base": 490,
+    "claude_legacy": 740,
+    "gemma": 336
+   },
+   "ratio": {
+    "r50k_base": 1.1605,
+    "p50k_base": 1.1605,
+    "cl100k_base": 0.9289,
+    "o200k_base": 0.6447,
+    "claude_legacy": 0.9737,
+    "gemma": 0.4421
+   }
+  },
+  "漢字多め（法務・契約風）": {
+   "chars": 769,
+   "texts": 3,
+   "tokens": {
+    "r50k_base": 1292,
+    "p50k_base": 1292,
+    "cl100k_base": 890,
+    "o200k_base": 649,
+    "claude_legacy": 849,
+    "gemma": 477
+   },
+   "ratio": {
+    "r50k_base": 1.6801,
+    "p50k_base": 1.6801,
+    "cl100k_base": 1.1573,
+    "o200k_base": 0.844,
+    "claude_legacy": 1.104,
+    "gemma": 0.6203
+   }
+  },
+  "ひらがな多め（やさしい日本語）": {
+   "chars": 625,
+   "texts": 3,
+   "tokens": {
+    "r50k_base": 763,
+    "p50k_base": 763,
+    "cl100k_base": 578,
+    "o200k_base": 468,
+    "claude_legacy": 620,
+    "gemma": 374
+   },
+   "ratio": {
+    "r50k_base": 1.2208,
+    "p50k_base": 1.2208,
+    "cl100k_base": 0.9248,
+    "o200k_base": 0.7488,
+    "claude_legacy": 0.992,
+    "gemma": 0.5984
+   }
+  },
+  "数字・金額多め": {
+   "chars": 783,
+   "texts": 3,
+   "tokens": {
+    "r50k_base": 1038,
+    "p50k_base": 1038,
+    "cl100k_base": 732,
+    "o200k_base": 546,
+    "claude_legacy": 724,
+    "gemma": 611
+   },
+   "ratio": {
+    "r50k_base": 1.3257,
+    "p50k_base": 1.3257,
+    "cl100k_base": 0.9349,
+    "o200k_base": 0.6973,
+    "claude_legacy": 0.9246,
+    "gemma": 0.7803
+   }
+  },
+  "英数字混じり": {
+   "chars": 895,
+   "texts": 3,
+   "tokens": {
+    "r50k_base": 828,
+    "p50k_base": 828,
+    "cl100k_base": 599,
+    "o200k_base": 482,
+    "claude_legacy": 634,
+    "gemma": 506
+   },
+   "ratio": {
+    "r50k_base": 0.9251,
+    "p50k_base": 0.9251,
+    "cl100k_base": 0.6693,
+    "o200k_base": 0.5385,
+    "claude_legacy": 0.7084,
+    "gemma": 0.5654
+   }
+  },
+  "対照群：英語": {
+   "chars": 1016,
+   "texts": 2,
+   "tokens": {
+    "r50k_base": 201,
+    "p50k_base": 201,
+    "cl100k_base": 199,
+    "o200k_base": 199,
+    "claude_legacy": 199,
+    "gemma": 198
+   },
+   "ratio": {
+    "r50k_base": 0.1978,
+    "p50k_base": 0.1978,
+    "cl100k_base": 0.1959,
+    "o200k_base": 0.1959,
+    "claude_legacy": 0.1959,
+    "gemma": 0.1949
+   }
+  }
+ },
+ "vocab_size": {
+  "r50k_base": 50257,
+  "p50k_base": 50281,
+  "cl100k_base": 100277,
+  "o200k_base": 200019,
+  "claude_legacy": 64995,
+  "gemma": 256000
+ },
+ "labels": {
+  "o200k_base": "o200k_base（GPT-4o / GPT-4.1 / o系）",
+  "cl100k_base": "cl100k_base（GPT-4 / GPT-3.5-turbo）",
+  "p50k_base": "p50k_base（GPT-3 davinci 系）",
+  "r50k_base": "r50k_base（GPT-2 / GPT-3 初期）",
+  "claude_legacy": "Claude 1〜2 世代（現行Claudeは非公開）",
+  "gemma": "Gemma（Google公開。Geminiのものではない）"
+ },
+ "order": [
+  "r50k_base",
+  "p50k_base",
+  "cl100k_base",
+  "o200k_base",
+  "claude_legacy",
+  "gemma"
+ ]
+}
