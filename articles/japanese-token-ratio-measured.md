@@ -3,7 +3,7 @@ title: "「日本語は1文字1トークン」を6つのトークナイザーで
 emoji: "🔤"
 type: "tech"
 topics: ["llm", "生成ai", "python", "openai", "tokenizer"]
-published: false
+published: true
 ---
 
 日本語のトークン数を見積もるとき、「だいたい1文字1トークン」で計算していないでしょうか。私はそうしていました。
