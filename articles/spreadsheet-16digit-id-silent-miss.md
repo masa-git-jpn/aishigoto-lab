@@ -3,7 +3,7 @@ title: "16桁のIDを表計算ソフトで突合したら、末尾違いが「�
 emoji: "🔢"
 type: "tech"
 topics: ["csv", "excel", "python", "pandas", "libreoffice"]
-published: false
+published: true
 ---
 
 2つのCSVを突き合わせて「差分はありませんでした」と報告する作業には、厄介なところがあります。
