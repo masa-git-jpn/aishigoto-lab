@@ -1,0 +1,190 @@
+{
+  "folders_tested": 30,
+  "total_files": 3160,
+  "total_mismatched_files": 3080,
+  "mismatch_rate": 0.9747,
+  "all_renames_bijective_no_name_collision": true,
+  "total_flagged_by_any_of_7_methods": 0,
+  "per_folder": [
+    {
+      "k": 10,
+      "mismatches": 9,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 10,
+      "mismatches": 9,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 10,
+      "mismatches": 9,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 10,
+      "mismatches": 9,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 10,
+      "mismatches": 9,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 23,
+      "mismatches": 22,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 23,
+      "mismatches": 22,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 23,
+      "mismatches": 22,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 23,
+      "mismatches": 22,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 23,
+      "mismatches": 22,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 50,
+      "mismatches": 49,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 50,
+      "mismatches": 49,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 50,
+      "mismatches": 49,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 50,
+      "mismatches": 49,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 50,
+      "mismatches": 49,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 99,
+      "mismatches": 88,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 99,
+      "mismatches": 88,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 99,
+      "mismatches": 88,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 99,
+      "mismatches": 88,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 99,
+      "mismatches": 88,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 150,
+      "mismatches": 149,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 150,
+      "mismatches": 149,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 150,
+      "mismatches": 149,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 150,
+      "mismatches": 149,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 150,
+      "mismatches": 149,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 300,
+      "mismatches": 299,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 300,
+      "mismatches": 299,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 300,
+      "mismatches": 299,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 300,
+      "mismatches": 299,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    },
+    {
+      "k": 300,
+      "mismatches": 299,
+      "is_bijective": true,
+      "detected_any_danger": 0
+    }
+  ]
+}

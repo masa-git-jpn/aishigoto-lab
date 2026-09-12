@@ -1,0 +1,168 @@
+---
+import Base from '../../layouts/Base.astro';
+import { SITE } from '../../consts';
+
+const BASE = '/downloads/filename-rename-benchmark';
+
+const groups = [
+  {
+    heading: '検証データ',
+    files: [
+      { f: 'corpus/main.csv', d: '本番コーパス(14,404件)。7カテゴリ+対照群2種+副実験。value_a/value_bが必ず異なることを生成時にassertで保証している' },
+      { f: 'corpus/holdout.csv', d: 'ホールドアウトコーパス(3,603件)。本番とは別スクリプトで、拡張子だけの大文字小文字違いや二重拡張子つき予約語など新しいパターンを追加' },
+    ],
+  },
+  {
+    heading: '検証コード',
+    files: [
+      { f: 'gen_corpus.py', d: '本番コーパスの生成' },
+      { f: 'gen_holdout.py', d: 'ホールドアウトの生成(本番とは別スクリプト)' },
+      { f: 'methods.py', d: '7通りの検出方法の定義(素朴な文字列比較 / lower / NFC / lower+NFC / NFKC+casefold / pathvalidate / フル装備)' },
+      { f: 'score.py', d: 'コーパスに7手法をかけて、カテゴリ×手法の集計表を作る' },
+      { f: 'experiment_double_ext.py', d: '深掘り実験:拡張子の大文字小文字を区別するendswith()チェックが二重拡張子を生むか(5,000件)' },
+      { f: 'experiment_seq_padding.py', d: '深掘り実験:連番の桁揃え無しによる取り違え(30フォルダ・3,160件)' },
+      { f: 'experiment_chain_rename.py', d: '深掘り実験:連鎖リネームによる上書き。実際に一時ディレクトリにファイルを作り、実際にrenameを実行し、実際に中身を読んで確認している(56パターン・432ファイル)' },
+      { f: 'verify_article.py', d: '記事本文の数値をすべて結果ファイルと突合するスクリプト' },
+    ],
+  },
+  {
+    heading: '結果',
+    files: [
+      { f: 'results/summary_main.json', d: '本番の集計結果(7手法×9カテゴリ、誤検出件数つき)' },
+      { f: 'results/summary_main.txt', d: '本番の集計結果(人間が読みやすいテキスト表)' },
+      { f: 'results/summary_holdout.json', d: 'ホールドアウトの集計結果' },
+      { f: 'results/summary_holdout.txt', d: 'ホールドアウトの集計結果(テキスト表)' },
+      { f: 'results/double_ext_result.json', d: '二重拡張子実験の結果。実例5件つき' },
+      { f: 'results/seq_padding_result.json', d: '連番桁揃え実験の結果(フォルダ単位の内訳つき)' },
+      { f: 'results/chain_rename_result.json', d: '連鎖リネーム実験の結果。実際に消えた例5件つき' },
+      { f: 'README.md', d: 'データ形式と再現手順の説明' },
+    ],
+  },
+];
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Dataset',
+  name: 'ファイル名一括リネーム危険検出ベンチマーク(7手法・18,000件超+実ファイル実験)',
+  description:
+    '大文字小文字・Unicode正規化・全角半角・Windows予約語・末尾のピリオド/空白という5種類の危険を仕込んだファイル名に、7通りの検出方法をかけて測った検証データ。名前の衝突を伴わない2種類の危険(連番の桁揃え無し、連鎖リネームによる上書き)は実際にファイルを操作して確認している。',
+  url: `${SITE.url}/data/filename-rename-benchmark/`,
+  inLanguage: 'ja',
+  license: 'https://creativecommons.org/publicdomain/zero/1.0/',
+  creator: { '@type': 'Organization', name: SITE.name, url: SITE.url },
+  distribution: {
+    '@type': 'DataDownload',
+    encodingFormat: 'application/zip',
+    contentUrl: `${SITE.url}/downloads/filename-rename-benchmark-dataset.zip`,
+  },
+};
+---
+
+<Base
+  title="ファイル名一括リネーム危険検出ベンチマーク 生データ"
+  description="大文字小文字・Unicode正規化・全角半角・Windows予約語・末尾のピリオド/空白を仕込んだファイル名と、7通りの検出方法の判定結果すべて。連番の桁揃えや連鎖リネームを実際にファイルで検証した実験コードも公開しています。"
+  jsonLd={jsonLd}
+>
+  <article class="narrow prose" style="padding-block:2.5rem 1rem;">
+    <h1>ファイル名一括リネーム危険検出ベンチマーク 生データ</h1>
+
+    <p>
+      以下の記事で使った検証データの全部です。コーパスも、7手法のコードも、
+      連番・連鎖リネーム・二重拡張子の3つの深掘り実験も隠していません。<strong>同じ手順で再現できます。</strong>
+    </p>
+
+    <ul>
+      <li>
+        <a href="/lab/filename-rename-benchmark/">
+          ファイル名を一括で変える前に、危険な名前が混ざっていないか7つの方法で測った
+        </a>
+      </li>
+    </ul>
+
+    <div class="verify-box">
+      <h2>まとめてダウンロード</h2>
+      <p style="margin:0 0 0.5rem;">
+        <strong><a href={`${BASE}-dataset.zip`}>filename-rename-benchmark-dataset.zip</a></strong>
+      </p>
+      <p style="margin:0;font-size:0.875rem;color:var(--ink-2);">
+        著作権は主張しません。自由に利用・再配布してください。
+        引用の際に出典として記事URLを示していただけると助かります。
+      </p>
+    </div>
+
+    <h2>検証環境</h2>
+    <ul>
+      <li>Python 3.11 / pathvalidate 3.3.1</li>
+      <li>Ubuntu 24.04(ext4・大文字小文字を区別するファイルシステム)</li>
+      <li>検証日 2026-09-12</li>
+    </ul>
+    <p>
+      <strong>Windows・macOS実機では検証していません。</strong>
+      この環境がLinuxのサンドボックスのみのためです。大文字小文字の衝突・Unicode正規化の衝突・
+      予約語での作成失敗は、「計算上こうなるはず」というところまでの確認です。
+      一方、連番の桁揃えと連鎖リネームの実験は実際にファイルを操作しており、
+      実機の違いに関係なく成り立つ結果です(リネームの実行順序だけが原因のため)。
+    </p>
+
+    <h2>コーパスの構造について</h2>
+    <p>
+      <code>corpus/*.csv</code> の <code>kind</code> が <code>pair</code> の行は、
+      <code>name_a</code> と <code>name_b</code> の2つの名前を比較する対象です。
+      <code>kind</code> が <code>single</code> の行は <code>name_b</code> 1件だけを単体でチェックする
+      対象です。<code>truth_danger</code> が正解(この名前・組み合わせが本当に危険かどうか)を表します。
+      対照群として「完全に同じ名前(<code>D0_exact_dup</code>)」「無関係な名前(<code>D1_unrelated</code>)」
+      「予約語に似ているが無害な名前(<code>B1n_reserved_nearmiss</code>)」を用意しており、
+      <strong>これらを誤って検出/見逃すようだと測定系自体が壊れていると判断できます</strong>
+      (今回はD0を除く2手法以外の全手法が対照群で正しく判定しました)。
+    </p>
+
+    <h2>ファイル一覧</h2>
+    {groups.map((g) => (
+      <>
+        <h3>{g.heading}</h3>
+        <ul>
+          {g.files.map((x) => (
+            <li>
+              <a href={`${BASE}/${x.f}`}><code>{x.f}</code></a> — {x.d}
+            </li>
+          ))}
+        </ul>
+      </>
+    ))}
+
+    <h2>再現方法</h2>
+    <pre><code>{`pip install pathvalidate
+mkdir -p corpus results
+
+# 本番
+python3 gen_corpus.py --seed 20260912 --n 2000 --out corpus/main.csv
+python3 score.py --prefix main
+
+# ホールドアウト(score.py・methods.py は変更しない)
+python3 gen_holdout.py --seed 31415926 --n 500 --out corpus/holdout.csv
+python3 score.py --prefix holdout
+
+# 深掘り実験
+python3 experiment_double_ext.py
+python3 experiment_seq_padding.py
+python3 experiment_chain_rename.py
+
+# 記事の数値と突合
+python3 verify_article.py`}</code></pre>
+
+    <p style="font-size:0.875rem;color:var(--ink-2);">
+      乱数のシードを固定しているので、同じコマンドで同じコーパス・同じ結果が再生成されます。
+      <code>experiment_chain_rename.py</code> は一時ディレクトリに実際にファイルを読み書きするため、
+      実行には数秒かかります。
+    </p>
+
+    <div class="note">
+      <p>
+        <strong>誤りを見つけた場合はご指摘ください。</strong>
+        検証の設計ミスや集計ミスが混じっている可能性は常にあります。
+        <a href="/contact/">お問い合わせ</a>からご連絡いただければ、確認のうえ訂正し、
+        いつ・どこを・なぜ訂正したかを該当記事に明記します。
+      </p>
+    </div>
+  </article>
+</Base>

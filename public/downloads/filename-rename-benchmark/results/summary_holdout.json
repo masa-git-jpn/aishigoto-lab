@@ -1,0 +1,143 @@
+{
+  "prefix": "holdout",
+  "categories": {
+    "A1_case": {
+      "kind": "pair",
+      "truth_danger": true,
+      "n": 500
+    },
+    "A2_nfc_nfd": {
+      "kind": "pair",
+      "truth_danger": true,
+      "n": 500
+    },
+    "A3_fullwidth": {
+      "kind": "pair",
+      "truth_danger": true,
+      "n": 500
+    },
+    "B1_reserved": {
+      "kind": "single",
+      "truth_danger": true,
+      "n": 500
+    },
+    "B1n_reserved_nearmiss": {
+      "kind": "single",
+      "truth_danger": false,
+      "n": 100
+    },
+    "B2_trailing": {
+      "kind": "single",
+      "truth_danger": true,
+      "n": 500
+    },
+    "D0_exact_dup": {
+      "kind": "pair",
+      "truth_danger": true,
+      "n": 500
+    },
+    "D1_unrelated": {
+      "kind": "pair",
+      "truth_danger": false,
+      "n": 500
+    },
+    "D2_nfkc_risk": {
+      "kind": "pair",
+      "truth_danger": false,
+      "n": 3
+    }
+  },
+  "methods": {
+    "M1_naive_str": "素朴な重複チェック(文字列そのまま)",
+    "M2_lower": "lower()してから重複チェック",
+    "M3_nfc": "Unicode正規化(NFC)してから重複チェック",
+    "M4_lower_nfc": "lower + NFC 両方してから重複チェック",
+    "M5_nfkc_casefold": "NFKC正規化 + casefold してから重複チェック",
+    "M6_pathvalidate": "pathvalidate(単体の妥当性チェックのみ、重複は見ない)",
+    "M7_full": "フル装備(自作): NFKC+casefoldの重複判定 + pathvalidateの単体チェック"
+  },
+  "detected": {
+    "M1_naive_str": {
+      "D0_exact_dup": 500
+    },
+    "M2_lower": {
+      "A1_case": 500,
+      "D0_exact_dup": 500
+    },
+    "M3_nfc": {
+      "A2_nfc_nfd": 500,
+      "D0_exact_dup": 500
+    },
+    "M4_lower_nfc": {
+      "A1_case": 500,
+      "A2_nfc_nfd": 500,
+      "D0_exact_dup": 500
+    },
+    "M5_nfkc_casefold": {
+      "A1_case": 500,
+      "A2_nfc_nfd": 500,
+      "A3_fullwidth": 500,
+      "D0_exact_dup": 500,
+      "D2_nfkc_risk": 3
+    },
+    "M6_pathvalidate": {
+      "B1_reserved": 500,
+      "B2_trailing": 500
+    },
+    "M7_full": {
+      "A1_case": 500,
+      "A2_nfc_nfd": 500,
+      "A3_fullwidth": 500,
+      "B1_reserved": 500,
+      "B2_trailing": 500,
+      "D0_exact_dup": 500,
+      "D2_nfkc_risk": 3
+    }
+  },
+  "false_positive_examples": {
+    "M5_nfkc_casefold": [
+      [
+        "3600",
+        "D2_nfkc_risk",
+        "湿度５０％.txt",
+        "湿度50%.txt"
+      ],
+      [
+        "3601",
+        "D2_nfkc_risk",
+        "第Ⅳ四半期.pptx",
+        "第IV四半期.pptx"
+      ],
+      [
+        "3602",
+        "D2_nfkc_risk",
+        "価格㌫表示.csv",
+        "価格パーセント表示.csv"
+      ]
+    ],
+    "M7_full": [
+      [
+        "3600",
+        "D2_nfkc_risk",
+        "湿度５０％.txt",
+        "湿度50%.txt"
+      ],
+      [
+        "3601",
+        "D2_nfkc_risk",
+        "第Ⅳ四半期.pptx",
+        "第IV四半期.pptx"
+      ],
+      [
+        "3602",
+        "D2_nfkc_risk",
+        "価格㌫表示.csv",
+        "価格パーセント表示.csv"
+      ]
+    ]
+  },
+  "false_positive_counts": {
+    "M5_nfkc_casefold": 3,
+    "M7_full": 3
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "trials": 56,
+  "total_files_involved": 432,
+  "total_lost_naive_order": 50,
+  "total_lost_safe_order": 0,
+  "batches_with_any_loss": 25,
+  "loss_rate_naive": 0.1157,
+  "no_detector_flagged_final_names": true,
+  "note": "最終的なファイル名の集合はどの試行でも重複していない(全単射)。7手法のいずれも「危険」と判定できるものは無い。",
+  "examples_of_loss": [
+    {
+      "range": [
+        8,
+        10
+      ],
+      "n_files": 2,
+      "lost": 2,
+      "listdir_sorted_order_used": [
+        "photo10.jpg",
+        "photo9.jpg"
+      ]
+    },
+    {
+      "range": [
+        98,
+        100
+      ],
+      "n_files": 2,
+      "lost": 2,
+      "listdir_sorted_order_used": [
+        "photo100.jpg",
+        "photo99.jpg"
+      ]
+    },
+    {
+      "range": [
+        8,
+        11
+      ],
+      "n_files": 3,
+      "lost": 2,
+      "listdir_sorted_order_used": [
+        "photo10.jpg",
+        "photo11.jpg",
+        "photo9.jpg"
+      ]
+    },
+    {
+      "range": [
+        98,
+        101
+      ],
+      "n_files": 3,
+      "lost": 2,
+      "listdir_sorted_order_used": [
+        "photo100.jpg",
+        "photo101.jpg",
+        "photo99.jpg"
+      ]
+    },
+    {
+      "range": [
+        8,
+        12
+      ],
+      "n_files": 4,
+      "lost": 2,
+      "listdir_sorted_order_used": [
+        "photo10.jpg",
+        "photo11.jpg",
+        "photo12.jpg",
+        "photo9.jpg"
+      ]
+    }
+  ]
+}

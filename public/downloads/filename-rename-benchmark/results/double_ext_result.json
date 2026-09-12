@@ -1,0 +1,48 @@
+{
+  "n": 5000,
+  "buggy_double_ext_count": 2201,
+  "safe_double_ext_count": 0,
+  "buggy_lookup_fail": 2201,
+  "safe_lookup_fail": 0,
+  "reapply_grows_further": 0,
+  "ext_case_breakdown": {
+    ".PDF": {
+      "n": 1496,
+      "doubled": 1496
+    },
+    ".pdf": {
+      "n": 2799,
+      "doubled": 0
+    },
+    ".pDf": {
+      "n": 242,
+      "doubled": 242
+    },
+    ".Pdf": {
+      "n": 463,
+      "doubled": 463
+    }
+  },
+  "example_buggy": [
+    {
+      "original": "請求書_0000.PDF",
+      "after_buggy": "請求書_0000.PDF.pdf"
+    },
+    {
+      "original": "検収書_0002.pDf",
+      "after_buggy": "検収書_0002.pDf.pdf"
+    },
+    {
+      "original": "検収書_0003.pDf",
+      "after_buggy": "検収書_0003.pDf.pdf"
+    },
+    {
+      "original": "検収書_0004.pDf",
+      "after_buggy": "検収書_0004.pDf.pdf"
+    },
+    {
+      "original": "契約書_0007.Pdf",
+      "after_buggy": "契約書_0007.Pdf.pdf"
+    }
+  ]
+}

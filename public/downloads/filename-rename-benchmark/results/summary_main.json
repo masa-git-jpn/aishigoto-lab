@@ -1,0 +1,155 @@
+{
+  "prefix": "main",
+  "categories": {
+    "A1_case": {
+      "kind": "pair",
+      "truth_danger": true,
+      "n": 2000
+    },
+    "A2_nfc_nfd": {
+      "kind": "pair",
+      "truth_danger": true,
+      "n": 2000
+    },
+    "A3_fullwidth": {
+      "kind": "pair",
+      "truth_danger": true,
+      "n": 2000
+    },
+    "B1_reserved": {
+      "kind": "single",
+      "truth_danger": true,
+      "n": 2000
+    },
+    "B1n_reserved_nearmiss": {
+      "kind": "single",
+      "truth_danger": false,
+      "n": 400
+    },
+    "B2_trailing": {
+      "kind": "single",
+      "truth_danger": true,
+      "n": 2000
+    },
+    "D0_exact_dup": {
+      "kind": "pair",
+      "truth_danger": true,
+      "n": 2000
+    },
+    "D1_unrelated": {
+      "kind": "pair",
+      "truth_danger": false,
+      "n": 2000
+    },
+    "D2_nfkc_risk": {
+      "kind": "pair",
+      "truth_danger": false,
+      "n": 4
+    }
+  },
+  "methods": {
+    "M1_naive_str": "素朴な重複チェック(文字列そのまま)",
+    "M2_lower": "lower()してから重複チェック",
+    "M3_nfc": "Unicode正規化(NFC)してから重複チェック",
+    "M4_lower_nfc": "lower + NFC 両方してから重複チェック",
+    "M5_nfkc_casefold": "NFKC正規化 + casefold してから重複チェック",
+    "M6_pathvalidate": "pathvalidate(単体の妥当性チェックのみ、重複は見ない)",
+    "M7_full": "フル装備(自作): NFKC+casefoldの重複判定 + pathvalidateの単体チェック"
+  },
+  "detected": {
+    "M1_naive_str": {
+      "D0_exact_dup": 2000
+    },
+    "M2_lower": {
+      "A1_case": 2000,
+      "D0_exact_dup": 2000
+    },
+    "M3_nfc": {
+      "A2_nfc_nfd": 2000,
+      "D0_exact_dup": 2000
+    },
+    "M4_lower_nfc": {
+      "A1_case": 2000,
+      "A2_nfc_nfd": 2000,
+      "D0_exact_dup": 2000
+    },
+    "M5_nfkc_casefold": {
+      "A1_case": 2000,
+      "A2_nfc_nfd": 2000,
+      "A3_fullwidth": 2000,
+      "D0_exact_dup": 2000,
+      "D2_nfkc_risk": 4
+    },
+    "M6_pathvalidate": {
+      "B1_reserved": 2000,
+      "B2_trailing": 2000
+    },
+    "M7_full": {
+      "A1_case": 2000,
+      "A2_nfc_nfd": 2000,
+      "A3_fullwidth": 2000,
+      "B1_reserved": 2000,
+      "B2_trailing": 2000,
+      "D0_exact_dup": 2000,
+      "D2_nfkc_risk": 4
+    }
+  },
+  "false_positive_examples": {
+    "M5_nfkc_casefold": [
+      [
+        "14400",
+        "D2_nfkc_risk",
+        "面積_10㎡.txt",
+        "面積_10m2.txt"
+      ],
+      [
+        "14401",
+        "D2_nfkc_risk",
+        "係数Ⅲ.csv",
+        "係数III.csv"
+      ],
+      [
+        "14402",
+        "D2_nfkc_risk",
+        "㈱山田商事.pdf",
+        "(株)山田商事.pdf"
+      ],
+      [
+        "14403",
+        "D2_nfkc_risk",
+        "No.１２.xlsx",
+        "No.12.xlsx"
+      ]
+    ],
+    "M7_full": [
+      [
+        "14400",
+        "D2_nfkc_risk",
+        "面積_10㎡.txt",
+        "面積_10m2.txt"
+      ],
+      [
+        "14401",
+        "D2_nfkc_risk",
+        "係数Ⅲ.csv",
+        "係数III.csv"
+      ],
+      [
+        "14402",
+        "D2_nfkc_risk",
+        "㈱山田商事.pdf",
+        "(株)山田商事.pdf"
+      ],
+      [
+        "14403",
+        "D2_nfkc_risk",
+        "No.１２.xlsx",
+        "No.12.xlsx"
+      ]
+    ]
+  },
+  "false_positive_counts": {
+    "M5_nfkc_casefold": 4,
+    "M7_full": 4
+  }
+}

@@ -1,0 +1,3604 @@
+id,category,name_a,name_b,kind,truth_danger
+0,A1_case,納品明細_6989.docx,納品明細_6989.DOCX,pair,True
+1,A1_case,Invoice_378.pdf,Invoice_378.PDF,pair,True
+2,A1_case,検査記録_5517.docx,検査記録_5517.DOCX,pair,True
+3,A1_case,Photo_4224.pdf,Photo_4224.PDF,pair,True
+4,A1_case,Photo_2699.xlsx,Photo_2699.XLSX,pair,True
+5,A1_case,検査記録_2822.xlsx,検査記録_2822.XLSX,pair,True
+6,A1_case,Invoice_5377.pdf,Invoice_5377.PDF,pair,True
+7,A1_case,納品明細_4078.pdf,納品明細_4078.PDF,pair,True
+8,A1_case,議事メモ_2115.xlsx,議事メモ_2115.XLSX,pair,True
+9,A1_case,Photo_157.pdf,Photo_157.PDF,pair,True
+10,A1_case,議事メモ_7458.xlsx,議事メモ_7458.XLSX,pair,True
+11,A1_case,納品明細_2050.docx,納品明細_2050.DOCX,pair,True
+12,A1_case,Invoice_8317.pdf,Invoice_8317.PDF,pair,True
+13,A1_case,Photo_4648.xlsx,Photo_4648.XLSX,pair,True
+14,A1_case,議事メモ_241.docx,議事メモ_241.Docx,pair,True
+15,A1_case,Draft_5683.xlsx,Draft_5683.XLSX,pair,True
+16,A1_case,Invoice_9941.pdf,Invoice_9941.PDF,pair,True
+17,A1_case,Draft_7771.pdf,Draft_7771.PDF,pair,True
+18,A1_case,Invoice_1898.pdf,Invoice_1898.PDF,pair,True
+19,A1_case,Draft_7817.pdf,Draft_7817.PDF,pair,True
+20,A1_case,納品明細_2319.xlsx,納品明細_2319.XLSX,pair,True
+21,A1_case,Photo_2790.pdf,Photo_2790.PDF,pair,True
+22,A1_case,Invoice_3446.pdf,Invoice_3446.PDF,pair,True
+23,A1_case,決裁書_6540.docx,決裁書_6540.Docx,pair,True
+24,A1_case,議事メモ_8806.pdf,議事メモ_8806.PDF,pair,True
+25,A1_case,Invoice_4477.xlsx,Invoice_4477.XLSX,pair,True
+26,A1_case,Invoice_1896.docx,Invoice_1896.DOCX,pair,True
+27,A1_case,Invoice_2579.xlsx,Invoice_2579.XLSX,pair,True
+28,A1_case,Invoice_1169.pdf,Invoice_1169.PDF,pair,True
+29,A1_case,納品明細_6746.pdf,納品明細_6746.PDF,pair,True
+30,A1_case,納品明細_6460.xlsx,納品明細_6460.XLSX,pair,True
+31,A1_case,Draft_5571.pdf,Draft_5571.PDF,pair,True
+32,A1_case,議事メモ_4172.docx,議事メモ_4172.DOCX,pair,True
+33,A1_case,Invoice_460.pdf,Invoice_460.PDF,pair,True
+34,A1_case,納品明細_778.xlsx,納品明細_778.XLSX,pair,True
+35,A1_case,議事メモ_3745.pdf,議事メモ_3745.PDF,pair,True
+36,A1_case,Invoice_8598.pdf,Invoice_8598.PDF,pair,True
+37,A1_case,議事メモ_7791.xlsx,議事メモ_7791.XLSX,pair,True
+38,A1_case,Draft_2828.pdf,Draft_2828.PDF,pair,True
+39,A1_case,検査記録_2119.pdf,検査記録_2119.PDF,pair,True
+40,A1_case,検査記録_9877.docx,検査記録_9877.DOCX,pair,True
+41,A1_case,Photo_3892.pdf,Photo_3892.PDF,pair,True
+42,A1_case,決裁書_3748.xlsx,決裁書_3748.XLSX,pair,True
+43,A1_case,納品明細_7553.docx,納品明細_7553.DOCX,pair,True
+44,A1_case,Photo_9619.docx,Photo_9619.Docx,pair,True
+45,A1_case,Invoice_9329.pdf,Invoice_9329.PDF,pair,True
+46,A1_case,議事メモ_4582.xlsx,議事メモ_4582.XLSX,pair,True
+47,A1_case,Invoice_5735.docx,Invoice_5735.Docx,pair,True
+48,A1_case,Invoice_2360.pdf,Invoice_2360.PDF,pair,True
+49,A1_case,納品明細_4461.docx,納品明細_4461.Docx,pair,True
+50,A1_case,議事メモ_7482.pdf,議事メモ_7482.PDF,pair,True
+51,A1_case,Photo_8344.docx,Photo_8344.DOCX,pair,True
+52,A1_case,検査記録_4915.xlsx,検査記録_4915.XLSX,pair,True
+53,A1_case,Photo_9535.pdf,Photo_9535.PDF,pair,True
+54,A1_case,納品明細_1336.pdf,納品明細_1336.PDF,pair,True
+55,A1_case,Photo_4267.docx,Photo_4267.DOCX,pair,True
+56,A1_case,Invoice_434.docx,Invoice_434.Docx,pair,True
+57,A1_case,Photo_4537.pdf,Photo_4537.PDF,pair,True
+58,A1_case,検査記録_3607.docx,検査記録_3607.DOCX,pair,True
+59,A1_case,Photo_4753.xlsx,Photo_4753.XLSX,pair,True
+60,A1_case,決裁書_9370.pdf,決裁書_9370.PDF,pair,True
+61,A1_case,Draft_6973.xlsx,Draft_6973.XLSX,pair,True
+62,A1_case,納品明細_8372.pdf,納品明細_8372.PDF,pair,True
+63,A1_case,Photo_2369.xlsx,Photo_2369.XLSX,pair,True
+64,A1_case,Draft_842.pdf,Draft_842.PDF,pair,True
+65,A1_case,検査記録_3679.pdf,検査記録_3679.PDF,pair,True
+66,A1_case,Draft_2214.pdf,Draft_2214.PDF,pair,True
+67,A1_case,Photo_8449.docx,Photo_8449.DOCX,pair,True
+68,A1_case,議事メモ_31.pdf,議事メモ_31.PDF,pair,True
+69,A1_case,決裁書_6905.docx,決裁書_6905.DOCX,pair,True
+70,A1_case,Invoice_7350.xlsx,Invoice_7350.XLSX,pair,True
+71,A1_case,Draft_3608.docx,Draft_3608.Docx,pair,True
+72,A1_case,Draft_7962.pdf,Draft_7962.PDF,pair,True
+73,A1_case,Draft_4997.pdf,Draft_4997.PDF,pair,True
+74,A1_case,検査記録_4795.xlsx,検査記録_4795.XLSX,pair,True
+75,A1_case,議事メモ_3395.xlsx,議事メモ_3395.XLSX,pair,True
+76,A1_case,議事メモ_2283.pdf,議事メモ_2283.PDF,pair,True
+77,A1_case,Draft_9333.pdf,Draft_9333.PDF,pair,True
+78,A1_case,検査記録_2951.xlsx,検査記録_2951.XLSX,pair,True
+79,A1_case,Photo_3375.pdf,Photo_3375.PDF,pair,True
+80,A1_case,決裁書_6646.docx,決裁書_6646.DOCX,pair,True
+81,A1_case,Draft_757.pdf,Draft_757.PDF,pair,True
+82,A1_case,Photo_7693.pdf,Photo_7693.PDF,pair,True
+83,A1_case,検査記録_4895.pdf,検査記録_4895.PDF,pair,True
+84,A1_case,Draft_5657.pdf,Draft_5657.PDF,pair,True
+85,A1_case,Invoice_9080.pdf,Invoice_9080.PDF,pair,True
+86,A1_case,検査記録_7736.docx,検査記録_7736.DOCX,pair,True
+87,A1_case,Photo_2580.xlsx,Photo_2580.XLSX,pair,True
+88,A1_case,検査記録_4127.pdf,検査記録_4127.PDF,pair,True
+89,A1_case,議事メモ_1807.pdf,議事メモ_1807.PDF,pair,True
+90,A1_case,Invoice_6329.xlsx,Invoice_6329.XLSX,pair,True
+91,A1_case,検査記録_8778.pdf,検査記録_8778.PDF,pair,True
+92,A1_case,Draft_3678.docx,Draft_3678.DOCX,pair,True
+93,A1_case,納品明細_919.pdf,納品明細_919.PDF,pair,True
+94,A1_case,Draft_1427.xlsx,Draft_1427.XLSX,pair,True
+95,A1_case,議事メモ_7083.pdf,議事メモ_7083.PDF,pair,True
+96,A1_case,Draft_2492.pdf,Draft_2492.PDF,pair,True
+97,A1_case,Invoice_8116.xlsx,Invoice_8116.XLSX,pair,True
+98,A1_case,納品明細_5838.pdf,納品明細_5838.PDF,pair,True
+99,A1_case,検査記録_2689.xlsx,検査記録_2689.XLSX,pair,True
+100,A1_case,決裁書_6004.pdf,決裁書_6004.PDF,pair,True
+101,A1_case,議事メモ_7691.xlsx,議事メモ_7691.XLSX,pair,True
+102,A1_case,Draft_8235.docx,Draft_8235.Docx,pair,True
+103,A1_case,議事メモ_1061.pdf,議事メモ_1061.PDF,pair,True
+104,A1_case,Invoice_7322.xlsx,Invoice_7322.XLSX,pair,True
+105,A1_case,決裁書_3122.xlsx,決裁書_3122.XLSX,pair,True
+106,A1_case,議事メモ_6779.docx,議事メモ_6779.Docx,pair,True
+107,A1_case,Draft_7774.pdf,Draft_7774.PDF,pair,True
+108,A1_case,決裁書_5079.pdf,決裁書_5079.PDF,pair,True
+109,A1_case,Photo_4057.pdf,Photo_4057.PDF,pair,True
+110,A1_case,Draft_3980.pdf,Draft_3980.PDF,pair,True
+111,A1_case,納品明細_6375.pdf,納品明細_6375.PDF,pair,True
+112,A1_case,Photo_8293.docx,Photo_8293.Docx,pair,True
+113,A1_case,検査記録_3632.pdf,検査記録_3632.PDF,pair,True
+114,A1_case,Invoice_938.docx,Invoice_938.Docx,pair,True
+115,A1_case,決裁書_5031.docx,決裁書_5031.Docx,pair,True
+116,A1_case,Photo_7931.docx,Photo_7931.Docx,pair,True
+117,A1_case,Invoice_8036.docx,Invoice_8036.Docx,pair,True
+118,A1_case,Invoice_1967.pdf,Invoice_1967.PDF,pair,True
+119,A1_case,納品明細_5286.pdf,納品明細_5286.PDF,pair,True
+120,A1_case,Invoice_7053.xlsx,Invoice_7053.XLSX,pair,True
+121,A1_case,議事メモ_5151.pdf,議事メモ_5151.PDF,pair,True
+122,A1_case,検査記録_6834.pdf,検査記録_6834.PDF,pair,True
+123,A1_case,Invoice_7494.xlsx,Invoice_7494.XLSX,pair,True
+124,A1_case,議事メモ_5739.xlsx,議事メモ_5739.XLSX,pair,True
+125,A1_case,決裁書_7188.pdf,決裁書_7188.PDF,pair,True
+126,A1_case,Invoice_1453.pdf,Invoice_1453.PDF,pair,True
+127,A1_case,Photo_8581.docx,Photo_8581.DOCX,pair,True
+128,A1_case,検査記録_9321.pdf,検査記録_9321.PDF,pair,True
+129,A1_case,決裁書_6973.docx,決裁書_6973.DOCX,pair,True
+130,A1_case,Invoice_1649.docx,Invoice_1649.Docx,pair,True
+131,A1_case,議事メモ_6118.xlsx,議事メモ_6118.XLSX,pair,True
+132,A1_case,決裁書_3029.pdf,決裁書_3029.PDF,pair,True
+133,A1_case,Invoice_6657.xlsx,Invoice_6657.XLSX,pair,True
+134,A1_case,納品明細_7660.pdf,納品明細_7660.PDF,pair,True
+135,A1_case,議事メモ_4102.docx,議事メモ_4102.DOCX,pair,True
+136,A1_case,Photo_4380.pdf,Photo_4380.PDF,pair,True
+137,A1_case,検査記録_1324.xlsx,検査記録_1324.XLSX,pair,True
+138,A1_case,Invoice_7088.pdf,Invoice_7088.PDF,pair,True
+139,A1_case,Draft_7041.pdf,Draft_7041.PDF,pair,True
+140,A1_case,Draft_9616.xlsx,Draft_9616.XLSX,pair,True
+141,A1_case,Draft_8919.pdf,Draft_8919.PDF,pair,True
+142,A1_case,議事メモ_2794.docx,議事メモ_2794.Docx,pair,True
+143,A1_case,検査記録_7847.xlsx,検査記録_7847.XLSX,pair,True
+144,A1_case,納品明細_8199.xlsx,納品明細_8199.XLSX,pair,True
+145,A1_case,Photo_6383.pdf,Photo_6383.PDF,pair,True
+146,A1_case,Invoice_618.xlsx,Invoice_618.XLSX,pair,True
+147,A1_case,Invoice_680.xlsx,Invoice_680.XLSX,pair,True
+148,A1_case,決裁書_5634.docx,決裁書_5634.DOCX,pair,True
+149,A1_case,検査記録_5978.pdf,検査記録_5978.PDF,pair,True
+150,A1_case,Draft_9213.docx,Draft_9213.Docx,pair,True
+151,A1_case,Draft_5962.docx,Draft_5962.DOCX,pair,True
+152,A1_case,検査記録_390.pdf,検査記録_390.PDF,pair,True
+153,A1_case,納品明細_1849.xlsx,納品明細_1849.XLSX,pair,True
+154,A1_case,検査記録_397.pdf,検査記録_397.PDF,pair,True
+155,A1_case,Photo_3465.docx,Photo_3465.DOCX,pair,True
+156,A1_case,納品明細_957.pdf,納品明細_957.PDF,pair,True
+157,A1_case,納品明細_5818.docx,納品明細_5818.DOCX,pair,True
+158,A1_case,議事メモ_850.pdf,議事メモ_850.PDF,pair,True
+159,A1_case,検査記録_6719.pdf,検査記録_6719.PDF,pair,True
+160,A1_case,決裁書_4472.pdf,決裁書_4472.PDF,pair,True
+161,A1_case,決裁書_1786.xlsx,決裁書_1786.XLSX,pair,True
+162,A1_case,決裁書_4161.pdf,決裁書_4161.PDF,pair,True
+163,A1_case,Draft_9539.pdf,Draft_9539.PDF,pair,True
+164,A1_case,Invoice_6049.docx,Invoice_6049.DOCX,pair,True
+165,A1_case,納品明細_9588.pdf,納品明細_9588.PDF,pair,True
+166,A1_case,議事メモ_2324.docx,議事メモ_2324.Docx,pair,True
+167,A1_case,Draft_3139.docx,Draft_3139.DOCX,pair,True
+168,A1_case,Invoice_7106.xlsx,Invoice_7106.XLSX,pair,True
+169,A1_case,納品明細_9526.xlsx,納品明細_9526.XLSX,pair,True
+170,A1_case,納品明細_303.pdf,納品明細_303.PDF,pair,True
+171,A1_case,決裁書_9966.xlsx,決裁書_9966.XLSX,pair,True
+172,A1_case,Photo_1183.pdf,Photo_1183.PDF,pair,True
+173,A1_case,Invoice_8709.docx,Invoice_8709.DOCX,pair,True
+174,A1_case,決裁書_601.xlsx,決裁書_601.XLSX,pair,True
+175,A1_case,決裁書_1719.xlsx,決裁書_1719.XLSX,pair,True
+176,A1_case,Draft_8029.docx,Draft_8029.DOCX,pair,True
+177,A1_case,検査記録_354.pdf,検査記録_354.PDF,pair,True
+178,A1_case,Draft_9489.xlsx,Draft_9489.XLSX,pair,True
+179,A1_case,Photo_4223.docx,Photo_4223.Docx,pair,True
+180,A1_case,Photo_2350.docx,Photo_2350.DOCX,pair,True
+181,A1_case,議事メモ_3414.pdf,議事メモ_3414.PDF,pair,True
+182,A1_case,議事メモ_672.pdf,議事メモ_672.PDF,pair,True
+183,A1_case,議事メモ_7543.xlsx,議事メモ_7543.XLSX,pair,True
+184,A1_case,Draft_9960.pdf,Draft_9960.PDF,pair,True
+185,A1_case,Photo_8844.pdf,Photo_8844.PDF,pair,True
+186,A1_case,Invoice_5517.pdf,Invoice_5517.PDF,pair,True
+187,A1_case,決裁書_9874.docx,決裁書_9874.DOCX,pair,True
+188,A1_case,Draft_4169.xlsx,Draft_4169.XLSX,pair,True
+189,A1_case,検査記録_3803.pdf,検査記録_3803.PDF,pair,True
+190,A1_case,Draft_4866.xlsx,Draft_4866.XLSX,pair,True
+191,A1_case,Draft_7721.docx,Draft_7721.Docx,pair,True
+192,A1_case,議事メモ_3476.pdf,議事メモ_3476.PDF,pair,True
+193,A1_case,Draft_5309.pdf,Draft_5309.PDF,pair,True
+194,A1_case,検査記録_6355.docx,検査記録_6355.Docx,pair,True
+195,A1_case,議事メモ_5805.xlsx,議事メモ_5805.XLSX,pair,True
+196,A1_case,Photo_6951.docx,Photo_6951.DOCX,pair,True
+197,A1_case,Photo_2066.pdf,Photo_2066.PDF,pair,True
+198,A1_case,Draft_5748.pdf,Draft_5748.PDF,pair,True
+199,A1_case,Photo_5228.docx,Photo_5228.Docx,pair,True
+200,A1_case,Draft_8193.xlsx,Draft_8193.XLSX,pair,True
+201,A1_case,Draft_4437.pdf,Draft_4437.PDF,pair,True
+202,A1_case,検査記録_7918.xlsx,検査記録_7918.XLSX,pair,True
+203,A1_case,納品明細_4561.xlsx,納品明細_4561.XLSX,pair,True
+204,A1_case,Invoice_5146.xlsx,Invoice_5146.XLSX,pair,True
+205,A1_case,議事メモ_2162.docx,議事メモ_2162.Docx,pair,True
+206,A1_case,納品明細_4820.docx,納品明細_4820.Docx,pair,True
+207,A1_case,Invoice_642.pdf,Invoice_642.PDF,pair,True
+208,A1_case,決裁書_7907.docx,決裁書_7907.DOCX,pair,True
+209,A1_case,検査記録_8588.pdf,検査記録_8588.PDF,pair,True
+210,A1_case,納品明細_6717.docx,納品明細_6717.DOCX,pair,True
+211,A1_case,Invoice_9332.docx,Invoice_9332.Docx,pair,True
+212,A1_case,決裁書_2868.pdf,決裁書_2868.PDF,pair,True
+213,A1_case,決裁書_7154.docx,決裁書_7154.DOCX,pair,True
+214,A1_case,決裁書_4579.xlsx,決裁書_4579.XLSX,pair,True
+215,A1_case,納品明細_8041.xlsx,納品明細_8041.XLSX,pair,True
+216,A1_case,納品明細_1661.pdf,納品明細_1661.PDF,pair,True
+217,A1_case,決裁書_7193.docx,決裁書_7193.Docx,pair,True
+218,A1_case,Draft_9479.pdf,Draft_9479.PDF,pair,True
+219,A1_case,Invoice_5001.docx,Invoice_5001.DOCX,pair,True
+220,A1_case,納品明細_6047.pdf,納品明細_6047.PDF,pair,True
+221,A1_case,Photo_7886.xlsx,Photo_7886.XLSX,pair,True
+222,A1_case,検査記録_1753.xlsx,検査記録_1753.XLSX,pair,True
+223,A1_case,Photo_4800.pdf,Photo_4800.PDF,pair,True
+224,A1_case,納品明細_5979.pdf,納品明細_5979.PDF,pair,True
+225,A1_case,Invoice_2897.docx,Invoice_2897.DOCX,pair,True
+226,A1_case,Draft_435.pdf,Draft_435.PDF,pair,True
+227,A1_case,議事メモ_7006.xlsx,議事メモ_7006.XLSX,pair,True
+228,A1_case,Draft_9663.xlsx,Draft_9663.XLSX,pair,True
+229,A1_case,議事メモ_5278.pdf,議事メモ_5278.PDF,pair,True
+230,A1_case,決裁書_6913.pdf,決裁書_6913.PDF,pair,True
+231,A1_case,納品明細_2039.pdf,納品明細_2039.PDF,pair,True
+232,A1_case,Invoice_7167.xlsx,Invoice_7167.XLSX,pair,True
+233,A1_case,決裁書_4476.pdf,決裁書_4476.PDF,pair,True
+234,A1_case,Draft_9109.pdf,Draft_9109.PDF,pair,True
+235,A1_case,Invoice_4045.pdf,Invoice_4045.PDF,pair,True
+236,A1_case,Photo_4794.xlsx,Photo_4794.XLSX,pair,True
+237,A1_case,Photo_4471.pdf,Photo_4471.PDF,pair,True
+238,A1_case,検査記録_6900.pdf,検査記録_6900.PDF,pair,True
+239,A1_case,Draft_9249.pdf,Draft_9249.PDF,pair,True
+240,A1_case,議事メモ_7286.xlsx,議事メモ_7286.XLSX,pair,True
+241,A1_case,納品明細_5013.xlsx,納品明細_5013.XLSX,pair,True
+242,A1_case,納品明細_1399.docx,納品明細_1399.DOCX,pair,True
+243,A1_case,Photo_6069.pdf,Photo_6069.PDF,pair,True
+244,A1_case,Draft_2516.xlsx,Draft_2516.XLSX,pair,True
+245,A1_case,議事メモ_4352.docx,議事メモ_4352.DOCX,pair,True
+246,A1_case,Draft_3532.xlsx,Draft_3532.XLSX,pair,True
+247,A1_case,Draft_2721.pdf,Draft_2721.PDF,pair,True
+248,A1_case,議事メモ_9157.xlsx,議事メモ_9157.XLSX,pair,True
+249,A1_case,検査記録_2671.xlsx,検査記録_2671.XLSX,pair,True
+250,A1_case,検査記録_6844.docx,検査記録_6844.Docx,pair,True
+251,A1_case,決裁書_7445.pdf,決裁書_7445.PDF,pair,True
+252,A1_case,Invoice_5140.xlsx,Invoice_5140.XLSX,pair,True
+253,A1_case,検査記録_9758.pdf,検査記録_9758.PDF,pair,True
+254,A1_case,納品明細_8020.pdf,納品明細_8020.PDF,pair,True
+255,A1_case,Invoice_5166.pdf,Invoice_5166.PDF,pair,True
+256,A1_case,検査記録_851.docx,検査記録_851.Docx,pair,True
+257,A1_case,Photo_4965.pdf,Photo_4965.PDF,pair,True
+258,A1_case,検査記録_498.xlsx,検査記録_498.XLSX,pair,True
+259,A1_case,Photo_6837.docx,Photo_6837.DOCX,pair,True
+260,A1_case,Photo_2762.pdf,Photo_2762.PDF,pair,True
+261,A1_case,Draft_4585.xlsx,Draft_4585.XLSX,pair,True
+262,A1_case,検査記録_3164.docx,検査記録_3164.DOCX,pair,True
+263,A1_case,納品明細_3077.xlsx,納品明細_3077.XLSX,pair,True
+264,A1_case,Draft_559.xlsx,Draft_559.XLSX,pair,True
+265,A1_case,Draft_1559.pdf,Draft_1559.PDF,pair,True
+266,A1_case,検査記録_8158.docx,検査記録_8158.Docx,pair,True
+267,A1_case,検査記録_461.xlsx,検査記録_461.XLSX,pair,True
+268,A1_case,Photo_9389.pdf,Photo_9389.PDF,pair,True
+269,A1_case,Draft_4204.docx,Draft_4204.Docx,pair,True
+270,A1_case,議事メモ_7306.docx,議事メモ_7306.DOCX,pair,True
+271,A1_case,Draft_638.pdf,Draft_638.PDF,pair,True
+272,A1_case,議事メモ_2657.pdf,議事メモ_2657.PDF,pair,True
+273,A1_case,議事メモ_1722.pdf,議事メモ_1722.PDF,pair,True
+274,A1_case,議事メモ_7492.pdf,議事メモ_7492.PDF,pair,True
+275,A1_case,検査記録_1552.docx,検査記録_1552.Docx,pair,True
+276,A1_case,検査記録_2653.pdf,検査記録_2653.PDF,pair,True
+277,A1_case,検査記録_5658.xlsx,検査記録_5658.XLSX,pair,True
+278,A1_case,検査記録_537.docx,検査記録_537.Docx,pair,True
+279,A1_case,議事メモ_3492.xlsx,議事メモ_3492.XLSX,pair,True
+280,A1_case,Invoice_314.pdf,Invoice_314.PDF,pair,True
+281,A1_case,議事メモ_973.pdf,議事メモ_973.PDF,pair,True
+282,A1_case,検査記録_9245.docx,検査記録_9245.Docx,pair,True
+283,A1_case,Draft_3663.pdf,Draft_3663.PDF,pair,True
+284,A1_case,Draft_2900.pdf,Draft_2900.PDF,pair,True
+285,A1_case,Photo_2233.docx,Photo_2233.Docx,pair,True
+286,A1_case,納品明細_9252.pdf,納品明細_9252.PDF,pair,True
+287,A1_case,検査記録_4780.pdf,検査記録_4780.PDF,pair,True
+288,A1_case,議事メモ_1058.xlsx,議事メモ_1058.XLSX,pair,True
+289,A1_case,検査記録_2325.docx,検査記録_2325.DOCX,pair,True
+290,A1_case,決裁書_7370.pdf,決裁書_7370.PDF,pair,True
+291,A1_case,検査記録_1736.docx,検査記録_1736.DOCX,pair,True
+292,A1_case,Invoice_2066.docx,Invoice_2066.DOCX,pair,True
+293,A1_case,Photo_3361.xlsx,Photo_3361.XLSX,pair,True
+294,A1_case,納品明細_9990.pdf,納品明細_9990.PDF,pair,True
+295,A1_case,Draft_1135.pdf,Draft_1135.PDF,pair,True
+296,A1_case,検査記録_126.xlsx,検査記録_126.XLSX,pair,True
+297,A1_case,納品明細_4790.pdf,納品明細_4790.PDF,pair,True
+298,A1_case,Invoice_9161.pdf,Invoice_9161.PDF,pair,True
+299,A1_case,納品明細_3768.docx,納品明細_3768.DOCX,pair,True
+300,A1_case,Invoice_7429.pdf,Invoice_7429.PDF,pair,True
+301,A1_case,Invoice_82.docx,Invoice_82.Docx,pair,True
+302,A1_case,Photo_2160.pdf,Photo_2160.PDF,pair,True
+303,A1_case,Draft_162.docx,Draft_162.Docx,pair,True
+304,A1_case,納品明細_1309.docx,納品明細_1309.DOCX,pair,True
+305,A1_case,Photo_8019.pdf,Photo_8019.PDF,pair,True
+306,A1_case,Draft_2678.docx,Draft_2678.DOCX,pair,True
+307,A1_case,Invoice_9841.pdf,Invoice_9841.PDF,pair,True
+308,A1_case,検査記録_2825.xlsx,検査記録_2825.XLSX,pair,True
+309,A1_case,決裁書_7914.docx,決裁書_7914.DOCX,pair,True
+310,A1_case,納品明細_5853.docx,納品明細_5853.DOCX,pair,True
+311,A1_case,決裁書_5942.docx,決裁書_5942.Docx,pair,True
+312,A1_case,納品明細_3659.docx,納品明細_3659.Docx,pair,True
+313,A1_case,納品明細_7847.docx,納品明細_7847.DOCX,pair,True
+314,A1_case,Invoice_345.xlsx,Invoice_345.XLSX,pair,True
+315,A1_case,決裁書_8467.pdf,決裁書_8467.PDF,pair,True
+316,A1_case,Invoice_4134.pdf,Invoice_4134.PDF,pair,True
+317,A1_case,Invoice_283.pdf,Invoice_283.PDF,pair,True
+318,A1_case,議事メモ_158.xlsx,議事メモ_158.XLSX,pair,True
+319,A1_case,Photo_6062.pdf,Photo_6062.PDF,pair,True
+320,A1_case,Invoice_5048.xlsx,Invoice_5048.XLSX,pair,True
+321,A1_case,Photo_1128.pdf,Photo_1128.PDF,pair,True
+322,A1_case,Draft_3920.xlsx,Draft_3920.XLSX,pair,True
+323,A1_case,決裁書_5105.pdf,決裁書_5105.PDF,pair,True
+324,A1_case,Draft_5015.xlsx,Draft_5015.XLSX,pair,True
+325,A1_case,Invoice_2857.pdf,Invoice_2857.PDF,pair,True
+326,A1_case,Invoice_8992.docx,Invoice_8992.Docx,pair,True
+327,A1_case,議事メモ_6313.pdf,議事メモ_6313.PDF,pair,True
+328,A1_case,決裁書_6349.pdf,決裁書_6349.PDF,pair,True
+329,A1_case,決裁書_7576.pdf,決裁書_7576.PDF,pair,True
+330,A1_case,Invoice_1693.pdf,Invoice_1693.PDF,pair,True
+331,A1_case,議事メモ_1438.pdf,議事メモ_1438.PDF,pair,True
+332,A1_case,Draft_2285.pdf,Draft_2285.PDF,pair,True
+333,A1_case,Draft_4259.xlsx,Draft_4259.XLSX,pair,True
+334,A1_case,議事メモ_5977.pdf,議事メモ_5977.PDF,pair,True
+335,A1_case,決裁書_6016.docx,決裁書_6016.DOCX,pair,True
+336,A1_case,Invoice_2455.pdf,Invoice_2455.PDF,pair,True
+337,A1_case,議事メモ_7662.docx,議事メモ_7662.DOCX,pair,True
+338,A1_case,決裁書_4207.pdf,決裁書_4207.PDF,pair,True
+339,A1_case,納品明細_6682.docx,納品明細_6682.DOCX,pair,True
+340,A1_case,Invoice_8132.xlsx,Invoice_8132.XLSX,pair,True
+341,A1_case,Invoice_1611.xlsx,Invoice_1611.XLSX,pair,True
+342,A1_case,Invoice_6007.pdf,Invoice_6007.PDF,pair,True
+343,A1_case,納品明細_5966.pdf,納品明細_5966.PDF,pair,True
+344,A1_case,納品明細_8599.xlsx,納品明細_8599.XLSX,pair,True
+345,A1_case,議事メモ_1937.pdf,議事メモ_1937.PDF,pair,True
+346,A1_case,納品明細_6740.pdf,納品明細_6740.PDF,pair,True
+347,A1_case,Photo_3314.docx,Photo_3314.DOCX,pair,True
+348,A1_case,Draft_9924.pdf,Draft_9924.PDF,pair,True
+349,A1_case,Photo_2893.docx,Photo_2893.DOCX,pair,True
+350,A1_case,議事メモ_9691.xlsx,議事メモ_9691.XLSX,pair,True
+351,A1_case,検査記録_7893.xlsx,検査記録_7893.XLSX,pair,True
+352,A1_case,検査記録_9391.xlsx,検査記録_9391.XLSX,pair,True
+353,A1_case,納品明細_1132.docx,納品明細_1132.Docx,pair,True
+354,A1_case,決裁書_8834.pdf,決裁書_8834.PDF,pair,True
+355,A1_case,Invoice_9852.docx,Invoice_9852.Docx,pair,True
+356,A1_case,Invoice_6594.pdf,Invoice_6594.PDF,pair,True
+357,A1_case,Draft_6451.xlsx,Draft_6451.XLSX,pair,True
+358,A1_case,議事メモ_2964.xlsx,議事メモ_2964.XLSX,pair,True
+359,A1_case,Draft_6861.xlsx,Draft_6861.XLSX,pair,True
+360,A1_case,Draft_2047.docx,Draft_2047.DOCX,pair,True
+361,A1_case,Photo_4849.xlsx,Photo_4849.XLSX,pair,True
+362,A1_case,決裁書_3642.xlsx,決裁書_3642.XLSX,pair,True
+363,A1_case,Photo_6162.pdf,Photo_6162.PDF,pair,True
+364,A1_case,決裁書_4657.docx,決裁書_4657.Docx,pair,True
+365,A1_case,Photo_7727.docx,Photo_7727.Docx,pair,True
+366,A1_case,議事メモ_5206.pdf,議事メモ_5206.PDF,pair,True
+367,A1_case,Invoice_5908.xlsx,Invoice_5908.XLSX,pair,True
+368,A1_case,検査記録_3795.docx,検査記録_3795.DOCX,pair,True
+369,A1_case,納品明細_2719.pdf,納品明細_2719.PDF,pair,True
+370,A1_case,決裁書_4074.pdf,決裁書_4074.PDF,pair,True
+371,A1_case,議事メモ_1104.pdf,議事メモ_1104.PDF,pair,True
+372,A1_case,納品明細_7336.xlsx,納品明細_7336.XLSX,pair,True
+373,A1_case,検査記録_1626.xlsx,検査記録_1626.XLSX,pair,True
+374,A1_case,Invoice_3151.pdf,Invoice_3151.PDF,pair,True
+375,A1_case,議事メモ_8999.pdf,議事メモ_8999.PDF,pair,True
+376,A1_case,Invoice_1126.docx,Invoice_1126.DOCX,pair,True
+377,A1_case,議事メモ_856.docx,議事メモ_856.DOCX,pair,True
+378,A1_case,決裁書_8201.docx,決裁書_8201.Docx,pair,True
+379,A1_case,決裁書_358.docx,決裁書_358.DOCX,pair,True
+380,A1_case,納品明細_127.pdf,納品明細_127.PDF,pair,True
+381,A1_case,Photo_2459.xlsx,Photo_2459.XLSX,pair,True
+382,A1_case,納品明細_9155.pdf,納品明細_9155.PDF,pair,True
+383,A1_case,検査記録_2092.docx,検査記録_2092.Docx,pair,True
+384,A1_case,Invoice_1446.docx,Invoice_1446.Docx,pair,True
+385,A1_case,Invoice_3725.docx,Invoice_3725.Docx,pair,True
+386,A1_case,Photo_8249.xlsx,Photo_8249.XLSX,pair,True
+387,A1_case,納品明細_5861.pdf,納品明細_5861.PDF,pair,True
+388,A1_case,検査記録_196.pdf,検査記録_196.PDF,pair,True
+389,A1_case,議事メモ_3808.pdf,議事メモ_3808.PDF,pair,True
+390,A1_case,決裁書_9422.xlsx,決裁書_9422.XLSX,pair,True
+391,A1_case,Draft_8849.pdf,Draft_8849.PDF,pair,True
+392,A1_case,Photo_7762.pdf,Photo_7762.PDF,pair,True
+393,A1_case,Photo_3411.docx,Photo_3411.DOCX,pair,True
+394,A1_case,Photo_1140.pdf,Photo_1140.PDF,pair,True
+395,A1_case,Photo_1789.pdf,Photo_1789.PDF,pair,True
+396,A1_case,Draft_4585.docx,Draft_4585.Docx,pair,True
+397,A1_case,Photo_9399.pdf,Photo_9399.PDF,pair,True
+398,A1_case,Photo_3439.pdf,Photo_3439.PDF,pair,True
+399,A1_case,Draft_6838.pdf,Draft_6838.PDF,pair,True
+400,A1_case,決裁書_5657.xlsx,決裁書_5657.XLSX,pair,True
+401,A1_case,議事メモ_53.docx,議事メモ_53.DOCX,pair,True
+402,A1_case,検査記録_4103.pdf,検査記録_4103.PDF,pair,True
+403,A1_case,Invoice_1098.pdf,Invoice_1098.PDF,pair,True
+404,A1_case,納品明細_4302.docx,納品明細_4302.DOCX,pair,True
+405,A1_case,検査記録_7865.pdf,検査記録_7865.PDF,pair,True
+406,A1_case,検査記録_2602.xlsx,検査記録_2602.XLSX,pair,True
+407,A1_case,決裁書_4045.pdf,決裁書_4045.PDF,pair,True
+408,A1_case,議事メモ_9526.pdf,議事メモ_9526.PDF,pair,True
+409,A1_case,決裁書_6932.pdf,決裁書_6932.PDF,pair,True
+410,A1_case,Invoice_9119.xlsx,Invoice_9119.XLSX,pair,True
+411,A1_case,決裁書_6963.docx,決裁書_6963.DOCX,pair,True
+412,A1_case,Draft_9419.pdf,Draft_9419.PDF,pair,True
+413,A1_case,Photo_9326.xlsx,Photo_9326.XLSX,pair,True
+414,A1_case,決裁書_2691.pdf,決裁書_2691.PDF,pair,True
+415,A1_case,Photo_2483.docx,Photo_2483.Docx,pair,True
+416,A1_case,Invoice_4002.xlsx,Invoice_4002.XLSX,pair,True
+417,A1_case,議事メモ_7295.docx,議事メモ_7295.Docx,pair,True
+418,A1_case,議事メモ_9431.xlsx,議事メモ_9431.XLSX,pair,True
+419,A1_case,検査記録_3871.pdf,検査記録_3871.PDF,pair,True
+420,A1_case,検査記録_72.pdf,検査記録_72.PDF,pair,True
+421,A1_case,Invoice_4739.xlsx,Invoice_4739.XLSX,pair,True
+422,A1_case,Photo_8796.docx,Photo_8796.DOCX,pair,True
+423,A1_case,決裁書_4233.pdf,決裁書_4233.PDF,pair,True
+424,A1_case,Invoice_2783.pdf,Invoice_2783.PDF,pair,True
+425,A1_case,議事メモ_4711.docx,議事メモ_4711.DOCX,pair,True
+426,A1_case,納品明細_9895.xlsx,納品明細_9895.XLSX,pair,True
+427,A1_case,決裁書_6301.docx,決裁書_6301.DOCX,pair,True
+428,A1_case,納品明細_9533.xlsx,納品明細_9533.XLSX,pair,True
+429,A1_case,納品明細_6100.docx,納品明細_6100.Docx,pair,True
+430,A1_case,検査記録_7361.docx,検査記録_7361.DOCX,pair,True
+431,A1_case,Photo_1205.pdf,Photo_1205.PDF,pair,True
+432,A1_case,Draft_366.docx,Draft_366.Docx,pair,True
+433,A1_case,納品明細_8384.pdf,納品明細_8384.PDF,pair,True
+434,A1_case,決裁書_561.pdf,決裁書_561.PDF,pair,True
+435,A1_case,Photo_6173.pdf,Photo_6173.PDF,pair,True
+436,A1_case,Draft_9359.docx,Draft_9359.DOCX,pair,True
+437,A1_case,決裁書_4886.pdf,決裁書_4886.PDF,pair,True
+438,A1_case,Photo_4681.xlsx,Photo_4681.XLSX,pair,True
+439,A1_case,検査記録_9185.pdf,検査記録_9185.PDF,pair,True
+440,A1_case,納品明細_9478.xlsx,納品明細_9478.XLSX,pair,True
+441,A1_case,Invoice_8683.pdf,Invoice_8683.PDF,pair,True
+442,A1_case,決裁書_1628.docx,決裁書_1628.DOCX,pair,True
+443,A1_case,Draft_3802.pdf,Draft_3802.PDF,pair,True
+444,A1_case,Draft_164.docx,Draft_164.Docx,pair,True
+445,A1_case,納品明細_8989.pdf,納品明細_8989.PDF,pair,True
+446,A1_case,検査記録_5938.pdf,検査記録_5938.PDF,pair,True
+447,A1_case,Photo_4099.xlsx,Photo_4099.XLSX,pair,True
+448,A1_case,Draft_4931.xlsx,Draft_4931.XLSX,pair,True
+449,A1_case,Photo_7082.xlsx,Photo_7082.XLSX,pair,True
+450,A1_case,検査記録_5945.xlsx,検査記録_5945.XLSX,pair,True
+451,A1_case,決裁書_6688.xlsx,決裁書_6688.XLSX,pair,True
+452,A1_case,議事メモ_2802.pdf,議事メモ_2802.PDF,pair,True
+453,A1_case,Photo_8652.docx,Photo_8652.DOCX,pair,True
+454,A1_case,Draft_1962.pdf,Draft_1962.PDF,pair,True
+455,A1_case,Draft_2261.pdf,Draft_2261.PDF,pair,True
+456,A1_case,Invoice_7855.xlsx,Invoice_7855.XLSX,pair,True
+457,A1_case,Draft_1888.pdf,Draft_1888.PDF,pair,True
+458,A1_case,決裁書_4670.pdf,決裁書_4670.PDF,pair,True
+459,A1_case,検査記録_4617.pdf,検査記録_4617.PDF,pair,True
+460,A1_case,Invoice_7877.pdf,Invoice_7877.PDF,pair,True
+461,A1_case,決裁書_6027.xlsx,決裁書_6027.XLSX,pair,True
+462,A1_case,議事メモ_1534.pdf,議事メモ_1534.PDF,pair,True
+463,A1_case,議事メモ_5946.pdf,議事メモ_5946.PDF,pair,True
+464,A1_case,検査記録_8650.pdf,検査記録_8650.PDF,pair,True
+465,A1_case,検査記録_7294.xlsx,検査記録_7294.XLSX,pair,True
+466,A1_case,Invoice_7361.docx,Invoice_7361.Docx,pair,True
+467,A1_case,検査記録_2886.pdf,検査記録_2886.PDF,pair,True
+468,A1_case,議事メモ_9371.pdf,議事メモ_9371.PDF,pair,True
+469,A1_case,Photo_5194.pdf,Photo_5194.PDF,pair,True
+470,A1_case,決裁書_9038.pdf,決裁書_9038.PDF,pair,True
+471,A1_case,Invoice_8825.docx,Invoice_8825.Docx,pair,True
+472,A1_case,Invoice_1197.docx,Invoice_1197.Docx,pair,True
+473,A1_case,Draft_335.xlsx,Draft_335.XLSX,pair,True
+474,A1_case,納品明細_6924.xlsx,納品明細_6924.XLSX,pair,True
+475,A1_case,議事メモ_9699.docx,議事メモ_9699.Docx,pair,True
+476,A1_case,Photo_6886.pdf,Photo_6886.PDF,pair,True
+477,A1_case,議事メモ_9725.docx,議事メモ_9725.DOCX,pair,True
+478,A1_case,検査記録_6652.pdf,検査記録_6652.PDF,pair,True
+479,A1_case,Photo_8712.xlsx,Photo_8712.XLSX,pair,True
+480,A1_case,Photo_1522.docx,Photo_1522.Docx,pair,True
+481,A1_case,Invoice_4191.pdf,Invoice_4191.PDF,pair,True
+482,A1_case,Invoice_4564.pdf,Invoice_4564.PDF,pair,True
+483,A1_case,Photo_9518.pdf,Photo_9518.PDF,pair,True
+484,A1_case,Photo_2349.xlsx,Photo_2349.XLSX,pair,True
+485,A1_case,議事メモ_8348.pdf,議事メモ_8348.PDF,pair,True
+486,A1_case,納品明細_6670.docx,納品明細_6670.DOCX,pair,True
+487,A1_case,Invoice_3395.pdf,Invoice_3395.PDF,pair,True
+488,A1_case,決裁書_8793.pdf,決裁書_8793.PDF,pair,True
+489,A1_case,検査記録_4836.docx,検査記録_4836.DOCX,pair,True
+490,A1_case,決裁書_6415.pdf,決裁書_6415.PDF,pair,True
+491,A1_case,決裁書_1997.pdf,決裁書_1997.PDF,pair,True
+492,A1_case,Photo_5947.docx,Photo_5947.DOCX,pair,True
+493,A1_case,Draft_2949.pdf,Draft_2949.PDF,pair,True
+494,A1_case,検査記録_3542.docx,検査記録_3542.DOCX,pair,True
+495,A1_case,Draft_1241.pdf,Draft_1241.PDF,pair,True
+496,A1_case,議事メモ_5075.pdf,議事メモ_5075.PDF,pair,True
+497,A1_case,Photo_6932.pdf,Photo_6932.PDF,pair,True
+498,A1_case,Invoice_5545.xlsx,Invoice_5545.XLSX,pair,True
+499,A1_case,決裁書_4412.pdf,決裁書_4412.PDF,pair,True
+500,A2_nfc_nfd,検査記録ざじ_300.docx,検査記録ざじ_300.docx,pair,True
+501,A2_nfc_nfd,Photoぱヴ_882.docx,Photoぱヴ_882.docx,pair,True
+502,A2_nfc_nfd,決裁書ぢび_60.docx,決裁書ぢび_60.docx,pair,True
+503,A2_nfc_nfd,Draftげづ_666.docx,Draftげづ_666.docx,pair,True
+504,A2_nfc_nfd,議事メモごじ_556.docx,議事メモごじ_556.docx,pair,True
+505,A2_nfc_nfd,Invoiceずぽ_418.docx,Invoiceずぽ_418.docx,pair,True
+506,A2_nfc_nfd,検査記録ばぞ_545.docx,検査記録ばぞ_545.docx,pair,True
+507,A2_nfc_nfd,議事メモぷぜ_617.docx,議事メモぷぜ_617.docx,pair,True
+508,A2_nfc_nfd,納品明細ヴび_450.docx,納品明細ヴび_450.docx,pair,True
+509,A2_nfc_nfd,納品明細どぢ_509.docx,納品明細どぢ_509.docx,pair,True
+510,A2_nfc_nfd,議事メモじご_400.docx,議事メモじご_400.docx,pair,True
+511,A2_nfc_nfd,検査記録ぶぽ_365.docx,検査記録ぶぽ_365.docx,pair,True
+512,A2_nfc_nfd,決裁書どじ_124.docx,決裁書どじ_124.docx,pair,True
+513,A2_nfc_nfd,Photoだど_9.docx,Photoだど_9.docx,pair,True
+514,A2_nfc_nfd,納品明細ぐじ_870.docx,納品明細ぐじ_870.docx,pair,True
+515,A2_nfc_nfd,納品明細ヴび_112.docx,納品明細ヴび_112.docx,pair,True
+516,A2_nfc_nfd,検査記録ぼべ_516.docx,検査記録ぼべ_516.docx,pair,True
+517,A2_nfc_nfd,議事メモぐだ_292.docx,議事メモぐだ_292.docx,pair,True
+518,A2_nfc_nfd,Draftぼぷ_349.docx,Draftぼぷ_349.docx,pair,True
+519,A2_nfc_nfd,議事メモぎぐ_829.docx,議事メモぎぐ_829.docx,pair,True
+520,A2_nfc_nfd,Photoぜだ_676.docx,Photoぜだ_676.docx,pair,True
+521,A2_nfc_nfd,Draftざぺ_991.docx,Draftざぺ_991.docx,pair,True
+522,A2_nfc_nfd,Invoiceヴじ_27.docx,Invoiceヴじ_27.docx,pair,True
+523,A2_nfc_nfd,Draftぼぐ_311.docx,Draftぼぐ_311.docx,pair,True
+524,A2_nfc_nfd,Photoばぶ_463.docx,Photoばぶ_463.docx,pair,True
+525,A2_nfc_nfd,Photoぐぜ_320.docx,Photoぐぜ_320.docx,pair,True
+526,A2_nfc_nfd,検査記録ぜで_268.docx,検査記録ぜで_268.docx,pair,True
+527,A2_nfc_nfd,検査記録ぽじ_487.docx,検査記録ぽじ_487.docx,pair,True
+528,A2_nfc_nfd,検査記録ずざ_603.docx,検査記録ずざ_603.docx,pair,True
+529,A2_nfc_nfd,検査記録びぴ_521.docx,検査記録びぴ_521.docx,pair,True
+530,A2_nfc_nfd,Draftざぜ_678.docx,Draftざぜ_678.docx,pair,True
+531,A2_nfc_nfd,決裁書ぢが_818.docx,決裁書ぢが_818.docx,pair,True
+532,A2_nfc_nfd,Invoiceがで_795.docx,Invoiceがで_795.docx,pair,True
+533,A2_nfc_nfd,Invoiceづぼ_926.docx,Invoiceづぼ_926.docx,pair,True
+534,A2_nfc_nfd,納品明細づぜ_161.docx,納品明細づぜ_161.docx,pair,True
+535,A2_nfc_nfd,議事メモぷげ_405.docx,議事メモぷげ_405.docx,pair,True
+536,A2_nfc_nfd,検査記録どざ_907.docx,検査記録どざ_907.docx,pair,True
+537,A2_nfc_nfd,納品明細ぷぜ_258.docx,納品明細ぷぜ_258.docx,pair,True
+538,A2_nfc_nfd,Draftどヴ_638.docx,Draftどヴ_638.docx,pair,True
+539,A2_nfc_nfd,検査記録ずづ_756.docx,検査記録ずづ_756.docx,pair,True
+540,A2_nfc_nfd,納品明細ごど_637.docx,納品明細ごど_637.docx,pair,True
+541,A2_nfc_nfd,Photoずで_791.docx,Photoずで_791.docx,pair,True
+542,A2_nfc_nfd,Draftびご_283.docx,Draftびご_283.docx,pair,True
+543,A2_nfc_nfd,議事メモヴぷ_672.docx,議事メモヴぷ_672.docx,pair,True
+544,A2_nfc_nfd,決裁書ずざ_927.docx,決裁書ずざ_927.docx,pair,True
+545,A2_nfc_nfd,Draftぷべ_522.docx,Draftぷべ_522.docx,pair,True
+546,A2_nfc_nfd,検査記録ぼぽ_317.docx,検査記録ぼぽ_317.docx,pair,True
+547,A2_nfc_nfd,議事メモぽぎ_921.docx,議事メモぽぎ_921.docx,pair,True
+548,A2_nfc_nfd,納品明細ごぷ_378.docx,納品明細ごぷ_378.docx,pair,True
+549,A2_nfc_nfd,Photoぼぶ_38.docx,Photoぼぶ_38.docx,pair,True
+550,A2_nfc_nfd,Invoiceげで_443.docx,Invoiceげで_443.docx,pair,True
+551,A2_nfc_nfd,納品明細でび_698.docx,納品明細でび_698.docx,pair,True
+552,A2_nfc_nfd,Invoiceぎヴ_848.docx,Invoiceぎヴ_848.docx,pair,True
+553,A2_nfc_nfd,Photoぢぼ_760.docx,Photoぢぼ_760.docx,pair,True
+554,A2_nfc_nfd,Invoiceぷづ_749.docx,Invoiceぷづ_749.docx,pair,True
+555,A2_nfc_nfd,決裁書ぺが_953.docx,決裁書ぺが_953.docx,pair,True
+556,A2_nfc_nfd,納品明細ばぴ_99.docx,納品明細ばぴ_99.docx,pair,True
+557,A2_nfc_nfd,Photoぞご_73.docx,Photoぞご_73.docx,pair,True
+558,A2_nfc_nfd,議事メモぺず_858.docx,議事メモぺず_858.docx,pair,True
+559,A2_nfc_nfd,検査記録べど_100.docx,検査記録べど_100.docx,pair,True
+560,A2_nfc_nfd,Draftばぱ_535.docx,Draftばぱ_535.docx,pair,True
+561,A2_nfc_nfd,議事メモぱぼ_670.docx,議事メモぱぼ_670.docx,pair,True
+562,A2_nfc_nfd,Photoづど_757.docx,Photoづど_757.docx,pair,True
+563,A2_nfc_nfd,Draftぜず_959.docx,Draftぜず_959.docx,pair,True
+564,A2_nfc_nfd,議事メモでぺ_662.docx,議事メモでぺ_662.docx,pair,True
+565,A2_nfc_nfd,Draftずぶ_515.docx,Draftずぶ_515.docx,pair,True
+566,A2_nfc_nfd,納品明細ぶば_469.docx,納品明細ぶば_469.docx,pair,True
+567,A2_nfc_nfd,納品明細ぼぴ_371.docx,納品明細ぼぴ_371.docx,pair,True
+568,A2_nfc_nfd,検査記録でだ_865.docx,検査記録でだ_865.docx,pair,True
+569,A2_nfc_nfd,検査記録ざぼ_917.docx,検査記録ざぼ_917.docx,pair,True
+570,A2_nfc_nfd,納品明細ごべ_521.docx,納品明細ごべ_521.docx,pair,True
+571,A2_nfc_nfd,Photoぽぎ_369.docx,Photoぽぎ_369.docx,pair,True
+572,A2_nfc_nfd,検査記録だぴ_879.docx,検査記録だぴ_879.docx,pair,True
+573,A2_nfc_nfd,議事メモぢご_13.docx,議事メモぢご_13.docx,pair,True
+574,A2_nfc_nfd,納品明細ぷご_897.docx,納品明細ぷご_897.docx,pair,True
+575,A2_nfc_nfd,検査記録どび_189.docx,検査記録どび_189.docx,pair,True
+576,A2_nfc_nfd,決裁書ヴぢ_336.docx,決裁書ヴぢ_336.docx,pair,True
+577,A2_nfc_nfd,Photoずぱ_85.docx,Photoずぱ_85.docx,pair,True
+578,A2_nfc_nfd,決裁書ぷざ_656.docx,決裁書ぷざ_656.docx,pair,True
+579,A2_nfc_nfd,Invoiceべぐ_53.docx,Invoiceべぐ_53.docx,pair,True
+580,A2_nfc_nfd,Draftだご_390.docx,Draftだご_390.docx,pair,True
+581,A2_nfc_nfd,検査記録ぶざ_85.docx,検査記録ぶざ_85.docx,pair,True
+582,A2_nfc_nfd,議事メモだぶ_310.docx,議事メモだぶ_310.docx,pair,True
+583,A2_nfc_nfd,Draftぞび_215.docx,Draftぞび_215.docx,pair,True
+584,A2_nfc_nfd,Photoぢぱ_352.docx,Photoぢぱ_352.docx,pair,True
+585,A2_nfc_nfd,検査記録ごぢ_265.docx,検査記録ごぢ_265.docx,pair,True
+586,A2_nfc_nfd,Photoげぱ_880.docx,Photoげぱ_880.docx,pair,True
+587,A2_nfc_nfd,決裁書ぜじ_913.docx,決裁書ぜじ_913.docx,pair,True
+588,A2_nfc_nfd,Invoiceびぷ_328.docx,Invoiceびぷ_328.docx,pair,True
+589,A2_nfc_nfd,納品明細ぼげ_743.docx,納品明細ぼげ_743.docx,pair,True
+590,A2_nfc_nfd,議事メモぼび_326.docx,議事メモぼび_326.docx,pair,True
+591,A2_nfc_nfd,検査記録ぶで_174.docx,検査記録ぶで_174.docx,pair,True
+592,A2_nfc_nfd,Invoiceどぞ_898.docx,Invoiceどぞ_898.docx,pair,True
+593,A2_nfc_nfd,決裁書ぞで_636.docx,決裁書ぞで_636.docx,pair,True
+594,A2_nfc_nfd,Draftぼば_45.docx,Draftぼば_45.docx,pair,True
+595,A2_nfc_nfd,議事メモごず_160.docx,議事メモごず_160.docx,pair,True
+596,A2_nfc_nfd,納品明細びべ_645.docx,納品明細びべ_645.docx,pair,True
+597,A2_nfc_nfd,Invoiceぎだ_515.docx,Invoiceぎだ_515.docx,pair,True
+598,A2_nfc_nfd,Photoぢぜ_982.docx,Photoぢぜ_982.docx,pair,True
+599,A2_nfc_nfd,検査記録ぼじ_857.docx,検査記録ぼじ_857.docx,pair,True
+600,A2_nfc_nfd,検査記録ごぶ_548.docx,検査記録ごぶ_548.docx,pair,True
+601,A2_nfc_nfd,Invoiceべヴ_988.docx,Invoiceべヴ_988.docx,pair,True
+602,A2_nfc_nfd,Draftがぐ_792.docx,Draftがぐ_792.docx,pair,True
+603,A2_nfc_nfd,検査記録びぱ_796.docx,検査記録びぱ_796.docx,pair,True
+604,A2_nfc_nfd,検査記録ヴび_463.docx,検査記録ヴび_463.docx,pair,True
+605,A2_nfc_nfd,検査記録ずじ_724.docx,検査記録ずじ_724.docx,pair,True
+606,A2_nfc_nfd,決裁書ごぽ_796.docx,決裁書ごぽ_796.docx,pair,True
+607,A2_nfc_nfd,Photoがげ_127.docx,Photoがげ_127.docx,pair,True
+608,A2_nfc_nfd,納品明細づび_503.docx,納品明細づび_503.docx,pair,True
+609,A2_nfc_nfd,納品明細びぢ_848.docx,納品明細びぢ_848.docx,pair,True
+610,A2_nfc_nfd,議事メモびご_996.docx,議事メモびご_996.docx,pair,True
+611,A2_nfc_nfd,Photoぢず_336.docx,Photoぢず_336.docx,pair,True
+612,A2_nfc_nfd,決裁書ぴぱ_629.docx,決裁書ぴぱ_629.docx,pair,True
+613,A2_nfc_nfd,決裁書ぜじ_736.docx,決裁書ぜじ_736.docx,pair,True
+614,A2_nfc_nfd,決裁書ぼぞ_799.docx,決裁書ぼぞ_799.docx,pair,True
+615,A2_nfc_nfd,決裁書ぞだ_878.docx,決裁書ぞだ_878.docx,pair,True
+616,A2_nfc_nfd,決裁書ぶが_298.docx,決裁書ぶが_298.docx,pair,True
+617,A2_nfc_nfd,Photoべば_246.docx,Photoべば_246.docx,pair,True
+618,A2_nfc_nfd,決裁書でぞ_324.docx,決裁書でぞ_324.docx,pair,True
+619,A2_nfc_nfd,議事メモがば_540.docx,議事メモがば_540.docx,pair,True
+620,A2_nfc_nfd,決裁書ぎぞ_961.docx,決裁書ぎぞ_961.docx,pair,True
+621,A2_nfc_nfd,検査記録ずぞ_218.docx,検査記録ずぞ_218.docx,pair,True
+622,A2_nfc_nfd,決裁書どぐ_962.docx,決裁書どぐ_962.docx,pair,True
+623,A2_nfc_nfd,Photoじづ_802.docx,Photoじづ_802.docx,pair,True
+624,A2_nfc_nfd,Draftだぶ_562.docx,Draftだぶ_562.docx,pair,True
+625,A2_nfc_nfd,Draftざぷ_105.docx,Draftざぷ_105.docx,pair,True
+626,A2_nfc_nfd,納品明細ヴぜ_883.docx,納品明細ヴぜ_883.docx,pair,True
+627,A2_nfc_nfd,Invoiceげぢ_89.docx,Invoiceげぢ_89.docx,pair,True
+628,A2_nfc_nfd,Photoぜず_352.docx,Photoぜず_352.docx,pair,True
+629,A2_nfc_nfd,納品明細ぢで_118.docx,納品明細ぢで_118.docx,pair,True
+630,A2_nfc_nfd,Draftでで_237.docx,Draftでで_237.docx,pair,True
+631,A2_nfc_nfd,Photoざじ_371.docx,Photoざじ_371.docx,pair,True
+632,A2_nfc_nfd,Draftじじ_812.docx,Draftじじ_812.docx,pair,True
+633,A2_nfc_nfd,Invoiceぢご_857.docx,Invoiceぢご_857.docx,pair,True
+634,A2_nfc_nfd,納品明細ぢぼ_739.docx,納品明細ぢぼ_739.docx,pair,True
+635,A2_nfc_nfd,検査記録でず_940.docx,検査記録でず_940.docx,pair,True
+636,A2_nfc_nfd,議事メモぢず_31.docx,議事メモぢず_31.docx,pair,True
+637,A2_nfc_nfd,決裁書ぜど_624.docx,決裁書ぜど_624.docx,pair,True
+638,A2_nfc_nfd,納品明細ぢび_788.docx,納品明細ぢび_788.docx,pair,True
+639,A2_nfc_nfd,Draftばで_484.docx,Draftばで_484.docx,pair,True
+640,A2_nfc_nfd,議事メモでヴ_999.docx,議事メモでヴ_999.docx,pair,True
+641,A2_nfc_nfd,納品明細ぎざ_999.docx,納品明細ぎざ_999.docx,pair,True
+642,A2_nfc_nfd,議事メモばじ_52.docx,議事メモばじ_52.docx,pair,True
+643,A2_nfc_nfd,決裁書ぞぢ_692.docx,決裁書ぞぢ_692.docx,pair,True
+644,A2_nfc_nfd,Draftぢぎ_600.docx,Draftぢぎ_600.docx,pair,True
+645,A2_nfc_nfd,Draftぞど_184.docx,Draftぞど_184.docx,pair,True
+646,A2_nfc_nfd,Draftぐげ_87.docx,Draftぐげ_87.docx,pair,True
+647,A2_nfc_nfd,議事メモぼヴ_722.docx,議事メモぼヴ_722.docx,pair,True
+648,A2_nfc_nfd,Invoiceだげ_410.docx,Invoiceだげ_410.docx,pair,True
+649,A2_nfc_nfd,決裁書ぎご_716.docx,決裁書ぎご_716.docx,pair,True
+650,A2_nfc_nfd,Draftぞぴ_954.docx,Draftぞぴ_954.docx,pair,True
+651,A2_nfc_nfd,議事メモだご_414.docx,議事メモだご_414.docx,pair,True
+652,A2_nfc_nfd,検査記録ぶじ_578.docx,検査記録ぶじ_578.docx,pair,True
+653,A2_nfc_nfd,検査記録ぶで_317.docx,検査記録ぶで_317.docx,pair,True
+654,A2_nfc_nfd,決裁書ごぐ_204.docx,決裁書ごぐ_204.docx,pair,True
+655,A2_nfc_nfd,決裁書ぐぞ_908.docx,決裁書ぐぞ_908.docx,pair,True
+656,A2_nfc_nfd,議事メモげぎ_90.docx,議事メモげぎ_90.docx,pair,True
+657,A2_nfc_nfd,Invoiceぢべ_859.docx,Invoiceぢべ_859.docx,pair,True
+658,A2_nfc_nfd,検査記録がぷ_459.docx,検査記録がぷ_459.docx,pair,True
+659,A2_nfc_nfd,Draftざだ_364.docx,Draftざだ_364.docx,pair,True
+660,A2_nfc_nfd,決裁書だざ_667.docx,決裁書だざ_667.docx,pair,True
+661,A2_nfc_nfd,納品明細ぼだ_376.docx,納品明細ぼだ_376.docx,pair,True
+662,A2_nfc_nfd,決裁書ぼじ_797.docx,決裁書ぼじ_797.docx,pair,True
+663,A2_nfc_nfd,納品明細ばだ_540.docx,納品明細ばだ_540.docx,pair,True
+664,A2_nfc_nfd,Invoiceぺぽ_361.docx,Invoiceぺぽ_361.docx,pair,True
+665,A2_nfc_nfd,Draftばぱ_17.docx,Draftばぱ_17.docx,pair,True
+666,A2_nfc_nfd,Draftでぼ_529.docx,Draftでぼ_529.docx,pair,True
+667,A2_nfc_nfd,Invoiceぶじ_582.docx,Invoiceぶじ_582.docx,pair,True
+668,A2_nfc_nfd,Draftぞが_828.docx,Draftぞが_828.docx,pair,True
+669,A2_nfc_nfd,検査記録だべ_542.docx,検査記録だべ_542.docx,pair,True
+670,A2_nfc_nfd,納品明細ぐぢ_311.docx,納品明細ぐぢ_311.docx,pair,True
+671,A2_nfc_nfd,決裁書ヴざ_88.docx,決裁書ヴざ_88.docx,pair,True
+672,A2_nfc_nfd,議事メモだど_863.docx,議事メモだど_863.docx,pair,True
+673,A2_nfc_nfd,決裁書ぼず_976.docx,決裁書ぼず_976.docx,pair,True
+674,A2_nfc_nfd,議事メモでぶ_852.docx,議事メモでぶ_852.docx,pair,True
+675,A2_nfc_nfd,納品明細どじ_842.docx,納品明細どじ_842.docx,pair,True
+676,A2_nfc_nfd,決裁書ぺば_465.docx,決裁書ぺば_465.docx,pair,True
+677,A2_nfc_nfd,Draftぞず_213.docx,Draftぞず_213.docx,pair,True
+678,A2_nfc_nfd,Photoでだ_623.docx,Photoでだ_623.docx,pair,True
+679,A2_nfc_nfd,納品明細でざ_558.docx,納品明細でざ_558.docx,pair,True
+680,A2_nfc_nfd,Invoiceがべ_893.docx,Invoiceがべ_893.docx,pair,True
+681,A2_nfc_nfd,検査記録ぶぜ_32.docx,検査記録ぶぜ_32.docx,pair,True
+682,A2_nfc_nfd,Draftづぽ_635.docx,Draftづぽ_635.docx,pair,True
+683,A2_nfc_nfd,Invoiceがげ_18.docx,Invoiceがげ_18.docx,pair,True
+684,A2_nfc_nfd,Invoiceづぎ_663.docx,Invoiceづぎ_663.docx,pair,True
+685,A2_nfc_nfd,議事メモぶび_750.docx,議事メモぶび_750.docx,pair,True
+686,A2_nfc_nfd,議事メモぜぜ_365.docx,議事メモぜぜ_365.docx,pair,True
+687,A2_nfc_nfd,決裁書ぞど_939.docx,決裁書ぞど_939.docx,pair,True
+688,A2_nfc_nfd,Invoiceぽぐ_868.docx,Invoiceぽぐ_868.docx,pair,True
+689,A2_nfc_nfd,Invoiceぎば_814.docx,Invoiceぎば_814.docx,pair,True
+690,A2_nfc_nfd,Invoiceぐぼ_164.docx,Invoiceぐぼ_164.docx,pair,True
+691,A2_nfc_nfd,議事メモづじ_750.docx,議事メモづじ_750.docx,pair,True
+692,A2_nfc_nfd,Draftがぢ_973.docx,Draftがぢ_973.docx,pair,True
+693,A2_nfc_nfd,議事メモぴず_880.docx,議事メモぴず_880.docx,pair,True
+694,A2_nfc_nfd,Invoiceぷば_168.docx,Invoiceぷば_168.docx,pair,True
+695,A2_nfc_nfd,Photoざば_80.docx,Photoざば_80.docx,pair,True
+696,A2_nfc_nfd,Draftがぺ_672.docx,Draftがぺ_672.docx,pair,True
+697,A2_nfc_nfd,Draftがべ_633.docx,Draftがべ_633.docx,pair,True
+698,A2_nfc_nfd,議事メモぷぽ_769.docx,議事メモぷぽ_769.docx,pair,True
+699,A2_nfc_nfd,Photoぷが_946.docx,Photoぷが_946.docx,pair,True
+700,A2_nfc_nfd,Draftぼど_936.docx,Draftぼど_936.docx,pair,True
+701,A2_nfc_nfd,Invoiceべご_145.docx,Invoiceべご_145.docx,pair,True
+702,A2_nfc_nfd,Draftばじ_850.docx,Draftばじ_850.docx,pair,True
+703,A2_nfc_nfd,Invoiceぢだ_211.docx,Invoiceぢだ_211.docx,pair,True
+704,A2_nfc_nfd,Photoざぺ_155.docx,Photoざぺ_155.docx,pair,True
+705,A2_nfc_nfd,決裁書でげ_496.docx,決裁書でげ_496.docx,pair,True
+706,A2_nfc_nfd,Invoiceづぺ_367.docx,Invoiceづぺ_367.docx,pair,True
+707,A2_nfc_nfd,Invoiceだべ_774.docx,Invoiceだべ_774.docx,pair,True
+708,A2_nfc_nfd,検査記録でぐ_337.docx,検査記録でぐ_337.docx,pair,True
+709,A2_nfc_nfd,Invoiceずぞ_468.docx,Invoiceずぞ_468.docx,pair,True
+710,A2_nfc_nfd,Photoぺぷ_767.docx,Photoぺぷ_767.docx,pair,True
+711,A2_nfc_nfd,Photoぶご_524.docx,Photoぶご_524.docx,pair,True
+712,A2_nfc_nfd,納品明細ぷぺ_752.docx,納品明細ぷぺ_752.docx,pair,True
+713,A2_nfc_nfd,検査記録ぽぐ_585.docx,検査記録ぽぐ_585.docx,pair,True
+714,A2_nfc_nfd,検査記録ぴぴ_472.docx,検査記録ぴぴ_472.docx,pair,True
+715,A2_nfc_nfd,議事メモごぞ_807.docx,議事メモごぞ_807.docx,pair,True
+716,A2_nfc_nfd,Invoiceがげ_564.docx,Invoiceがげ_564.docx,pair,True
+717,A2_nfc_nfd,決裁書どじ_628.docx,決裁書どじ_628.docx,pair,True
+718,A2_nfc_nfd,決裁書ぢだ_813.docx,決裁書ぢだ_813.docx,pair,True
+719,A2_nfc_nfd,決裁書ぎじ_452.docx,決裁書ぎじ_452.docx,pair,True
+720,A2_nfc_nfd,議事メモぷぷ_627.docx,議事メモぷぷ_627.docx,pair,True
+721,A2_nfc_nfd,検査記録ぶぶ_143.docx,検査記録ぶぶ_143.docx,pair,True
+722,A2_nfc_nfd,Photoづぷ_358.docx,Photoづぷ_358.docx,pair,True
+723,A2_nfc_nfd,Invoiceぶぐ_905.docx,Invoiceぶぐ_905.docx,pair,True
+724,A2_nfc_nfd,Invoiceヴづ_746.docx,Invoiceヴづ_746.docx,pair,True
+725,A2_nfc_nfd,決裁書ぶげ_392.docx,決裁書ぶげ_392.docx,pair,True
+726,A2_nfc_nfd,決裁書じぢ_566.docx,決裁書じぢ_566.docx,pair,True
+727,A2_nfc_nfd,議事メモばべ_531.docx,議事メモばべ_531.docx,pair,True
+728,A2_nfc_nfd,Invoiceぢぞ_408.docx,Invoiceぢぞ_408.docx,pair,True
+729,A2_nfc_nfd,Photoぴぼ_840.docx,Photoぴぼ_840.docx,pair,True
+730,A2_nfc_nfd,Draftざべ_692.docx,Draftざべ_692.docx,pair,True
+731,A2_nfc_nfd,検査記録べぢ_432.docx,検査記録べぢ_432.docx,pair,True
+732,A2_nfc_nfd,決裁書ずぶ_546.docx,決裁書ずぶ_546.docx,pair,True
+733,A2_nfc_nfd,納品明細じぼ_662.docx,納品明細じぼ_662.docx,pair,True
+734,A2_nfc_nfd,Photoぜど_98.docx,Photoぜど_98.docx,pair,True
+735,A2_nfc_nfd,議事メモべび_924.docx,議事メモべび_924.docx,pair,True
+736,A2_nfc_nfd,検査記録ぱげ_808.docx,検査記録ぱげ_808.docx,pair,True
+737,A2_nfc_nfd,検査記録ざぽ_648.docx,検査記録ざぽ_648.docx,pair,True
+738,A2_nfc_nfd,Invoiceだべ_884.docx,Invoiceだべ_884.docx,pair,True
+739,A2_nfc_nfd,Photoごぼ_60.docx,Photoごぼ_60.docx,pair,True
+740,A2_nfc_nfd,検査記録ぴざ_107.docx,検査記録ぴざ_107.docx,pair,True
+741,A2_nfc_nfd,決裁書ずじ_298.docx,決裁書ずじ_298.docx,pair,True
+742,A2_nfc_nfd,検査記録ぽだ_704.docx,検査記録ぽだ_704.docx,pair,True
+743,A2_nfc_nfd,Invoiceげぐ_947.docx,Invoiceげぐ_947.docx,pair,True
+744,A2_nfc_nfd,Invoiceぽざ_333.docx,Invoiceぽざ_333.docx,pair,True
+745,A2_nfc_nfd,Draftぎぐ_337.docx,Draftぎぐ_337.docx,pair,True
+746,A2_nfc_nfd,議事メモずど_483.docx,議事メモずど_483.docx,pair,True
+747,A2_nfc_nfd,決裁書だぴ_544.docx,決裁書だぴ_544.docx,pair,True
+748,A2_nfc_nfd,納品明細べざ_684.docx,納品明細べざ_684.docx,pair,True
+749,A2_nfc_nfd,検査記録べぺ_391.docx,検査記録べぺ_391.docx,pair,True
+750,A2_nfc_nfd,Draftぢぷ_368.docx,Draftぢぷ_368.docx,pair,True
+751,A2_nfc_nfd,Photoべぷ_704.docx,Photoべぷ_704.docx,pair,True
+752,A2_nfc_nfd,検査記録だど_890.docx,検査記録だど_890.docx,pair,True
+753,A2_nfc_nfd,Photoぶぐ_551.docx,Photoぶぐ_551.docx,pair,True
+754,A2_nfc_nfd,議事メモぴご_138.docx,議事メモぴご_138.docx,pair,True
+755,A2_nfc_nfd,議事メモがび_792.docx,議事メモがび_792.docx,pair,True
+756,A2_nfc_nfd,Photoぜが_67.docx,Photoぜが_67.docx,pair,True
+757,A2_nfc_nfd,議事メモぱぎ_605.docx,議事メモぱぎ_605.docx,pair,True
+758,A2_nfc_nfd,Invoiceじぺ_860.docx,Invoiceじぺ_860.docx,pair,True
+759,A2_nfc_nfd,決裁書ぶが_705.docx,決裁書ぶが_705.docx,pair,True
+760,A2_nfc_nfd,Invoiceぢぐ_982.docx,Invoiceぢぐ_982.docx,pair,True
+761,A2_nfc_nfd,納品明細べが_492.docx,納品明細べが_492.docx,pair,True
+762,A2_nfc_nfd,Invoiceぞづ_342.docx,Invoiceぞづ_342.docx,pair,True
+763,A2_nfc_nfd,Photoざぱ_233.docx,Photoざぱ_233.docx,pair,True
+764,A2_nfc_nfd,議事メモぼぢ_144.docx,議事メモぼぢ_144.docx,pair,True
+765,A2_nfc_nfd,Photoヴざ_771.docx,Photoヴざ_771.docx,pair,True
+766,A2_nfc_nfd,決裁書ぱぺ_357.docx,決裁書ぱぺ_357.docx,pair,True
+767,A2_nfc_nfd,決裁書ぷず_394.docx,決裁書ぷず_394.docx,pair,True
+768,A2_nfc_nfd,Draftぽぢ_889.docx,Draftぽぢ_889.docx,pair,True
+769,A2_nfc_nfd,Photoぞべ_296.docx,Photoぞべ_296.docx,pair,True
+770,A2_nfc_nfd,検査記録びぽ_490.docx,検査記録びぽ_490.docx,pair,True
+771,A2_nfc_nfd,Draftだざ_924.docx,Draftだざ_924.docx,pair,True
+772,A2_nfc_nfd,議事メモごぺ_355.docx,議事メモごぺ_355.docx,pair,True
+773,A2_nfc_nfd,Photoづざ_416.docx,Photoづざ_416.docx,pair,True
+774,A2_nfc_nfd,Draftづぱ_51.docx,Draftづぱ_51.docx,pair,True
+775,A2_nfc_nfd,Draftだび_290.docx,Draftだび_290.docx,pair,True
+776,A2_nfc_nfd,検査記録ぜぺ_563.docx,検査記録ぜぺ_563.docx,pair,True
+777,A2_nfc_nfd,決裁書げご_514.docx,決裁書げご_514.docx,pair,True
+778,A2_nfc_nfd,議事メモごぴ_14.docx,議事メモごぴ_14.docx,pair,True
+779,A2_nfc_nfd,議事メモぞが_634.docx,議事メモぞが_634.docx,pair,True
+780,A2_nfc_nfd,Draftぺぞ_181.docx,Draftぺぞ_181.docx,pair,True
+781,A2_nfc_nfd,Photoぽぴ_840.docx,Photoぽぴ_840.docx,pair,True
+782,A2_nfc_nfd,Draftずぎ_515.docx,Draftずぎ_515.docx,pair,True
+783,A2_nfc_nfd,Draftでぴ_968.docx,Draftでぴ_968.docx,pair,True
+784,A2_nfc_nfd,決裁書べぜ_196.docx,決裁書べぜ_196.docx,pair,True
+785,A2_nfc_nfd,Draftぴぞ_234.docx,Draftぴぞ_234.docx,pair,True
+786,A2_nfc_nfd,Invoiceげぼ_649.docx,Invoiceげぼ_649.docx,pair,True
+787,A2_nfc_nfd,Draftぷぴ_254.docx,Draftぷぴ_254.docx,pair,True
+788,A2_nfc_nfd,納品明細ぱが_158.docx,納品明細ぱが_158.docx,pair,True
+789,A2_nfc_nfd,納品明細ざだ_284.docx,納品明細ざだ_284.docx,pair,True
+790,A2_nfc_nfd,決裁書でぽ_632.docx,決裁書でぽ_632.docx,pair,True
+791,A2_nfc_nfd,議事メモぎげ_316.docx,議事メモぎげ_316.docx,pair,True
+792,A2_nfc_nfd,Draftぞず_843.docx,Draftぞず_843.docx,pair,True
+793,A2_nfc_nfd,決裁書ぽぼ_508.docx,決裁書ぽぼ_508.docx,pair,True
+794,A2_nfc_nfd,議事メモばづ_306.docx,議事メモばづ_306.docx,pair,True
+795,A2_nfc_nfd,議事メモづど_212.docx,議事メモづど_212.docx,pair,True
+796,A2_nfc_nfd,Draftごど_545.docx,Draftごど_545.docx,pair,True
+797,A2_nfc_nfd,Photoじぺ_677.docx,Photoじぺ_677.docx,pair,True
+798,A2_nfc_nfd,検査記録びぜ_991.docx,検査記録びぜ_991.docx,pair,True
+799,A2_nfc_nfd,決裁書だぽ_438.docx,決裁書だぽ_438.docx,pair,True
+800,A2_nfc_nfd,Invoiceぎぼ_776.docx,Invoiceぎぼ_776.docx,pair,True
+801,A2_nfc_nfd,納品明細ぞぱ_120.docx,納品明細ぞぱ_120.docx,pair,True
+802,A2_nfc_nfd,議事メモぜづ_333.docx,議事メモぜづ_333.docx,pair,True
+803,A2_nfc_nfd,決裁書ぜず_102.docx,決裁書ぜず_102.docx,pair,True
+804,A2_nfc_nfd,検査記録ごぢ_856.docx,検査記録ごぢ_856.docx,pair,True
+805,A2_nfc_nfd,Draftだば_317.docx,Draftだば_317.docx,pair,True
+806,A2_nfc_nfd,Draftでび_700.docx,Draftでび_700.docx,pair,True
+807,A2_nfc_nfd,検査記録ぱべ_366.docx,検査記録ぱべ_366.docx,pair,True
+808,A2_nfc_nfd,決裁書ぞぼ_745.docx,決裁書ぞぼ_745.docx,pair,True
+809,A2_nfc_nfd,Draftぢべ_591.docx,Draftぢべ_591.docx,pair,True
+810,A2_nfc_nfd,Draftぷぺ_688.docx,Draftぷぺ_688.docx,pair,True
+811,A2_nfc_nfd,議事メモずど_165.docx,議事メモずど_165.docx,pair,True
+812,A2_nfc_nfd,決裁書じぎ_875.docx,決裁書じぎ_875.docx,pair,True
+813,A2_nfc_nfd,Invoiceびぐ_991.docx,Invoiceびぐ_991.docx,pair,True
+814,A2_nfc_nfd,決裁書じば_177.docx,決裁書じば_177.docx,pair,True
+815,A2_nfc_nfd,決裁書ぞぢ_345.docx,決裁書ぞぢ_345.docx,pair,True
+816,A2_nfc_nfd,Invoiceがぺ_113.docx,Invoiceがぺ_113.docx,pair,True
+817,A2_nfc_nfd,Draftぞぞ_820.docx,Draftぞぞ_820.docx,pair,True
+818,A2_nfc_nfd,Draftぜご_416.docx,Draftぜご_416.docx,pair,True
+819,A2_nfc_nfd,議事メモずば_48.docx,議事メモずば_48.docx,pair,True
+820,A2_nfc_nfd,議事メモでぶ_443.docx,議事メモでぶ_443.docx,pair,True
+821,A2_nfc_nfd,議事メモぶぜ_973.docx,議事メモぶぜ_973.docx,pair,True
+822,A2_nfc_nfd,Invoiceでぱ_596.docx,Invoiceでぱ_596.docx,pair,True
+823,A2_nfc_nfd,納品明細ごで_42.docx,納品明細ごで_42.docx,pair,True
+824,A2_nfc_nfd,納品明細ぴび_297.docx,納品明細ぴび_297.docx,pair,True
+825,A2_nfc_nfd,Photoぶぎ_681.docx,Photoぶぎ_681.docx,pair,True
+826,A2_nfc_nfd,Draftびげ_667.docx,Draftびげ_667.docx,pair,True
+827,A2_nfc_nfd,納品明細でが_949.docx,納品明細でが_949.docx,pair,True
+828,A2_nfc_nfd,決裁書がぺ_292.docx,決裁書がぺ_292.docx,pair,True
+829,A2_nfc_nfd,Photoぽぷ_711.docx,Photoぽぷ_711.docx,pair,True
+830,A2_nfc_nfd,Invoiceぼぢ_468.docx,Invoiceぼぢ_468.docx,pair,True
+831,A2_nfc_nfd,検査記録でで_413.docx,検査記録でで_413.docx,pair,True
+832,A2_nfc_nfd,検査記録ぼで_875.docx,検査記録ぼで_875.docx,pair,True
+833,A2_nfc_nfd,Draftづぴ_813.docx,Draftづぴ_813.docx,pair,True
+834,A2_nfc_nfd,決裁書ぜじ_109.docx,決裁書ぜじ_109.docx,pair,True
+835,A2_nfc_nfd,Draftぷざ_670.docx,Draftぷざ_670.docx,pair,True
+836,A2_nfc_nfd,決裁書ごが_140.docx,決裁書ごが_140.docx,pair,True
+837,A2_nfc_nfd,納品明細ぱぢ_874.docx,納品明細ぱぢ_874.docx,pair,True
+838,A2_nfc_nfd,議事メモぼば_508.docx,議事メモぼば_508.docx,pair,True
+839,A2_nfc_nfd,Photoどぷ_603.docx,Photoどぷ_603.docx,pair,True
+840,A2_nfc_nfd,Photoべご_869.docx,Photoべご_869.docx,pair,True
+841,A2_nfc_nfd,議事メモぺだ_147.docx,議事メモぺだ_147.docx,pair,True
+842,A2_nfc_nfd,Photoぎぞ_646.docx,Photoぎぞ_646.docx,pair,True
+843,A2_nfc_nfd,Draftばげ_388.docx,Draftばげ_388.docx,pair,True
+844,A2_nfc_nfd,Photoぎべ_61.docx,Photoぎべ_61.docx,pair,True
+845,A2_nfc_nfd,納品明細ぢぜ_397.docx,納品明細ぢぜ_397.docx,pair,True
+846,A2_nfc_nfd,Invoiceびぺ_790.docx,Invoiceびぺ_790.docx,pair,True
+847,A2_nfc_nfd,決裁書ずぱ_595.docx,決裁書ずぱ_595.docx,pair,True
+848,A2_nfc_nfd,Invoiceでじ_466.docx,Invoiceでじ_466.docx,pair,True
+849,A2_nfc_nfd,Invoiceびぴ_690.docx,Invoiceびぴ_690.docx,pair,True
+850,A2_nfc_nfd,決裁書ぺぺ_51.docx,決裁書ぺぺ_51.docx,pair,True
+851,A2_nfc_nfd,検査記録づず_555.docx,検査記録づず_555.docx,pair,True
+852,A2_nfc_nfd,決裁書ぺぷ_780.docx,決裁書ぺぷ_780.docx,pair,True
+853,A2_nfc_nfd,Invoiceでが_123.docx,Invoiceでが_123.docx,pair,True
+854,A2_nfc_nfd,納品明細ぷじ_398.docx,納品明細ぷじ_398.docx,pair,True
+855,A2_nfc_nfd,納品明細べぞ_851.docx,納品明細べぞ_851.docx,pair,True
+856,A2_nfc_nfd,Invoiceごじ_195.docx,Invoiceごじ_195.docx,pair,True
+857,A2_nfc_nfd,決裁書ずぺ_458.docx,決裁書ずぺ_458.docx,pair,True
+858,A2_nfc_nfd,議事メモでば_834.docx,議事メモでば_834.docx,pair,True
+859,A2_nfc_nfd,検査記録ぽぎ_580.docx,検査記録ぽぎ_580.docx,pair,True
+860,A2_nfc_nfd,議事メモどぴ_403.docx,議事メモどぴ_403.docx,pair,True
+861,A2_nfc_nfd,議事メモぐぜ_357.docx,議事メモぐぜ_357.docx,pair,True
+862,A2_nfc_nfd,Draftぴぴ_352.docx,Draftぴぴ_352.docx,pair,True
+863,A2_nfc_nfd,Invoiceぼぐ_420.docx,Invoiceぼぐ_420.docx,pair,True
+864,A2_nfc_nfd,議事メモじぎ_238.docx,議事メモじぎ_238.docx,pair,True
+865,A2_nfc_nfd,検査記録じべ_939.docx,検査記録じべ_939.docx,pair,True
+866,A2_nfc_nfd,Draftぱづ_858.docx,Draftぱづ_858.docx,pair,True
+867,A2_nfc_nfd,議事メモぎぞ_50.docx,議事メモぎぞ_50.docx,pair,True
+868,A2_nfc_nfd,Invoiceだぎ_384.docx,Invoiceだぎ_384.docx,pair,True
+869,A2_nfc_nfd,Invoiceヴぴ_37.docx,Invoiceヴぴ_37.docx,pair,True
+870,A2_nfc_nfd,Photoぺず_651.docx,Photoぺず_651.docx,pair,True
+871,A2_nfc_nfd,決裁書ばぜ_716.docx,決裁書ばぜ_716.docx,pair,True
+872,A2_nfc_nfd,Photoヴべ_496.docx,Photoヴべ_496.docx,pair,True
+873,A2_nfc_nfd,納品明細げげ_17.docx,納品明細げげ_17.docx,pair,True
+874,A2_nfc_nfd,議事メモがづ_566.docx,議事メモがづ_566.docx,pair,True
+875,A2_nfc_nfd,決裁書ぱぽ_881.docx,決裁書ぱぽ_881.docx,pair,True
+876,A2_nfc_nfd,検査記録ごご_610.docx,検査記録ごご_610.docx,pair,True
+877,A2_nfc_nfd,議事メモづべ_801.docx,議事メモづべ_801.docx,pair,True
+878,A2_nfc_nfd,Invoiceごぺ_820.docx,Invoiceごぺ_820.docx,pair,True
+879,A2_nfc_nfd,決裁書がぢ_531.docx,決裁書がぢ_531.docx,pair,True
+880,A2_nfc_nfd,Invoiceどべ_360.docx,Invoiceどべ_360.docx,pair,True
+881,A2_nfc_nfd,Photoづだ_700.docx,Photoづだ_700.docx,pair,True
+882,A2_nfc_nfd,検査記録ぴじ_614.docx,検査記録ぴじ_614.docx,pair,True
+883,A2_nfc_nfd,納品明細だご_854.docx,納品明細だご_854.docx,pair,True
+884,A2_nfc_nfd,Invoiceぺで_582.docx,Invoiceぺで_582.docx,pair,True
+885,A2_nfc_nfd,Invoiceごぎ_657.docx,Invoiceごぎ_657.docx,pair,True
+886,A2_nfc_nfd,Invoiceぷず_81.docx,Invoiceぷず_81.docx,pair,True
+887,A2_nfc_nfd,議事メモばづ_271.docx,議事メモばづ_271.docx,pair,True
+888,A2_nfc_nfd,Draftぽば_73.docx,Draftぽば_73.docx,pair,True
+889,A2_nfc_nfd,納品明細ヴば_61.docx,納品明細ヴば_61.docx,pair,True
+890,A2_nfc_nfd,Draftづべ_975.docx,Draftづべ_975.docx,pair,True
+891,A2_nfc_nfd,Draftぼづ_658.docx,Draftぼづ_658.docx,pair,True
+892,A2_nfc_nfd,納品明細ばが_84.docx,納品明細ばが_84.docx,pair,True
+893,A2_nfc_nfd,Draftがぺ_473.docx,Draftがぺ_473.docx,pair,True
+894,A2_nfc_nfd,Invoiceげで_144.docx,Invoiceげで_144.docx,pair,True
+895,A2_nfc_nfd,Draftぼで_671.docx,Draftぼで_671.docx,pair,True
+896,A2_nfc_nfd,Invoiceがぱ_14.docx,Invoiceがぱ_14.docx,pair,True
+897,A2_nfc_nfd,Invoiceヴぼ_72.docx,Invoiceヴぼ_72.docx,pair,True
+898,A2_nfc_nfd,議事メモぴじ_161.docx,議事メモぴじ_161.docx,pair,True
+899,A2_nfc_nfd,Photoぷだ_16.docx,Photoぷだ_16.docx,pair,True
+900,A2_nfc_nfd,Photoござ_355.docx,Photoござ_355.docx,pair,True
+901,A2_nfc_nfd,Draftどざ_237.docx,Draftどざ_237.docx,pair,True
+902,A2_nfc_nfd,検査記録びぼ_732.docx,検査記録びぼ_732.docx,pair,True
+903,A2_nfc_nfd,Photoぱご_626.docx,Photoぱご_626.docx,pair,True
+904,A2_nfc_nfd,議事メモべば_296.docx,議事メモべば_296.docx,pair,True
+905,A2_nfc_nfd,Photoぱぺ_627.docx,Photoぱぺ_627.docx,pair,True
+906,A2_nfc_nfd,Draftぼぷ_593.docx,Draftぼぷ_593.docx,pair,True
+907,A2_nfc_nfd,Photoだぢ_398.docx,Photoだぢ_398.docx,pair,True
+908,A2_nfc_nfd,議事メモぜぎ_87.docx,議事メモぜぎ_87.docx,pair,True
+909,A2_nfc_nfd,Invoiceだぞ_222.docx,Invoiceだぞ_222.docx,pair,True
+910,A2_nfc_nfd,納品明細べば_872.docx,納品明細べば_872.docx,pair,True
+911,A2_nfc_nfd,Photoぽだ_189.docx,Photoぽだ_189.docx,pair,True
+912,A2_nfc_nfd,決裁書ぱべ_811.docx,決裁書ぱべ_811.docx,pair,True
+913,A2_nfc_nfd,納品明細ぺづ_787.docx,納品明細ぺづ_787.docx,pair,True
+914,A2_nfc_nfd,Photoびぺ_246.docx,Photoびぺ_246.docx,pair,True
+915,A2_nfc_nfd,検査記録ばで_464.docx,検査記録ばで_464.docx,pair,True
+916,A2_nfc_nfd,Invoiceどぞ_343.docx,Invoiceどぞ_343.docx,pair,True
+917,A2_nfc_nfd,納品明細ずず_388.docx,納品明細ずず_388.docx,pair,True
+918,A2_nfc_nfd,Invoiceどご_341.docx,Invoiceどご_341.docx,pair,True
+919,A2_nfc_nfd,Invoiceげぺ_660.docx,Invoiceげぺ_660.docx,pair,True
+920,A2_nfc_nfd,Invoiceぴび_592.docx,Invoiceぴび_592.docx,pair,True
+921,A2_nfc_nfd,検査記録べヴ_43.docx,検査記録べヴ_43.docx,pair,True
+922,A2_nfc_nfd,Draftぴご_986.docx,Draftぴご_986.docx,pair,True
+923,A2_nfc_nfd,検査記録ぢぺ_581.docx,検査記録ぢぺ_581.docx,pair,True
+924,A2_nfc_nfd,納品明細ざじ_255.docx,納品明細ざじ_255.docx,pair,True
+925,A2_nfc_nfd,議事メモぴじ_604.docx,議事メモぴじ_604.docx,pair,True
+926,A2_nfc_nfd,議事メモざど_306.docx,議事メモざど_306.docx,pair,True
+927,A2_nfc_nfd,Draftびぺ_887.docx,Draftびぺ_887.docx,pair,True
+928,A2_nfc_nfd,納品明細ぼぢ_807.docx,納品明細ぼぢ_807.docx,pair,True
+929,A2_nfc_nfd,Draftじご_933.docx,Draftじご_933.docx,pair,True
+930,A2_nfc_nfd,納品明細ぼび_516.docx,納品明細ぼび_516.docx,pair,True
+931,A2_nfc_nfd,Draftぎぜ_362.docx,Draftぎぜ_362.docx,pair,True
+932,A2_nfc_nfd,Draftぽぢ_968.docx,Draftぽぢ_968.docx,pair,True
+933,A2_nfc_nfd,検査記録ざだ_731.docx,検査記録ざだ_731.docx,pair,True
+934,A2_nfc_nfd,検査記録ずじ_844.docx,検査記録ずじ_844.docx,pair,True
+935,A2_nfc_nfd,Photoぴヴ_249.docx,Photoぴヴ_249.docx,pair,True
+936,A2_nfc_nfd,納品明細ごぷ_549.docx,納品明細ごぷ_549.docx,pair,True
+937,A2_nfc_nfd,決裁書げぎ_838.docx,決裁書げぎ_838.docx,pair,True
+938,A2_nfc_nfd,Photoぶぜ_387.docx,Photoぶぜ_387.docx,pair,True
+939,A2_nfc_nfd,議事メモぜづ_733.docx,議事メモぜづ_733.docx,pair,True
+940,A2_nfc_nfd,検査記録ぺぜ_625.docx,検査記録ぺぜ_625.docx,pair,True
+941,A2_nfc_nfd,納品明細ぞぞ_84.docx,納品明細ぞぞ_84.docx,pair,True
+942,A2_nfc_nfd,Photoぱぶ_32.docx,Photoぱぶ_32.docx,pair,True
+943,A2_nfc_nfd,Draftぎぱ_294.docx,Draftぎぱ_294.docx,pair,True
+944,A2_nfc_nfd,決裁書ごぶ_513.docx,決裁書ごぶ_513.docx,pair,True
+945,A2_nfc_nfd,決裁書ぢで_889.docx,決裁書ぢで_889.docx,pair,True
+946,A2_nfc_nfd,Invoiceぐぱ_815.docx,Invoiceぐぱ_815.docx,pair,True
+947,A2_nfc_nfd,決裁書どだ_362.docx,決裁書どだ_362.docx,pair,True
+948,A2_nfc_nfd,納品明細がで_759.docx,納品明細がで_759.docx,pair,True
+949,A2_nfc_nfd,決裁書がづ_826.docx,決裁書がづ_826.docx,pair,True
+950,A2_nfc_nfd,納品明細ぶぺ_646.docx,納品明細ぶぺ_646.docx,pair,True
+951,A2_nfc_nfd,議事メモだぷ_333.docx,議事メモだぷ_333.docx,pair,True
+952,A2_nfc_nfd,納品明細ぞぎ_894.docx,納品明細ぞぎ_894.docx,pair,True
+953,A2_nfc_nfd,検査記録ぴべ_643.docx,検査記録ぴべ_643.docx,pair,True
+954,A2_nfc_nfd,決裁書げぐ_426.docx,決裁書げぐ_426.docx,pair,True
+955,A2_nfc_nfd,議事メモぱづ_802.docx,議事メモぱづ_802.docx,pair,True
+956,A2_nfc_nfd,Photoぴざ_443.docx,Photoぴざ_443.docx,pair,True
+957,A2_nfc_nfd,Draftじぞ_451.docx,Draftじぞ_451.docx,pair,True
+958,A2_nfc_nfd,納品明細ずど_959.docx,納品明細ずど_959.docx,pair,True
+959,A2_nfc_nfd,Draftごじ_581.docx,Draftごじ_581.docx,pair,True
+960,A2_nfc_nfd,検査記録どぺ_812.docx,検査記録どぺ_812.docx,pair,True
+961,A2_nfc_nfd,Draftぞぴ_703.docx,Draftぞぴ_703.docx,pair,True
+962,A2_nfc_nfd,Draftぺざ_977.docx,Draftぺざ_977.docx,pair,True
+963,A2_nfc_nfd,Draftヴぴ_253.docx,Draftヴぴ_253.docx,pair,True
+964,A2_nfc_nfd,Draftぺぷ_816.docx,Draftぺぷ_816.docx,pair,True
+965,A2_nfc_nfd,決裁書ぐぺ_138.docx,決裁書ぐぺ_138.docx,pair,True
+966,A2_nfc_nfd,検査記録ごぼ_214.docx,検査記録ごぼ_214.docx,pair,True
+967,A2_nfc_nfd,議事メモぎべ_845.docx,議事メモぎべ_845.docx,pair,True
+968,A2_nfc_nfd,議事メモずぐ_800.docx,議事メモずぐ_800.docx,pair,True
+969,A2_nfc_nfd,Photoぷづ_956.docx,Photoぷづ_956.docx,pair,True
+970,A2_nfc_nfd,検査記録ぷば_525.docx,検査記録ぷば_525.docx,pair,True
+971,A2_nfc_nfd,Invoiceぺぢ_532.docx,Invoiceぺぢ_532.docx,pair,True
+972,A2_nfc_nfd,Invoiceがぱ_564.docx,Invoiceがぱ_564.docx,pair,True
+973,A2_nfc_nfd,Photoごじ_633.docx,Photoごじ_633.docx,pair,True
+974,A2_nfc_nfd,検査記録ぢざ_31.docx,検査記録ぢざ_31.docx,pair,True
+975,A2_nfc_nfd,決裁書ぢぼ_186.docx,決裁書ぢぼ_186.docx,pair,True
+976,A2_nfc_nfd,Draftヴば_881.docx,Draftヴば_881.docx,pair,True
+977,A2_nfc_nfd,決裁書でぢ_259.docx,決裁書でぢ_259.docx,pair,True
+978,A2_nfc_nfd,議事メモぞで_32.docx,議事メモぞで_32.docx,pair,True
+979,A2_nfc_nfd,検査記録ぼだ_669.docx,検査記録ぼだ_669.docx,pair,True
+980,A2_nfc_nfd,議事メモぐじ_14.docx,議事メモぐじ_14.docx,pair,True
+981,A2_nfc_nfd,納品明細ヴぴ_501.docx,納品明細ヴぴ_501.docx,pair,True
+982,A2_nfc_nfd,納品明細がぷ_66.docx,納品明細がぷ_66.docx,pair,True
+983,A2_nfc_nfd,議事メモばど_20.docx,議事メモばど_20.docx,pair,True
+984,A2_nfc_nfd,Invoiceぽが_701.docx,Invoiceぽが_701.docx,pair,True
+985,A2_nfc_nfd,決裁書ざぶ_664.docx,決裁書ざぶ_664.docx,pair,True
+986,A2_nfc_nfd,Photoぼぶ_412.docx,Photoぼぶ_412.docx,pair,True
+987,A2_nfc_nfd,検査記録ざず_347.docx,検査記録ざず_347.docx,pair,True
+988,A2_nfc_nfd,検査記録じぱ_534.docx,検査記録じぱ_534.docx,pair,True
+989,A2_nfc_nfd,検査記録ぶべ_866.docx,検査記録ぶべ_866.docx,pair,True
+990,A2_nfc_nfd,議事メモざび_696.docx,議事メモざび_696.docx,pair,True
+991,A2_nfc_nfd,検査記録ざば_841.docx,検査記録ざば_841.docx,pair,True
+992,A2_nfc_nfd,Photoぺぽ_236.docx,Photoぺぽ_236.docx,pair,True
+993,A2_nfc_nfd,Photoぱど_296.docx,Photoぱど_296.docx,pair,True
+994,A2_nfc_nfd,議事メモがぴ_434.docx,議事メモがぴ_434.docx,pair,True
+995,A2_nfc_nfd,Photoばず_397.docx,Photoばず_397.docx,pair,True
+996,A2_nfc_nfd,納品明細びず_927.docx,納品明細びず_927.docx,pair,True
+997,A2_nfc_nfd,Photoぴぜ_38.docx,Photoぴぜ_38.docx,pair,True
+998,A2_nfc_nfd,納品明細ばぽ_535.docx,納品明細ばぽ_535.docx,pair,True
+999,A2_nfc_nfd,検査記録ばぢ_581.docx,検査記録ばぢ_581.docx,pair,True
+1000,A3_fullwidth,納品明細-754_v2.xlsx,納品明細－７５４＿ｖ２.ｘｌｓｘ,pair,True
+1001,A3_fullwidth,Photo-955_v2.xlsx,Ｐｈｏｔｏ－９５５＿ｖ２.ｘｌｓｘ,pair,True
+1002,A3_fullwidth,決裁書-754_v2.xlsx,決裁書－７５４＿ｖ２.ｘｌｓｘ,pair,True
+1003,A3_fullwidth,Draft-657_v2.xlsx,Ｄｒａｆｔ－６５７＿ｖ２.ｘｌｓｘ,pair,True
+1004,A3_fullwidth,Draft-267_v2.xlsx,Ｄｒａｆｔ－２６７＿ｖ２.ｘｌｓｘ,pair,True
+1005,A3_fullwidth,納品明細-694_v2.xlsx,納品明細－６９４＿ｖ２.ｘｌｓｘ,pair,True
+1006,A3_fullwidth,Draft-288_v2.xlsx,Ｄｒａｆｔ－２８８＿ｖ２.ｘｌｓｘ,pair,True
+1007,A3_fullwidth,検査記録-875_v2.xlsx,検査記録－８７５＿ｖ２.ｘｌｓｘ,pair,True
+1008,A3_fullwidth,議事メモ-242_v2.xlsx,議事メモ－２４２＿ｖ２.ｘｌｓｘ,pair,True
+1009,A3_fullwidth,検査記録-661_v2.xlsx,検査記録－６６１＿ｖ２.ｘｌｓｘ,pair,True
+1010,A3_fullwidth,納品明細-869_v2.xlsx,納品明細－８６９＿ｖ２.ｘｌｓｘ,pair,True
+1011,A3_fullwidth,Draft-218_v2.xlsx,Ｄｒａｆｔ－２１８＿ｖ２.ｘｌｓｘ,pair,True
+1012,A3_fullwidth,議事メモ-638_v2.xlsx,議事メモ－６３８＿ｖ２.ｘｌｓｘ,pair,True
+1013,A3_fullwidth,Photo-327_v2.xlsx,Ｐｈｏｔｏ－３２７＿ｖ２.ｘｌｓｘ,pair,True
+1014,A3_fullwidth,Draft-470_v2.xlsx,Ｄｒａｆｔ－４７０＿ｖ２.ｘｌｓｘ,pair,True
+1015,A3_fullwidth,Photo-173_v2.xlsx,Ｐｈｏｔｏ－１７３＿ｖ２.ｘｌｓｘ,pair,True
+1016,A3_fullwidth,納品明細-1_v2.xlsx,納品明細－１＿ｖ２.ｘｌｓｘ,pair,True
+1017,A3_fullwidth,議事メモ-321_v2.xlsx,議事メモ－３２１＿ｖ２.ｘｌｓｘ,pair,True
+1018,A3_fullwidth,Invoice-312_v2.xlsx,Ｉｎｖｏｉｃｅ－３１２＿ｖ２.ｘｌｓｘ,pair,True
+1019,A3_fullwidth,Invoice-46_v2.xlsx,Ｉｎｖｏｉｃｅ－４６＿ｖ２.ｘｌｓｘ,pair,True
+1020,A3_fullwidth,納品明細-458_v2.xlsx,納品明細－４５８＿ｖ２.ｘｌｓｘ,pair,True
+1021,A3_fullwidth,決裁書-315_v2.xlsx,決裁書－３１５＿ｖ２.ｘｌｓｘ,pair,True
+1022,A3_fullwidth,納品明細-605_v2.xlsx,納品明細－６０５＿ｖ２.ｘｌｓｘ,pair,True
+1023,A3_fullwidth,Photo-16_v2.xlsx,Ｐｈｏｔｏ－１６＿ｖ２.ｘｌｓｘ,pair,True
+1024,A3_fullwidth,検査記録-654_v2.xlsx,検査記録－６５４＿ｖ２.ｘｌｓｘ,pair,True
+1025,A3_fullwidth,Invoice-991_v2.xlsx,Ｉｎｖｏｉｃｅ－９９１＿ｖ２.ｘｌｓｘ,pair,True
+1026,A3_fullwidth,Photo-594_v2.xlsx,Ｐｈｏｔｏ－５９４＿ｖ２.ｘｌｓｘ,pair,True
+1027,A3_fullwidth,Draft-824_v2.xlsx,Ｄｒａｆｔ－８２４＿ｖ２.ｘｌｓｘ,pair,True
+1028,A3_fullwidth,Invoice-868_v2.xlsx,Ｉｎｖｏｉｃｅ－８６８＿ｖ２.ｘｌｓｘ,pair,True
+1029,A3_fullwidth,決裁書-909_v2.xlsx,決裁書－９０９＿ｖ２.ｘｌｓｘ,pair,True
+1030,A3_fullwidth,Draft-527_v2.xlsx,Ｄｒａｆｔ－５２７＿ｖ２.ｘｌｓｘ,pair,True
+1031,A3_fullwidth,Photo-451_v2.xlsx,Ｐｈｏｔｏ－４５１＿ｖ２.ｘｌｓｘ,pair,True
+1032,A3_fullwidth,議事メモ-525_v2.xlsx,議事メモ－５２５＿ｖ２.ｘｌｓｘ,pair,True
+1033,A3_fullwidth,納品明細-217_v2.xlsx,納品明細－２１７＿ｖ２.ｘｌｓｘ,pair,True
+1034,A3_fullwidth,議事メモ-785_v2.xlsx,議事メモ－７８５＿ｖ２.ｘｌｓｘ,pair,True
+1035,A3_fullwidth,Draft-364_v2.xlsx,Ｄｒａｆｔ－３６４＿ｖ２.ｘｌｓｘ,pair,True
+1036,A3_fullwidth,検査記録-160_v2.xlsx,検査記録－１６０＿ｖ２.ｘｌｓｘ,pair,True
+1037,A3_fullwidth,検査記録-403_v2.xlsx,検査記録－４０３＿ｖ２.ｘｌｓｘ,pair,True
+1038,A3_fullwidth,Draft-397_v2.xlsx,Ｄｒａｆｔ－３９７＿ｖ２.ｘｌｓｘ,pair,True
+1039,A3_fullwidth,Draft-885_v2.xlsx,Ｄｒａｆｔ－８８５＿ｖ２.ｘｌｓｘ,pair,True
+1040,A3_fullwidth,議事メモ-958_v2.xlsx,議事メモ－９５８＿ｖ２.ｘｌｓｘ,pair,True
+1041,A3_fullwidth,議事メモ-677_v2.xlsx,議事メモ－６７７＿ｖ２.ｘｌｓｘ,pair,True
+1042,A3_fullwidth,決裁書-620_v2.xlsx,決裁書－６２０＿ｖ２.ｘｌｓｘ,pair,True
+1043,A3_fullwidth,Photo-458_v2.xlsx,Ｐｈｏｔｏ－４５８＿ｖ２.ｘｌｓｘ,pair,True
+1044,A3_fullwidth,納品明細-629_v2.xlsx,納品明細－６２９＿ｖ２.ｘｌｓｘ,pair,True
+1045,A3_fullwidth,議事メモ-807_v2.xlsx,議事メモ－８０７＿ｖ２.ｘｌｓｘ,pair,True
+1046,A3_fullwidth,Photo-808_v2.xlsx,Ｐｈｏｔｏ－８０８＿ｖ２.ｘｌｓｘ,pair,True
+1047,A3_fullwidth,議事メモ-459_v2.xlsx,議事メモ－４５９＿ｖ２.ｘｌｓｘ,pair,True
+1048,A3_fullwidth,納品明細-769_v2.xlsx,納品明細－７６９＿ｖ２.ｘｌｓｘ,pair,True
+1049,A3_fullwidth,議事メモ-323_v2.xlsx,議事メモ－３２３＿ｖ２.ｘｌｓｘ,pair,True
+1050,A3_fullwidth,検査記録-38_v2.xlsx,検査記録－３８＿ｖ２.ｘｌｓｘ,pair,True
+1051,A3_fullwidth,決裁書-844_v2.xlsx,決裁書－８４４＿ｖ２.ｘｌｓｘ,pair,True
+1052,A3_fullwidth,Photo-371_v2.xlsx,Ｐｈｏｔｏ－３７１＿ｖ２.ｘｌｓｘ,pair,True
+1053,A3_fullwidth,Photo-420_v2.xlsx,Ｐｈｏｔｏ－４２０＿ｖ２.ｘｌｓｘ,pair,True
+1054,A3_fullwidth,検査記録-831_v2.xlsx,検査記録－８３１＿ｖ２.ｘｌｓｘ,pair,True
+1055,A3_fullwidth,議事メモ-333_v2.xlsx,議事メモ－３３３＿ｖ２.ｘｌｓｘ,pair,True
+1056,A3_fullwidth,検査記録-958_v2.xlsx,検査記録－９５８＿ｖ２.ｘｌｓｘ,pair,True
+1057,A3_fullwidth,決裁書-624_v2.xlsx,決裁書－６２４＿ｖ２.ｘｌｓｘ,pair,True
+1058,A3_fullwidth,検査記録-430_v2.xlsx,検査記録－４３０＿ｖ２.ｘｌｓｘ,pair,True
+1059,A3_fullwidth,決裁書-336_v2.xlsx,決裁書－３３６＿ｖ２.ｘｌｓｘ,pair,True
+1060,A3_fullwidth,納品明細-70_v2.xlsx,納品明細－７０＿ｖ２.ｘｌｓｘ,pair,True
+1061,A3_fullwidth,議事メモ-459_v2.xlsx,議事メモ－４５９＿ｖ２.ｘｌｓｘ,pair,True
+1062,A3_fullwidth,納品明細-450_v2.xlsx,納品明細－４５０＿ｖ２.ｘｌｓｘ,pair,True
+1063,A3_fullwidth,Photo-43_v2.xlsx,Ｐｈｏｔｏ－４３＿ｖ２.ｘｌｓｘ,pair,True
+1064,A3_fullwidth,決裁書-120_v2.xlsx,決裁書－１２０＿ｖ２.ｘｌｓｘ,pair,True
+1065,A3_fullwidth,Photo-143_v2.xlsx,Ｐｈｏｔｏ－１４３＿ｖ２.ｘｌｓｘ,pair,True
+1066,A3_fullwidth,Draft-740_v2.xlsx,Ｄｒａｆｔ－７４０＿ｖ２.ｘｌｓｘ,pair,True
+1067,A3_fullwidth,議事メモ-998_v2.xlsx,議事メモ－９９８＿ｖ２.ｘｌｓｘ,pair,True
+1068,A3_fullwidth,Invoice-627_v2.xlsx,Ｉｎｖｏｉｃｅ－６２７＿ｖ２.ｘｌｓｘ,pair,True
+1069,A3_fullwidth,Invoice-985_v2.xlsx,Ｉｎｖｏｉｃｅ－９８５＿ｖ２.ｘｌｓｘ,pair,True
+1070,A3_fullwidth,Photo-429_v2.xlsx,Ｐｈｏｔｏ－４２９＿ｖ２.ｘｌｓｘ,pair,True
+1071,A3_fullwidth,納品明細-37_v2.xlsx,納品明細－３７＿ｖ２.ｘｌｓｘ,pair,True
+1072,A3_fullwidth,議事メモ-751_v2.xlsx,議事メモ－７５１＿ｖ２.ｘｌｓｘ,pair,True
+1073,A3_fullwidth,議事メモ-875_v2.xlsx,議事メモ－８７５＿ｖ２.ｘｌｓｘ,pair,True
+1074,A3_fullwidth,Invoice-281_v2.xlsx,Ｉｎｖｏｉｃｅ－２８１＿ｖ２.ｘｌｓｘ,pair,True
+1075,A3_fullwidth,Invoice-254_v2.xlsx,Ｉｎｖｏｉｃｅ－２５４＿ｖ２.ｘｌｓｘ,pair,True
+1076,A3_fullwidth,検査記録-921_v2.xlsx,検査記録－９２１＿ｖ２.ｘｌｓｘ,pair,True
+1077,A3_fullwidth,納品明細-49_v2.xlsx,納品明細－４９＿ｖ２.ｘｌｓｘ,pair,True
+1078,A3_fullwidth,納品明細-672_v2.xlsx,納品明細－６７２＿ｖ２.ｘｌｓｘ,pair,True
+1079,A3_fullwidth,検査記録-609_v2.xlsx,検査記録－６０９＿ｖ２.ｘｌｓｘ,pair,True
+1080,A3_fullwidth,議事メモ-518_v2.xlsx,議事メモ－５１８＿ｖ２.ｘｌｓｘ,pair,True
+1081,A3_fullwidth,Draft-361_v2.xlsx,Ｄｒａｆｔ－３６１＿ｖ２.ｘｌｓｘ,pair,True
+1082,A3_fullwidth,検査記録-998_v2.xlsx,検査記録－９９８＿ｖ２.ｘｌｓｘ,pair,True
+1083,A3_fullwidth,決裁書-962_v2.xlsx,決裁書－９６２＿ｖ２.ｘｌｓｘ,pair,True
+1084,A3_fullwidth,Draft-502_v2.xlsx,Ｄｒａｆｔ－５０２＿ｖ２.ｘｌｓｘ,pair,True
+1085,A3_fullwidth,検査記録-313_v2.xlsx,検査記録－３１３＿ｖ２.ｘｌｓｘ,pair,True
+1086,A3_fullwidth,決裁書-470_v2.xlsx,決裁書－４７０＿ｖ２.ｘｌｓｘ,pair,True
+1087,A3_fullwidth,Photo-577_v2.xlsx,Ｐｈｏｔｏ－５７７＿ｖ２.ｘｌｓｘ,pair,True
+1088,A3_fullwidth,Photo-721_v2.xlsx,Ｐｈｏｔｏ－７２１＿ｖ２.ｘｌｓｘ,pair,True
+1089,A3_fullwidth,議事メモ-811_v2.xlsx,議事メモ－８１１＿ｖ２.ｘｌｓｘ,pair,True
+1090,A3_fullwidth,Draft-786_v2.xlsx,Ｄｒａｆｔ－７８６＿ｖ２.ｘｌｓｘ,pair,True
+1091,A3_fullwidth,Invoice-878_v2.xlsx,Ｉｎｖｏｉｃｅ－８７８＿ｖ２.ｘｌｓｘ,pair,True
+1092,A3_fullwidth,検査記録-634_v2.xlsx,検査記録－６３４＿ｖ２.ｘｌｓｘ,pair,True
+1093,A3_fullwidth,Draft-824_v2.xlsx,Ｄｒａｆｔ－８２４＿ｖ２.ｘｌｓｘ,pair,True
+1094,A3_fullwidth,決裁書-401_v2.xlsx,決裁書－４０１＿ｖ２.ｘｌｓｘ,pair,True
+1095,A3_fullwidth,Photo-128_v2.xlsx,Ｐｈｏｔｏ－１２８＿ｖ２.ｘｌｓｘ,pair,True
+1096,A3_fullwidth,納品明細-691_v2.xlsx,納品明細－６９１＿ｖ２.ｘｌｓｘ,pair,True
+1097,A3_fullwidth,Photo-895_v2.xlsx,Ｐｈｏｔｏ－８９５＿ｖ２.ｘｌｓｘ,pair,True
+1098,A3_fullwidth,Invoice-719_v2.xlsx,Ｉｎｖｏｉｃｅ－７１９＿ｖ２.ｘｌｓｘ,pair,True
+1099,A3_fullwidth,Draft-894_v2.xlsx,Ｄｒａｆｔ－８９４＿ｖ２.ｘｌｓｘ,pair,True
+1100,A3_fullwidth,納品明細-90_v2.xlsx,納品明細－９０＿ｖ２.ｘｌｓｘ,pair,True
+1101,A3_fullwidth,議事メモ-813_v2.xlsx,議事メモ－８１３＿ｖ２.ｘｌｓｘ,pair,True
+1102,A3_fullwidth,納品明細-578_v2.xlsx,納品明細－５７８＿ｖ２.ｘｌｓｘ,pair,True
+1103,A3_fullwidth,議事メモ-23_v2.xlsx,議事メモ－２３＿ｖ２.ｘｌｓｘ,pair,True
+1104,A3_fullwidth,Draft-685_v2.xlsx,Ｄｒａｆｔ－６８５＿ｖ２.ｘｌｓｘ,pair,True
+1105,A3_fullwidth,決裁書-289_v2.xlsx,決裁書－２８９＿ｖ２.ｘｌｓｘ,pair,True
+1106,A3_fullwidth,決裁書-494_v2.xlsx,決裁書－４９４＿ｖ２.ｘｌｓｘ,pair,True
+1107,A3_fullwidth,検査記録-147_v2.xlsx,検査記録－１４７＿ｖ２.ｘｌｓｘ,pair,True
+1108,A3_fullwidth,Invoice-109_v2.xlsx,Ｉｎｖｏｉｃｅ－１０９＿ｖ２.ｘｌｓｘ,pair,True
+1109,A3_fullwidth,納品明細-178_v2.xlsx,納品明細－１７８＿ｖ２.ｘｌｓｘ,pair,True
+1110,A3_fullwidth,Photo-904_v2.xlsx,Ｐｈｏｔｏ－９０４＿ｖ２.ｘｌｓｘ,pair,True
+1111,A3_fullwidth,Invoice-401_v2.xlsx,Ｉｎｖｏｉｃｅ－４０１＿ｖ２.ｘｌｓｘ,pair,True
+1112,A3_fullwidth,決裁書-117_v2.xlsx,決裁書－１１７＿ｖ２.ｘｌｓｘ,pair,True
+1113,A3_fullwidth,Invoice-684_v2.xlsx,Ｉｎｖｏｉｃｅ－６８４＿ｖ２.ｘｌｓｘ,pair,True
+1114,A3_fullwidth,Invoice-526_v2.xlsx,Ｉｎｖｏｉｃｅ－５２６＿ｖ２.ｘｌｓｘ,pair,True
+1115,A3_fullwidth,Photo-530_v2.xlsx,Ｐｈｏｔｏ－５３０＿ｖ２.ｘｌｓｘ,pair,True
+1116,A3_fullwidth,決裁書-775_v2.xlsx,決裁書－７７５＿ｖ２.ｘｌｓｘ,pair,True
+1117,A3_fullwidth,議事メモ-347_v2.xlsx,議事メモ－３４７＿ｖ２.ｘｌｓｘ,pair,True
+1118,A3_fullwidth,納品明細-623_v2.xlsx,納品明細－６２３＿ｖ２.ｘｌｓｘ,pair,True
+1119,A3_fullwidth,Photo-326_v2.xlsx,Ｐｈｏｔｏ－３２６＿ｖ２.ｘｌｓｘ,pair,True
+1120,A3_fullwidth,検査記録-489_v2.xlsx,検査記録－４８９＿ｖ２.ｘｌｓｘ,pair,True
+1121,A3_fullwidth,Invoice-384_v2.xlsx,Ｉｎｖｏｉｃｅ－３８４＿ｖ２.ｘｌｓｘ,pair,True
+1122,A3_fullwidth,Draft-432_v2.xlsx,Ｄｒａｆｔ－４３２＿ｖ２.ｘｌｓｘ,pair,True
+1123,A3_fullwidth,決裁書-747_v2.xlsx,決裁書－７４７＿ｖ２.ｘｌｓｘ,pair,True
+1124,A3_fullwidth,議事メモ-265_v2.xlsx,議事メモ－２６５＿ｖ２.ｘｌｓｘ,pair,True
+1125,A3_fullwidth,議事メモ-17_v2.xlsx,議事メモ－１７＿ｖ２.ｘｌｓｘ,pair,True
+1126,A3_fullwidth,Draft-555_v2.xlsx,Ｄｒａｆｔ－５５５＿ｖ２.ｘｌｓｘ,pair,True
+1127,A3_fullwidth,Invoice-559_v2.xlsx,Ｉｎｖｏｉｃｅ－５５９＿ｖ２.ｘｌｓｘ,pair,True
+1128,A3_fullwidth,納品明細-142_v2.xlsx,納品明細－１４２＿ｖ２.ｘｌｓｘ,pair,True
+1129,A3_fullwidth,Photo-715_v2.xlsx,Ｐｈｏｔｏ－７１５＿ｖ２.ｘｌｓｘ,pair,True
+1130,A3_fullwidth,決裁書-174_v2.xlsx,決裁書－１７４＿ｖ２.ｘｌｓｘ,pair,True
+1131,A3_fullwidth,Draft-956_v2.xlsx,Ｄｒａｆｔ－９５６＿ｖ２.ｘｌｓｘ,pair,True
+1132,A3_fullwidth,Invoice-132_v2.xlsx,Ｉｎｖｏｉｃｅ－１３２＿ｖ２.ｘｌｓｘ,pair,True
+1133,A3_fullwidth,Photo-119_v2.xlsx,Ｐｈｏｔｏ－１１９＿ｖ２.ｘｌｓｘ,pair,True
+1134,A3_fullwidth,決裁書-728_v2.xlsx,決裁書－７２８＿ｖ２.ｘｌｓｘ,pair,True
+1135,A3_fullwidth,Draft-786_v2.xlsx,Ｄｒａｆｔ－７８６＿ｖ２.ｘｌｓｘ,pair,True
+1136,A3_fullwidth,納品明細-33_v2.xlsx,納品明細－３３＿ｖ２.ｘｌｓｘ,pair,True
+1137,A3_fullwidth,決裁書-655_v2.xlsx,決裁書－６５５＿ｖ２.ｘｌｓｘ,pair,True
+1138,A3_fullwidth,納品明細-122_v2.xlsx,納品明細－１２２＿ｖ２.ｘｌｓｘ,pair,True
+1139,A3_fullwidth,Invoice-953_v2.xlsx,Ｉｎｖｏｉｃｅ－９５３＿ｖ２.ｘｌｓｘ,pair,True
+1140,A3_fullwidth,検査記録-262_v2.xlsx,検査記録－２６２＿ｖ２.ｘｌｓｘ,pair,True
+1141,A3_fullwidth,決裁書-441_v2.xlsx,決裁書－４４１＿ｖ２.ｘｌｓｘ,pair,True
+1142,A3_fullwidth,決裁書-40_v2.xlsx,決裁書－４０＿ｖ２.ｘｌｓｘ,pair,True
+1143,A3_fullwidth,Photo-273_v2.xlsx,Ｐｈｏｔｏ－２７３＿ｖ２.ｘｌｓｘ,pair,True
+1144,A3_fullwidth,検査記録-175_v2.xlsx,検査記録－１７５＿ｖ２.ｘｌｓｘ,pair,True
+1145,A3_fullwidth,Invoice-271_v2.xlsx,Ｉｎｖｏｉｃｅ－２７１＿ｖ２.ｘｌｓｘ,pair,True
+1146,A3_fullwidth,決裁書-818_v2.xlsx,決裁書－８１８＿ｖ２.ｘｌｓｘ,pair,True
+1147,A3_fullwidth,決裁書-502_v2.xlsx,決裁書－５０２＿ｖ２.ｘｌｓｘ,pair,True
+1148,A3_fullwidth,議事メモ-323_v2.xlsx,議事メモ－３２３＿ｖ２.ｘｌｓｘ,pair,True
+1149,A3_fullwidth,Draft-516_v2.xlsx,Ｄｒａｆｔ－５１６＿ｖ２.ｘｌｓｘ,pair,True
+1150,A3_fullwidth,決裁書-601_v2.xlsx,決裁書－６０１＿ｖ２.ｘｌｓｘ,pair,True
+1151,A3_fullwidth,議事メモ-491_v2.xlsx,議事メモ－４９１＿ｖ２.ｘｌｓｘ,pair,True
+1152,A3_fullwidth,Draft-816_v2.xlsx,Ｄｒａｆｔ－８１６＿ｖ２.ｘｌｓｘ,pair,True
+1153,A3_fullwidth,決裁書-862_v2.xlsx,決裁書－８６２＿ｖ２.ｘｌｓｘ,pair,True
+1154,A3_fullwidth,Photo-583_v2.xlsx,Ｐｈｏｔｏ－５８３＿ｖ２.ｘｌｓｘ,pair,True
+1155,A3_fullwidth,議事メモ-196_v2.xlsx,議事メモ－１９６＿ｖ２.ｘｌｓｘ,pair,True
+1156,A3_fullwidth,議事メモ-332_v2.xlsx,議事メモ－３３２＿ｖ２.ｘｌｓｘ,pair,True
+1157,A3_fullwidth,Draft-910_v2.xlsx,Ｄｒａｆｔ－９１０＿ｖ２.ｘｌｓｘ,pair,True
+1158,A3_fullwidth,Photo-534_v2.xlsx,Ｐｈｏｔｏ－５３４＿ｖ２.ｘｌｓｘ,pair,True
+1159,A3_fullwidth,Draft-668_v2.xlsx,Ｄｒａｆｔ－６６８＿ｖ２.ｘｌｓｘ,pair,True
+1160,A3_fullwidth,検査記録-824_v2.xlsx,検査記録－８２４＿ｖ２.ｘｌｓｘ,pair,True
+1161,A3_fullwidth,検査記録-781_v2.xlsx,検査記録－７８１＿ｖ２.ｘｌｓｘ,pair,True
+1162,A3_fullwidth,検査記録-179_v2.xlsx,検査記録－１７９＿ｖ２.ｘｌｓｘ,pair,True
+1163,A3_fullwidth,納品明細-483_v2.xlsx,納品明細－４８３＿ｖ２.ｘｌｓｘ,pair,True
+1164,A3_fullwidth,議事メモ-393_v2.xlsx,議事メモ－３９３＿ｖ２.ｘｌｓｘ,pair,True
+1165,A3_fullwidth,Invoice-350_v2.xlsx,Ｉｎｖｏｉｃｅ－３５０＿ｖ２.ｘｌｓｘ,pair,True
+1166,A3_fullwidth,Photo-270_v2.xlsx,Ｐｈｏｔｏ－２７０＿ｖ２.ｘｌｓｘ,pair,True
+1167,A3_fullwidth,Photo-336_v2.xlsx,Ｐｈｏｔｏ－３３６＿ｖ２.ｘｌｓｘ,pair,True
+1168,A3_fullwidth,Invoice-303_v2.xlsx,Ｉｎｖｏｉｃｅ－３０３＿ｖ２.ｘｌｓｘ,pair,True
+1169,A3_fullwidth,Invoice-636_v2.xlsx,Ｉｎｖｏｉｃｅ－６３６＿ｖ２.ｘｌｓｘ,pair,True
+1170,A3_fullwidth,検査記録-123_v2.xlsx,検査記録－１２３＿ｖ２.ｘｌｓｘ,pair,True
+1171,A3_fullwidth,Photo-385_v2.xlsx,Ｐｈｏｔｏ－３８５＿ｖ２.ｘｌｓｘ,pair,True
+1172,A3_fullwidth,Invoice-230_v2.xlsx,Ｉｎｖｏｉｃｅ－２３０＿ｖ２.ｘｌｓｘ,pair,True
+1173,A3_fullwidth,議事メモ-417_v2.xlsx,議事メモ－４１７＿ｖ２.ｘｌｓｘ,pair,True
+1174,A3_fullwidth,決裁書-474_v2.xlsx,決裁書－４７４＿ｖ２.ｘｌｓｘ,pair,True
+1175,A3_fullwidth,Draft-898_v2.xlsx,Ｄｒａｆｔ－８９８＿ｖ２.ｘｌｓｘ,pair,True
+1176,A3_fullwidth,Draft-201_v2.xlsx,Ｄｒａｆｔ－２０１＿ｖ２.ｘｌｓｘ,pair,True
+1177,A3_fullwidth,Invoice-486_v2.xlsx,Ｉｎｖｏｉｃｅ－４８６＿ｖ２.ｘｌｓｘ,pair,True
+1178,A3_fullwidth,納品明細-112_v2.xlsx,納品明細－１１２＿ｖ２.ｘｌｓｘ,pair,True
+1179,A3_fullwidth,Photo-808_v2.xlsx,Ｐｈｏｔｏ－８０８＿ｖ２.ｘｌｓｘ,pair,True
+1180,A3_fullwidth,決裁書-639_v2.xlsx,決裁書－６３９＿ｖ２.ｘｌｓｘ,pair,True
+1181,A3_fullwidth,Draft-857_v2.xlsx,Ｄｒａｆｔ－８５７＿ｖ２.ｘｌｓｘ,pair,True
+1182,A3_fullwidth,Photo-642_v2.xlsx,Ｐｈｏｔｏ－６４２＿ｖ２.ｘｌｓｘ,pair,True
+1183,A3_fullwidth,議事メモ-938_v2.xlsx,議事メモ－９３８＿ｖ２.ｘｌｓｘ,pair,True
+1184,A3_fullwidth,議事メモ-699_v2.xlsx,議事メモ－６９９＿ｖ２.ｘｌｓｘ,pair,True
+1185,A3_fullwidth,Photo-484_v2.xlsx,Ｐｈｏｔｏ－４８４＿ｖ２.ｘｌｓｘ,pair,True
+1186,A3_fullwidth,Invoice-925_v2.xlsx,Ｉｎｖｏｉｃｅ－９２５＿ｖ２.ｘｌｓｘ,pair,True
+1187,A3_fullwidth,納品明細-547_v2.xlsx,納品明細－５４７＿ｖ２.ｘｌｓｘ,pair,True
+1188,A3_fullwidth,Invoice-528_v2.xlsx,Ｉｎｖｏｉｃｅ－５２８＿ｖ２.ｘｌｓｘ,pair,True
+1189,A3_fullwidth,議事メモ-228_v2.xlsx,議事メモ－２２８＿ｖ２.ｘｌｓｘ,pair,True
+1190,A3_fullwidth,Photo-651_v2.xlsx,Ｐｈｏｔｏ－６５１＿ｖ２.ｘｌｓｘ,pair,True
+1191,A3_fullwidth,Photo-662_v2.xlsx,Ｐｈｏｔｏ－６６２＿ｖ２.ｘｌｓｘ,pair,True
+1192,A3_fullwidth,Draft-387_v2.xlsx,Ｄｒａｆｔ－３８７＿ｖ２.ｘｌｓｘ,pair,True
+1193,A3_fullwidth,Invoice-633_v2.xlsx,Ｉｎｖｏｉｃｅ－６３３＿ｖ２.ｘｌｓｘ,pair,True
+1194,A3_fullwidth,Draft-992_v2.xlsx,Ｄｒａｆｔ－９９２＿ｖ２.ｘｌｓｘ,pair,True
+1195,A3_fullwidth,決裁書-612_v2.xlsx,決裁書－６１２＿ｖ２.ｘｌｓｘ,pair,True
+1196,A3_fullwidth,Invoice-236_v2.xlsx,Ｉｎｖｏｉｃｅ－２３６＿ｖ２.ｘｌｓｘ,pair,True
+1197,A3_fullwidth,Draft-865_v2.xlsx,Ｄｒａｆｔ－８６５＿ｖ２.ｘｌｓｘ,pair,True
+1198,A3_fullwidth,Draft-577_v2.xlsx,Ｄｒａｆｔ－５７７＿ｖ２.ｘｌｓｘ,pair,True
+1199,A3_fullwidth,Draft-596_v2.xlsx,Ｄｒａｆｔ－５９６＿ｖ２.ｘｌｓｘ,pair,True
+1200,A3_fullwidth,納品明細-60_v2.xlsx,納品明細－６０＿ｖ２.ｘｌｓｘ,pair,True
+1201,A3_fullwidth,検査記録-839_v2.xlsx,検査記録－８３９＿ｖ２.ｘｌｓｘ,pair,True
+1202,A3_fullwidth,決裁書-635_v2.xlsx,決裁書－６３５＿ｖ２.ｘｌｓｘ,pair,True
+1203,A3_fullwidth,議事メモ-111_v2.xlsx,議事メモ－１１１＿ｖ２.ｘｌｓｘ,pair,True
+1204,A3_fullwidth,Draft-980_v2.xlsx,Ｄｒａｆｔ－９８０＿ｖ２.ｘｌｓｘ,pair,True
+1205,A3_fullwidth,Draft-784_v2.xlsx,Ｄｒａｆｔ－７８４＿ｖ２.ｘｌｓｘ,pair,True
+1206,A3_fullwidth,Invoice-510_v2.xlsx,Ｉｎｖｏｉｃｅ－５１０＿ｖ２.ｘｌｓｘ,pair,True
+1207,A3_fullwidth,納品明細-721_v2.xlsx,納品明細－７２１＿ｖ２.ｘｌｓｘ,pair,True
+1208,A3_fullwidth,Invoice-870_v2.xlsx,Ｉｎｖｏｉｃｅ－８７０＿ｖ２.ｘｌｓｘ,pair,True
+1209,A3_fullwidth,議事メモ-393_v2.xlsx,議事メモ－３９３＿ｖ２.ｘｌｓｘ,pair,True
+1210,A3_fullwidth,検査記録-690_v2.xlsx,検査記録－６９０＿ｖ２.ｘｌｓｘ,pair,True
+1211,A3_fullwidth,検査記録-697_v2.xlsx,検査記録－６９７＿ｖ２.ｘｌｓｘ,pair,True
+1212,A3_fullwidth,Draft-449_v2.xlsx,Ｄｒａｆｔ－４４９＿ｖ２.ｘｌｓｘ,pair,True
+1213,A3_fullwidth,議事メモ-948_v2.xlsx,議事メモ－９４８＿ｖ２.ｘｌｓｘ,pair,True
+1214,A3_fullwidth,Draft-81_v2.xlsx,Ｄｒａｆｔ－８１＿ｖ２.ｘｌｓｘ,pair,True
+1215,A3_fullwidth,議事メモ-512_v2.xlsx,議事メモ－５１２＿ｖ２.ｘｌｓｘ,pair,True
+1216,A3_fullwidth,Invoice-384_v2.xlsx,Ｉｎｖｏｉｃｅ－３８４＿ｖ２.ｘｌｓｘ,pair,True
+1217,A3_fullwidth,議事メモ-405_v2.xlsx,議事メモ－４０５＿ｖ２.ｘｌｓｘ,pair,True
+1218,A3_fullwidth,検査記録-631_v2.xlsx,検査記録－６３１＿ｖ２.ｘｌｓｘ,pair,True
+1219,A3_fullwidth,検査記録-364_v2.xlsx,検査記録－３６４＿ｖ２.ｘｌｓｘ,pair,True
+1220,A3_fullwidth,Draft-564_v2.xlsx,Ｄｒａｆｔ－５６４＿ｖ２.ｘｌｓｘ,pair,True
+1221,A3_fullwidth,Invoice-19_v2.xlsx,Ｉｎｖｏｉｃｅ－１９＿ｖ２.ｘｌｓｘ,pair,True
+1222,A3_fullwidth,納品明細-662_v2.xlsx,納品明細－６６２＿ｖ２.ｘｌｓｘ,pair,True
+1223,A3_fullwidth,検査記録-124_v2.xlsx,検査記録－１２４＿ｖ２.ｘｌｓｘ,pair,True
+1224,A3_fullwidth,納品明細-984_v2.xlsx,納品明細－９８４＿ｖ２.ｘｌｓｘ,pair,True
+1225,A3_fullwidth,納品明細-992_v2.xlsx,納品明細－９９２＿ｖ２.ｘｌｓｘ,pair,True
+1226,A3_fullwidth,納品明細-82_v2.xlsx,納品明細－８２＿ｖ２.ｘｌｓｘ,pair,True
+1227,A3_fullwidth,決裁書-184_v2.xlsx,決裁書－１８４＿ｖ２.ｘｌｓｘ,pair,True
+1228,A3_fullwidth,検査記録-324_v2.xlsx,検査記録－３２４＿ｖ２.ｘｌｓｘ,pair,True
+1229,A3_fullwidth,Photo-66_v2.xlsx,Ｐｈｏｔｏ－６６＿ｖ２.ｘｌｓｘ,pair,True
+1230,A3_fullwidth,議事メモ-640_v2.xlsx,議事メモ－６４０＿ｖ２.ｘｌｓｘ,pair,True
+1231,A3_fullwidth,納品明細-860_v2.xlsx,納品明細－８６０＿ｖ２.ｘｌｓｘ,pair,True
+1232,A3_fullwidth,決裁書-806_v2.xlsx,決裁書－８０６＿ｖ２.ｘｌｓｘ,pair,True
+1233,A3_fullwidth,決裁書-615_v2.xlsx,決裁書－６１５＿ｖ２.ｘｌｓｘ,pair,True
+1234,A3_fullwidth,検査記録-60_v2.xlsx,検査記録－６０＿ｖ２.ｘｌｓｘ,pair,True
+1235,A3_fullwidth,納品明細-398_v2.xlsx,納品明細－３９８＿ｖ２.ｘｌｓｘ,pair,True
+1236,A3_fullwidth,検査記録-462_v2.xlsx,検査記録－４６２＿ｖ２.ｘｌｓｘ,pair,True
+1237,A3_fullwidth,納品明細-641_v2.xlsx,納品明細－６４１＿ｖ２.ｘｌｓｘ,pair,True
+1238,A3_fullwidth,Draft-235_v2.xlsx,Ｄｒａｆｔ－２３５＿ｖ２.ｘｌｓｘ,pair,True
+1239,A3_fullwidth,Photo-649_v2.xlsx,Ｐｈｏｔｏ－６４９＿ｖ２.ｘｌｓｘ,pair,True
+1240,A3_fullwidth,決裁書-431_v2.xlsx,決裁書－４３１＿ｖ２.ｘｌｓｘ,pair,True
+1241,A3_fullwidth,Draft-556_v2.xlsx,Ｄｒａｆｔ－５５６＿ｖ２.ｘｌｓｘ,pair,True
+1242,A3_fullwidth,Draft-847_v2.xlsx,Ｄｒａｆｔ－８４７＿ｖ２.ｘｌｓｘ,pair,True
+1243,A3_fullwidth,Photo-215_v2.xlsx,Ｐｈｏｔｏ－２１５＿ｖ２.ｘｌｓｘ,pair,True
+1244,A3_fullwidth,Draft-313_v2.xlsx,Ｄｒａｆｔ－３１３＿ｖ２.ｘｌｓｘ,pair,True
+1245,A3_fullwidth,検査記録-687_v2.xlsx,検査記録－６８７＿ｖ２.ｘｌｓｘ,pair,True
+1246,A3_fullwidth,Photo-373_v2.xlsx,Ｐｈｏｔｏ－３７３＿ｖ２.ｘｌｓｘ,pair,True
+1247,A3_fullwidth,Photo-506_v2.xlsx,Ｐｈｏｔｏ－５０６＿ｖ２.ｘｌｓｘ,pair,True
+1248,A3_fullwidth,決裁書-675_v2.xlsx,決裁書－６７５＿ｖ２.ｘｌｓｘ,pair,True
+1249,A3_fullwidth,納品明細-828_v2.xlsx,納品明細－８２８＿ｖ２.ｘｌｓｘ,pair,True
+1250,A3_fullwidth,Photo-265_v2.xlsx,Ｐｈｏｔｏ－２６５＿ｖ２.ｘｌｓｘ,pair,True
+1251,A3_fullwidth,Photo-457_v2.xlsx,Ｐｈｏｔｏ－４５７＿ｖ２.ｘｌｓｘ,pair,True
+1252,A3_fullwidth,Draft-909_v2.xlsx,Ｄｒａｆｔ－９０９＿ｖ２.ｘｌｓｘ,pair,True
+1253,A3_fullwidth,議事メモ-19_v2.xlsx,議事メモ－１９＿ｖ２.ｘｌｓｘ,pair,True
+1254,A3_fullwidth,納品明細-412_v2.xlsx,納品明細－４１２＿ｖ２.ｘｌｓｘ,pair,True
+1255,A3_fullwidth,納品明細-963_v2.xlsx,納品明細－９６３＿ｖ２.ｘｌｓｘ,pair,True
+1256,A3_fullwidth,検査記録-309_v2.xlsx,検査記録－３０９＿ｖ２.ｘｌｓｘ,pair,True
+1257,A3_fullwidth,Photo-403_v2.xlsx,Ｐｈｏｔｏ－４０３＿ｖ２.ｘｌｓｘ,pair,True
+1258,A3_fullwidth,議事メモ-325_v2.xlsx,議事メモ－３２５＿ｖ２.ｘｌｓｘ,pair,True
+1259,A3_fullwidth,Invoice-105_v2.xlsx,Ｉｎｖｏｉｃｅ－１０５＿ｖ２.ｘｌｓｘ,pair,True
+1260,A3_fullwidth,Photo-204_v2.xlsx,Ｐｈｏｔｏ－２０４＿ｖ２.ｘｌｓｘ,pair,True
+1261,A3_fullwidth,検査記録-863_v2.xlsx,検査記録－８６３＿ｖ２.ｘｌｓｘ,pair,True
+1262,A3_fullwidth,決裁書-323_v2.xlsx,決裁書－３２３＿ｖ２.ｘｌｓｘ,pair,True
+1263,A3_fullwidth,納品明細-702_v2.xlsx,納品明細－７０２＿ｖ２.ｘｌｓｘ,pair,True
+1264,A3_fullwidth,議事メモ-533_v2.xlsx,議事メモ－５３３＿ｖ２.ｘｌｓｘ,pair,True
+1265,A3_fullwidth,納品明細-68_v2.xlsx,納品明細－６８＿ｖ２.ｘｌｓｘ,pair,True
+1266,A3_fullwidth,Invoice-57_v2.xlsx,Ｉｎｖｏｉｃｅ－５７＿ｖ２.ｘｌｓｘ,pair,True
+1267,A3_fullwidth,検査記録-354_v2.xlsx,検査記録－３５４＿ｖ２.ｘｌｓｘ,pair,True
+1268,A3_fullwidth,Invoice-942_v2.xlsx,Ｉｎｖｏｉｃｅ－９４２＿ｖ２.ｘｌｓｘ,pair,True
+1269,A3_fullwidth,Photo-364_v2.xlsx,Ｐｈｏｔｏ－３６４＿ｖ２.ｘｌｓｘ,pair,True
+1270,A3_fullwidth,納品明細-4_v2.xlsx,納品明細－４＿ｖ２.ｘｌｓｘ,pair,True
+1271,A3_fullwidth,検査記録-749_v2.xlsx,検査記録－７４９＿ｖ２.ｘｌｓｘ,pair,True
+1272,A3_fullwidth,Draft-200_v2.xlsx,Ｄｒａｆｔ－２００＿ｖ２.ｘｌｓｘ,pair,True
+1273,A3_fullwidth,Photo-376_v2.xlsx,Ｐｈｏｔｏ－３７６＿ｖ２.ｘｌｓｘ,pair,True
+1274,A3_fullwidth,納品明細-732_v2.xlsx,納品明細－７３２＿ｖ２.ｘｌｓｘ,pair,True
+1275,A3_fullwidth,Draft-662_v2.xlsx,Ｄｒａｆｔ－６６２＿ｖ２.ｘｌｓｘ,pair,True
+1276,A3_fullwidth,Invoice-65_v2.xlsx,Ｉｎｖｏｉｃｅ－６５＿ｖ２.ｘｌｓｘ,pair,True
+1277,A3_fullwidth,決裁書-790_v2.xlsx,決裁書－７９０＿ｖ２.ｘｌｓｘ,pair,True
+1278,A3_fullwidth,Invoice-533_v2.xlsx,Ｉｎｖｏｉｃｅ－５３３＿ｖ２.ｘｌｓｘ,pair,True
+1279,A3_fullwidth,決裁書-153_v2.xlsx,決裁書－１５３＿ｖ２.ｘｌｓｘ,pair,True
+1280,A3_fullwidth,納品明細-873_v2.xlsx,納品明細－８７３＿ｖ２.ｘｌｓｘ,pair,True
+1281,A3_fullwidth,Draft-111_v2.xlsx,Ｄｒａｆｔ－１１１＿ｖ２.ｘｌｓｘ,pair,True
+1282,A3_fullwidth,Draft-16_v2.xlsx,Ｄｒａｆｔ－１６＿ｖ２.ｘｌｓｘ,pair,True
+1283,A3_fullwidth,Photo-106_v2.xlsx,Ｐｈｏｔｏ－１０６＿ｖ２.ｘｌｓｘ,pair,True
+1284,A3_fullwidth,Invoice-301_v2.xlsx,Ｉｎｖｏｉｃｅ－３０１＿ｖ２.ｘｌｓｘ,pair,True
+1285,A3_fullwidth,Photo-374_v2.xlsx,Ｐｈｏｔｏ－３７４＿ｖ２.ｘｌｓｘ,pair,True
+1286,A3_fullwidth,Photo-600_v2.xlsx,Ｐｈｏｔｏ－６００＿ｖ２.ｘｌｓｘ,pair,True
+1287,A3_fullwidth,議事メモ-866_v2.xlsx,議事メモ－８６６＿ｖ２.ｘｌｓｘ,pair,True
+1288,A3_fullwidth,納品明細-716_v2.xlsx,納品明細－７１６＿ｖ２.ｘｌｓｘ,pair,True
+1289,A3_fullwidth,検査記録-265_v2.xlsx,検査記録－２６５＿ｖ２.ｘｌｓｘ,pair,True
+1290,A3_fullwidth,検査記録-116_v2.xlsx,検査記録－１１６＿ｖ２.ｘｌｓｘ,pair,True
+1291,A3_fullwidth,Photo-899_v2.xlsx,Ｐｈｏｔｏ－８９９＿ｖ２.ｘｌｓｘ,pair,True
+1292,A3_fullwidth,Invoice-98_v2.xlsx,Ｉｎｖｏｉｃｅ－９８＿ｖ２.ｘｌｓｘ,pair,True
+1293,A3_fullwidth,検査記録-27_v2.xlsx,検査記録－２７＿ｖ２.ｘｌｓｘ,pair,True
+1294,A3_fullwidth,決裁書-200_v2.xlsx,決裁書－２００＿ｖ２.ｘｌｓｘ,pair,True
+1295,A3_fullwidth,Invoice-579_v2.xlsx,Ｉｎｖｏｉｃｅ－５７９＿ｖ２.ｘｌｓｘ,pair,True
+1296,A3_fullwidth,Draft-69_v2.xlsx,Ｄｒａｆｔ－６９＿ｖ２.ｘｌｓｘ,pair,True
+1297,A3_fullwidth,Invoice-519_v2.xlsx,Ｉｎｖｏｉｃｅ－５１９＿ｖ２.ｘｌｓｘ,pair,True
+1298,A3_fullwidth,検査記録-508_v2.xlsx,検査記録－５０８＿ｖ２.ｘｌｓｘ,pair,True
+1299,A3_fullwidth,検査記録-940_v2.xlsx,検査記録－９４０＿ｖ２.ｘｌｓｘ,pair,True
+1300,A3_fullwidth,Photo-352_v2.xlsx,Ｐｈｏｔｏ－３５２＿ｖ２.ｘｌｓｘ,pair,True
+1301,A3_fullwidth,Photo-219_v2.xlsx,Ｐｈｏｔｏ－２１９＿ｖ２.ｘｌｓｘ,pair,True
+1302,A3_fullwidth,Draft-417_v2.xlsx,Ｄｒａｆｔ－４１７＿ｖ２.ｘｌｓｘ,pair,True
+1303,A3_fullwidth,検査記録-80_v2.xlsx,検査記録－８０＿ｖ２.ｘｌｓｘ,pair,True
+1304,A3_fullwidth,Photo-977_v2.xlsx,Ｐｈｏｔｏ－９７７＿ｖ２.ｘｌｓｘ,pair,True
+1305,A3_fullwidth,検査記録-866_v2.xlsx,検査記録－８６６＿ｖ２.ｘｌｓｘ,pair,True
+1306,A3_fullwidth,議事メモ-628_v2.xlsx,議事メモ－６２８＿ｖ２.ｘｌｓｘ,pair,True
+1307,A3_fullwidth,決裁書-160_v2.xlsx,決裁書－１６０＿ｖ２.ｘｌｓｘ,pair,True
+1308,A3_fullwidth,検査記録-187_v2.xlsx,検査記録－１８７＿ｖ２.ｘｌｓｘ,pair,True
+1309,A3_fullwidth,納品明細-155_v2.xlsx,納品明細－１５５＿ｖ２.ｘｌｓｘ,pair,True
+1310,A3_fullwidth,Photo-933_v2.xlsx,Ｐｈｏｔｏ－９３３＿ｖ２.ｘｌｓｘ,pair,True
+1311,A3_fullwidth,検査記録-875_v2.xlsx,検査記録－８７５＿ｖ２.ｘｌｓｘ,pair,True
+1312,A3_fullwidth,検査記録-428_v2.xlsx,検査記録－４２８＿ｖ２.ｘｌｓｘ,pair,True
+1313,A3_fullwidth,検査記録-842_v2.xlsx,検査記録－８４２＿ｖ２.ｘｌｓｘ,pair,True
+1314,A3_fullwidth,議事メモ-402_v2.xlsx,議事メモ－４０２＿ｖ２.ｘｌｓｘ,pair,True
+1315,A3_fullwidth,議事メモ-894_v2.xlsx,議事メモ－８９４＿ｖ２.ｘｌｓｘ,pair,True
+1316,A3_fullwidth,Draft-858_v2.xlsx,Ｄｒａｆｔ－８５８＿ｖ２.ｘｌｓｘ,pair,True
+1317,A3_fullwidth,Photo-920_v2.xlsx,Ｐｈｏｔｏ－９２０＿ｖ２.ｘｌｓｘ,pair,True
+1318,A3_fullwidth,決裁書-576_v2.xlsx,決裁書－５７６＿ｖ２.ｘｌｓｘ,pair,True
+1319,A3_fullwidth,Draft-466_v2.xlsx,Ｄｒａｆｔ－４６６＿ｖ２.ｘｌｓｘ,pair,True
+1320,A3_fullwidth,検査記録-51_v2.xlsx,検査記録－５１＿ｖ２.ｘｌｓｘ,pair,True
+1321,A3_fullwidth,Invoice-808_v2.xlsx,Ｉｎｖｏｉｃｅ－８０８＿ｖ２.ｘｌｓｘ,pair,True
+1322,A3_fullwidth,Invoice-533_v2.xlsx,Ｉｎｖｏｉｃｅ－５３３＿ｖ２.ｘｌｓｘ,pair,True
+1323,A3_fullwidth,Draft-349_v2.xlsx,Ｄｒａｆｔ－３４９＿ｖ２.ｘｌｓｘ,pair,True
+1324,A3_fullwidth,Photo-740_v2.xlsx,Ｐｈｏｔｏ－７４０＿ｖ２.ｘｌｓｘ,pair,True
+1325,A3_fullwidth,決裁書-332_v2.xlsx,決裁書－３３２＿ｖ２.ｘｌｓｘ,pair,True
+1326,A3_fullwidth,決裁書-36_v2.xlsx,決裁書－３６＿ｖ２.ｘｌｓｘ,pair,True
+1327,A3_fullwidth,納品明細-800_v2.xlsx,納品明細－８００＿ｖ２.ｘｌｓｘ,pair,True
+1328,A3_fullwidth,Photo-905_v2.xlsx,Ｐｈｏｔｏ－９０５＿ｖ２.ｘｌｓｘ,pair,True
+1329,A3_fullwidth,検査記録-613_v2.xlsx,検査記録－６１３＿ｖ２.ｘｌｓｘ,pair,True
+1330,A3_fullwidth,納品明細-256_v2.xlsx,納品明細－２５６＿ｖ２.ｘｌｓｘ,pair,True
+1331,A3_fullwidth,Photo-736_v2.xlsx,Ｐｈｏｔｏ－７３６＿ｖ２.ｘｌｓｘ,pair,True
+1332,A3_fullwidth,Draft-716_v2.xlsx,Ｄｒａｆｔ－７１６＿ｖ２.ｘｌｓｘ,pair,True
+1333,A3_fullwidth,Invoice-94_v2.xlsx,Ｉｎｖｏｉｃｅ－９４＿ｖ２.ｘｌｓｘ,pair,True
+1334,A3_fullwidth,決裁書-26_v2.xlsx,決裁書－２６＿ｖ２.ｘｌｓｘ,pair,True
+1335,A3_fullwidth,Draft-736_v2.xlsx,Ｄｒａｆｔ－７３６＿ｖ２.ｘｌｓｘ,pair,True
+1336,A3_fullwidth,Draft-936_v2.xlsx,Ｄｒａｆｔ－９３６＿ｖ２.ｘｌｓｘ,pair,True
+1337,A3_fullwidth,納品明細-216_v2.xlsx,納品明細－２１６＿ｖ２.ｘｌｓｘ,pair,True
+1338,A3_fullwidth,Photo-591_v2.xlsx,Ｐｈｏｔｏ－５９１＿ｖ２.ｘｌｓｘ,pair,True
+1339,A3_fullwidth,議事メモ-576_v2.xlsx,議事メモ－５７６＿ｖ２.ｘｌｓｘ,pair,True
+1340,A3_fullwidth,検査記録-208_v2.xlsx,検査記録－２０８＿ｖ２.ｘｌｓｘ,pair,True
+1341,A3_fullwidth,決裁書-747_v2.xlsx,決裁書－７４７＿ｖ２.ｘｌｓｘ,pair,True
+1342,A3_fullwidth,納品明細-367_v2.xlsx,納品明細－３６７＿ｖ２.ｘｌｓｘ,pair,True
+1343,A3_fullwidth,決裁書-137_v2.xlsx,決裁書－１３７＿ｖ２.ｘｌｓｘ,pair,True
+1344,A3_fullwidth,Photo-110_v2.xlsx,Ｐｈｏｔｏ－１１０＿ｖ２.ｘｌｓｘ,pair,True
+1345,A3_fullwidth,Photo-716_v2.xlsx,Ｐｈｏｔｏ－７１６＿ｖ２.ｘｌｓｘ,pair,True
+1346,A3_fullwidth,決裁書-751_v2.xlsx,決裁書－７５１＿ｖ２.ｘｌｓｘ,pair,True
+1347,A3_fullwidth,検査記録-865_v2.xlsx,検査記録－８６５＿ｖ２.ｘｌｓｘ,pair,True
+1348,A3_fullwidth,決裁書-370_v2.xlsx,決裁書－３７０＿ｖ２.ｘｌｓｘ,pair,True
+1349,A3_fullwidth,Draft-721_v2.xlsx,Ｄｒａｆｔ－７２１＿ｖ２.ｘｌｓｘ,pair,True
+1350,A3_fullwidth,決裁書-48_v2.xlsx,決裁書－４８＿ｖ２.ｘｌｓｘ,pair,True
+1351,A3_fullwidth,検査記録-59_v2.xlsx,検査記録－５９＿ｖ２.ｘｌｓｘ,pair,True
+1352,A3_fullwidth,Invoice-88_v2.xlsx,Ｉｎｖｏｉｃｅ－８８＿ｖ２.ｘｌｓｘ,pair,True
+1353,A3_fullwidth,決裁書-500_v2.xlsx,決裁書－５００＿ｖ２.ｘｌｓｘ,pair,True
+1354,A3_fullwidth,Invoice-83_v2.xlsx,Ｉｎｖｏｉｃｅ－８３＿ｖ２.ｘｌｓｘ,pair,True
+1355,A3_fullwidth,Photo-665_v2.xlsx,Ｐｈｏｔｏ－６６５＿ｖ２.ｘｌｓｘ,pair,True
+1356,A3_fullwidth,納品明細-903_v2.xlsx,納品明細－９０３＿ｖ２.ｘｌｓｘ,pair,True
+1357,A3_fullwidth,Draft-645_v2.xlsx,Ｄｒａｆｔ－６４５＿ｖ２.ｘｌｓｘ,pair,True
+1358,A3_fullwidth,納品明細-938_v2.xlsx,納品明細－９３８＿ｖ２.ｘｌｓｘ,pair,True
+1359,A3_fullwidth,Invoice-826_v2.xlsx,Ｉｎｖｏｉｃｅ－８２６＿ｖ２.ｘｌｓｘ,pair,True
+1360,A3_fullwidth,Draft-808_v2.xlsx,Ｄｒａｆｔ－８０８＿ｖ２.ｘｌｓｘ,pair,True
+1361,A3_fullwidth,議事メモ-547_v2.xlsx,議事メモ－５４７＿ｖ２.ｘｌｓｘ,pair,True
+1362,A3_fullwidth,Photo-770_v2.xlsx,Ｐｈｏｔｏ－７７０＿ｖ２.ｘｌｓｘ,pair,True
+1363,A3_fullwidth,納品明細-683_v2.xlsx,納品明細－６８３＿ｖ２.ｘｌｓｘ,pair,True
+1364,A3_fullwidth,Draft-614_v2.xlsx,Ｄｒａｆｔ－６１４＿ｖ２.ｘｌｓｘ,pair,True
+1365,A3_fullwidth,Invoice-499_v2.xlsx,Ｉｎｖｏｉｃｅ－４９９＿ｖ２.ｘｌｓｘ,pair,True
+1366,A3_fullwidth,検査記録-908_v2.xlsx,検査記録－９０８＿ｖ２.ｘｌｓｘ,pair,True
+1367,A3_fullwidth,Invoice-174_v2.xlsx,Ｉｎｖｏｉｃｅ－１７４＿ｖ２.ｘｌｓｘ,pair,True
+1368,A3_fullwidth,決裁書-751_v2.xlsx,決裁書－７５１＿ｖ２.ｘｌｓｘ,pair,True
+1369,A3_fullwidth,納品明細-602_v2.xlsx,納品明細－６０２＿ｖ２.ｘｌｓｘ,pair,True
+1370,A3_fullwidth,Photo-968_v2.xlsx,Ｐｈｏｔｏ－９６８＿ｖ２.ｘｌｓｘ,pair,True
+1371,A3_fullwidth,議事メモ-977_v2.xlsx,議事メモ－９７７＿ｖ２.ｘｌｓｘ,pair,True
+1372,A3_fullwidth,Invoice-766_v2.xlsx,Ｉｎｖｏｉｃｅ－７６６＿ｖ２.ｘｌｓｘ,pair,True
+1373,A3_fullwidth,Photo-8_v2.xlsx,Ｐｈｏｔｏ－８＿ｖ２.ｘｌｓｘ,pair,True
+1374,A3_fullwidth,検査記録-251_v2.xlsx,検査記録－２５１＿ｖ２.ｘｌｓｘ,pair,True
+1375,A3_fullwidth,決裁書-985_v2.xlsx,決裁書－９８５＿ｖ２.ｘｌｓｘ,pair,True
+1376,A3_fullwidth,検査記録-970_v2.xlsx,検査記録－９７０＿ｖ２.ｘｌｓｘ,pair,True
+1377,A3_fullwidth,納品明細-945_v2.xlsx,納品明細－９４５＿ｖ２.ｘｌｓｘ,pair,True
+1378,A3_fullwidth,Draft-137_v2.xlsx,Ｄｒａｆｔ－１３７＿ｖ２.ｘｌｓｘ,pair,True
+1379,A3_fullwidth,納品明細-541_v2.xlsx,納品明細－５４１＿ｖ２.ｘｌｓｘ,pair,True
+1380,A3_fullwidth,Draft-161_v2.xlsx,Ｄｒａｆｔ－１６１＿ｖ２.ｘｌｓｘ,pair,True
+1381,A3_fullwidth,議事メモ-666_v2.xlsx,議事メモ－６６６＿ｖ２.ｘｌｓｘ,pair,True
+1382,A3_fullwidth,Invoice-406_v2.xlsx,Ｉｎｖｏｉｃｅ－４０６＿ｖ２.ｘｌｓｘ,pair,True
+1383,A3_fullwidth,検査記録-28_v2.xlsx,検査記録－２８＿ｖ２.ｘｌｓｘ,pair,True
+1384,A3_fullwidth,検査記録-829_v2.xlsx,検査記録－８２９＿ｖ２.ｘｌｓｘ,pair,True
+1385,A3_fullwidth,Invoice-824_v2.xlsx,Ｉｎｖｏｉｃｅ－８２４＿ｖ２.ｘｌｓｘ,pair,True
+1386,A3_fullwidth,納品明細-388_v2.xlsx,納品明細－３８８＿ｖ２.ｘｌｓｘ,pair,True
+1387,A3_fullwidth,議事メモ-355_v2.xlsx,議事メモ－３５５＿ｖ２.ｘｌｓｘ,pair,True
+1388,A3_fullwidth,Invoice-670_v2.xlsx,Ｉｎｖｏｉｃｅ－６７０＿ｖ２.ｘｌｓｘ,pair,True
+1389,A3_fullwidth,Invoice-244_v2.xlsx,Ｉｎｖｏｉｃｅ－２４４＿ｖ２.ｘｌｓｘ,pair,True
+1390,A3_fullwidth,納品明細-590_v2.xlsx,納品明細－５９０＿ｖ２.ｘｌｓｘ,pair,True
+1391,A3_fullwidth,Draft-975_v2.xlsx,Ｄｒａｆｔ－９７５＿ｖ２.ｘｌｓｘ,pair,True
+1392,A3_fullwidth,決裁書-603_v2.xlsx,決裁書－６０３＿ｖ２.ｘｌｓｘ,pair,True
+1393,A3_fullwidth,議事メモ-107_v2.xlsx,議事メモ－１０７＿ｖ２.ｘｌｓｘ,pair,True
+1394,A3_fullwidth,決裁書-672_v2.xlsx,決裁書－６７２＿ｖ２.ｘｌｓｘ,pair,True
+1395,A3_fullwidth,検査記録-880_v2.xlsx,検査記録－８８０＿ｖ２.ｘｌｓｘ,pair,True
+1396,A3_fullwidth,Draft-437_v2.xlsx,Ｄｒａｆｔ－４３７＿ｖ２.ｘｌｓｘ,pair,True
+1397,A3_fullwidth,Invoice-349_v2.xlsx,Ｉｎｖｏｉｃｅ－３４９＿ｖ２.ｘｌｓｘ,pair,True
+1398,A3_fullwidth,Draft-235_v2.xlsx,Ｄｒａｆｔ－２３５＿ｖ２.ｘｌｓｘ,pair,True
+1399,A3_fullwidth,Draft-366_v2.xlsx,Ｄｒａｆｔ－３６６＿ｖ２.ｘｌｓｘ,pair,True
+1400,A3_fullwidth,検査記録-898_v2.xlsx,検査記録－８９８＿ｖ２.ｘｌｓｘ,pair,True
+1401,A3_fullwidth,納品明細-27_v2.xlsx,納品明細－２７＿ｖ２.ｘｌｓｘ,pair,True
+1402,A3_fullwidth,検査記録-29_v2.xlsx,検査記録－２９＿ｖ２.ｘｌｓｘ,pair,True
+1403,A3_fullwidth,検査記録-899_v2.xlsx,検査記録－８９９＿ｖ２.ｘｌｓｘ,pair,True
+1404,A3_fullwidth,Invoice-52_v2.xlsx,Ｉｎｖｏｉｃｅ－５２＿ｖ２.ｘｌｓｘ,pair,True
+1405,A3_fullwidth,Draft-121_v2.xlsx,Ｄｒａｆｔ－１２１＿ｖ２.ｘｌｓｘ,pair,True
+1406,A3_fullwidth,決裁書-411_v2.xlsx,決裁書－４１１＿ｖ２.ｘｌｓｘ,pair,True
+1407,A3_fullwidth,検査記録-797_v2.xlsx,検査記録－７９７＿ｖ２.ｘｌｓｘ,pair,True
+1408,A3_fullwidth,検査記録-875_v2.xlsx,検査記録－８７５＿ｖ２.ｘｌｓｘ,pair,True
+1409,A3_fullwidth,検査記録-778_v2.xlsx,検査記録－７７８＿ｖ２.ｘｌｓｘ,pair,True
+1410,A3_fullwidth,Invoice-875_v2.xlsx,Ｉｎｖｏｉｃｅ－８７５＿ｖ２.ｘｌｓｘ,pair,True
+1411,A3_fullwidth,納品明細-825_v2.xlsx,納品明細－８２５＿ｖ２.ｘｌｓｘ,pair,True
+1412,A3_fullwidth,Draft-488_v2.xlsx,Ｄｒａｆｔ－４８８＿ｖ２.ｘｌｓｘ,pair,True
+1413,A3_fullwidth,Photo-846_v2.xlsx,Ｐｈｏｔｏ－８４６＿ｖ２.ｘｌｓｘ,pair,True
+1414,A3_fullwidth,決裁書-147_v2.xlsx,決裁書－１４７＿ｖ２.ｘｌｓｘ,pair,True
+1415,A3_fullwidth,Invoice-386_v2.xlsx,Ｉｎｖｏｉｃｅ－３８６＿ｖ２.ｘｌｓｘ,pair,True
+1416,A3_fullwidth,検査記録-709_v2.xlsx,検査記録－７０９＿ｖ２.ｘｌｓｘ,pair,True
+1417,A3_fullwidth,Photo-384_v2.xlsx,Ｐｈｏｔｏ－３８４＿ｖ２.ｘｌｓｘ,pair,True
+1418,A3_fullwidth,Photo-543_v2.xlsx,Ｐｈｏｔｏ－５４３＿ｖ２.ｘｌｓｘ,pair,True
+1419,A3_fullwidth,議事メモ-704_v2.xlsx,議事メモ－７０４＿ｖ２.ｘｌｓｘ,pair,True
+1420,A3_fullwidth,決裁書-263_v2.xlsx,決裁書－２６３＿ｖ２.ｘｌｓｘ,pair,True
+1421,A3_fullwidth,Photo-867_v2.xlsx,Ｐｈｏｔｏ－８６７＿ｖ２.ｘｌｓｘ,pair,True
+1422,A3_fullwidth,Invoice-522_v2.xlsx,Ｉｎｖｏｉｃｅ－５２２＿ｖ２.ｘｌｓｘ,pair,True
+1423,A3_fullwidth,Photo-684_v2.xlsx,Ｐｈｏｔｏ－６８４＿ｖ２.ｘｌｓｘ,pair,True
+1424,A3_fullwidth,議事メモ-470_v2.xlsx,議事メモ－４７０＿ｖ２.ｘｌｓｘ,pair,True
+1425,A3_fullwidth,議事メモ-905_v2.xlsx,議事メモ－９０５＿ｖ２.ｘｌｓｘ,pair,True
+1426,A3_fullwidth,Invoice-567_v2.xlsx,Ｉｎｖｏｉｃｅ－５６７＿ｖ２.ｘｌｓｘ,pair,True
+1427,A3_fullwidth,Invoice-303_v2.xlsx,Ｉｎｖｏｉｃｅ－３０３＿ｖ２.ｘｌｓｘ,pair,True
+1428,A3_fullwidth,Photo-611_v2.xlsx,Ｐｈｏｔｏ－６１１＿ｖ２.ｘｌｓｘ,pair,True
+1429,A3_fullwidth,決裁書-430_v2.xlsx,決裁書－４３０＿ｖ２.ｘｌｓｘ,pair,True
+1430,A3_fullwidth,検査記録-495_v2.xlsx,検査記録－４９５＿ｖ２.ｘｌｓｘ,pair,True
+1431,A3_fullwidth,決裁書-917_v2.xlsx,決裁書－９１７＿ｖ２.ｘｌｓｘ,pair,True
+1432,A3_fullwidth,Draft-3_v2.xlsx,Ｄｒａｆｔ－３＿ｖ２.ｘｌｓｘ,pair,True
+1433,A3_fullwidth,検査記録-141_v2.xlsx,検査記録－１４１＿ｖ２.ｘｌｓｘ,pair,True
+1434,A3_fullwidth,検査記録-654_v2.xlsx,検査記録－６５４＿ｖ２.ｘｌｓｘ,pair,True
+1435,A3_fullwidth,Photo-327_v2.xlsx,Ｐｈｏｔｏ－３２７＿ｖ２.ｘｌｓｘ,pair,True
+1436,A3_fullwidth,Draft-148_v2.xlsx,Ｄｒａｆｔ－１４８＿ｖ２.ｘｌｓｘ,pair,True
+1437,A3_fullwidth,納品明細-63_v2.xlsx,納品明細－６３＿ｖ２.ｘｌｓｘ,pair,True
+1438,A3_fullwidth,Photo-219_v2.xlsx,Ｐｈｏｔｏ－２１９＿ｖ２.ｘｌｓｘ,pair,True
+1439,A3_fullwidth,納品明細-275_v2.xlsx,納品明細－２７５＿ｖ２.ｘｌｓｘ,pair,True
+1440,A3_fullwidth,決裁書-877_v2.xlsx,決裁書－８７７＿ｖ２.ｘｌｓｘ,pair,True
+1441,A3_fullwidth,Invoice-805_v2.xlsx,Ｉｎｖｏｉｃｅ－８０５＿ｖ２.ｘｌｓｘ,pair,True
+1442,A3_fullwidth,検査記録-504_v2.xlsx,検査記録－５０４＿ｖ２.ｘｌｓｘ,pair,True
+1443,A3_fullwidth,Photo-760_v2.xlsx,Ｐｈｏｔｏ－７６０＿ｖ２.ｘｌｓｘ,pair,True
+1444,A3_fullwidth,Draft-50_v2.xlsx,Ｄｒａｆｔ－５０＿ｖ２.ｘｌｓｘ,pair,True
+1445,A3_fullwidth,Draft-35_v2.xlsx,Ｄｒａｆｔ－３５＿ｖ２.ｘｌｓｘ,pair,True
+1446,A3_fullwidth,納品明細-557_v2.xlsx,納品明細－５５７＿ｖ２.ｘｌｓｘ,pair,True
+1447,A3_fullwidth,Draft-235_v2.xlsx,Ｄｒａｆｔ－２３５＿ｖ２.ｘｌｓｘ,pair,True
+1448,A3_fullwidth,Draft-352_v2.xlsx,Ｄｒａｆｔ－３５２＿ｖ２.ｘｌｓｘ,pair,True
+1449,A3_fullwidth,検査記録-984_v2.xlsx,検査記録－９８４＿ｖ２.ｘｌｓｘ,pair,True
+1450,A3_fullwidth,Invoice-900_v2.xlsx,Ｉｎｖｏｉｃｅ－９００＿ｖ２.ｘｌｓｘ,pair,True
+1451,A3_fullwidth,Draft-487_v2.xlsx,Ｄｒａｆｔ－４８７＿ｖ２.ｘｌｓｘ,pair,True
+1452,A3_fullwidth,納品明細-271_v2.xlsx,納品明細－２７１＿ｖ２.ｘｌｓｘ,pair,True
+1453,A3_fullwidth,納品明細-220_v2.xlsx,納品明細－２２０＿ｖ２.ｘｌｓｘ,pair,True
+1454,A3_fullwidth,議事メモ-494_v2.xlsx,議事メモ－４９４＿ｖ２.ｘｌｓｘ,pair,True
+1455,A3_fullwidth,Draft-760_v2.xlsx,Ｄｒａｆｔ－７６０＿ｖ２.ｘｌｓｘ,pair,True
+1456,A3_fullwidth,Photo-744_v2.xlsx,Ｐｈｏｔｏ－７４４＿ｖ２.ｘｌｓｘ,pair,True
+1457,A3_fullwidth,納品明細-643_v2.xlsx,納品明細－６４３＿ｖ２.ｘｌｓｘ,pair,True
+1458,A3_fullwidth,Invoice-417_v2.xlsx,Ｉｎｖｏｉｃｅ－４１７＿ｖ２.ｘｌｓｘ,pair,True
+1459,A3_fullwidth,検査記録-159_v2.xlsx,検査記録－１５９＿ｖ２.ｘｌｓｘ,pair,True
+1460,A3_fullwidth,Photo-309_v2.xlsx,Ｐｈｏｔｏ－３０９＿ｖ２.ｘｌｓｘ,pair,True
+1461,A3_fullwidth,議事メモ-564_v2.xlsx,議事メモ－５６４＿ｖ２.ｘｌｓｘ,pair,True
+1462,A3_fullwidth,Invoice-224_v2.xlsx,Ｉｎｖｏｉｃｅ－２２４＿ｖ２.ｘｌｓｘ,pair,True
+1463,A3_fullwidth,議事メモ-499_v2.xlsx,議事メモ－４９９＿ｖ２.ｘｌｓｘ,pair,True
+1464,A3_fullwidth,議事メモ-563_v2.xlsx,議事メモ－５６３＿ｖ２.ｘｌｓｘ,pair,True
+1465,A3_fullwidth,決裁書-277_v2.xlsx,決裁書－２７７＿ｖ２.ｘｌｓｘ,pair,True
+1466,A3_fullwidth,議事メモ-767_v2.xlsx,議事メモ－７６７＿ｖ２.ｘｌｓｘ,pair,True
+1467,A3_fullwidth,納品明細-324_v2.xlsx,納品明細－３２４＿ｖ２.ｘｌｓｘ,pair,True
+1468,A3_fullwidth,決裁書-733_v2.xlsx,決裁書－７３３＿ｖ２.ｘｌｓｘ,pair,True
+1469,A3_fullwidth,議事メモ-470_v2.xlsx,議事メモ－４７０＿ｖ２.ｘｌｓｘ,pair,True
+1470,A3_fullwidth,議事メモ-678_v2.xlsx,議事メモ－６７８＿ｖ２.ｘｌｓｘ,pair,True
+1471,A3_fullwidth,検査記録-863_v2.xlsx,検査記録－８６３＿ｖ２.ｘｌｓｘ,pair,True
+1472,A3_fullwidth,Draft-926_v2.xlsx,Ｄｒａｆｔ－９２６＿ｖ２.ｘｌｓｘ,pair,True
+1473,A3_fullwidth,検査記録-659_v2.xlsx,検査記録－６５９＿ｖ２.ｘｌｓｘ,pair,True
+1474,A3_fullwidth,決裁書-267_v2.xlsx,決裁書－２６７＿ｖ２.ｘｌｓｘ,pair,True
+1475,A3_fullwidth,Draft-761_v2.xlsx,Ｄｒａｆｔ－７６１＿ｖ２.ｘｌｓｘ,pair,True
+1476,A3_fullwidth,決裁書-179_v2.xlsx,決裁書－１７９＿ｖ２.ｘｌｓｘ,pair,True
+1477,A3_fullwidth,Photo-883_v2.xlsx,Ｐｈｏｔｏ－８８３＿ｖ２.ｘｌｓｘ,pair,True
+1478,A3_fullwidth,Invoice-764_v2.xlsx,Ｉｎｖｏｉｃｅ－７６４＿ｖ２.ｘｌｓｘ,pair,True
+1479,A3_fullwidth,議事メモ-391_v2.xlsx,議事メモ－３９１＿ｖ２.ｘｌｓｘ,pair,True
+1480,A3_fullwidth,納品明細-409_v2.xlsx,納品明細－４０９＿ｖ２.ｘｌｓｘ,pair,True
+1481,A3_fullwidth,Photo-332_v2.xlsx,Ｐｈｏｔｏ－３３２＿ｖ２.ｘｌｓｘ,pair,True
+1482,A3_fullwidth,議事メモ-648_v2.xlsx,議事メモ－６４８＿ｖ２.ｘｌｓｘ,pair,True
+1483,A3_fullwidth,Invoice-69_v2.xlsx,Ｉｎｖｏｉｃｅ－６９＿ｖ２.ｘｌｓｘ,pair,True
+1484,A3_fullwidth,Invoice-703_v2.xlsx,Ｉｎｖｏｉｃｅ－７０３＿ｖ２.ｘｌｓｘ,pair,True
+1485,A3_fullwidth,Draft-385_v2.xlsx,Ｄｒａｆｔ－３８５＿ｖ２.ｘｌｓｘ,pair,True
+1486,A3_fullwidth,決裁書-545_v2.xlsx,決裁書－５４５＿ｖ２.ｘｌｓｘ,pair,True
+1487,A3_fullwidth,Draft-86_v2.xlsx,Ｄｒａｆｔ－８６＿ｖ２.ｘｌｓｘ,pair,True
+1488,A3_fullwidth,Invoice-603_v2.xlsx,Ｉｎｖｏｉｃｅ－６０３＿ｖ２.ｘｌｓｘ,pair,True
+1489,A3_fullwidth,決裁書-898_v2.xlsx,決裁書－８９８＿ｖ２.ｘｌｓｘ,pair,True
+1490,A3_fullwidth,納品明細-892_v2.xlsx,納品明細－８９２＿ｖ２.ｘｌｓｘ,pair,True
+1491,A3_fullwidth,Photo-401_v2.xlsx,Ｐｈｏｔｏ－４０１＿ｖ２.ｘｌｓｘ,pair,True
+1492,A3_fullwidth,検査記録-311_v2.xlsx,検査記録－３１１＿ｖ２.ｘｌｓｘ,pair,True
+1493,A3_fullwidth,Invoice-400_v2.xlsx,Ｉｎｖｏｉｃｅ－４００＿ｖ２.ｘｌｓｘ,pair,True
+1494,A3_fullwidth,Invoice-347_v2.xlsx,Ｉｎｖｏｉｃｅ－３４７＿ｖ２.ｘｌｓｘ,pair,True
+1495,A3_fullwidth,決裁書-784_v2.xlsx,決裁書－７８４＿ｖ２.ｘｌｓｘ,pair,True
+1496,A3_fullwidth,Draft-56_v2.xlsx,Ｄｒａｆｔ－５６＿ｖ２.ｘｌｓｘ,pair,True
+1497,A3_fullwidth,決裁書-768_v2.xlsx,決裁書－７６８＿ｖ２.ｘｌｓｘ,pair,True
+1498,A3_fullwidth,Photo-495_v2.xlsx,Ｐｈｏｔｏ－４９５＿ｖ２.ｘｌｓｘ,pair,True
+1499,A3_fullwidth,Invoice-556_v2.xlsx,Ｉｎｖｏｉｃｅ－５５６＿ｖ２.ｘｌｓｘ,pair,True
+1500,B1_reserved,,Com3.pdf,single,True
+1501,B1_reserved,,NUL,single,True
+1502,B1_reserved,,com7.xlsx.bak,single,True
+1503,B1_reserved,,lpt3.tar.gz,single,True
+1504,B1_reserved,,LPT5.xlsx.bak,single,True
+1505,B1_reserved,,COM5.pdf,single,True
+1506,B1_reserved,,nul.tar.gz,single,True
+1507,B1_reserved,,Lpt8.xlsx.bak,single,True
+1508,B1_reserved,,com3,single,True
+1509,B1_reserved,,nul.xlsx.bak,single,True
+1510,B1_reserved,,COM1.tar.gz,single,True
+1511,B1_reserved,,Con.xlsx.bak,single,True
+1512,B1_reserved,,Com2.xlsx.bak,single,True
+1513,B1_reserved,,prn.xlsx.bak,single,True
+1514,B1_reserved,,Lpt8,single,True
+1515,B1_reserved,,LPT2.tar.gz,single,True
+1516,B1_reserved,,Com6.tar.gz,single,True
+1517,B1_reserved,,LPT6.xlsx.bak,single,True
+1518,B1_reserved,,com1.xlsx.bak,single,True
+1519,B1_reserved,,COM9.pdf,single,True
+1520,B1_reserved,,CON.xlsx.bak,single,True
+1521,B1_reserved,,Com8,single,True
+1522,B1_reserved,,COM1.tar.gz,single,True
+1523,B1_reserved,,COM7,single,True
+1524,B1_reserved,,AUX.xlsx.bak,single,True
+1525,B1_reserved,,COM4.tar.gz,single,True
+1526,B1_reserved,,lpt6.xlsx.bak,single,True
+1527,B1_reserved,,lpt4,single,True
+1528,B1_reserved,,lpt2,single,True
+1529,B1_reserved,,Prn.tar.gz,single,True
+1530,B1_reserved,,Lpt1.pdf,single,True
+1531,B1_reserved,,Lpt3,single,True
+1532,B1_reserved,,COM3.tar.gz,single,True
+1533,B1_reserved,,prn.tar.gz,single,True
+1534,B1_reserved,,COM7.xlsx.bak,single,True
+1535,B1_reserved,,Lpt6.tar.gz,single,True
+1536,B1_reserved,,Lpt6,single,True
+1537,B1_reserved,,Com5.tar.gz,single,True
+1538,B1_reserved,,Lpt1.tar.gz,single,True
+1539,B1_reserved,,com8.pdf,single,True
+1540,B1_reserved,,prn.tar.gz,single,True
+1541,B1_reserved,,Lpt9,single,True
+1542,B1_reserved,,lpt9,single,True
+1543,B1_reserved,,com2.xlsx.bak,single,True
+1544,B1_reserved,,Com6.xlsx.bak,single,True
+1545,B1_reserved,,com3.tar.gz,single,True
+1546,B1_reserved,,Aux.xlsx.bak,single,True
+1547,B1_reserved,,Lpt6.xlsx.bak,single,True
+1548,B1_reserved,,com4.tar.gz,single,True
+1549,B1_reserved,,Aux.tar.gz,single,True
+1550,B1_reserved,,com5,single,True
+1551,B1_reserved,,Lpt6.tar.gz,single,True
+1552,B1_reserved,,Com8.pdf,single,True
+1553,B1_reserved,,COM2,single,True
+1554,B1_reserved,,Lpt4,single,True
+1555,B1_reserved,,LPT2.pdf,single,True
+1556,B1_reserved,,Com7.xlsx.bak,single,True
+1557,B1_reserved,,com4,single,True
+1558,B1_reserved,,LPT8.tar.gz,single,True
+1559,B1_reserved,,Lpt8.xlsx.bak,single,True
+1560,B1_reserved,,lpt2.tar.gz,single,True
+1561,B1_reserved,,LPT6.xlsx.bak,single,True
+1562,B1_reserved,,com3.pdf,single,True
+1563,B1_reserved,,COM3,single,True
+1564,B1_reserved,,COM1,single,True
+1565,B1_reserved,,Aux,single,True
+1566,B1_reserved,,COM8,single,True
+1567,B1_reserved,,com2.pdf,single,True
+1568,B1_reserved,,lpt1.xlsx.bak,single,True
+1569,B1_reserved,,NUL.xlsx.bak,single,True
+1570,B1_reserved,,Com3.tar.gz,single,True
+1571,B1_reserved,,lpt9,single,True
+1572,B1_reserved,,lpt6.tar.gz,single,True
+1573,B1_reserved,,Lpt1.xlsx.bak,single,True
+1574,B1_reserved,,LPT7,single,True
+1575,B1_reserved,,COM1.xlsx.bak,single,True
+1576,B1_reserved,,Aux.xlsx.bak,single,True
+1577,B1_reserved,,COM3.tar.gz,single,True
+1578,B1_reserved,,lpt5.tar.gz,single,True
+1579,B1_reserved,,Nul.pdf,single,True
+1580,B1_reserved,,Nul.pdf,single,True
+1581,B1_reserved,,lpt8.xlsx.bak,single,True
+1582,B1_reserved,,LPT3.pdf,single,True
+1583,B1_reserved,,lpt9.tar.gz,single,True
+1584,B1_reserved,,lpt7.xlsx.bak,single,True
+1585,B1_reserved,,CON,single,True
+1586,B1_reserved,,COM7.xlsx.bak,single,True
+1587,B1_reserved,,lpt5.xlsx.bak,single,True
+1588,B1_reserved,,com9.tar.gz,single,True
+1589,B1_reserved,,Lpt5.tar.gz,single,True
+1590,B1_reserved,,LPT2,single,True
+1591,B1_reserved,,com8.xlsx.bak,single,True
+1592,B1_reserved,,LPT4.xlsx.bak,single,True
+1593,B1_reserved,,COM2,single,True
+1594,B1_reserved,,com7.pdf,single,True
+1595,B1_reserved,,com4,single,True
+1596,B1_reserved,,LPT2.xlsx.bak,single,True
+1597,B1_reserved,,com8.tar.gz,single,True
+1598,B1_reserved,,lpt8.pdf,single,True
+1599,B1_reserved,,com3.tar.gz,single,True
+1600,B1_reserved,,Com1.tar.gz,single,True
+1601,B1_reserved,,Lpt1,single,True
+1602,B1_reserved,,AUX,single,True
+1603,B1_reserved,,com1.pdf,single,True
+1604,B1_reserved,,AUX.tar.gz,single,True
+1605,B1_reserved,,COM9,single,True
+1606,B1_reserved,,Lpt2,single,True
+1607,B1_reserved,,lpt7.pdf,single,True
+1608,B1_reserved,,Com8.pdf,single,True
+1609,B1_reserved,,lpt2.tar.gz,single,True
+1610,B1_reserved,,lpt2.xlsx.bak,single,True
+1611,B1_reserved,,Lpt8.xlsx.bak,single,True
+1612,B1_reserved,,aux.pdf,single,True
+1613,B1_reserved,,lpt1.tar.gz,single,True
+1614,B1_reserved,,COM7.xlsx.bak,single,True
+1615,B1_reserved,,Com4.pdf,single,True
+1616,B1_reserved,,Aux,single,True
+1617,B1_reserved,,aux.pdf,single,True
+1618,B1_reserved,,Com7.pdf,single,True
+1619,B1_reserved,,LPT9.tar.gz,single,True
+1620,B1_reserved,,aux.xlsx.bak,single,True
+1621,B1_reserved,,Lpt9.pdf,single,True
+1622,B1_reserved,,LPT3.xlsx.bak,single,True
+1623,B1_reserved,,lpt7.tar.gz,single,True
+1624,B1_reserved,,com3.tar.gz,single,True
+1625,B1_reserved,,Lpt4.pdf,single,True
+1626,B1_reserved,,AUX.pdf,single,True
+1627,B1_reserved,,COM4.tar.gz,single,True
+1628,B1_reserved,,COM3.xlsx.bak,single,True
+1629,B1_reserved,,Lpt2.pdf,single,True
+1630,B1_reserved,,COM4.tar.gz,single,True
+1631,B1_reserved,,Lpt5,single,True
+1632,B1_reserved,,com8.pdf,single,True
+1633,B1_reserved,,nul.xlsx.bak,single,True
+1634,B1_reserved,,COM8,single,True
+1635,B1_reserved,,Com5,single,True
+1636,B1_reserved,,Com9.pdf,single,True
+1637,B1_reserved,,COM6.tar.gz,single,True
+1638,B1_reserved,,Lpt7.tar.gz,single,True
+1639,B1_reserved,,LPT3,single,True
+1640,B1_reserved,,aux,single,True
+1641,B1_reserved,,com1.tar.gz,single,True
+1642,B1_reserved,,lpt6.tar.gz,single,True
+1643,B1_reserved,,LPT4,single,True
+1644,B1_reserved,,COM2,single,True
+1645,B1_reserved,,Com4.pdf,single,True
+1646,B1_reserved,,Lpt8.pdf,single,True
+1647,B1_reserved,,Lpt4,single,True
+1648,B1_reserved,,com5.xlsx.bak,single,True
+1649,B1_reserved,,Lpt8.pdf,single,True
+1650,B1_reserved,,aux.tar.gz,single,True
+1651,B1_reserved,,com1,single,True
+1652,B1_reserved,,Com9,single,True
+1653,B1_reserved,,COM5.pdf,single,True
+1654,B1_reserved,,LPT1.pdf,single,True
+1655,B1_reserved,,LPT9.tar.gz,single,True
+1656,B1_reserved,,Com7.tar.gz,single,True
+1657,B1_reserved,,Lpt9.pdf,single,True
+1658,B1_reserved,,lpt4.tar.gz,single,True
+1659,B1_reserved,,COM6,single,True
+1660,B1_reserved,,Com7.pdf,single,True
+1661,B1_reserved,,LPT5,single,True
+1662,B1_reserved,,lpt9,single,True
+1663,B1_reserved,,com1,single,True
+1664,B1_reserved,,lpt6.pdf,single,True
+1665,B1_reserved,,Prn.pdf,single,True
+1666,B1_reserved,,COM5.xlsx.bak,single,True
+1667,B1_reserved,,lpt9.pdf,single,True
+1668,B1_reserved,,com5.tar.gz,single,True
+1669,B1_reserved,,COM2,single,True
+1670,B1_reserved,,com9.xlsx.bak,single,True
+1671,B1_reserved,,LPT2.xlsx.bak,single,True
+1672,B1_reserved,,com4.pdf,single,True
+1673,B1_reserved,,Com6,single,True
+1674,B1_reserved,,Com7.tar.gz,single,True
+1675,B1_reserved,,COM8.xlsx.bak,single,True
+1676,B1_reserved,,lpt6,single,True
+1677,B1_reserved,,nul,single,True
+1678,B1_reserved,,LPT7.pdf,single,True
+1679,B1_reserved,,Com6.tar.gz,single,True
+1680,B1_reserved,,Com3.tar.gz,single,True
+1681,B1_reserved,,com7,single,True
+1682,B1_reserved,,COM5,single,True
+1683,B1_reserved,,Lpt8.xlsx.bak,single,True
+1684,B1_reserved,,LPT3.pdf,single,True
+1685,B1_reserved,,com3.pdf,single,True
+1686,B1_reserved,,lpt3.tar.gz,single,True
+1687,B1_reserved,,COM8.xlsx.bak,single,True
+1688,B1_reserved,,Com7.tar.gz,single,True
+1689,B1_reserved,,LPT2,single,True
+1690,B1_reserved,,COM2.xlsx.bak,single,True
+1691,B1_reserved,,Lpt6.pdf,single,True
+1692,B1_reserved,,com3.pdf,single,True
+1693,B1_reserved,,Lpt3,single,True
+1694,B1_reserved,,Com7.pdf,single,True
+1695,B1_reserved,,Con.pdf,single,True
+1696,B1_reserved,,com8,single,True
+1697,B1_reserved,,LPT8,single,True
+1698,B1_reserved,,Lpt7.tar.gz,single,True
+1699,B1_reserved,,COM8.tar.gz,single,True
+1700,B1_reserved,,aux.pdf,single,True
+1701,B1_reserved,,Com7.xlsx.bak,single,True
+1702,B1_reserved,,com2,single,True
+1703,B1_reserved,,LPT3.xlsx.bak,single,True
+1704,B1_reserved,,com6.pdf,single,True
+1705,B1_reserved,,com9.pdf,single,True
+1706,B1_reserved,,con.xlsx.bak,single,True
+1707,B1_reserved,,LPT4.pdf,single,True
+1708,B1_reserved,,com7,single,True
+1709,B1_reserved,,Nul.xlsx.bak,single,True
+1710,B1_reserved,,COM4.pdf,single,True
+1711,B1_reserved,,lpt7,single,True
+1712,B1_reserved,,Com5.xlsx.bak,single,True
+1713,B1_reserved,,aux,single,True
+1714,B1_reserved,,com3.tar.gz,single,True
+1715,B1_reserved,,LPT2.pdf,single,True
+1716,B1_reserved,,Lpt7,single,True
+1717,B1_reserved,,COM4,single,True
+1718,B1_reserved,,nul,single,True
+1719,B1_reserved,,com9.xlsx.bak,single,True
+1720,B1_reserved,,LPT5.xlsx.bak,single,True
+1721,B1_reserved,,prn.xlsx.bak,single,True
+1722,B1_reserved,,lpt1.tar.gz,single,True
+1723,B1_reserved,,LPT7,single,True
+1724,B1_reserved,,com8,single,True
+1725,B1_reserved,,com2,single,True
+1726,B1_reserved,,Lpt1,single,True
+1727,B1_reserved,,com5,single,True
+1728,B1_reserved,,com7.xlsx.bak,single,True
+1729,B1_reserved,,prn.xlsx.bak,single,True
+1730,B1_reserved,,PRN,single,True
+1731,B1_reserved,,com3.pdf,single,True
+1732,B1_reserved,,Lpt1,single,True
+1733,B1_reserved,,Com9,single,True
+1734,B1_reserved,,com6,single,True
+1735,B1_reserved,,Lpt4.xlsx.bak,single,True
+1736,B1_reserved,,Com7,single,True
+1737,B1_reserved,,com8.xlsx.bak,single,True
+1738,B1_reserved,,LPT3,single,True
+1739,B1_reserved,,Lpt7.pdf,single,True
+1740,B1_reserved,,nul,single,True
+1741,B1_reserved,,lpt2,single,True
+1742,B1_reserved,,COM3.xlsx.bak,single,True
+1743,B1_reserved,,LPT8.pdf,single,True
+1744,B1_reserved,,Com8,single,True
+1745,B1_reserved,,com7,single,True
+1746,B1_reserved,,lpt7.pdf,single,True
+1747,B1_reserved,,COM4.tar.gz,single,True
+1748,B1_reserved,,LPT4.xlsx.bak,single,True
+1749,B1_reserved,,Com2.tar.gz,single,True
+1750,B1_reserved,,Com3.pdf,single,True
+1751,B1_reserved,,COM8.tar.gz,single,True
+1752,B1_reserved,,LPT6.pdf,single,True
+1753,B1_reserved,,Com9.pdf,single,True
+1754,B1_reserved,,com5.pdf,single,True
+1755,B1_reserved,,LPT1,single,True
+1756,B1_reserved,,COM5.tar.gz,single,True
+1757,B1_reserved,,LPT6,single,True
+1758,B1_reserved,,PRN.tar.gz,single,True
+1759,B1_reserved,,com6.tar.gz,single,True
+1760,B1_reserved,,Lpt2.tar.gz,single,True
+1761,B1_reserved,,Com1.xlsx.bak,single,True
+1762,B1_reserved,,con.pdf,single,True
+1763,B1_reserved,,lpt4.tar.gz,single,True
+1764,B1_reserved,,lpt1.pdf,single,True
+1765,B1_reserved,,Com8,single,True
+1766,B1_reserved,,LPT1,single,True
+1767,B1_reserved,,com7,single,True
+1768,B1_reserved,,Nul.pdf,single,True
+1769,B1_reserved,,LPT8.xlsx.bak,single,True
+1770,B1_reserved,,Lpt3.pdf,single,True
+1771,B1_reserved,,lpt5,single,True
+1772,B1_reserved,,Lpt7.pdf,single,True
+1773,B1_reserved,,Com5.xlsx.bak,single,True
+1774,B1_reserved,,Com9.tar.gz,single,True
+1775,B1_reserved,,Lpt3.tar.gz,single,True
+1776,B1_reserved,,com1.tar.gz,single,True
+1777,B1_reserved,,com8,single,True
+1778,B1_reserved,,lpt6.pdf,single,True
+1779,B1_reserved,,Com9.tar.gz,single,True
+1780,B1_reserved,,CON,single,True
+1781,B1_reserved,,LPT6.xlsx.bak,single,True
+1782,B1_reserved,,com8.pdf,single,True
+1783,B1_reserved,,COM5.tar.gz,single,True
+1784,B1_reserved,,COM7.pdf,single,True
+1785,B1_reserved,,COM8.xlsx.bak,single,True
+1786,B1_reserved,,LPT9.pdf,single,True
+1787,B1_reserved,,Aux.tar.gz,single,True
+1788,B1_reserved,,Com9.tar.gz,single,True
+1789,B1_reserved,,com8,single,True
+1790,B1_reserved,,LPT3,single,True
+1791,B1_reserved,,COM7,single,True
+1792,B1_reserved,,com8.xlsx.bak,single,True
+1793,B1_reserved,,COM8.xlsx.bak,single,True
+1794,B1_reserved,,COM3.tar.gz,single,True
+1795,B1_reserved,,LPT7.xlsx.bak,single,True
+1796,B1_reserved,,Lpt7.tar.gz,single,True
+1797,B1_reserved,,lpt7.xlsx.bak,single,True
+1798,B1_reserved,,COM7.xlsx.bak,single,True
+1799,B1_reserved,,LPT5,single,True
+1800,B1_reserved,,PRN,single,True
+1801,B1_reserved,,LPT6.pdf,single,True
+1802,B1_reserved,,LPT5.pdf,single,True
+1803,B1_reserved,,Lpt6.tar.gz,single,True
+1804,B1_reserved,,LPT7.xlsx.bak,single,True
+1805,B1_reserved,,LPT6.pdf,single,True
+1806,B1_reserved,,COM6.tar.gz,single,True
+1807,B1_reserved,,Lpt8.xlsx.bak,single,True
+1808,B1_reserved,,com3.tar.gz,single,True
+1809,B1_reserved,,com1.xlsx.bak,single,True
+1810,B1_reserved,,com5.tar.gz,single,True
+1811,B1_reserved,,NUL.xlsx.bak,single,True
+1812,B1_reserved,,com2,single,True
+1813,B1_reserved,,LPT2,single,True
+1814,B1_reserved,,PRN,single,True
+1815,B1_reserved,,lpt2.pdf,single,True
+1816,B1_reserved,,Com7.xlsx.bak,single,True
+1817,B1_reserved,,LPT3.tar.gz,single,True
+1818,B1_reserved,,lpt4.xlsx.bak,single,True
+1819,B1_reserved,,PRN,single,True
+1820,B1_reserved,,COM3.pdf,single,True
+1821,B1_reserved,,COM1.pdf,single,True
+1822,B1_reserved,,COM6,single,True
+1823,B1_reserved,,Aux.tar.gz,single,True
+1824,B1_reserved,,COM7.pdf,single,True
+1825,B1_reserved,,LPT9.tar.gz,single,True
+1826,B1_reserved,,Com8.tar.gz,single,True
+1827,B1_reserved,,com4.tar.gz,single,True
+1828,B1_reserved,,Lpt4.tar.gz,single,True
+1829,B1_reserved,,Com9.pdf,single,True
+1830,B1_reserved,,Lpt9.xlsx.bak,single,True
+1831,B1_reserved,,AUX.tar.gz,single,True
+1832,B1_reserved,,LPT7.pdf,single,True
+1833,B1_reserved,,Com8.tar.gz,single,True
+1834,B1_reserved,,LPT5.xlsx.bak,single,True
+1835,B1_reserved,,Lpt3.pdf,single,True
+1836,B1_reserved,,com4,single,True
+1837,B1_reserved,,Aux,single,True
+1838,B1_reserved,,Prn.xlsx.bak,single,True
+1839,B1_reserved,,com7.tar.gz,single,True
+1840,B1_reserved,,com5.pdf,single,True
+1841,B1_reserved,,Com5.tar.gz,single,True
+1842,B1_reserved,,Com2.tar.gz,single,True
+1843,B1_reserved,,LPT1.pdf,single,True
+1844,B1_reserved,,AUX.tar.gz,single,True
+1845,B1_reserved,,COM8,single,True
+1846,B1_reserved,,lpt6,single,True
+1847,B1_reserved,,lpt4.tar.gz,single,True
+1848,B1_reserved,,Com7,single,True
+1849,B1_reserved,,lpt1.tar.gz,single,True
+1850,B1_reserved,,lpt4.pdf,single,True
+1851,B1_reserved,,lpt1.tar.gz,single,True
+1852,B1_reserved,,lpt2,single,True
+1853,B1_reserved,,Com7.tar.gz,single,True
+1854,B1_reserved,,Lpt7.xlsx.bak,single,True
+1855,B1_reserved,,com2.xlsx.bak,single,True
+1856,B1_reserved,,COM3.tar.gz,single,True
+1857,B1_reserved,,NUL.pdf,single,True
+1858,B1_reserved,,Con.xlsx.bak,single,True
+1859,B1_reserved,,lpt1,single,True
+1860,B1_reserved,,Com1,single,True
+1861,B1_reserved,,Lpt9.pdf,single,True
+1862,B1_reserved,,LPT8.pdf,single,True
+1863,B1_reserved,,LPT2,single,True
+1864,B1_reserved,,com6.pdf,single,True
+1865,B1_reserved,,com9.xlsx.bak,single,True
+1866,B1_reserved,,Aux,single,True
+1867,B1_reserved,,Lpt2.tar.gz,single,True
+1868,B1_reserved,,lpt3.pdf,single,True
+1869,B1_reserved,,Com7.xlsx.bak,single,True
+1870,B1_reserved,,Lpt3,single,True
+1871,B1_reserved,,Lpt9.xlsx.bak,single,True
+1872,B1_reserved,,LPT3.xlsx.bak,single,True
+1873,B1_reserved,,LPT1.pdf,single,True
+1874,B1_reserved,,nul.tar.gz,single,True
+1875,B1_reserved,,lpt7,single,True
+1876,B1_reserved,,com2.pdf,single,True
+1877,B1_reserved,,Lpt4.xlsx.bak,single,True
+1878,B1_reserved,,Com8.xlsx.bak,single,True
+1879,B1_reserved,,Lpt8,single,True
+1880,B1_reserved,,com5.tar.gz,single,True
+1881,B1_reserved,,LPT1,single,True
+1882,B1_reserved,,Lpt6.xlsx.bak,single,True
+1883,B1_reserved,,COM8.xlsx.bak,single,True
+1884,B1_reserved,,COM5,single,True
+1885,B1_reserved,,Com8.tar.gz,single,True
+1886,B1_reserved,,com2.tar.gz,single,True
+1887,B1_reserved,,Nul.tar.gz,single,True
+1888,B1_reserved,,lpt1.pdf,single,True
+1889,B1_reserved,,Lpt5,single,True
+1890,B1_reserved,,COM2.xlsx.bak,single,True
+1891,B1_reserved,,Com2,single,True
+1892,B1_reserved,,com1.pdf,single,True
+1893,B1_reserved,,com9,single,True
+1894,B1_reserved,,lpt1.tar.gz,single,True
+1895,B1_reserved,,com3.xlsx.bak,single,True
+1896,B1_reserved,,COM1.tar.gz,single,True
+1897,B1_reserved,,LPT5.xlsx.bak,single,True
+1898,B1_reserved,,Com3,single,True
+1899,B1_reserved,,Lpt4,single,True
+1900,B1_reserved,,LPT3.xlsx.bak,single,True
+1901,B1_reserved,,COM8.tar.gz,single,True
+1902,B1_reserved,,Com8.pdf,single,True
+1903,B1_reserved,,COM1.xlsx.bak,single,True
+1904,B1_reserved,,com5.xlsx.bak,single,True
+1905,B1_reserved,,com8,single,True
+1906,B1_reserved,,COM1.tar.gz,single,True
+1907,B1_reserved,,LPT9.pdf,single,True
+1908,B1_reserved,,Lpt7.tar.gz,single,True
+1909,B1_reserved,,COM7.tar.gz,single,True
+1910,B1_reserved,,lpt6,single,True
+1911,B1_reserved,,Prn.pdf,single,True
+1912,B1_reserved,,Aux.tar.gz,single,True
+1913,B1_reserved,,com1.xlsx.bak,single,True
+1914,B1_reserved,,AUX.tar.gz,single,True
+1915,B1_reserved,,Lpt3.pdf,single,True
+1916,B1_reserved,,Com6.pdf,single,True
+1917,B1_reserved,,com2,single,True
+1918,B1_reserved,,com7.xlsx.bak,single,True
+1919,B1_reserved,,com7.xlsx.bak,single,True
+1920,B1_reserved,,LPT8.xlsx.bak,single,True
+1921,B1_reserved,,Lpt4.tar.gz,single,True
+1922,B1_reserved,,LPT3,single,True
+1923,B1_reserved,,com1.pdf,single,True
+1924,B1_reserved,,Com6.xlsx.bak,single,True
+1925,B1_reserved,,LPT6,single,True
+1926,B1_reserved,,Lpt6,single,True
+1927,B1_reserved,,com7.xlsx.bak,single,True
+1928,B1_reserved,,lpt1,single,True
+1929,B1_reserved,,Lpt3.tar.gz,single,True
+1930,B1_reserved,,COM2.tar.gz,single,True
+1931,B1_reserved,,LPT5.pdf,single,True
+1932,B1_reserved,,Lpt5.xlsx.bak,single,True
+1933,B1_reserved,,com8.pdf,single,True
+1934,B1_reserved,,Prn,single,True
+1935,B1_reserved,,LPT1,single,True
+1936,B1_reserved,,COM3.tar.gz,single,True
+1937,B1_reserved,,LPT3.pdf,single,True
+1938,B1_reserved,,Lpt3.pdf,single,True
+1939,B1_reserved,,aux.xlsx.bak,single,True
+1940,B1_reserved,,Lpt9.xlsx.bak,single,True
+1941,B1_reserved,,Aux.pdf,single,True
+1942,B1_reserved,,Lpt4.pdf,single,True
+1943,B1_reserved,,COM4.xlsx.bak,single,True
+1944,B1_reserved,,LPT2,single,True
+1945,B1_reserved,,LPT2.xlsx.bak,single,True
+1946,B1_reserved,,NUL.xlsx.bak,single,True
+1947,B1_reserved,,com7,single,True
+1948,B1_reserved,,Con.pdf,single,True
+1949,B1_reserved,,Com5,single,True
+1950,B1_reserved,,lpt5,single,True
+1951,B1_reserved,,Lpt7,single,True
+1952,B1_reserved,,lpt6.tar.gz,single,True
+1953,B1_reserved,,lpt1.tar.gz,single,True
+1954,B1_reserved,,Lpt3.pdf,single,True
+1955,B1_reserved,,LPT3.xlsx.bak,single,True
+1956,B1_reserved,,COM1.pdf,single,True
+1957,B1_reserved,,lpt9.xlsx.bak,single,True
+1958,B1_reserved,,Lpt2,single,True
+1959,B1_reserved,,COM4.pdf,single,True
+1960,B1_reserved,,lpt2.tar.gz,single,True
+1961,B1_reserved,,LPT1.pdf,single,True
+1962,B1_reserved,,con,single,True
+1963,B1_reserved,,Lpt1.pdf,single,True
+1964,B1_reserved,,Com5.pdf,single,True
+1965,B1_reserved,,Con.tar.gz,single,True
+1966,B1_reserved,,Lpt1,single,True
+1967,B1_reserved,,COM7.xlsx.bak,single,True
+1968,B1_reserved,,lpt1.xlsx.bak,single,True
+1969,B1_reserved,,lpt6.pdf,single,True
+1970,B1_reserved,,Lpt4.xlsx.bak,single,True
+1971,B1_reserved,,COM4.pdf,single,True
+1972,B1_reserved,,nul.pdf,single,True
+1973,B1_reserved,,com3.pdf,single,True
+1974,B1_reserved,,aux.tar.gz,single,True
+1975,B1_reserved,,Com7.xlsx.bak,single,True
+1976,B1_reserved,,Lpt6.pdf,single,True
+1977,B1_reserved,,Com7.tar.gz,single,True
+1978,B1_reserved,,Nul,single,True
+1979,B1_reserved,,LPT9.tar.gz,single,True
+1980,B1_reserved,,lpt9.pdf,single,True
+1981,B1_reserved,,lpt8.xlsx.bak,single,True
+1982,B1_reserved,,Com8.tar.gz,single,True
+1983,B1_reserved,,Com3.xlsx.bak,single,True
+1984,B1_reserved,,Lpt9.pdf,single,True
+1985,B1_reserved,,COM1.xlsx.bak,single,True
+1986,B1_reserved,,con.pdf,single,True
+1987,B1_reserved,,con.tar.gz,single,True
+1988,B1_reserved,,Lpt6.xlsx.bak,single,True
+1989,B1_reserved,,COM4.xlsx.bak,single,True
+1990,B1_reserved,,lpt8.tar.gz,single,True
+1991,B1_reserved,,lpt7.tar.gz,single,True
+1992,B1_reserved,,Com1.xlsx.bak,single,True
+1993,B1_reserved,,Lpt6.xlsx.bak,single,True
+1994,B1_reserved,,LPT3,single,True
+1995,B1_reserved,,Com3.tar.gz,single,True
+1996,B1_reserved,,LPT6,single,True
+1997,B1_reserved,,Lpt5.tar.gz,single,True
+1998,B1_reserved,,Nul.pdf,single,True
+1999,B1_reserved,,COM9.tar.gz,single,True
+2000,B1n_reserved_nearmiss,,Combo_782.dat,single,False
+2001,B1n_reserved_nearmiss,,Combo_459.dat,single,False
+2002,B1n_reserved_nearmiss,,NULLPTR_576.dat,single,False
+2003,B1n_reserved_nearmiss,,LPT10_837.dat,single,False
+2004,B1n_reserved_nearmiss,,auxiliary_290.dat,single,False
+2005,B1n_reserved_nearmiss,,com99_147.dat,single,False
+2006,B1n_reserved_nearmiss,,Combo_905.dat,single,False
+2007,B1n_reserved_nearmiss,,CONFIG_612.dat,single,False
+2008,B1n_reserved_nearmiss,,nullptr_54.dat,single,False
+2009,B1n_reserved_nearmiss,,com99_613.dat,single,False
+2010,B1n_reserved_nearmiss,,AUXILIARY_635.dat,single,False
+2011,B1n_reserved_nearmiss,,command_227.dat,single,False
+2012,B1n_reserved_nearmiss,,auxiliary_141.dat,single,False
+2013,B1n_reserved_nearmiss,,com99_615.dat,single,False
+2014,B1n_reserved_nearmiss,,com99_943.dat,single,False
+2015,B1n_reserved_nearmiss,,Com99_274.dat,single,False
+2016,B1n_reserved_nearmiss,,LPT10_319.dat,single,False
+2017,B1n_reserved_nearmiss,,config_690.dat,single,False
+2018,B1n_reserved_nearmiss,,COMBO_335.dat,single,False
+2019,B1n_reserved_nearmiss,,Com99_879.dat,single,False
+2020,B1n_reserved_nearmiss,,Config_320.dat,single,False
+2021,B1n_reserved_nearmiss,,config_728.dat,single,False
+2022,B1n_reserved_nearmiss,,AUXILIARY_821.dat,single,False
+2023,B1n_reserved_nearmiss,,AUXILIARY_698.dat,single,False
+2024,B1n_reserved_nearmiss,,nullptr_422.dat,single,False
+2025,B1n_reserved_nearmiss,,LPT10_714.dat,single,False
+2026,B1n_reserved_nearmiss,,LPT10_943.dat,single,False
+2027,B1n_reserved_nearmiss,,LPT10_555.dat,single,False
+2028,B1n_reserved_nearmiss,,Com99_382.dat,single,False
+2029,B1n_reserved_nearmiss,,config_194.dat,single,False
+2030,B1n_reserved_nearmiss,,lpt10_893.dat,single,False
+2031,B1n_reserved_nearmiss,,NULLPTR_497.dat,single,False
+2032,B1n_reserved_nearmiss,,CONFIG_181.dat,single,False
+2033,B1n_reserved_nearmiss,,Auxiliary_223.dat,single,False
+2034,B1n_reserved_nearmiss,,com99_451.dat,single,False
+2035,B1n_reserved_nearmiss,,NULLPTR_719.dat,single,False
+2036,B1n_reserved_nearmiss,,CONFIG_470.dat,single,False
+2037,B1n_reserved_nearmiss,,AUXILIARY_91.dat,single,False
+2038,B1n_reserved_nearmiss,,NULLPTR_893.dat,single,False
+2039,B1n_reserved_nearmiss,,COMMAND_880.dat,single,False
+2040,B1n_reserved_nearmiss,,LPT10_480.dat,single,False
+2041,B1n_reserved_nearmiss,,Combo_925.dat,single,False
+2042,B1n_reserved_nearmiss,,combo_443.dat,single,False
+2043,B1n_reserved_nearmiss,,COMBO_470.dat,single,False
+2044,B1n_reserved_nearmiss,,Nullptr_48.dat,single,False
+2045,B1n_reserved_nearmiss,,Lpt10_516.dat,single,False
+2046,B1n_reserved_nearmiss,,Auxiliary_136.dat,single,False
+2047,B1n_reserved_nearmiss,,COM99_467.dat,single,False
+2048,B1n_reserved_nearmiss,,auxiliary_958.dat,single,False
+2049,B1n_reserved_nearmiss,,Combo_938.dat,single,False
+2050,B1n_reserved_nearmiss,,combo_872.dat,single,False
+2051,B1n_reserved_nearmiss,,Com99_439.dat,single,False
+2052,B1n_reserved_nearmiss,,Nullptr_932.dat,single,False
+2053,B1n_reserved_nearmiss,,AUXILIARY_50.dat,single,False
+2054,B1n_reserved_nearmiss,,NULLPTR_587.dat,single,False
+2055,B1n_reserved_nearmiss,,LPT10_151.dat,single,False
+2056,B1n_reserved_nearmiss,,combo_235.dat,single,False
+2057,B1n_reserved_nearmiss,,CONFIG_801.dat,single,False
+2058,B1n_reserved_nearmiss,,config_450.dat,single,False
+2059,B1n_reserved_nearmiss,,Lpt10_819.dat,single,False
+2060,B1n_reserved_nearmiss,,Config_10.dat,single,False
+2061,B1n_reserved_nearmiss,,AUXILIARY_992.dat,single,False
+2062,B1n_reserved_nearmiss,,LPT10_321.dat,single,False
+2063,B1n_reserved_nearmiss,,Auxiliary_3.dat,single,False
+2064,B1n_reserved_nearmiss,,nullptr_347.dat,single,False
+2065,B1n_reserved_nearmiss,,lpt10_852.dat,single,False
+2066,B1n_reserved_nearmiss,,AUXILIARY_738.dat,single,False
+2067,B1n_reserved_nearmiss,,lpt10_501.dat,single,False
+2068,B1n_reserved_nearmiss,,COMBO_611.dat,single,False
+2069,B1n_reserved_nearmiss,,command_391.dat,single,False
+2070,B1n_reserved_nearmiss,,Combo_207.dat,single,False
+2071,B1n_reserved_nearmiss,,Config_173.dat,single,False
+2072,B1n_reserved_nearmiss,,COM99_68.dat,single,False
+2073,B1n_reserved_nearmiss,,AUXILIARY_28.dat,single,False
+2074,B1n_reserved_nearmiss,,NULLPTR_622.dat,single,False
+2075,B1n_reserved_nearmiss,,CONFIG_2.dat,single,False
+2076,B1n_reserved_nearmiss,,nullptr_196.dat,single,False
+2077,B1n_reserved_nearmiss,,COMBO_676.dat,single,False
+2078,B1n_reserved_nearmiss,,Command_509.dat,single,False
+2079,B1n_reserved_nearmiss,,LPT10_215.dat,single,False
+2080,B1n_reserved_nearmiss,,lpt10_660.dat,single,False
+2081,B1n_reserved_nearmiss,,Auxiliary_399.dat,single,False
+2082,B1n_reserved_nearmiss,,COMMAND_523.dat,single,False
+2083,B1n_reserved_nearmiss,,config_255.dat,single,False
+2084,B1n_reserved_nearmiss,,Combo_193.dat,single,False
+2085,B1n_reserved_nearmiss,,NULLPTR_805.dat,single,False
+2086,B1n_reserved_nearmiss,,lpt10_54.dat,single,False
+2087,B1n_reserved_nearmiss,,nullptr_125.dat,single,False
+2088,B1n_reserved_nearmiss,,auxiliary_508.dat,single,False
+2089,B1n_reserved_nearmiss,,Auxiliary_967.dat,single,False
+2090,B1n_reserved_nearmiss,,Lpt10_832.dat,single,False
+2091,B1n_reserved_nearmiss,,command_332.dat,single,False
+2092,B1n_reserved_nearmiss,,Lpt10_975.dat,single,False
+2093,B1n_reserved_nearmiss,,AUXILIARY_3.dat,single,False
+2094,B1n_reserved_nearmiss,,COMMAND_496.dat,single,False
+2095,B1n_reserved_nearmiss,,Com99_304.dat,single,False
+2096,B1n_reserved_nearmiss,,COMMAND_111.dat,single,False
+2097,B1n_reserved_nearmiss,,Combo_400.dat,single,False
+2098,B1n_reserved_nearmiss,,Config_818.dat,single,False
+2099,B1n_reserved_nearmiss,,com99_76.dat,single,False
+2100,B2_trailing,,納品明細_843.pdf. ,single,True
+2101,B2_trailing,,Draft_945.pdf .,single,True
+2102,B2_trailing,,検査記録_618.pdf. ,single,True
+2103,B2_trailing,,Draft_324.pdf .,single,True
+2104,B2_trailing,,議事メモ_939.pdf. ,single,True
+2105,B2_trailing,,検査記録_305.pdf..,single,True
+2106,B2_trailing,,検査記録_652.pdf..,single,True
+2107,B2_trailing,,決裁書_167.pdf .,single,True
+2108,B2_trailing,,決裁書_83.pdf. ,single,True
+2109,B2_trailing,,納品明細_191.pdf..,single,True
+2110,B2_trailing,,検査記録_456.pdf  ,single,True
+2111,B2_trailing,,検査記録_819.pdf. ,single,True
+2112,B2_trailing,,Invoice_466.pdf. ,single,True
+2113,B2_trailing,,Photo_39.pdf .,single,True
+2114,B2_trailing,,決裁書_834.pdf .,single,True
+2115,B2_trailing,,Invoice_642.pdf  ,single,True
+2116,B2_trailing,,Draft_806.pdf..,single,True
+2117,B2_trailing,,検査記録_66.pdf..,single,True
+2118,B2_trailing,,Photo_356.pdf .,single,True
+2119,B2_trailing,,決裁書_457.pdf .,single,True
+2120,B2_trailing,,Invoice_329.pdf. ,single,True
+2121,B2_trailing,,検査記録_859.pdf. ,single,True
+2122,B2_trailing,,決裁書_57.pdf  ,single,True
+2123,B2_trailing,,議事メモ_938.pdf. ,single,True
+2124,B2_trailing,,議事メモ_945.pdf. ,single,True
+2125,B2_trailing,,議事メモ_788.pdf .,single,True
+2126,B2_trailing,,Invoice_602.pdf .,single,True
+2127,B2_trailing,,Invoice_24.pdf..,single,True
+2128,B2_trailing,,決裁書_499.pdf  ,single,True
+2129,B2_trailing,,議事メモ_672.pdf..,single,True
+2130,B2_trailing,,納品明細_978.pdf .,single,True
+2131,B2_trailing,,Draft_635.pdf..,single,True
+2132,B2_trailing,,議事メモ_619.pdf. ,single,True
+2133,B2_trailing,,Draft_239.pdf..,single,True
+2134,B2_trailing,,議事メモ_25.pdf. ,single,True
+2135,B2_trailing,,Invoice_360.pdf. ,single,True
+2136,B2_trailing,,議事メモ_641.pdf. ,single,True
+2137,B2_trailing,,Draft_707.pdf. ,single,True
+2138,B2_trailing,,Invoice_292.pdf .,single,True
+2139,B2_trailing,,Invoice_591.pdf..,single,True
+2140,B2_trailing,,決裁書_735.pdf..,single,True
+2141,B2_trailing,,検査記録_576.pdf  ,single,True
+2142,B2_trailing,,決裁書_30.pdf .,single,True
+2143,B2_trailing,,検査記録_904.pdf..,single,True
+2144,B2_trailing,,Invoice_871.pdf..,single,True
+2145,B2_trailing,,Photo_479.pdf. ,single,True
+2146,B2_trailing,,Draft_140.pdf  ,single,True
+2147,B2_trailing,,決裁書_701.pdf..,single,True
+2148,B2_trailing,,Photo_363.pdf. ,single,True
+2149,B2_trailing,,検査記録_620.pdf..,single,True
+2150,B2_trailing,,議事メモ_252.pdf .,single,True
+2151,B2_trailing,,Invoice_375.pdf .,single,True
+2152,B2_trailing,,検査記録_837.pdf  ,single,True
+2153,B2_trailing,,議事メモ_241.pdf .,single,True
+2154,B2_trailing,,Invoice_445.pdf..,single,True
+2155,B2_trailing,,議事メモ_548.pdf..,single,True
+2156,B2_trailing,,Draft_117.pdf..,single,True
+2157,B2_trailing,,議事メモ_40.pdf  ,single,True
+2158,B2_trailing,,検査記録_939.pdf..,single,True
+2159,B2_trailing,,検査記録_362.pdf. ,single,True
+2160,B2_trailing,,検査記録_241.pdf .,single,True
+2161,B2_trailing,,検査記録_572.pdf..,single,True
+2162,B2_trailing,,決裁書_984.pdf..,single,True
+2163,B2_trailing,,Photo_310.pdf. ,single,True
+2164,B2_trailing,,Draft_690.pdf..,single,True
+2165,B2_trailing,,Draft_725.pdf..,single,True
+2166,B2_trailing,,Photo_728.pdf  ,single,True
+2167,B2_trailing,,Draft_842.pdf..,single,True
+2168,B2_trailing,,決裁書_356.pdf .,single,True
+2169,B2_trailing,,議事メモ_525.pdf. ,single,True
+2170,B2_trailing,,Invoice_110.pdf..,single,True
+2171,B2_trailing,,納品明細_562.pdf..,single,True
+2172,B2_trailing,,決裁書_652.pdf  ,single,True
+2173,B2_trailing,,Invoice_875.pdf. ,single,True
+2174,B2_trailing,,決裁書_673.pdf..,single,True
+2175,B2_trailing,,Invoice_854.pdf..,single,True
+2176,B2_trailing,,Photo_709.pdf .,single,True
+2177,B2_trailing,,検査記録_23.pdf .,single,True
+2178,B2_trailing,,議事メモ_182.pdf. ,single,True
+2179,B2_trailing,,Invoice_202.pdf .,single,True
+2180,B2_trailing,,検査記録_573.pdf..,single,True
+2181,B2_trailing,,Invoice_305.pdf  ,single,True
+2182,B2_trailing,,Draft_916.pdf  ,single,True
+2183,B2_trailing,,Draft_673.pdf..,single,True
+2184,B2_trailing,,Photo_54.pdf. ,single,True
+2185,B2_trailing,,Invoice_332.pdf  ,single,True
+2186,B2_trailing,,検査記録_184.pdf  ,single,True
+2187,B2_trailing,,Photo_636.pdf. ,single,True
+2188,B2_trailing,,納品明細_854.pdf  ,single,True
+2189,B2_trailing,,Invoice_471.pdf  ,single,True
+2190,B2_trailing,,検査記録_717.pdf. ,single,True
+2191,B2_trailing,,Invoice_557.pdf..,single,True
+2192,B2_trailing,,Photo_187.pdf. ,single,True
+2193,B2_trailing,,納品明細_748.pdf..,single,True
+2194,B2_trailing,,Photo_868.pdf .,single,True
+2195,B2_trailing,,納品明細_609.pdf..,single,True
+2196,B2_trailing,,検査記録_263.pdf..,single,True
+2197,B2_trailing,,Photo_245.pdf .,single,True
+2198,B2_trailing,,議事メモ_132.pdf. ,single,True
+2199,B2_trailing,,Invoice_60.pdf .,single,True
+2200,B2_trailing,,Invoice_247.pdf. ,single,True
+2201,B2_trailing,,納品明細_5.pdf .,single,True
+2202,B2_trailing,,議事メモ_419.pdf  ,single,True
+2203,B2_trailing,,検査記録_65.pdf. ,single,True
+2204,B2_trailing,,Draft_937.pdf .,single,True
+2205,B2_trailing,,Invoice_205.pdf..,single,True
+2206,B2_trailing,,決裁書_989.pdf..,single,True
+2207,B2_trailing,,Invoice_469.pdf..,single,True
+2208,B2_trailing,,納品明細_296.pdf. ,single,True
+2209,B2_trailing,,議事メモ_414.pdf  ,single,True
+2210,B2_trailing,,決裁書_460.pdf. ,single,True
+2211,B2_trailing,,決裁書_371.pdf .,single,True
+2212,B2_trailing,,Draft_980.pdf..,single,True
+2213,B2_trailing,,決裁書_172.pdf..,single,True
+2214,B2_trailing,,納品明細_876.pdf .,single,True
+2215,B2_trailing,,決裁書_369.pdf. ,single,True
+2216,B2_trailing,,決裁書_953.pdf. ,single,True
+2217,B2_trailing,,納品明細_118.pdf  ,single,True
+2218,B2_trailing,,議事メモ_202.pdf  ,single,True
+2219,B2_trailing,,Photo_352.pdf  ,single,True
+2220,B2_trailing,,検査記録_723.pdf  ,single,True
+2221,B2_trailing,,決裁書_738.pdf..,single,True
+2222,B2_trailing,,Photo_678.pdf .,single,True
+2223,B2_trailing,,決裁書_3.pdf. ,single,True
+2224,B2_trailing,,検査記録_487.pdf. ,single,True
+2225,B2_trailing,,検査記録_212.pdf  ,single,True
+2226,B2_trailing,,納品明細_721.pdf..,single,True
+2227,B2_trailing,,決裁書_931.pdf .,single,True
+2228,B2_trailing,,Invoice_649.pdf  ,single,True
+2229,B2_trailing,,議事メモ_679.pdf. ,single,True
+2230,B2_trailing,,決裁書_893.pdf  ,single,True
+2231,B2_trailing,,Draft_957.pdf..,single,True
+2232,B2_trailing,,納品明細_742.pdf..,single,True
+2233,B2_trailing,,Photo_626.pdf..,single,True
+2234,B2_trailing,,議事メモ_445.pdf. ,single,True
+2235,B2_trailing,,Invoice_140.pdf  ,single,True
+2236,B2_trailing,,検査記録_139.pdf .,single,True
+2237,B2_trailing,,Draft_425.pdf. ,single,True
+2238,B2_trailing,,検査記録_434.pdf .,single,True
+2239,B2_trailing,,決裁書_438.pdf .,single,True
+2240,B2_trailing,,議事メモ_267.pdf..,single,True
+2241,B2_trailing,,納品明細_254.pdf  ,single,True
+2242,B2_trailing,,Draft_973.pdf..,single,True
+2243,B2_trailing,,Invoice_713.pdf  ,single,True
+2244,B2_trailing,,納品明細_959.pdf. ,single,True
+2245,B2_trailing,,Invoice_637.pdf  ,single,True
+2246,B2_trailing,,Invoice_111.pdf  ,single,True
+2247,B2_trailing,,納品明細_855.pdf. ,single,True
+2248,B2_trailing,,Photo_228.pdf  ,single,True
+2249,B2_trailing,,決裁書_278.pdf..,single,True
+2250,B2_trailing,,納品明細_148.pdf..,single,True
+2251,B2_trailing,,Draft_504.pdf  ,single,True
+2252,B2_trailing,,決裁書_91.pdf..,single,True
+2253,B2_trailing,,Invoice_220.pdf  ,single,True
+2254,B2_trailing,,納品明細_653.pdf  ,single,True
+2255,B2_trailing,,議事メモ_58.pdf. ,single,True
+2256,B2_trailing,,議事メモ_785.pdf .,single,True
+2257,B2_trailing,,検査記録_28.pdf .,single,True
+2258,B2_trailing,,Invoice_828.pdf .,single,True
+2259,B2_trailing,,検査記録_110.pdf  ,single,True
+2260,B2_trailing,,納品明細_108.pdf. ,single,True
+2261,B2_trailing,,決裁書_507.pdf..,single,True
+2262,B2_trailing,,決裁書_245.pdf..,single,True
+2263,B2_trailing,,Draft_248.pdf  ,single,True
+2264,B2_trailing,,Draft_623.pdf .,single,True
+2265,B2_trailing,,決裁書_437.pdf..,single,True
+2266,B2_trailing,,議事メモ_705.pdf .,single,True
+2267,B2_trailing,,納品明細_948.pdf. ,single,True
+2268,B2_trailing,,Photo_322.pdf. ,single,True
+2269,B2_trailing,,検査記録_4.pdf .,single,True
+2270,B2_trailing,,納品明細_24.pdf  ,single,True
+2271,B2_trailing,,Photo_164.pdf  ,single,True
+2272,B2_trailing,,Draft_863.pdf  ,single,True
+2273,B2_trailing,,Photo_692.pdf. ,single,True
+2274,B2_trailing,,納品明細_843.pdf .,single,True
+2275,B2_trailing,,Invoice_734.pdf  ,single,True
+2276,B2_trailing,,Photo_789.pdf..,single,True
+2277,B2_trailing,,Invoice_330.pdf  ,single,True
+2278,B2_trailing,,Invoice_156.pdf. ,single,True
+2279,B2_trailing,,Invoice_609.pdf..,single,True
+2280,B2_trailing,,Draft_477.pdf. ,single,True
+2281,B2_trailing,,Photo_484.pdf..,single,True
+2282,B2_trailing,,Draft_315.pdf .,single,True
+2283,B2_trailing,,Invoice_606.pdf  ,single,True
+2284,B2_trailing,,議事メモ_290.pdf. ,single,True
+2285,B2_trailing,,納品明細_971.pdf  ,single,True
+2286,B2_trailing,,Photo_591.pdf .,single,True
+2287,B2_trailing,,Photo_847.pdf .,single,True
+2288,B2_trailing,,検査記録_602.pdf..,single,True
+2289,B2_trailing,,納品明細_276.pdf. ,single,True
+2290,B2_trailing,,検査記録_603.pdf..,single,True
+2291,B2_trailing,,Draft_200.pdf .,single,True
+2292,B2_trailing,,議事メモ_706.pdf..,single,True
+2293,B2_trailing,,Photo_31.pdf .,single,True
+2294,B2_trailing,,議事メモ_621.pdf. ,single,True
+2295,B2_trailing,,Draft_634.pdf .,single,True
+2296,B2_trailing,,Draft_159.pdf  ,single,True
+2297,B2_trailing,,議事メモ_892.pdf  ,single,True
+2298,B2_trailing,,議事メモ_746.pdf..,single,True
+2299,B2_trailing,,Draft_164.pdf  ,single,True
+2300,B2_trailing,,納品明細_266.pdf .,single,True
+2301,B2_trailing,,検査記録_929.pdf .,single,True
+2302,B2_trailing,,Photo_748.pdf  ,single,True
+2303,B2_trailing,,Draft_690.pdf  ,single,True
+2304,B2_trailing,,Invoice_588.pdf..,single,True
+2305,B2_trailing,,Photo_689.pdf  ,single,True
+2306,B2_trailing,,議事メモ_129.pdf. ,single,True
+2307,B2_trailing,,納品明細_503.pdf..,single,True
+2308,B2_trailing,,議事メモ_366.pdf  ,single,True
+2309,B2_trailing,,Draft_704.pdf..,single,True
+2310,B2_trailing,,議事メモ_477.pdf  ,single,True
+2311,B2_trailing,,納品明細_431.pdf. ,single,True
+2312,B2_trailing,,Photo_3.pdf .,single,True
+2313,B2_trailing,,決裁書_177.pdf  ,single,True
+2314,B2_trailing,,Invoice_594.pdf. ,single,True
+2315,B2_trailing,,納品明細_338.pdf .,single,True
+2316,B2_trailing,,検査記録_946.pdf .,single,True
+2317,B2_trailing,,納品明細_832.pdf .,single,True
+2318,B2_trailing,,Draft_646.pdf  ,single,True
+2319,B2_trailing,,納品明細_557.pdf .,single,True
+2320,B2_trailing,,検査記録_278.pdf. ,single,True
+2321,B2_trailing,,納品明細_927.pdf. ,single,True
+2322,B2_trailing,,Draft_151.pdf  ,single,True
+2323,B2_trailing,,納品明細_464.pdf .,single,True
+2324,B2_trailing,,Photo_795.pdf .,single,True
+2325,B2_trailing,,Photo_56.pdf..,single,True
+2326,B2_trailing,,Invoice_157.pdf..,single,True
+2327,B2_trailing,,Photo_261.pdf .,single,True
+2328,B2_trailing,,Photo_37.pdf. ,single,True
+2329,B2_trailing,,検査記録_409.pdf .,single,True
+2330,B2_trailing,,Draft_43.pdf  ,single,True
+2331,B2_trailing,,Invoice_372.pdf..,single,True
+2332,B2_trailing,,Invoice_639.pdf. ,single,True
+2333,B2_trailing,,検査記録_124.pdf. ,single,True
+2334,B2_trailing,,Photo_445.pdf  ,single,True
+2335,B2_trailing,,議事メモ_859.pdf. ,single,True
+2336,B2_trailing,,決裁書_395.pdf..,single,True
+2337,B2_trailing,,決裁書_98.pdf  ,single,True
+2338,B2_trailing,,Draft_714.pdf .,single,True
+2339,B2_trailing,,Photo_2.pdf. ,single,True
+2340,B2_trailing,,Draft_557.pdf .,single,True
+2341,B2_trailing,,Photo_270.pdf  ,single,True
+2342,B2_trailing,,検査記録_707.pdf. ,single,True
+2343,B2_trailing,,Photo_605.pdf  ,single,True
+2344,B2_trailing,,決裁書_708.pdf .,single,True
+2345,B2_trailing,,検査記録_888.pdf  ,single,True
+2346,B2_trailing,,決裁書_431.pdf. ,single,True
+2347,B2_trailing,,Photo_386.pdf. ,single,True
+2348,B2_trailing,,決裁書_808.pdf .,single,True
+2349,B2_trailing,,議事メモ_182.pdf .,single,True
+2350,B2_trailing,,納品明細_391.pdf..,single,True
+2351,B2_trailing,,検査記録_387.pdf  ,single,True
+2352,B2_trailing,,納品明細_747.pdf. ,single,True
+2353,B2_trailing,,議事メモ_762.pdf  ,single,True
+2354,B2_trailing,,決裁書_996.pdf. ,single,True
+2355,B2_trailing,,Photo_417.pdf. ,single,True
+2356,B2_trailing,,Invoice_294.pdf..,single,True
+2357,B2_trailing,,Draft_973.pdf. ,single,True
+2358,B2_trailing,,納品明細_553.pdf .,single,True
+2359,B2_trailing,,検査記録_126.pdf. ,single,True
+2360,B2_trailing,,Photo_157.pdf  ,single,True
+2361,B2_trailing,,Draft_602.pdf .,single,True
+2362,B2_trailing,,納品明細_239.pdf. ,single,True
+2363,B2_trailing,,決裁書_115.pdf. ,single,True
+2364,B2_trailing,,議事メモ_449.pdf..,single,True
+2365,B2_trailing,,Draft_974.pdf  ,single,True
+2366,B2_trailing,,納品明細_569.pdf..,single,True
+2367,B2_trailing,,Draft_203.pdf. ,single,True
+2368,B2_trailing,,Photo_199.pdf..,single,True
+2369,B2_trailing,,納品明細_675.pdf .,single,True
+2370,B2_trailing,,Photo_658.pdf. ,single,True
+2371,B2_trailing,,Photo_700.pdf  ,single,True
+2372,B2_trailing,,納品明細_870.pdf. ,single,True
+2373,B2_trailing,,決裁書_867.pdf  ,single,True
+2374,B2_trailing,,議事メモ_864.pdf .,single,True
+2375,B2_trailing,,Invoice_632.pdf  ,single,True
+2376,B2_trailing,,決裁書_20.pdf  ,single,True
+2377,B2_trailing,,決裁書_508.pdf. ,single,True
+2378,B2_trailing,,決裁書_64.pdf..,single,True
+2379,B2_trailing,,決裁書_179.pdf  ,single,True
+2380,B2_trailing,,Invoice_303.pdf  ,single,True
+2381,B2_trailing,,議事メモ_985.pdf .,single,True
+2382,B2_trailing,,Photo_1.pdf .,single,True
+2383,B2_trailing,,Invoice_817.pdf..,single,True
+2384,B2_trailing,,納品明細_260.pdf..,single,True
+2385,B2_trailing,,Photo_508.pdf..,single,True
+2386,B2_trailing,,議事メモ_115.pdf. ,single,True
+2387,B2_trailing,,納品明細_721.pdf..,single,True
+2388,B2_trailing,,検査記録_447.pdf .,single,True
+2389,B2_trailing,,Draft_925.pdf .,single,True
+2390,B2_trailing,,Draft_935.pdf. ,single,True
+2391,B2_trailing,,議事メモ_56.pdf..,single,True
+2392,B2_trailing,,納品明細_455.pdf. ,single,True
+2393,B2_trailing,,検査記録_247.pdf .,single,True
+2394,B2_trailing,,検査記録_826.pdf. ,single,True
+2395,B2_trailing,,検査記録_853.pdf .,single,True
+2396,B2_trailing,,Photo_935.pdf. ,single,True
+2397,B2_trailing,,Invoice_979.pdf..,single,True
+2398,B2_trailing,,検査記録_863.pdf .,single,True
+2399,B2_trailing,,Invoice_757.pdf. ,single,True
+2400,B2_trailing,,議事メモ_599.pdf..,single,True
+2401,B2_trailing,,Invoice_864.pdf. ,single,True
+2402,B2_trailing,,納品明細_603.pdf .,single,True
+2403,B2_trailing,,Invoice_115.pdf..,single,True
+2404,B2_trailing,,決裁書_376.pdf. ,single,True
+2405,B2_trailing,,納品明細_741.pdf .,single,True
+2406,B2_trailing,,議事メモ_741.pdf..,single,True
+2407,B2_trailing,,検査記録_661.pdf..,single,True
+2408,B2_trailing,,決裁書_860.pdf..,single,True
+2409,B2_trailing,,納品明細_225.pdf..,single,True
+2410,B2_trailing,,Photo_458.pdf  ,single,True
+2411,B2_trailing,,検査記録_712.pdf  ,single,True
+2412,B2_trailing,,決裁書_222.pdf. ,single,True
+2413,B2_trailing,,Draft_773.pdf  ,single,True
+2414,B2_trailing,,決裁書_92.pdf  ,single,True
+2415,B2_trailing,,納品明細_361.pdf .,single,True
+2416,B2_trailing,,納品明細_652.pdf  ,single,True
+2417,B2_trailing,,検査記録_182.pdf..,single,True
+2418,B2_trailing,,Photo_177.pdf  ,single,True
+2419,B2_trailing,,Photo_990.pdf  ,single,True
+2420,B2_trailing,,Invoice_371.pdf. ,single,True
+2421,B2_trailing,,Draft_375.pdf..,single,True
+2422,B2_trailing,,Draft_954.pdf .,single,True
+2423,B2_trailing,,議事メモ_603.pdf. ,single,True
+2424,B2_trailing,,Photo_634.pdf .,single,True
+2425,B2_trailing,,議事メモ_503.pdf .,single,True
+2426,B2_trailing,,決裁書_879.pdf. ,single,True
+2427,B2_trailing,,Photo_385.pdf  ,single,True
+2428,B2_trailing,,決裁書_610.pdf. ,single,True
+2429,B2_trailing,,検査記録_541.pdf. ,single,True
+2430,B2_trailing,,Invoice_935.pdf .,single,True
+2431,B2_trailing,,議事メモ_823.pdf..,single,True
+2432,B2_trailing,,Draft_517.pdf. ,single,True
+2433,B2_trailing,,Photo_471.pdf  ,single,True
+2434,B2_trailing,,納品明細_64.pdf..,single,True
+2435,B2_trailing,,議事メモ_620.pdf .,single,True
+2436,B2_trailing,,Photo_861.pdf  ,single,True
+2437,B2_trailing,,Invoice_72.pdf..,single,True
+2438,B2_trailing,,Invoice_549.pdf .,single,True
+2439,B2_trailing,,議事メモ_842.pdf..,single,True
+2440,B2_trailing,,決裁書_910.pdf .,single,True
+2441,B2_trailing,,Invoice_492.pdf .,single,True
+2442,B2_trailing,,納品明細_152.pdf. ,single,True
+2443,B2_trailing,,納品明細_190.pdf .,single,True
+2444,B2_trailing,,議事メモ_432.pdf .,single,True
+2445,B2_trailing,,決裁書_365.pdf  ,single,True
+2446,B2_trailing,,Draft_750.pdf  ,single,True
+2447,B2_trailing,,議事メモ_886.pdf..,single,True
+2448,B2_trailing,,Photo_760.pdf .,single,True
+2449,B2_trailing,,決裁書_288.pdf..,single,True
+2450,B2_trailing,,Invoice_714.pdf..,single,True
+2451,B2_trailing,,Photo_433.pdf. ,single,True
+2452,B2_trailing,,議事メモ_772.pdf .,single,True
+2453,B2_trailing,,Invoice_842.pdf..,single,True
+2454,B2_trailing,,検査記録_379.pdf. ,single,True
+2455,B2_trailing,,検査記録_84.pdf  ,single,True
+2456,B2_trailing,,決裁書_769.pdf .,single,True
+2457,B2_trailing,,Draft_755.pdf .,single,True
+2458,B2_trailing,,Photo_646.pdf .,single,True
+2459,B2_trailing,,Invoice_743.pdf  ,single,True
+2460,B2_trailing,,Draft_699.pdf..,single,True
+2461,B2_trailing,,納品明細_592.pdf  ,single,True
+2462,B2_trailing,,Invoice_158.pdf. ,single,True
+2463,B2_trailing,,決裁書_389.pdf .,single,True
+2464,B2_trailing,,Invoice_642.pdf. ,single,True
+2465,B2_trailing,,Draft_139.pdf..,single,True
+2466,B2_trailing,,Invoice_818.pdf  ,single,True
+2467,B2_trailing,,検査記録_222.pdf  ,single,True
+2468,B2_trailing,,Photo_431.pdf  ,single,True
+2469,B2_trailing,,Draft_865.pdf. ,single,True
+2470,B2_trailing,,検査記録_869.pdf. ,single,True
+2471,B2_trailing,,決裁書_171.pdf. ,single,True
+2472,B2_trailing,,検査記録_400.pdf. ,single,True
+2473,B2_trailing,,Invoice_25.pdf  ,single,True
+2474,B2_trailing,,納品明細_342.pdf  ,single,True
+2475,B2_trailing,,議事メモ_289.pdf. ,single,True
+2476,B2_trailing,,検査記録_328.pdf..,single,True
+2477,B2_trailing,,Invoice_490.pdf. ,single,True
+2478,B2_trailing,,納品明細_850.pdf. ,single,True
+2479,B2_trailing,,議事メモ_349.pdf .,single,True
+2480,B2_trailing,,Draft_211.pdf. ,single,True
+2481,B2_trailing,,納品明細_122.pdf .,single,True
+2482,B2_trailing,,決裁書_46.pdf..,single,True
+2483,B2_trailing,,検査記録_264.pdf  ,single,True
+2484,B2_trailing,,納品明細_32.pdf .,single,True
+2485,B2_trailing,,Invoice_854.pdf. ,single,True
+2486,B2_trailing,,議事メモ_434.pdf..,single,True
+2487,B2_trailing,,納品明細_69.pdf..,single,True
+2488,B2_trailing,,決裁書_533.pdf  ,single,True
+2489,B2_trailing,,決裁書_961.pdf..,single,True
+2490,B2_trailing,,決裁書_509.pdf..,single,True
+2491,B2_trailing,,Draft_347.pdf..,single,True
+2492,B2_trailing,,Draft_395.pdf .,single,True
+2493,B2_trailing,,検査記録_590.pdf..,single,True
+2494,B2_trailing,,決裁書_212.pdf..,single,True
+2495,B2_trailing,,決裁書_168.pdf..,single,True
+2496,B2_trailing,,Draft_124.pdf  ,single,True
+2497,B2_trailing,,検査記録_791.pdf .,single,True
+2498,B2_trailing,,Invoice_591.pdf..,single,True
+2499,B2_trailing,,検査記録_698.pdf  ,single,True
+2500,B2_trailing,,決裁書_870.pdf .,single,True
+2501,B2_trailing,,議事メモ_80.pdf  ,single,True
+2502,B2_trailing,,検査記録_291.pdf. ,single,True
+2503,B2_trailing,,議事メモ_275.pdf. ,single,True
+2504,B2_trailing,,納品明細_635.pdf..,single,True
+2505,B2_trailing,,決裁書_678.pdf  ,single,True
+2506,B2_trailing,,Draft_725.pdf..,single,True
+2507,B2_trailing,,Photo_851.pdf  ,single,True
+2508,B2_trailing,,検査記録_481.pdf .,single,True
+2509,B2_trailing,,Draft_795.pdf. ,single,True
+2510,B2_trailing,,Draft_55.pdf. ,single,True
+2511,B2_trailing,,Photo_396.pdf. ,single,True
+2512,B2_trailing,,Draft_327.pdf  ,single,True
+2513,B2_trailing,,検査記録_440.pdf. ,single,True
+2514,B2_trailing,,議事メモ_252.pdf..,single,True
+2515,B2_trailing,,議事メモ_134.pdf. ,single,True
+2516,B2_trailing,,Invoice_207.pdf. ,single,True
+2517,B2_trailing,,Invoice_300.pdf. ,single,True
+2518,B2_trailing,,Photo_778.pdf  ,single,True
+2519,B2_trailing,,検査記録_31.pdf  ,single,True
+2520,B2_trailing,,Draft_622.pdf. ,single,True
+2521,B2_trailing,,議事メモ_535.pdf..,single,True
+2522,B2_trailing,,決裁書_915.pdf..,single,True
+2523,B2_trailing,,Draft_871.pdf. ,single,True
+2524,B2_trailing,,決裁書_913.pdf. ,single,True
+2525,B2_trailing,,検査記録_75.pdf. ,single,True
+2526,B2_trailing,,議事メモ_342.pdf .,single,True
+2527,B2_trailing,,Draft_632.pdf  ,single,True
+2528,B2_trailing,,決裁書_544.pdf..,single,True
+2529,B2_trailing,,納品明細_496.pdf .,single,True
+2530,B2_trailing,,Invoice_827.pdf..,single,True
+2531,B2_trailing,,議事メモ_44.pdf. ,single,True
+2532,B2_trailing,,決裁書_263.pdf. ,single,True
+2533,B2_trailing,,Invoice_740.pdf. ,single,True
+2534,B2_trailing,,決裁書_867.pdf .,single,True
+2535,B2_trailing,,Photo_42.pdf .,single,True
+2536,B2_trailing,,検査記録_366.pdf .,single,True
+2537,B2_trailing,,Invoice_748.pdf  ,single,True
+2538,B2_trailing,,納品明細_644.pdf. ,single,True
+2539,B2_trailing,,議事メモ_936.pdf..,single,True
+2540,B2_trailing,,Draft_947.pdf .,single,True
+2541,B2_trailing,,検査記録_1.pdf..,single,True
+2542,B2_trailing,,Photo_338.pdf .,single,True
+2543,B2_trailing,,Photo_515.pdf  ,single,True
+2544,B2_trailing,,議事メモ_139.pdf..,single,True
+2545,B2_trailing,,議事メモ_439.pdf..,single,True
+2546,B2_trailing,,納品明細_714.pdf..,single,True
+2547,B2_trailing,,決裁書_920.pdf  ,single,True
+2548,B2_trailing,,Draft_422.pdf  ,single,True
+2549,B2_trailing,,Photo_226.pdf. ,single,True
+2550,B2_trailing,,Draft_615.pdf .,single,True
+2551,B2_trailing,,議事メモ_240.pdf. ,single,True
+2552,B2_trailing,,決裁書_114.pdf  ,single,True
+2553,B2_trailing,,決裁書_890.pdf. ,single,True
+2554,B2_trailing,,決裁書_922.pdf  ,single,True
+2555,B2_trailing,,Photo_725.pdf..,single,True
+2556,B2_trailing,,Draft_240.pdf .,single,True
+2557,B2_trailing,,検査記録_112.pdf .,single,True
+2558,B2_trailing,,決裁書_761.pdf .,single,True
+2559,B2_trailing,,議事メモ_766.pdf..,single,True
+2560,B2_trailing,,Draft_915.pdf .,single,True
+2561,B2_trailing,,決裁書_708.pdf..,single,True
+2562,B2_trailing,,Photo_885.pdf. ,single,True
+2563,B2_trailing,,検査記録_975.pdf  ,single,True
+2564,B2_trailing,,検査記録_973.pdf .,single,True
+2565,B2_trailing,,決裁書_881.pdf. ,single,True
+2566,B2_trailing,,議事メモ_38.pdf  ,single,True
+2567,B2_trailing,,検査記録_869.pdf .,single,True
+2568,B2_trailing,,決裁書_315.pdf  ,single,True
+2569,B2_trailing,,Draft_309.pdf. ,single,True
+2570,B2_trailing,,納品明細_971.pdf. ,single,True
+2571,B2_trailing,,納品明細_30.pdf..,single,True
+2572,B2_trailing,,Photo_421.pdf. ,single,True
+2573,B2_trailing,,Invoice_132.pdf  ,single,True
+2574,B2_trailing,,Photo_903.pdf  ,single,True
+2575,B2_trailing,,納品明細_510.pdf..,single,True
+2576,B2_trailing,,決裁書_435.pdf. ,single,True
+2577,B2_trailing,,検査記録_949.pdf .,single,True
+2578,B2_trailing,,Draft_412.pdf..,single,True
+2579,B2_trailing,,検査記録_400.pdf. ,single,True
+2580,B2_trailing,,Photo_927.pdf  ,single,True
+2581,B2_trailing,,検査記録_137.pdf .,single,True
+2582,B2_trailing,,議事メモ_803.pdf  ,single,True
+2583,B2_trailing,,議事メモ_37.pdf  ,single,True
+2584,B2_trailing,,Photo_216.pdf  ,single,True
+2585,B2_trailing,,Draft_64.pdf. ,single,True
+2586,B2_trailing,,Invoice_738.pdf..,single,True
+2587,B2_trailing,,納品明細_625.pdf .,single,True
+2588,B2_trailing,,Photo_283.pdf .,single,True
+2589,B2_trailing,,Draft_887.pdf. ,single,True
+2590,B2_trailing,,納品明細_229.pdf. ,single,True
+2591,B2_trailing,,決裁書_937.pdf .,single,True
+2592,B2_trailing,,Invoice_551.pdf. ,single,True
+2593,B2_trailing,,納品明細_306.pdf  ,single,True
+2594,B2_trailing,,Photo_359.pdf. ,single,True
+2595,B2_trailing,,Photo_629.pdf  ,single,True
+2596,B2_trailing,,決裁書_295.pdf. ,single,True
+2597,B2_trailing,,決裁書_533.pdf  ,single,True
+2598,B2_trailing,,Photo_844.pdf..,single,True
+2599,B2_trailing,,Invoice_68.pdf. ,single,True
+2600,D0_exact_dup,決裁書_697.pdf,決裁書_697.pdf,pair,True
+2601,D0_exact_dup,Draft_257.pdf,Draft_257.pdf,pair,True
+2602,D0_exact_dup,Invoice_742.pdf,Invoice_742.pdf,pair,True
+2603,D0_exact_dup,検査記録_518.pdf,検査記録_518.pdf,pair,True
+2604,D0_exact_dup,Draft_936.pdf,Draft_936.pdf,pair,True
+2605,D0_exact_dup,納品明細_315.pdf,納品明細_315.pdf,pair,True
+2606,D0_exact_dup,議事メモ_63.pdf,議事メモ_63.pdf,pair,True
+2607,D0_exact_dup,議事メモ_703.pdf,議事メモ_703.pdf,pair,True
+2608,D0_exact_dup,Invoice_362.pdf,Invoice_362.pdf,pair,True
+2609,D0_exact_dup,Draft_881.pdf,Draft_881.pdf,pair,True
+2610,D0_exact_dup,検査記録_472.pdf,検査記録_472.pdf,pair,True
+2611,D0_exact_dup,議事メモ_657.pdf,議事メモ_657.pdf,pair,True
+2612,D0_exact_dup,議事メモ_880.pdf,議事メモ_880.pdf,pair,True
+2613,D0_exact_dup,Invoice_458.pdf,Invoice_458.pdf,pair,True
+2614,D0_exact_dup,Invoice_862.pdf,Invoice_862.pdf,pair,True
+2615,D0_exact_dup,納品明細_818.pdf,納品明細_818.pdf,pair,True
+2616,D0_exact_dup,Photo_934.pdf,Photo_934.pdf,pair,True
+2617,D0_exact_dup,納品明細_414.pdf,納品明細_414.pdf,pair,True
+2618,D0_exact_dup,納品明細_289.pdf,納品明細_289.pdf,pair,True
+2619,D0_exact_dup,議事メモ_495.pdf,議事メモ_495.pdf,pair,True
+2620,D0_exact_dup,決裁書_370.pdf,決裁書_370.pdf,pair,True
+2621,D0_exact_dup,検査記録_182.pdf,検査記録_182.pdf,pair,True
+2622,D0_exact_dup,Invoice_873.pdf,Invoice_873.pdf,pair,True
+2623,D0_exact_dup,Draft_301.pdf,Draft_301.pdf,pair,True
+2624,D0_exact_dup,Draft_530.pdf,Draft_530.pdf,pair,True
+2625,D0_exact_dup,決裁書_340.pdf,決裁書_340.pdf,pair,True
+2626,D0_exact_dup,Photo_182.pdf,Photo_182.pdf,pair,True
+2627,D0_exact_dup,Draft_43.pdf,Draft_43.pdf,pair,True
+2628,D0_exact_dup,Draft_878.pdf,Draft_878.pdf,pair,True
+2629,D0_exact_dup,決裁書_655.pdf,決裁書_655.pdf,pair,True
+2630,D0_exact_dup,納品明細_290.pdf,納品明細_290.pdf,pair,True
+2631,D0_exact_dup,Photo_806.pdf,Photo_806.pdf,pair,True
+2632,D0_exact_dup,検査記録_556.pdf,検査記録_556.pdf,pair,True
+2633,D0_exact_dup,議事メモ_559.pdf,議事メモ_559.pdf,pair,True
+2634,D0_exact_dup,議事メモ_62.pdf,議事メモ_62.pdf,pair,True
+2635,D0_exact_dup,議事メモ_178.pdf,議事メモ_178.pdf,pair,True
+2636,D0_exact_dup,納品明細_421.pdf,納品明細_421.pdf,pair,True
+2637,D0_exact_dup,Invoice_992.pdf,Invoice_992.pdf,pair,True
+2638,D0_exact_dup,決裁書_891.pdf,決裁書_891.pdf,pair,True
+2639,D0_exact_dup,Photo_378.pdf,Photo_378.pdf,pair,True
+2640,D0_exact_dup,Invoice_722.pdf,Invoice_722.pdf,pair,True
+2641,D0_exact_dup,議事メモ_558.pdf,議事メモ_558.pdf,pair,True
+2642,D0_exact_dup,Photo_706.pdf,Photo_706.pdf,pair,True
+2643,D0_exact_dup,Draft_738.pdf,Draft_738.pdf,pair,True
+2644,D0_exact_dup,Photo_472.pdf,Photo_472.pdf,pair,True
+2645,D0_exact_dup,検査記録_564.pdf,検査記録_564.pdf,pair,True
+2646,D0_exact_dup,検査記録_63.pdf,検査記録_63.pdf,pair,True
+2647,D0_exact_dup,Draft_35.pdf,Draft_35.pdf,pair,True
+2648,D0_exact_dup,決裁書_948.pdf,決裁書_948.pdf,pair,True
+2649,D0_exact_dup,議事メモ_865.pdf,議事メモ_865.pdf,pair,True
+2650,D0_exact_dup,Draft_825.pdf,Draft_825.pdf,pair,True
+2651,D0_exact_dup,決裁書_882.pdf,決裁書_882.pdf,pair,True
+2652,D0_exact_dup,Invoice_414.pdf,Invoice_414.pdf,pair,True
+2653,D0_exact_dup,決裁書_956.pdf,決裁書_956.pdf,pair,True
+2654,D0_exact_dup,Photo_351.pdf,Photo_351.pdf,pair,True
+2655,D0_exact_dup,Invoice_447.pdf,Invoice_447.pdf,pair,True
+2656,D0_exact_dup,Draft_818.pdf,Draft_818.pdf,pair,True
+2657,D0_exact_dup,決裁書_646.pdf,決裁書_646.pdf,pair,True
+2658,D0_exact_dup,Invoice_571.pdf,Invoice_571.pdf,pair,True
+2659,D0_exact_dup,Photo_149.pdf,Photo_149.pdf,pair,True
+2660,D0_exact_dup,決裁書_7.pdf,決裁書_7.pdf,pair,True
+2661,D0_exact_dup,納品明細_344.pdf,納品明細_344.pdf,pair,True
+2662,D0_exact_dup,議事メモ_800.pdf,議事メモ_800.pdf,pair,True
+2663,D0_exact_dup,決裁書_115.pdf,決裁書_115.pdf,pair,True
+2664,D0_exact_dup,Invoice_872.pdf,Invoice_872.pdf,pair,True
+2665,D0_exact_dup,納品明細_655.pdf,納品明細_655.pdf,pair,True
+2666,D0_exact_dup,決裁書_300.pdf,決裁書_300.pdf,pair,True
+2667,D0_exact_dup,Photo_968.pdf,Photo_968.pdf,pair,True
+2668,D0_exact_dup,Draft_703.pdf,Draft_703.pdf,pair,True
+2669,D0_exact_dup,Invoice_255.pdf,Invoice_255.pdf,pair,True
+2670,D0_exact_dup,決裁書_944.pdf,決裁書_944.pdf,pair,True
+2671,D0_exact_dup,決裁書_853.pdf,決裁書_853.pdf,pair,True
+2672,D0_exact_dup,決裁書_491.pdf,決裁書_491.pdf,pair,True
+2673,D0_exact_dup,Draft_755.pdf,Draft_755.pdf,pair,True
+2674,D0_exact_dup,検査記録_59.pdf,検査記録_59.pdf,pair,True
+2675,D0_exact_dup,決裁書_49.pdf,決裁書_49.pdf,pair,True
+2676,D0_exact_dup,検査記録_304.pdf,検査記録_304.pdf,pair,True
+2677,D0_exact_dup,Invoice_763.pdf,Invoice_763.pdf,pair,True
+2678,D0_exact_dup,決裁書_387.pdf,決裁書_387.pdf,pair,True
+2679,D0_exact_dup,Photo_364.pdf,Photo_364.pdf,pair,True
+2680,D0_exact_dup,議事メモ_358.pdf,議事メモ_358.pdf,pair,True
+2681,D0_exact_dup,Photo_742.pdf,Photo_742.pdf,pair,True
+2682,D0_exact_dup,決裁書_851.pdf,決裁書_851.pdf,pair,True
+2683,D0_exact_dup,決裁書_950.pdf,決裁書_950.pdf,pair,True
+2684,D0_exact_dup,Photo_642.pdf,Photo_642.pdf,pair,True
+2685,D0_exact_dup,納品明細_786.pdf,納品明細_786.pdf,pair,True
+2686,D0_exact_dup,検査記録_862.pdf,検査記録_862.pdf,pair,True
+2687,D0_exact_dup,Invoice_214.pdf,Invoice_214.pdf,pair,True
+2688,D0_exact_dup,Draft_325.pdf,Draft_325.pdf,pair,True
+2689,D0_exact_dup,Invoice_221.pdf,Invoice_221.pdf,pair,True
+2690,D0_exact_dup,Draft_390.pdf,Draft_390.pdf,pair,True
+2691,D0_exact_dup,決裁書_736.pdf,決裁書_736.pdf,pair,True
+2692,D0_exact_dup,Invoice_425.pdf,Invoice_425.pdf,pair,True
+2693,D0_exact_dup,Draft_912.pdf,Draft_912.pdf,pair,True
+2694,D0_exact_dup,検査記録_190.pdf,検査記録_190.pdf,pair,True
+2695,D0_exact_dup,Draft_48.pdf,Draft_48.pdf,pair,True
+2696,D0_exact_dup,検査記録_584.pdf,検査記録_584.pdf,pair,True
+2697,D0_exact_dup,Photo_94.pdf,Photo_94.pdf,pair,True
+2698,D0_exact_dup,Draft_603.pdf,Draft_603.pdf,pair,True
+2699,D0_exact_dup,議事メモ_706.pdf,議事メモ_706.pdf,pair,True
+2700,D0_exact_dup,議事メモ_665.pdf,議事メモ_665.pdf,pair,True
+2701,D0_exact_dup,議事メモ_369.pdf,議事メモ_369.pdf,pair,True
+2702,D0_exact_dup,検査記録_327.pdf,検査記録_327.pdf,pair,True
+2703,D0_exact_dup,Draft_229.pdf,Draft_229.pdf,pair,True
+2704,D0_exact_dup,納品明細_231.pdf,納品明細_231.pdf,pair,True
+2705,D0_exact_dup,決裁書_99.pdf,決裁書_99.pdf,pair,True
+2706,D0_exact_dup,Photo_756.pdf,Photo_756.pdf,pair,True
+2707,D0_exact_dup,Draft_39.pdf,Draft_39.pdf,pair,True
+2708,D0_exact_dup,Photo_977.pdf,Photo_977.pdf,pair,True
+2709,D0_exact_dup,検査記録_13.pdf,検査記録_13.pdf,pair,True
+2710,D0_exact_dup,決裁書_737.pdf,決裁書_737.pdf,pair,True
+2711,D0_exact_dup,検査記録_427.pdf,検査記録_427.pdf,pair,True
+2712,D0_exact_dup,検査記録_738.pdf,検査記録_738.pdf,pair,True
+2713,D0_exact_dup,Photo_537.pdf,Photo_537.pdf,pair,True
+2714,D0_exact_dup,議事メモ_723.pdf,議事メモ_723.pdf,pair,True
+2715,D0_exact_dup,議事メモ_987.pdf,議事メモ_987.pdf,pair,True
+2716,D0_exact_dup,議事メモ_323.pdf,議事メモ_323.pdf,pair,True
+2717,D0_exact_dup,納品明細_595.pdf,納品明細_595.pdf,pair,True
+2718,D0_exact_dup,Photo_399.pdf,Photo_399.pdf,pair,True
+2719,D0_exact_dup,決裁書_582.pdf,決裁書_582.pdf,pair,True
+2720,D0_exact_dup,Invoice_672.pdf,Invoice_672.pdf,pair,True
+2721,D0_exact_dup,議事メモ_11.pdf,議事メモ_11.pdf,pair,True
+2722,D0_exact_dup,Photo_887.pdf,Photo_887.pdf,pair,True
+2723,D0_exact_dup,決裁書_676.pdf,決裁書_676.pdf,pair,True
+2724,D0_exact_dup,議事メモ_697.pdf,議事メモ_697.pdf,pair,True
+2725,D0_exact_dup,決裁書_719.pdf,決裁書_719.pdf,pair,True
+2726,D0_exact_dup,Photo_906.pdf,Photo_906.pdf,pair,True
+2727,D0_exact_dup,納品明細_19.pdf,納品明細_19.pdf,pair,True
+2728,D0_exact_dup,Invoice_346.pdf,Invoice_346.pdf,pair,True
+2729,D0_exact_dup,Photo_415.pdf,Photo_415.pdf,pair,True
+2730,D0_exact_dup,Invoice_76.pdf,Invoice_76.pdf,pair,True
+2731,D0_exact_dup,議事メモ_675.pdf,議事メモ_675.pdf,pair,True
+2732,D0_exact_dup,Invoice_847.pdf,Invoice_847.pdf,pair,True
+2733,D0_exact_dup,Invoice_255.pdf,Invoice_255.pdf,pair,True
+2734,D0_exact_dup,検査記録_142.pdf,検査記録_142.pdf,pair,True
+2735,D0_exact_dup,決裁書_834.pdf,決裁書_834.pdf,pair,True
+2736,D0_exact_dup,納品明細_904.pdf,納品明細_904.pdf,pair,True
+2737,D0_exact_dup,Photo_757.pdf,Photo_757.pdf,pair,True
+2738,D0_exact_dup,納品明細_3.pdf,納品明細_3.pdf,pair,True
+2739,D0_exact_dup,Photo_833.pdf,Photo_833.pdf,pair,True
+2740,D0_exact_dup,納品明細_82.pdf,納品明細_82.pdf,pair,True
+2741,D0_exact_dup,Photo_220.pdf,Photo_220.pdf,pair,True
+2742,D0_exact_dup,検査記録_276.pdf,検査記録_276.pdf,pair,True
+2743,D0_exact_dup,Invoice_423.pdf,Invoice_423.pdf,pair,True
+2744,D0_exact_dup,検査記録_877.pdf,検査記録_877.pdf,pair,True
+2745,D0_exact_dup,Draft_983.pdf,Draft_983.pdf,pair,True
+2746,D0_exact_dup,検査記録_887.pdf,検査記録_887.pdf,pair,True
+2747,D0_exact_dup,Draft_216.pdf,Draft_216.pdf,pair,True
+2748,D0_exact_dup,議事メモ_876.pdf,議事メモ_876.pdf,pair,True
+2749,D0_exact_dup,納品明細_611.pdf,納品明細_611.pdf,pair,True
+2750,D0_exact_dup,Photo_170.pdf,Photo_170.pdf,pair,True
+2751,D0_exact_dup,議事メモ_863.pdf,議事メモ_863.pdf,pair,True
+2752,D0_exact_dup,Draft_585.pdf,Draft_585.pdf,pair,True
+2753,D0_exact_dup,Invoice_901.pdf,Invoice_901.pdf,pair,True
+2754,D0_exact_dup,Photo_54.pdf,Photo_54.pdf,pair,True
+2755,D0_exact_dup,Photo_865.pdf,Photo_865.pdf,pair,True
+2756,D0_exact_dup,納品明細_859.pdf,納品明細_859.pdf,pair,True
+2757,D0_exact_dup,Photo_614.pdf,Photo_614.pdf,pair,True
+2758,D0_exact_dup,検査記録_102.pdf,検査記録_102.pdf,pair,True
+2759,D0_exact_dup,検査記録_208.pdf,検査記録_208.pdf,pair,True
+2760,D0_exact_dup,検査記録_322.pdf,検査記録_322.pdf,pair,True
+2761,D0_exact_dup,議事メモ_198.pdf,議事メモ_198.pdf,pair,True
+2762,D0_exact_dup,決裁書_630.pdf,決裁書_630.pdf,pair,True
+2763,D0_exact_dup,Photo_176.pdf,Photo_176.pdf,pair,True
+2764,D0_exact_dup,検査記録_58.pdf,検査記録_58.pdf,pair,True
+2765,D0_exact_dup,Photo_76.pdf,Photo_76.pdf,pair,True
+2766,D0_exact_dup,Draft_240.pdf,Draft_240.pdf,pair,True
+2767,D0_exact_dup,議事メモ_678.pdf,議事メモ_678.pdf,pair,True
+2768,D0_exact_dup,納品明細_311.pdf,納品明細_311.pdf,pair,True
+2769,D0_exact_dup,検査記録_534.pdf,検査記録_534.pdf,pair,True
+2770,D0_exact_dup,Invoice_955.pdf,Invoice_955.pdf,pair,True
+2771,D0_exact_dup,決裁書_484.pdf,決裁書_484.pdf,pair,True
+2772,D0_exact_dup,Photo_618.pdf,Photo_618.pdf,pair,True
+2773,D0_exact_dup,決裁書_601.pdf,決裁書_601.pdf,pair,True
+2774,D0_exact_dup,Draft_601.pdf,Draft_601.pdf,pair,True
+2775,D0_exact_dup,議事メモ_740.pdf,議事メモ_740.pdf,pair,True
+2776,D0_exact_dup,Invoice_586.pdf,Invoice_586.pdf,pair,True
+2777,D0_exact_dup,納品明細_941.pdf,納品明細_941.pdf,pair,True
+2778,D0_exact_dup,納品明細_320.pdf,納品明細_320.pdf,pair,True
+2779,D0_exact_dup,Draft_486.pdf,Draft_486.pdf,pair,True
+2780,D0_exact_dup,Photo_588.pdf,Photo_588.pdf,pair,True
+2781,D0_exact_dup,検査記録_549.pdf,検査記録_549.pdf,pair,True
+2782,D0_exact_dup,Photo_510.pdf,Photo_510.pdf,pair,True
+2783,D0_exact_dup,Invoice_285.pdf,Invoice_285.pdf,pair,True
+2784,D0_exact_dup,Invoice_204.pdf,Invoice_204.pdf,pair,True
+2785,D0_exact_dup,Draft_618.pdf,Draft_618.pdf,pair,True
+2786,D0_exact_dup,Photo_507.pdf,Photo_507.pdf,pair,True
+2787,D0_exact_dup,議事メモ_661.pdf,議事メモ_661.pdf,pair,True
+2788,D0_exact_dup,検査記録_588.pdf,検査記録_588.pdf,pair,True
+2789,D0_exact_dup,決裁書_235.pdf,決裁書_235.pdf,pair,True
+2790,D0_exact_dup,検査記録_241.pdf,検査記録_241.pdf,pair,True
+2791,D0_exact_dup,決裁書_628.pdf,決裁書_628.pdf,pair,True
+2792,D0_exact_dup,決裁書_406.pdf,決裁書_406.pdf,pair,True
+2793,D0_exact_dup,検査記録_692.pdf,検査記録_692.pdf,pair,True
+2794,D0_exact_dup,納品明細_973.pdf,納品明細_973.pdf,pair,True
+2795,D0_exact_dup,Draft_729.pdf,Draft_729.pdf,pair,True
+2796,D0_exact_dup,検査記録_458.pdf,検査記録_458.pdf,pair,True
+2797,D0_exact_dup,Invoice_452.pdf,Invoice_452.pdf,pair,True
+2798,D0_exact_dup,検査記録_10.pdf,検査記録_10.pdf,pair,True
+2799,D0_exact_dup,Draft_207.pdf,Draft_207.pdf,pair,True
+2800,D0_exact_dup,検査記録_981.pdf,検査記録_981.pdf,pair,True
+2801,D0_exact_dup,Photo_470.pdf,Photo_470.pdf,pair,True
+2802,D0_exact_dup,検査記録_891.pdf,検査記録_891.pdf,pair,True
+2803,D0_exact_dup,議事メモ_269.pdf,議事メモ_269.pdf,pair,True
+2804,D0_exact_dup,Draft_69.pdf,Draft_69.pdf,pair,True
+2805,D0_exact_dup,Invoice_756.pdf,Invoice_756.pdf,pair,True
+2806,D0_exact_dup,議事メモ_454.pdf,議事メモ_454.pdf,pair,True
+2807,D0_exact_dup,決裁書_780.pdf,決裁書_780.pdf,pair,True
+2808,D0_exact_dup,Invoice_991.pdf,Invoice_991.pdf,pair,True
+2809,D0_exact_dup,検査記録_822.pdf,検査記録_822.pdf,pair,True
+2810,D0_exact_dup,議事メモ_940.pdf,議事メモ_940.pdf,pair,True
+2811,D0_exact_dup,Invoice_150.pdf,Invoice_150.pdf,pair,True
+2812,D0_exact_dup,Draft_183.pdf,Draft_183.pdf,pair,True
+2813,D0_exact_dup,決裁書_920.pdf,決裁書_920.pdf,pair,True
+2814,D0_exact_dup,Invoice_715.pdf,Invoice_715.pdf,pair,True
+2815,D0_exact_dup,議事メモ_724.pdf,議事メモ_724.pdf,pair,True
+2816,D0_exact_dup,Photo_523.pdf,Photo_523.pdf,pair,True
+2817,D0_exact_dup,Invoice_96.pdf,Invoice_96.pdf,pair,True
+2818,D0_exact_dup,Invoice_705.pdf,Invoice_705.pdf,pair,True
+2819,D0_exact_dup,Photo_141.pdf,Photo_141.pdf,pair,True
+2820,D0_exact_dup,納品明細_415.pdf,納品明細_415.pdf,pair,True
+2821,D0_exact_dup,Draft_811.pdf,Draft_811.pdf,pair,True
+2822,D0_exact_dup,Photo_243.pdf,Photo_243.pdf,pair,True
+2823,D0_exact_dup,納品明細_255.pdf,納品明細_255.pdf,pair,True
+2824,D0_exact_dup,Invoice_804.pdf,Invoice_804.pdf,pair,True
+2825,D0_exact_dup,検査記録_594.pdf,検査記録_594.pdf,pair,True
+2826,D0_exact_dup,納品明細_74.pdf,納品明細_74.pdf,pair,True
+2827,D0_exact_dup,Invoice_973.pdf,Invoice_973.pdf,pair,True
+2828,D0_exact_dup,Draft_209.pdf,Draft_209.pdf,pair,True
+2829,D0_exact_dup,Invoice_1.pdf,Invoice_1.pdf,pair,True
+2830,D0_exact_dup,納品明細_974.pdf,納品明細_974.pdf,pair,True
+2831,D0_exact_dup,議事メモ_21.pdf,議事メモ_21.pdf,pair,True
+2832,D0_exact_dup,Draft_115.pdf,Draft_115.pdf,pair,True
+2833,D0_exact_dup,Photo_91.pdf,Photo_91.pdf,pair,True
+2834,D0_exact_dup,議事メモ_975.pdf,議事メモ_975.pdf,pair,True
+2835,D0_exact_dup,検査記録_691.pdf,検査記録_691.pdf,pair,True
+2836,D0_exact_dup,Invoice_570.pdf,Invoice_570.pdf,pair,True
+2837,D0_exact_dup,検査記録_355.pdf,検査記録_355.pdf,pair,True
+2838,D0_exact_dup,Photo_839.pdf,Photo_839.pdf,pair,True
+2839,D0_exact_dup,Invoice_623.pdf,Invoice_623.pdf,pair,True
+2840,D0_exact_dup,検査記録_730.pdf,検査記録_730.pdf,pair,True
+2841,D0_exact_dup,決裁書_588.pdf,決裁書_588.pdf,pair,True
+2842,D0_exact_dup,決裁書_86.pdf,決裁書_86.pdf,pair,True
+2843,D0_exact_dup,決裁書_944.pdf,決裁書_944.pdf,pair,True
+2844,D0_exact_dup,決裁書_355.pdf,決裁書_355.pdf,pair,True
+2845,D0_exact_dup,Photo_668.pdf,Photo_668.pdf,pair,True
+2846,D0_exact_dup,Invoice_153.pdf,Invoice_153.pdf,pair,True
+2847,D0_exact_dup,Photo_63.pdf,Photo_63.pdf,pair,True
+2848,D0_exact_dup,Invoice_173.pdf,Invoice_173.pdf,pair,True
+2849,D0_exact_dup,検査記録_232.pdf,検査記録_232.pdf,pair,True
+2850,D0_exact_dup,Photo_921.pdf,Photo_921.pdf,pair,True
+2851,D0_exact_dup,議事メモ_870.pdf,議事メモ_870.pdf,pair,True
+2852,D0_exact_dup,検査記録_906.pdf,検査記録_906.pdf,pair,True
+2853,D0_exact_dup,検査記録_361.pdf,検査記録_361.pdf,pair,True
+2854,D0_exact_dup,決裁書_215.pdf,決裁書_215.pdf,pair,True
+2855,D0_exact_dup,決裁書_880.pdf,決裁書_880.pdf,pair,True
+2856,D0_exact_dup,決裁書_186.pdf,決裁書_186.pdf,pair,True
+2857,D0_exact_dup,Photo_591.pdf,Photo_591.pdf,pair,True
+2858,D0_exact_dup,Draft_583.pdf,Draft_583.pdf,pair,True
+2859,D0_exact_dup,議事メモ_319.pdf,議事メモ_319.pdf,pair,True
+2860,D0_exact_dup,納品明細_366.pdf,納品明細_366.pdf,pair,True
+2861,D0_exact_dup,検査記録_910.pdf,検査記録_910.pdf,pair,True
+2862,D0_exact_dup,Invoice_23.pdf,Invoice_23.pdf,pair,True
+2863,D0_exact_dup,議事メモ_421.pdf,議事メモ_421.pdf,pair,True
+2864,D0_exact_dup,議事メモ_993.pdf,議事メモ_993.pdf,pair,True
+2865,D0_exact_dup,議事メモ_498.pdf,議事メモ_498.pdf,pair,True
+2866,D0_exact_dup,Invoice_488.pdf,Invoice_488.pdf,pair,True
+2867,D0_exact_dup,納品明細_76.pdf,納品明細_76.pdf,pair,True
+2868,D0_exact_dup,検査記録_453.pdf,検査記録_453.pdf,pair,True
+2869,D0_exact_dup,Photo_805.pdf,Photo_805.pdf,pair,True
+2870,D0_exact_dup,Invoice_940.pdf,Invoice_940.pdf,pair,True
+2871,D0_exact_dup,Invoice_162.pdf,Invoice_162.pdf,pair,True
+2872,D0_exact_dup,Invoice_469.pdf,Invoice_469.pdf,pair,True
+2873,D0_exact_dup,議事メモ_507.pdf,議事メモ_507.pdf,pair,True
+2874,D0_exact_dup,Invoice_902.pdf,Invoice_902.pdf,pair,True
+2875,D0_exact_dup,納品明細_360.pdf,納品明細_360.pdf,pair,True
+2876,D0_exact_dup,Photo_801.pdf,Photo_801.pdf,pair,True
+2877,D0_exact_dup,Photo_485.pdf,Photo_485.pdf,pair,True
+2878,D0_exact_dup,納品明細_512.pdf,納品明細_512.pdf,pair,True
+2879,D0_exact_dup,Invoice_425.pdf,Invoice_425.pdf,pair,True
+2880,D0_exact_dup,決裁書_394.pdf,決裁書_394.pdf,pair,True
+2881,D0_exact_dup,Draft_507.pdf,Draft_507.pdf,pair,True
+2882,D0_exact_dup,検査記録_886.pdf,検査記録_886.pdf,pair,True
+2883,D0_exact_dup,Invoice_404.pdf,Invoice_404.pdf,pair,True
+2884,D0_exact_dup,検査記録_307.pdf,検査記録_307.pdf,pair,True
+2885,D0_exact_dup,検査記録_412.pdf,検査記録_412.pdf,pair,True
+2886,D0_exact_dup,検査記録_805.pdf,検査記録_805.pdf,pair,True
+2887,D0_exact_dup,Photo_599.pdf,Photo_599.pdf,pair,True
+2888,D0_exact_dup,Photo_882.pdf,Photo_882.pdf,pair,True
+2889,D0_exact_dup,Invoice_129.pdf,Invoice_129.pdf,pair,True
+2890,D0_exact_dup,Photo_500.pdf,Photo_500.pdf,pair,True
+2891,D0_exact_dup,議事メモ_743.pdf,議事メモ_743.pdf,pair,True
+2892,D0_exact_dup,議事メモ_635.pdf,議事メモ_635.pdf,pair,True
+2893,D0_exact_dup,納品明細_397.pdf,納品明細_397.pdf,pair,True
+2894,D0_exact_dup,Invoice_608.pdf,Invoice_608.pdf,pair,True
+2895,D0_exact_dup,Invoice_656.pdf,Invoice_656.pdf,pair,True
+2896,D0_exact_dup,Photo_994.pdf,Photo_994.pdf,pair,True
+2897,D0_exact_dup,Invoice_276.pdf,Invoice_276.pdf,pair,True
+2898,D0_exact_dup,決裁書_655.pdf,決裁書_655.pdf,pair,True
+2899,D0_exact_dup,Draft_843.pdf,Draft_843.pdf,pair,True
+2900,D0_exact_dup,Invoice_216.pdf,Invoice_216.pdf,pair,True
+2901,D0_exact_dup,議事メモ_439.pdf,議事メモ_439.pdf,pair,True
+2902,D0_exact_dup,議事メモ_568.pdf,議事メモ_568.pdf,pair,True
+2903,D0_exact_dup,Draft_889.pdf,Draft_889.pdf,pair,True
+2904,D0_exact_dup,納品明細_653.pdf,納品明細_653.pdf,pair,True
+2905,D0_exact_dup,Draft_676.pdf,Draft_676.pdf,pair,True
+2906,D0_exact_dup,Invoice_896.pdf,Invoice_896.pdf,pair,True
+2907,D0_exact_dup,検査記録_871.pdf,検査記録_871.pdf,pair,True
+2908,D0_exact_dup,Photo_469.pdf,Photo_469.pdf,pair,True
+2909,D0_exact_dup,Invoice_685.pdf,Invoice_685.pdf,pair,True
+2910,D0_exact_dup,Photo_262.pdf,Photo_262.pdf,pair,True
+2911,D0_exact_dup,納品明細_785.pdf,納品明細_785.pdf,pair,True
+2912,D0_exact_dup,議事メモ_295.pdf,議事メモ_295.pdf,pair,True
+2913,D0_exact_dup,検査記録_640.pdf,検査記録_640.pdf,pair,True
+2914,D0_exact_dup,Invoice_421.pdf,Invoice_421.pdf,pair,True
+2915,D0_exact_dup,検査記録_261.pdf,検査記録_261.pdf,pair,True
+2916,D0_exact_dup,決裁書_643.pdf,決裁書_643.pdf,pair,True
+2917,D0_exact_dup,決裁書_173.pdf,決裁書_173.pdf,pair,True
+2918,D0_exact_dup,決裁書_214.pdf,決裁書_214.pdf,pair,True
+2919,D0_exact_dup,Photo_593.pdf,Photo_593.pdf,pair,True
+2920,D0_exact_dup,検査記録_194.pdf,検査記録_194.pdf,pair,True
+2921,D0_exact_dup,検査記録_129.pdf,検査記録_129.pdf,pair,True
+2922,D0_exact_dup,納品明細_760.pdf,納品明細_760.pdf,pair,True
+2923,D0_exact_dup,検査記録_126.pdf,検査記録_126.pdf,pair,True
+2924,D0_exact_dup,Invoice_559.pdf,Invoice_559.pdf,pair,True
+2925,D0_exact_dup,Draft_452.pdf,Draft_452.pdf,pair,True
+2926,D0_exact_dup,決裁書_772.pdf,決裁書_772.pdf,pair,True
+2927,D0_exact_dup,検査記録_426.pdf,検査記録_426.pdf,pair,True
+2928,D0_exact_dup,検査記録_255.pdf,検査記録_255.pdf,pair,True
+2929,D0_exact_dup,議事メモ_138.pdf,議事メモ_138.pdf,pair,True
+2930,D0_exact_dup,Draft_606.pdf,Draft_606.pdf,pair,True
+2931,D0_exact_dup,決裁書_96.pdf,決裁書_96.pdf,pair,True
+2932,D0_exact_dup,検査記録_608.pdf,検査記録_608.pdf,pair,True
+2933,D0_exact_dup,議事メモ_598.pdf,議事メモ_598.pdf,pair,True
+2934,D0_exact_dup,Photo_656.pdf,Photo_656.pdf,pair,True
+2935,D0_exact_dup,決裁書_611.pdf,決裁書_611.pdf,pair,True
+2936,D0_exact_dup,検査記録_383.pdf,検査記録_383.pdf,pair,True
+2937,D0_exact_dup,納品明細_410.pdf,納品明細_410.pdf,pair,True
+2938,D0_exact_dup,検査記録_807.pdf,検査記録_807.pdf,pair,True
+2939,D0_exact_dup,Invoice_960.pdf,Invoice_960.pdf,pair,True
+2940,D0_exact_dup,検査記録_925.pdf,検査記録_925.pdf,pair,True
+2941,D0_exact_dup,Draft_627.pdf,Draft_627.pdf,pair,True
+2942,D0_exact_dup,納品明細_165.pdf,納品明細_165.pdf,pair,True
+2943,D0_exact_dup,議事メモ_178.pdf,議事メモ_178.pdf,pair,True
+2944,D0_exact_dup,議事メモ_553.pdf,議事メモ_553.pdf,pair,True
+2945,D0_exact_dup,決裁書_879.pdf,決裁書_879.pdf,pair,True
+2946,D0_exact_dup,Photo_535.pdf,Photo_535.pdf,pair,True
+2947,D0_exact_dup,Photo_632.pdf,Photo_632.pdf,pair,True
+2948,D0_exact_dup,検査記録_869.pdf,検査記録_869.pdf,pair,True
+2949,D0_exact_dup,議事メモ_155.pdf,議事メモ_155.pdf,pair,True
+2950,D0_exact_dup,議事メモ_267.pdf,議事メモ_267.pdf,pair,True
+2951,D0_exact_dup,Invoice_980.pdf,Invoice_980.pdf,pair,True
+2952,D0_exact_dup,Invoice_878.pdf,Invoice_878.pdf,pair,True
+2953,D0_exact_dup,Invoice_996.pdf,Invoice_996.pdf,pair,True
+2954,D0_exact_dup,決裁書_357.pdf,決裁書_357.pdf,pair,True
+2955,D0_exact_dup,Invoice_721.pdf,Invoice_721.pdf,pair,True
+2956,D0_exact_dup,議事メモ_383.pdf,議事メモ_383.pdf,pair,True
+2957,D0_exact_dup,検査記録_623.pdf,検査記録_623.pdf,pair,True
+2958,D0_exact_dup,議事メモ_684.pdf,議事メモ_684.pdf,pair,True
+2959,D0_exact_dup,決裁書_811.pdf,決裁書_811.pdf,pair,True
+2960,D0_exact_dup,検査記録_271.pdf,検査記録_271.pdf,pair,True
+2961,D0_exact_dup,検査記録_354.pdf,検査記録_354.pdf,pair,True
+2962,D0_exact_dup,Invoice_108.pdf,Invoice_108.pdf,pair,True
+2963,D0_exact_dup,検査記録_237.pdf,検査記録_237.pdf,pair,True
+2964,D0_exact_dup,検査記録_684.pdf,検査記録_684.pdf,pair,True
+2965,D0_exact_dup,Draft_533.pdf,Draft_533.pdf,pair,True
+2966,D0_exact_dup,Invoice_746.pdf,Invoice_746.pdf,pair,True
+2967,D0_exact_dup,Invoice_95.pdf,Invoice_95.pdf,pair,True
+2968,D0_exact_dup,Draft_579.pdf,Draft_579.pdf,pair,True
+2969,D0_exact_dup,Photo_960.pdf,Photo_960.pdf,pair,True
+2970,D0_exact_dup,議事メモ_721.pdf,議事メモ_721.pdf,pair,True
+2971,D0_exact_dup,納品明細_184.pdf,納品明細_184.pdf,pair,True
+2972,D0_exact_dup,決裁書_306.pdf,決裁書_306.pdf,pair,True
+2973,D0_exact_dup,Draft_719.pdf,Draft_719.pdf,pair,True
+2974,D0_exact_dup,Draft_863.pdf,Draft_863.pdf,pair,True
+2975,D0_exact_dup,Draft_28.pdf,Draft_28.pdf,pair,True
+2976,D0_exact_dup,Photo_553.pdf,Photo_553.pdf,pair,True
+2977,D0_exact_dup,決裁書_40.pdf,決裁書_40.pdf,pair,True
+2978,D0_exact_dup,Photo_712.pdf,Photo_712.pdf,pair,True
+2979,D0_exact_dup,検査記録_387.pdf,検査記録_387.pdf,pair,True
+2980,D0_exact_dup,Photo_877.pdf,Photo_877.pdf,pair,True
+2981,D0_exact_dup,納品明細_132.pdf,納品明細_132.pdf,pair,True
+2982,D0_exact_dup,議事メモ_440.pdf,議事メモ_440.pdf,pair,True
+2983,D0_exact_dup,Photo_900.pdf,Photo_900.pdf,pair,True
+2984,D0_exact_dup,検査記録_597.pdf,検査記録_597.pdf,pair,True
+2985,D0_exact_dup,Draft_481.pdf,Draft_481.pdf,pair,True
+2986,D0_exact_dup,決裁書_475.pdf,決裁書_475.pdf,pair,True
+2987,D0_exact_dup,検査記録_84.pdf,検査記録_84.pdf,pair,True
+2988,D0_exact_dup,決裁書_682.pdf,決裁書_682.pdf,pair,True
+2989,D0_exact_dup,決裁書_205.pdf,決裁書_205.pdf,pair,True
+2990,D0_exact_dup,納品明細_854.pdf,納品明細_854.pdf,pair,True
+2991,D0_exact_dup,決裁書_715.pdf,決裁書_715.pdf,pair,True
+2992,D0_exact_dup,Photo_668.pdf,Photo_668.pdf,pair,True
+2993,D0_exact_dup,議事メモ_795.pdf,議事メモ_795.pdf,pair,True
+2994,D0_exact_dup,検査記録_398.pdf,検査記録_398.pdf,pair,True
+2995,D0_exact_dup,検査記録_595.pdf,検査記録_595.pdf,pair,True
+2996,D0_exact_dup,検査記録_825.pdf,検査記録_825.pdf,pair,True
+2997,D0_exact_dup,議事メモ_654.pdf,議事メモ_654.pdf,pair,True
+2998,D0_exact_dup,Photo_701.pdf,Photo_701.pdf,pair,True
+2999,D0_exact_dup,検査記録_147.pdf,検査記録_147.pdf,pair,True
+3000,D0_exact_dup,決裁書_330.pdf,決裁書_330.pdf,pair,True
+3001,D0_exact_dup,Draft_185.pdf,Draft_185.pdf,pair,True
+3002,D0_exact_dup,Draft_247.pdf,Draft_247.pdf,pair,True
+3003,D0_exact_dup,Draft_116.pdf,Draft_116.pdf,pair,True
+3004,D0_exact_dup,検査記録_589.pdf,検査記録_589.pdf,pair,True
+3005,D0_exact_dup,決裁書_555.pdf,決裁書_555.pdf,pair,True
+3006,D0_exact_dup,納品明細_639.pdf,納品明細_639.pdf,pair,True
+3007,D0_exact_dup,決裁書_703.pdf,決裁書_703.pdf,pair,True
+3008,D0_exact_dup,Photo_33.pdf,Photo_33.pdf,pair,True
+3009,D0_exact_dup,Draft_612.pdf,Draft_612.pdf,pair,True
+3010,D0_exact_dup,Photo_216.pdf,Photo_216.pdf,pair,True
+3011,D0_exact_dup,検査記録_292.pdf,検査記録_292.pdf,pair,True
+3012,D0_exact_dup,議事メモ_686.pdf,議事メモ_686.pdf,pair,True
+3013,D0_exact_dup,Photo_721.pdf,Photo_721.pdf,pair,True
+3014,D0_exact_dup,Draft_198.pdf,Draft_198.pdf,pair,True
+3015,D0_exact_dup,Photo_66.pdf,Photo_66.pdf,pair,True
+3016,D0_exact_dup,議事メモ_5.pdf,議事メモ_5.pdf,pair,True
+3017,D0_exact_dup,決裁書_750.pdf,決裁書_750.pdf,pair,True
+3018,D0_exact_dup,Draft_73.pdf,Draft_73.pdf,pair,True
+3019,D0_exact_dup,検査記録_754.pdf,検査記録_754.pdf,pair,True
+3020,D0_exact_dup,検査記録_717.pdf,検査記録_717.pdf,pair,True
+3021,D0_exact_dup,Photo_755.pdf,Photo_755.pdf,pair,True
+3022,D0_exact_dup,Invoice_718.pdf,Invoice_718.pdf,pair,True
+3023,D0_exact_dup,Photo_283.pdf,Photo_283.pdf,pair,True
+3024,D0_exact_dup,Photo_907.pdf,Photo_907.pdf,pair,True
+3025,D0_exact_dup,議事メモ_595.pdf,議事メモ_595.pdf,pair,True
+3026,D0_exact_dup,Invoice_990.pdf,Invoice_990.pdf,pair,True
+3027,D0_exact_dup,納品明細_226.pdf,納品明細_226.pdf,pair,True
+3028,D0_exact_dup,Draft_717.pdf,Draft_717.pdf,pair,True
+3029,D0_exact_dup,議事メモ_326.pdf,議事メモ_326.pdf,pair,True
+3030,D0_exact_dup,検査記録_773.pdf,検査記録_773.pdf,pair,True
+3031,D0_exact_dup,Photo_843.pdf,Photo_843.pdf,pair,True
+3032,D0_exact_dup,決裁書_786.pdf,決裁書_786.pdf,pair,True
+3033,D0_exact_dup,議事メモ_764.pdf,議事メモ_764.pdf,pair,True
+3034,D0_exact_dup,決裁書_17.pdf,決裁書_17.pdf,pair,True
+3035,D0_exact_dup,Invoice_65.pdf,Invoice_65.pdf,pair,True
+3036,D0_exact_dup,Draft_87.pdf,Draft_87.pdf,pair,True
+3037,D0_exact_dup,Photo_4.pdf,Photo_4.pdf,pair,True
+3038,D0_exact_dup,Invoice_713.pdf,Invoice_713.pdf,pair,True
+3039,D0_exact_dup,Invoice_205.pdf,Invoice_205.pdf,pair,True
+3040,D0_exact_dup,Draft_712.pdf,Draft_712.pdf,pair,True
+3041,D0_exact_dup,Photo_464.pdf,Photo_464.pdf,pair,True
+3042,D0_exact_dup,納品明細_375.pdf,納品明細_375.pdf,pair,True
+3043,D0_exact_dup,納品明細_25.pdf,納品明細_25.pdf,pair,True
+3044,D0_exact_dup,決裁書_263.pdf,決裁書_263.pdf,pair,True
+3045,D0_exact_dup,Photo_59.pdf,Photo_59.pdf,pair,True
+3046,D0_exact_dup,Photo_844.pdf,Photo_844.pdf,pair,True
+3047,D0_exact_dup,検査記録_999.pdf,検査記録_999.pdf,pair,True
+3048,D0_exact_dup,Invoice_110.pdf,Invoice_110.pdf,pair,True
+3049,D0_exact_dup,納品明細_783.pdf,納品明細_783.pdf,pair,True
+3050,D0_exact_dup,検査記録_454.pdf,検査記録_454.pdf,pair,True
+3051,D0_exact_dup,議事メモ_238.pdf,議事メモ_238.pdf,pair,True
+3052,D0_exact_dup,Invoice_75.pdf,Invoice_75.pdf,pair,True
+3053,D0_exact_dup,Photo_782.pdf,Photo_782.pdf,pair,True
+3054,D0_exact_dup,Photo_807.pdf,Photo_807.pdf,pair,True
+3055,D0_exact_dup,Invoice_908.pdf,Invoice_908.pdf,pair,True
+3056,D0_exact_dup,Draft_434.pdf,Draft_434.pdf,pair,True
+3057,D0_exact_dup,Draft_664.pdf,Draft_664.pdf,pair,True
+3058,D0_exact_dup,Invoice_811.pdf,Invoice_811.pdf,pair,True
+3059,D0_exact_dup,決裁書_685.pdf,決裁書_685.pdf,pair,True
+3060,D0_exact_dup,議事メモ_283.pdf,議事メモ_283.pdf,pair,True
+3061,D0_exact_dup,決裁書_249.pdf,決裁書_249.pdf,pair,True
+3062,D0_exact_dup,Photo_597.pdf,Photo_597.pdf,pair,True
+3063,D0_exact_dup,議事メモ_325.pdf,議事メモ_325.pdf,pair,True
+3064,D0_exact_dup,Invoice_819.pdf,Invoice_819.pdf,pair,True
+3065,D0_exact_dup,Draft_66.pdf,Draft_66.pdf,pair,True
+3066,D0_exact_dup,納品明細_216.pdf,納品明細_216.pdf,pair,True
+3067,D0_exact_dup,Draft_443.pdf,Draft_443.pdf,pair,True
+3068,D0_exact_dup,Invoice_16.pdf,Invoice_16.pdf,pair,True
+3069,D0_exact_dup,Invoice_442.pdf,Invoice_442.pdf,pair,True
+3070,D0_exact_dup,納品明細_592.pdf,納品明細_592.pdf,pair,True
+3071,D0_exact_dup,Photo_308.pdf,Photo_308.pdf,pair,True
+3072,D0_exact_dup,決裁書_650.pdf,決裁書_650.pdf,pair,True
+3073,D0_exact_dup,Draft_196.pdf,Draft_196.pdf,pair,True
+3074,D0_exact_dup,議事メモ_408.pdf,議事メモ_408.pdf,pair,True
+3075,D0_exact_dup,検査記録_588.pdf,検査記録_588.pdf,pair,True
+3076,D0_exact_dup,検査記録_886.pdf,検査記録_886.pdf,pair,True
+3077,D0_exact_dup,議事メモ_896.pdf,議事メモ_896.pdf,pair,True
+3078,D0_exact_dup,議事メモ_697.pdf,議事メモ_697.pdf,pair,True
+3079,D0_exact_dup,Invoice_446.pdf,Invoice_446.pdf,pair,True
+3080,D0_exact_dup,納品明細_791.pdf,納品明細_791.pdf,pair,True
+3081,D0_exact_dup,検査記録_889.pdf,検査記録_889.pdf,pair,True
+3082,D0_exact_dup,Photo_261.pdf,Photo_261.pdf,pair,True
+3083,D0_exact_dup,Draft_431.pdf,Draft_431.pdf,pair,True
+3084,D0_exact_dup,納品明細_211.pdf,納品明細_211.pdf,pair,True
+3085,D0_exact_dup,検査記録_933.pdf,検査記録_933.pdf,pair,True
+3086,D0_exact_dup,検査記録_136.pdf,検査記録_136.pdf,pair,True
+3087,D0_exact_dup,納品明細_901.pdf,納品明細_901.pdf,pair,True
+3088,D0_exact_dup,検査記録_391.pdf,検査記録_391.pdf,pair,True
+3089,D0_exact_dup,Invoice_328.pdf,Invoice_328.pdf,pair,True
+3090,D0_exact_dup,議事メモ_825.pdf,議事メモ_825.pdf,pair,True
+3091,D0_exact_dup,検査記録_852.pdf,検査記録_852.pdf,pair,True
+3092,D0_exact_dup,Invoice_742.pdf,Invoice_742.pdf,pair,True
+3093,D0_exact_dup,Invoice_211.pdf,Invoice_211.pdf,pair,True
+3094,D0_exact_dup,決裁書_923.pdf,決裁書_923.pdf,pair,True
+3095,D0_exact_dup,Draft_276.pdf,Draft_276.pdf,pair,True
+3096,D0_exact_dup,納品明細_869.pdf,納品明細_869.pdf,pair,True
+3097,D0_exact_dup,Invoice_48.pdf,Invoice_48.pdf,pair,True
+3098,D0_exact_dup,検査記録_753.pdf,検査記録_753.pdf,pair,True
+3099,D0_exact_dup,納品明細_936.pdf,納品明細_936.pdf,pair,True
+3100,D1_unrelated,納品明細_448.pdf,Draft_151.xlsx,pair,False
+3101,D1_unrelated,Invoice_984.pdf,Photo_583.xlsx,pair,False
+3102,D1_unrelated,決裁書_617.pdf,決裁書_239.xlsx,pair,False
+3103,D1_unrelated,納品明細_423.pdf,Photo_147.xlsx,pair,False
+3104,D1_unrelated,検査記録_935.pdf,議事メモ_728.xlsx,pair,False
+3105,D1_unrelated,Invoice_80.pdf,Invoice_112.xlsx,pair,False
+3106,D1_unrelated,Photo_210.pdf,Invoice_964.xlsx,pair,False
+3107,D1_unrelated,Photo_642.pdf,納品明細_209.xlsx,pair,False
+3108,D1_unrelated,議事メモ_762.pdf,Photo_845.xlsx,pair,False
+3109,D1_unrelated,Draft_510.pdf,Invoice_873.xlsx,pair,False
+3110,D1_unrelated,Draft_176.pdf,Photo_368.xlsx,pair,False
+3111,D1_unrelated,Invoice_165.pdf,Photo_865.xlsx,pair,False
+3112,D1_unrelated,Photo_96.pdf,議事メモ_514.xlsx,pair,False
+3113,D1_unrelated,Draft_610.pdf,Photo_242.xlsx,pair,False
+3114,D1_unrelated,議事メモ_202.pdf,納品明細_933.xlsx,pair,False
+3115,D1_unrelated,議事メモ_72.pdf,決裁書_327.xlsx,pair,False
+3116,D1_unrelated,Draft_749.pdf,決裁書_734.xlsx,pair,False
+3117,D1_unrelated,納品明細_315.pdf,決裁書_843.xlsx,pair,False
+3118,D1_unrelated,Photo_179.pdf,Photo_473.xlsx,pair,False
+3119,D1_unrelated,Invoice_283.pdf,決裁書_86.xlsx,pair,False
+3120,D1_unrelated,議事メモ_109.pdf,検査記録_147.xlsx,pair,False
+3121,D1_unrelated,納品明細_592.pdf,納品明細_74.xlsx,pair,False
+3122,D1_unrelated,Photo_677.pdf,検査記録_497.xlsx,pair,False
+3123,D1_unrelated,検査記録_961.pdf,納品明細_423.xlsx,pair,False
+3124,D1_unrelated,検査記録_188.pdf,Draft_635.xlsx,pair,False
+3125,D1_unrelated,決裁書_873.pdf,検査記録_48.xlsx,pair,False
+3126,D1_unrelated,納品明細_67.pdf,検査記録_871.xlsx,pair,False
+3127,D1_unrelated,決裁書_845.pdf,議事メモ_27.xlsx,pair,False
+3128,D1_unrelated,議事メモ_971.pdf,Draft_436.xlsx,pair,False
+3129,D1_unrelated,検査記録_565.pdf,検査記録_421.xlsx,pair,False
+3130,D1_unrelated,Draft_159.pdf,検査記録_58.xlsx,pair,False
+3131,D1_unrelated,Draft_887.pdf,Draft_211.xlsx,pair,False
+3132,D1_unrelated,Draft_873.pdf,決裁書_430.xlsx,pair,False
+3133,D1_unrelated,議事メモ_266.pdf,Invoice_693.xlsx,pair,False
+3134,D1_unrelated,納品明細_376.pdf,議事メモ_151.xlsx,pair,False
+3135,D1_unrelated,検査記録_772.pdf,Draft_92.xlsx,pair,False
+3136,D1_unrelated,検査記録_530.pdf,Draft_786.xlsx,pair,False
+3137,D1_unrelated,Draft_678.pdf,議事メモ_270.xlsx,pair,False
+3138,D1_unrelated,納品明細_766.pdf,決裁書_614.xlsx,pair,False
+3139,D1_unrelated,Photo_246.pdf,Draft_384.xlsx,pair,False
+3140,D1_unrelated,Invoice_142.pdf,決裁書_315.xlsx,pair,False
+3141,D1_unrelated,決裁書_905.pdf,納品明細_397.xlsx,pair,False
+3142,D1_unrelated,Photo_660.pdf,Invoice_449.xlsx,pair,False
+3143,D1_unrelated,Invoice_845.pdf,決裁書_144.xlsx,pair,False
+3144,D1_unrelated,決裁書_548.pdf,Photo_684.xlsx,pair,False
+3145,D1_unrelated,Photo_937.pdf,Draft_907.xlsx,pair,False
+3146,D1_unrelated,Draft_773.pdf,Photo_376.xlsx,pair,False
+3147,D1_unrelated,決裁書_115.pdf,検査記録_587.xlsx,pair,False
+3148,D1_unrelated,議事メモ_631.pdf,Draft_980.xlsx,pair,False
+3149,D1_unrelated,検査記録_930.pdf,Invoice_922.xlsx,pair,False
+3150,D1_unrelated,納品明細_218.pdf,検査記録_476.xlsx,pair,False
+3151,D1_unrelated,Invoice_414.pdf,Photo_901.xlsx,pair,False
+3152,D1_unrelated,納品明細_118.pdf,Photo_253.xlsx,pair,False
+3153,D1_unrelated,議事メモ_58.pdf,議事メモ_786.xlsx,pair,False
+3154,D1_unrelated,Photo_363.pdf,Invoice_958.xlsx,pair,False
+3155,D1_unrelated,Photo_397.pdf,Invoice_728.xlsx,pair,False
+3156,D1_unrelated,議事メモ_29.pdf,決裁書_598.xlsx,pair,False
+3157,D1_unrelated,Invoice_379.pdf,Invoice_864.xlsx,pair,False
+3158,D1_unrelated,Photo_915.pdf,Invoice_707.xlsx,pair,False
+3159,D1_unrelated,Photo_661.pdf,Invoice_958.xlsx,pair,False
+3160,D1_unrelated,Photo_209.pdf,Photo_112.xlsx,pair,False
+3161,D1_unrelated,Draft_796.pdf,検査記録_247.xlsx,pair,False
+3162,D1_unrelated,Draft_603.pdf,Photo_193.xlsx,pair,False
+3163,D1_unrelated,議事メモ_308.pdf,納品明細_457.xlsx,pair,False
+3164,D1_unrelated,Photo_992.pdf,決裁書_230.xlsx,pair,False
+3165,D1_unrelated,決裁書_378.pdf,Invoice_180.xlsx,pair,False
+3166,D1_unrelated,納品明細_235.pdf,決裁書_439.xlsx,pair,False
+3167,D1_unrelated,Photo_984.pdf,納品明細_40.xlsx,pair,False
+3168,D1_unrelated,検査記録_579.pdf,検査記録_551.xlsx,pair,False
+3169,D1_unrelated,決裁書_190.pdf,検査記録_22.xlsx,pair,False
+3170,D1_unrelated,議事メモ_139.pdf,Invoice_743.xlsx,pair,False
+3171,D1_unrelated,Invoice_114.pdf,議事メモ_802.xlsx,pair,False
+3172,D1_unrelated,納品明細_415.pdf,Invoice_324.xlsx,pair,False
+3173,D1_unrelated,Draft_59.pdf,議事メモ_360.xlsx,pair,False
+3174,D1_unrelated,Draft_650.pdf,Photo_290.xlsx,pair,False
+3175,D1_unrelated,Invoice_523.pdf,決裁書_809.xlsx,pair,False
+3176,D1_unrelated,Invoice_650.pdf,決裁書_272.xlsx,pair,False
+3177,D1_unrelated,納品明細_743.pdf,議事メモ_246.xlsx,pair,False
+3178,D1_unrelated,検査記録_617.pdf,Photo_361.xlsx,pair,False
+3179,D1_unrelated,Draft_360.pdf,納品明細_513.xlsx,pair,False
+3180,D1_unrelated,納品明細_157.pdf,決裁書_830.xlsx,pair,False
+3181,D1_unrelated,決裁書_606.pdf,納品明細_352.xlsx,pair,False
+3182,D1_unrelated,Draft_770.pdf,決裁書_694.xlsx,pair,False
+3183,D1_unrelated,検査記録_769.pdf,検査記録_570.xlsx,pair,False
+3184,D1_unrelated,Photo_314.pdf,Draft_528.xlsx,pair,False
+3185,D1_unrelated,検査記録_920.pdf,議事メモ_667.xlsx,pair,False
+3186,D1_unrelated,検査記録_499.pdf,検査記録_390.xlsx,pair,False
+3187,D1_unrelated,検査記録_796.pdf,Invoice_772.xlsx,pair,False
+3188,D1_unrelated,Draft_985.pdf,Photo_242.xlsx,pair,False
+3189,D1_unrelated,納品明細_186.pdf,検査記録_797.xlsx,pair,False
+3190,D1_unrelated,議事メモ_63.pdf,議事メモ_957.xlsx,pair,False
+3191,D1_unrelated,納品明細_808.pdf,Invoice_622.xlsx,pair,False
+3192,D1_unrelated,検査記録_170.pdf,議事メモ_490.xlsx,pair,False
+3193,D1_unrelated,検査記録_949.pdf,決裁書_929.xlsx,pair,False
+3194,D1_unrelated,納品明細_446.pdf,Photo_907.xlsx,pair,False
+3195,D1_unrelated,検査記録_85.pdf,決裁書_130.xlsx,pair,False
+3196,D1_unrelated,納品明細_329.pdf,議事メモ_101.xlsx,pair,False
+3197,D1_unrelated,検査記録_84.pdf,Draft_297.xlsx,pair,False
+3198,D1_unrelated,Draft_310.pdf,Invoice_44.xlsx,pair,False
+3199,D1_unrelated,Invoice_232.pdf,Invoice_39.xlsx,pair,False
+3200,D1_unrelated,納品明細_890.pdf,納品明細_304.xlsx,pair,False
+3201,D1_unrelated,Invoice_622.pdf,検査記録_751.xlsx,pair,False
+3202,D1_unrelated,検査記録_877.pdf,Invoice_872.xlsx,pair,False
+3203,D1_unrelated,決裁書_714.pdf,決裁書_175.xlsx,pair,False
+3204,D1_unrelated,Draft_263.pdf,検査記録_141.xlsx,pair,False
+3205,D1_unrelated,Draft_747.pdf,決裁書_82.xlsx,pair,False
+3206,D1_unrelated,Photo_754.pdf,決裁書_56.xlsx,pair,False
+3207,D1_unrelated,検査記録_211.pdf,議事メモ_297.xlsx,pair,False
+3208,D1_unrelated,Photo_640.pdf,納品明細_211.xlsx,pair,False
+3209,D1_unrelated,納品明細_596.pdf,決裁書_655.xlsx,pair,False
+3210,D1_unrelated,決裁書_863.pdf,検査記録_397.xlsx,pair,False
+3211,D1_unrelated,決裁書_565.pdf,Invoice_460.xlsx,pair,False
+3212,D1_unrelated,決裁書_364.pdf,納品明細_820.xlsx,pair,False
+3213,D1_unrelated,Draft_428.pdf,検査記録_524.xlsx,pair,False
+3214,D1_unrelated,検査記録_400.pdf,Invoice_255.xlsx,pair,False
+3215,D1_unrelated,納品明細_169.pdf,Photo_420.xlsx,pair,False
+3216,D1_unrelated,Invoice_916.pdf,納品明細_359.xlsx,pair,False
+3217,D1_unrelated,検査記録_301.pdf,検査記録_19.xlsx,pair,False
+3218,D1_unrelated,Draft_533.pdf,決裁書_317.xlsx,pair,False
+3219,D1_unrelated,決裁書_523.pdf,Draft_846.xlsx,pair,False
+3220,D1_unrelated,決裁書_72.pdf,議事メモ_168.xlsx,pair,False
+3221,D1_unrelated,Photo_858.pdf,Photo_347.xlsx,pair,False
+3222,D1_unrelated,Draft_136.pdf,Photo_58.xlsx,pair,False
+3223,D1_unrelated,議事メモ_900.pdf,Draft_356.xlsx,pair,False
+3224,D1_unrelated,納品明細_284.pdf,検査記録_254.xlsx,pair,False
+3225,D1_unrelated,Draft_529.pdf,決裁書_348.xlsx,pair,False
+3226,D1_unrelated,Invoice_421.pdf,Photo_880.xlsx,pair,False
+3227,D1_unrelated,Draft_399.pdf,検査記録_439.xlsx,pair,False
+3228,D1_unrelated,Draft_788.pdf,Photo_181.xlsx,pair,False
+3229,D1_unrelated,検査記録_35.pdf,検査記録_255.xlsx,pair,False
+3230,D1_unrelated,議事メモ_188.pdf,Photo_349.xlsx,pair,False
+3231,D1_unrelated,議事メモ_547.pdf,Invoice_744.xlsx,pair,False
+3232,D1_unrelated,検査記録_682.pdf,納品明細_34.xlsx,pair,False
+3233,D1_unrelated,Draft_737.pdf,決裁書_123.xlsx,pair,False
+3234,D1_unrelated,決裁書_53.pdf,検査記録_658.xlsx,pair,False
+3235,D1_unrelated,Photo_831.pdf,決裁書_24.xlsx,pair,False
+3236,D1_unrelated,決裁書_212.pdf,議事メモ_257.xlsx,pair,False
+3237,D1_unrelated,Draft_699.pdf,議事メモ_373.xlsx,pair,False
+3238,D1_unrelated,Invoice_261.pdf,検査記録_913.xlsx,pair,False
+3239,D1_unrelated,Invoice_888.pdf,納品明細_312.xlsx,pair,False
+3240,D1_unrelated,Draft_851.pdf,検査記録_955.xlsx,pair,False
+3241,D1_unrelated,Draft_957.pdf,決裁書_621.xlsx,pair,False
+3242,D1_unrelated,検査記録_641.pdf,Draft_216.xlsx,pair,False
+3243,D1_unrelated,Photo_720.pdf,Invoice_972.xlsx,pair,False
+3244,D1_unrelated,納品明細_788.pdf,Photo_854.xlsx,pair,False
+3245,D1_unrelated,検査記録_131.pdf,Photo_9.xlsx,pair,False
+3246,D1_unrelated,検査記録_76.pdf,決裁書_672.xlsx,pair,False
+3247,D1_unrelated,納品明細_224.pdf,決裁書_239.xlsx,pair,False
+3248,D1_unrelated,納品明細_364.pdf,Photo_276.xlsx,pair,False
+3249,D1_unrelated,Draft_738.pdf,納品明細_877.xlsx,pair,False
+3250,D1_unrelated,Draft_872.pdf,議事メモ_776.xlsx,pair,False
+3251,D1_unrelated,納品明細_716.pdf,納品明細_451.xlsx,pair,False
+3252,D1_unrelated,Photo_451.pdf,議事メモ_893.xlsx,pair,False
+3253,D1_unrelated,Invoice_51.pdf,検査記録_135.xlsx,pair,False
+3254,D1_unrelated,Draft_12.pdf,Draft_976.xlsx,pair,False
+3255,D1_unrelated,Photo_263.pdf,議事メモ_766.xlsx,pair,False
+3256,D1_unrelated,決裁書_268.pdf,検査記録_665.xlsx,pair,False
+3257,D1_unrelated,議事メモ_162.pdf,決裁書_621.xlsx,pair,False
+3258,D1_unrelated,議事メモ_797.pdf,Invoice_701.xlsx,pair,False
+3259,D1_unrelated,決裁書_339.pdf,検査記録_861.xlsx,pair,False
+3260,D1_unrelated,Draft_562.pdf,Draft_755.xlsx,pair,False
+3261,D1_unrelated,Invoice_936.pdf,検査記録_992.xlsx,pair,False
+3262,D1_unrelated,決裁書_962.pdf,Invoice_372.xlsx,pair,False
+3263,D1_unrelated,納品明細_717.pdf,Draft_140.xlsx,pair,False
+3264,D1_unrelated,Photo_92.pdf,Photo_563.xlsx,pair,False
+3265,D1_unrelated,議事メモ_859.pdf,Draft_366.xlsx,pair,False
+3266,D1_unrelated,納品明細_192.pdf,議事メモ_999.xlsx,pair,False
+3267,D1_unrelated,Invoice_556.pdf,Photo_180.xlsx,pair,False
+3268,D1_unrelated,検査記録_148.pdf,決裁書_137.xlsx,pair,False
+3269,D1_unrelated,Photo_340.pdf,議事メモ_807.xlsx,pair,False
+3270,D1_unrelated,検査記録_834.pdf,検査記録_744.xlsx,pair,False
+3271,D1_unrelated,Draft_635.pdf,納品明細_58.xlsx,pair,False
+3272,D1_unrelated,検査記録_675.pdf,検査記録_747.xlsx,pair,False
+3273,D1_unrelated,納品明細_762.pdf,決裁書_93.xlsx,pair,False
+3274,D1_unrelated,議事メモ_252.pdf,決裁書_790.xlsx,pair,False
+3275,D1_unrelated,Photo_303.pdf,納品明細_285.xlsx,pair,False
+3276,D1_unrelated,Draft_971.pdf,Draft_441.xlsx,pair,False
+3277,D1_unrelated,Photo_335.pdf,議事メモ_897.xlsx,pair,False
+3278,D1_unrelated,Photo_403.pdf,検査記録_524.xlsx,pair,False
+3279,D1_unrelated,Invoice_573.pdf,納品明細_787.xlsx,pair,False
+3280,D1_unrelated,Photo_800.pdf,Invoice_801.xlsx,pair,False
+3281,D1_unrelated,決裁書_975.pdf,検査記録_319.xlsx,pair,False
+3282,D1_unrelated,決裁書_86.pdf,決裁書_6.xlsx,pair,False
+3283,D1_unrelated,議事メモ_172.pdf,Invoice_446.xlsx,pair,False
+3284,D1_unrelated,Draft_328.pdf,納品明細_430.xlsx,pair,False
+3285,D1_unrelated,決裁書_872.pdf,Invoice_622.xlsx,pair,False
+3286,D1_unrelated,検査記録_884.pdf,Invoice_192.xlsx,pair,False
+3287,D1_unrelated,Invoice_471.pdf,議事メモ_920.xlsx,pair,False
+3288,D1_unrelated,Draft_176.pdf,Photo_572.xlsx,pair,False
+3289,D1_unrelated,納品明細_762.pdf,議事メモ_710.xlsx,pair,False
+3290,D1_unrelated,検査記録_514.pdf,Draft_398.xlsx,pair,False
+3291,D1_unrelated,Photo_6.pdf,決裁書_287.xlsx,pair,False
+3292,D1_unrelated,検査記録_268.pdf,検査記録_916.xlsx,pair,False
+3293,D1_unrelated,Draft_160.pdf,Photo_502.xlsx,pair,False
+3294,D1_unrelated,Photo_140.pdf,Draft_149.xlsx,pair,False
+3295,D1_unrelated,納品明細_537.pdf,検査記録_238.xlsx,pair,False
+3296,D1_unrelated,Photo_91.pdf,Draft_277.xlsx,pair,False
+3297,D1_unrelated,検査記録_301.pdf,議事メモ_108.xlsx,pair,False
+3298,D1_unrelated,議事メモ_369.pdf,Draft_19.xlsx,pair,False
+3299,D1_unrelated,納品明細_764.pdf,検査記録_856.xlsx,pair,False
+3300,D1_unrelated,Invoice_545.pdf,Photo_157.xlsx,pair,False
+3301,D1_unrelated,Invoice_522.pdf,納品明細_163.xlsx,pair,False
+3302,D1_unrelated,議事メモ_986.pdf,Invoice_962.xlsx,pair,False
+3303,D1_unrelated,Invoice_457.pdf,納品明細_166.xlsx,pair,False
+3304,D1_unrelated,Photo_27.pdf,Photo_608.xlsx,pair,False
+3305,D1_unrelated,納品明細_829.pdf,Draft_107.xlsx,pair,False
+3306,D1_unrelated,決裁書_792.pdf,納品明細_883.xlsx,pair,False
+3307,D1_unrelated,決裁書_454.pdf,決裁書_59.xlsx,pair,False
+3308,D1_unrelated,Draft_885.pdf,検査記録_139.xlsx,pair,False
+3309,D1_unrelated,Invoice_84.pdf,Draft_154.xlsx,pair,False
+3310,D1_unrelated,検査記録_899.pdf,Draft_870.xlsx,pair,False
+3311,D1_unrelated,決裁書_544.pdf,納品明細_772.xlsx,pair,False
+3312,D1_unrelated,検査記録_157.pdf,決裁書_107.xlsx,pair,False
+3313,D1_unrelated,検査記録_785.pdf,納品明細_300.xlsx,pair,False
+3314,D1_unrelated,Photo_628.pdf,議事メモ_580.xlsx,pair,False
+3315,D1_unrelated,決裁書_239.pdf,納品明細_853.xlsx,pair,False
+3316,D1_unrelated,納品明細_152.pdf,議事メモ_315.xlsx,pair,False
+3317,D1_unrelated,検査記録_941.pdf,Photo_139.xlsx,pair,False
+3318,D1_unrelated,Invoice_32.pdf,Draft_20.xlsx,pair,False
+3319,D1_unrelated,決裁書_398.pdf,Photo_741.xlsx,pair,False
+3320,D1_unrelated,議事メモ_514.pdf,Invoice_252.xlsx,pair,False
+3321,D1_unrelated,決裁書_665.pdf,Photo_565.xlsx,pair,False
+3322,D1_unrelated,Draft_955.pdf,決裁書_779.xlsx,pair,False
+3323,D1_unrelated,検査記録_571.pdf,Invoice_459.xlsx,pair,False
+3324,D1_unrelated,Draft_33.pdf,Photo_666.xlsx,pair,False
+3325,D1_unrelated,Draft_460.pdf,決裁書_147.xlsx,pair,False
+3326,D1_unrelated,決裁書_525.pdf,決裁書_467.xlsx,pair,False
+3327,D1_unrelated,Photo_865.pdf,Photo_760.xlsx,pair,False
+3328,D1_unrelated,議事メモ_416.pdf,議事メモ_529.xlsx,pair,False
+3329,D1_unrelated,議事メモ_254.pdf,Photo_267.xlsx,pair,False
+3330,D1_unrelated,決裁書_802.pdf,議事メモ_700.xlsx,pair,False
+3331,D1_unrelated,議事メモ_420.pdf,Photo_222.xlsx,pair,False
+3332,D1_unrelated,Invoice_735.pdf,Photo_547.xlsx,pair,False
+3333,D1_unrelated,検査記録_413.pdf,決裁書_833.xlsx,pair,False
+3334,D1_unrelated,納品明細_433.pdf,納品明細_539.xlsx,pair,False
+3335,D1_unrelated,納品明細_396.pdf,Draft_848.xlsx,pair,False
+3336,D1_unrelated,Photo_233.pdf,Draft_959.xlsx,pair,False
+3337,D1_unrelated,納品明細_123.pdf,Invoice_65.xlsx,pair,False
+3338,D1_unrelated,検査記録_546.pdf,議事メモ_51.xlsx,pair,False
+3339,D1_unrelated,決裁書_731.pdf,議事メモ_625.xlsx,pair,False
+3340,D1_unrelated,Photo_68.pdf,Invoice_58.xlsx,pair,False
+3341,D1_unrelated,決裁書_540.pdf,Draft_9.xlsx,pair,False
+3342,D1_unrelated,議事メモ_293.pdf,Draft_905.xlsx,pair,False
+3343,D1_unrelated,Draft_365.pdf,Draft_534.xlsx,pair,False
+3344,D1_unrelated,Draft_762.pdf,納品明細_642.xlsx,pair,False
+3345,D1_unrelated,納品明細_413.pdf,Draft_856.xlsx,pair,False
+3346,D1_unrelated,検査記録_718.pdf,検査記録_877.xlsx,pair,False
+3347,D1_unrelated,Invoice_822.pdf,納品明細_42.xlsx,pair,False
+3348,D1_unrelated,検査記録_412.pdf,Draft_35.xlsx,pair,False
+3349,D1_unrelated,議事メモ_567.pdf,Photo_579.xlsx,pair,False
+3350,D1_unrelated,Draft_927.pdf,Draft_388.xlsx,pair,False
+3351,D1_unrelated,Draft_532.pdf,検査記録_57.xlsx,pair,False
+3352,D1_unrelated,議事メモ_466.pdf,Invoice_395.xlsx,pair,False
+3353,D1_unrelated,検査記録_776.pdf,納品明細_54.xlsx,pair,False
+3354,D1_unrelated,Draft_42.pdf,議事メモ_579.xlsx,pair,False
+3355,D1_unrelated,議事メモ_166.pdf,Invoice_573.xlsx,pair,False
+3356,D1_unrelated,決裁書_905.pdf,検査記録_330.xlsx,pair,False
+3357,D1_unrelated,決裁書_916.pdf,Photo_905.xlsx,pair,False
+3358,D1_unrelated,検査記録_501.pdf,検査記録_499.xlsx,pair,False
+3359,D1_unrelated,議事メモ_873.pdf,納品明細_412.xlsx,pair,False
+3360,D1_unrelated,議事メモ_24.pdf,検査記録_577.xlsx,pair,False
+3361,D1_unrelated,検査記録_743.pdf,Photo_756.xlsx,pair,False
+3362,D1_unrelated,決裁書_14.pdf,検査記録_970.xlsx,pair,False
+3363,D1_unrelated,決裁書_383.pdf,Photo_550.xlsx,pair,False
+3364,D1_unrelated,検査記録_559.pdf,Invoice_444.xlsx,pair,False
+3365,D1_unrelated,議事メモ_465.pdf,Photo_438.xlsx,pair,False
+3366,D1_unrelated,納品明細_312.pdf,納品明細_838.xlsx,pair,False
+3367,D1_unrelated,Draft_73.pdf,納品明細_365.xlsx,pair,False
+3368,D1_unrelated,検査記録_931.pdf,Draft_949.xlsx,pair,False
+3369,D1_unrelated,Draft_182.pdf,検査記録_170.xlsx,pair,False
+3370,D1_unrelated,Photo_308.pdf,決裁書_519.xlsx,pair,False
+3371,D1_unrelated,Invoice_107.pdf,納品明細_318.xlsx,pair,False
+3372,D1_unrelated,検査記録_203.pdf,納品明細_656.xlsx,pair,False
+3373,D1_unrelated,議事メモ_106.pdf,Draft_553.xlsx,pair,False
+3374,D1_unrelated,納品明細_379.pdf,検査記録_879.xlsx,pair,False
+3375,D1_unrelated,Draft_39.pdf,納品明細_907.xlsx,pair,False
+3376,D1_unrelated,検査記録_82.pdf,Photo_379.xlsx,pair,False
+3377,D1_unrelated,Draft_874.pdf,納品明細_895.xlsx,pair,False
+3378,D1_unrelated,納品明細_113.pdf,納品明細_516.xlsx,pair,False
+3379,D1_unrelated,納品明細_872.pdf,決裁書_674.xlsx,pair,False
+3380,D1_unrelated,決裁書_273.pdf,検査記録_347.xlsx,pair,False
+3381,D1_unrelated,納品明細_849.pdf,決裁書_53.xlsx,pair,False
+3382,D1_unrelated,納品明細_892.pdf,決裁書_283.xlsx,pair,False
+3383,D1_unrelated,議事メモ_382.pdf,議事メモ_224.xlsx,pair,False
+3384,D1_unrelated,納品明細_157.pdf,納品明細_715.xlsx,pair,False
+3385,D1_unrelated,納品明細_176.pdf,議事メモ_918.xlsx,pair,False
+3386,D1_unrelated,納品明細_233.pdf,Draft_581.xlsx,pair,False
+3387,D1_unrelated,決裁書_619.pdf,Invoice_603.xlsx,pair,False
+3388,D1_unrelated,議事メモ_317.pdf,議事メモ_522.xlsx,pair,False
+3389,D1_unrelated,Photo_752.pdf,議事メモ_743.xlsx,pair,False
+3390,D1_unrelated,検査記録_652.pdf,検査記録_809.xlsx,pair,False
+3391,D1_unrelated,議事メモ_819.pdf,決裁書_418.xlsx,pair,False
+3392,D1_unrelated,決裁書_168.pdf,納品明細_458.xlsx,pair,False
+3393,D1_unrelated,納品明細_649.pdf,決裁書_693.xlsx,pair,False
+3394,D1_unrelated,Photo_510.pdf,Photo_83.xlsx,pair,False
+3395,D1_unrelated,検査記録_993.pdf,Photo_568.xlsx,pair,False
+3396,D1_unrelated,納品明細_929.pdf,検査記録_765.xlsx,pair,False
+3397,D1_unrelated,Draft_103.pdf,Invoice_985.xlsx,pair,False
+3398,D1_unrelated,Invoice_486.pdf,納品明細_654.xlsx,pair,False
+3399,D1_unrelated,検査記録_286.pdf,議事メモ_588.xlsx,pair,False
+3400,D1_unrelated,Draft_940.pdf,Draft_108.xlsx,pair,False
+3401,D1_unrelated,Invoice_264.pdf,Photo_900.xlsx,pair,False
+3402,D1_unrelated,検査記録_463.pdf,Invoice_259.xlsx,pair,False
+3403,D1_unrelated,納品明細_937.pdf,Draft_508.xlsx,pair,False
+3404,D1_unrelated,Photo_588.pdf,検査記録_593.xlsx,pair,False
+3405,D1_unrelated,Invoice_566.pdf,議事メモ_121.xlsx,pair,False
+3406,D1_unrelated,検査記録_672.pdf,決裁書_169.xlsx,pair,False
+3407,D1_unrelated,Invoice_179.pdf,Draft_642.xlsx,pair,False
+3408,D1_unrelated,検査記録_167.pdf,議事メモ_455.xlsx,pair,False
+3409,D1_unrelated,決裁書_898.pdf,議事メモ_39.xlsx,pair,False
+3410,D1_unrelated,検査記録_169.pdf,Invoice_642.xlsx,pair,False
+3411,D1_unrelated,議事メモ_950.pdf,Invoice_459.xlsx,pair,False
+3412,D1_unrelated,Photo_770.pdf,決裁書_582.xlsx,pair,False
+3413,D1_unrelated,Draft_973.pdf,Photo_584.xlsx,pair,False
+3414,D1_unrelated,決裁書_47.pdf,決裁書_6.xlsx,pair,False
+3415,D1_unrelated,納品明細_67.pdf,Invoice_991.xlsx,pair,False
+3416,D1_unrelated,Draft_119.pdf,Photo_726.xlsx,pair,False
+3417,D1_unrelated,検査記録_537.pdf,Draft_304.xlsx,pair,False
+3418,D1_unrelated,納品明細_112.pdf,納品明細_71.xlsx,pair,False
+3419,D1_unrelated,検査記録_371.pdf,検査記録_66.xlsx,pair,False
+3420,D1_unrelated,Invoice_75.pdf,検査記録_176.xlsx,pair,False
+3421,D1_unrelated,議事メモ_276.pdf,決裁書_305.xlsx,pair,False
+3422,D1_unrelated,検査記録_206.pdf,納品明細_536.xlsx,pair,False
+3423,D1_unrelated,決裁書_427.pdf,Photo_616.xlsx,pair,False
+3424,D1_unrelated,Photo_458.pdf,検査記録_241.xlsx,pair,False
+3425,D1_unrelated,議事メモ_461.pdf,Invoice_807.xlsx,pair,False
+3426,D1_unrelated,納品明細_544.pdf,決裁書_122.xlsx,pair,False
+3427,D1_unrelated,Draft_882.pdf,Invoice_63.xlsx,pair,False
+3428,D1_unrelated,納品明細_62.pdf,Draft_421.xlsx,pair,False
+3429,D1_unrelated,決裁書_289.pdf,納品明細_192.xlsx,pair,False
+3430,D1_unrelated,Invoice_878.pdf,Draft_860.xlsx,pair,False
+3431,D1_unrelated,議事メモ_331.pdf,Invoice_191.xlsx,pair,False
+3432,D1_unrelated,議事メモ_838.pdf,議事メモ_918.xlsx,pair,False
+3433,D1_unrelated,Draft_98.pdf,Photo_391.xlsx,pair,False
+3434,D1_unrelated,検査記録_470.pdf,検査記録_216.xlsx,pair,False
+3435,D1_unrelated,Photo_230.pdf,検査記録_342.xlsx,pair,False
+3436,D1_unrelated,決裁書_723.pdf,Draft_684.xlsx,pair,False
+3437,D1_unrelated,納品明細_348.pdf,納品明細_868.xlsx,pair,False
+3438,D1_unrelated,決裁書_124.pdf,決裁書_753.xlsx,pair,False
+3439,D1_unrelated,決裁書_671.pdf,Invoice_399.xlsx,pair,False
+3440,D1_unrelated,検査記録_69.pdf,議事メモ_421.xlsx,pair,False
+3441,D1_unrelated,決裁書_426.pdf,Photo_452.xlsx,pair,False
+3442,D1_unrelated,決裁書_335.pdf,検査記録_38.xlsx,pair,False
+3443,D1_unrelated,Photo_711.pdf,Draft_681.xlsx,pair,False
+3444,D1_unrelated,Photo_922.pdf,Invoice_446.xlsx,pair,False
+3445,D1_unrelated,決裁書_792.pdf,検査記録_9.xlsx,pair,False
+3446,D1_unrelated,Invoice_725.pdf,決裁書_31.xlsx,pair,False
+3447,D1_unrelated,決裁書_507.pdf,議事メモ_992.xlsx,pair,False
+3448,D1_unrelated,検査記録_939.pdf,Draft_546.xlsx,pair,False
+3449,D1_unrelated,Photo_475.pdf,納品明細_82.xlsx,pair,False
+3450,D1_unrelated,検査記録_390.pdf,議事メモ_933.xlsx,pair,False
+3451,D1_unrelated,Draft_735.pdf,Photo_257.xlsx,pair,False
+3452,D1_unrelated,議事メモ_444.pdf,検査記録_697.xlsx,pair,False
+3453,D1_unrelated,決裁書_611.pdf,決裁書_233.xlsx,pair,False
+3454,D1_unrelated,決裁書_164.pdf,決裁書_28.xlsx,pair,False
+3455,D1_unrelated,納品明細_835.pdf,Photo_830.xlsx,pair,False
+3456,D1_unrelated,Draft_659.pdf,Invoice_593.xlsx,pair,False
+3457,D1_unrelated,検査記録_126.pdf,Invoice_585.xlsx,pair,False
+3458,D1_unrelated,納品明細_504.pdf,議事メモ_96.xlsx,pair,False
+3459,D1_unrelated,Photo_892.pdf,議事メモ_121.xlsx,pair,False
+3460,D1_unrelated,納品明細_962.pdf,Invoice_429.xlsx,pair,False
+3461,D1_unrelated,Draft_963.pdf,決裁書_212.xlsx,pair,False
+3462,D1_unrelated,Invoice_798.pdf,納品明細_268.xlsx,pair,False
+3463,D1_unrelated,Draft_857.pdf,Photo_370.xlsx,pair,False
+3464,D1_unrelated,検査記録_495.pdf,検査記録_862.xlsx,pair,False
+3465,D1_unrelated,検査記録_910.pdf,Draft_431.xlsx,pair,False
+3466,D1_unrelated,納品明細_596.pdf,Draft_172.xlsx,pair,False
+3467,D1_unrelated,Invoice_823.pdf,決裁書_420.xlsx,pair,False
+3468,D1_unrelated,議事メモ_62.pdf,Photo_695.xlsx,pair,False
+3469,D1_unrelated,Photo_656.pdf,議事メモ_24.xlsx,pair,False
+3470,D1_unrelated,Draft_857.pdf,Photo_513.xlsx,pair,False
+3471,D1_unrelated,Invoice_413.pdf,検査記録_31.xlsx,pair,False
+3472,D1_unrelated,Draft_278.pdf,Invoice_185.xlsx,pair,False
+3473,D1_unrelated,議事メモ_323.pdf,Photo_315.xlsx,pair,False
+3474,D1_unrelated,Invoice_153.pdf,検査記録_993.xlsx,pair,False
+3475,D1_unrelated,Draft_105.pdf,Photo_755.xlsx,pair,False
+3476,D1_unrelated,納品明細_160.pdf,納品明細_377.xlsx,pair,False
+3477,D1_unrelated,議事メモ_664.pdf,Invoice_109.xlsx,pair,False
+3478,D1_unrelated,検査記録_263.pdf,Invoice_572.xlsx,pair,False
+3479,D1_unrelated,議事メモ_883.pdf,Photo_251.xlsx,pair,False
+3480,D1_unrelated,Photo_94.pdf,議事メモ_409.xlsx,pair,False
+3481,D1_unrelated,議事メモ_683.pdf,検査記録_790.xlsx,pair,False
+3482,D1_unrelated,検査記録_43.pdf,検査記録_740.xlsx,pair,False
+3483,D1_unrelated,Photo_642.pdf,Draft_984.xlsx,pair,False
+3484,D1_unrelated,検査記録_741.pdf,Draft_888.xlsx,pair,False
+3485,D1_unrelated,決裁書_168.pdf,納品明細_97.xlsx,pair,False
+3486,D1_unrelated,Photo_72.pdf,検査記録_16.xlsx,pair,False
+3487,D1_unrelated,議事メモ_615.pdf,検査記録_39.xlsx,pair,False
+3488,D1_unrelated,納品明細_467.pdf,Photo_955.xlsx,pair,False
+3489,D1_unrelated,Draft_814.pdf,Invoice_499.xlsx,pair,False
+3490,D1_unrelated,Photo_925.pdf,Invoice_373.xlsx,pair,False
+3491,D1_unrelated,Draft_852.pdf,検査記録_837.xlsx,pair,False
+3492,D1_unrelated,Invoice_44.pdf,納品明細_889.xlsx,pair,False
+3493,D1_unrelated,議事メモ_147.pdf,Photo_910.xlsx,pair,False
+3494,D1_unrelated,納品明細_662.pdf,決裁書_453.xlsx,pair,False
+3495,D1_unrelated,Photo_111.pdf,決裁書_638.xlsx,pair,False
+3496,D1_unrelated,決裁書_489.pdf,議事メモ_115.xlsx,pair,False
+3497,D1_unrelated,Draft_176.pdf,決裁書_524.xlsx,pair,False
+3498,D1_unrelated,議事メモ_488.pdf,Invoice_763.xlsx,pair,False
+3499,D1_unrelated,決裁書_808.pdf,議事メモ_615.xlsx,pair,False
+3500,D1_unrelated,検査記録_982.pdf,Draft_729.xlsx,pair,False
+3501,D1_unrelated,Draft_361.pdf,検査記録_592.xlsx,pair,False
+3502,D1_unrelated,Draft_967.pdf,決裁書_711.xlsx,pair,False
+3503,D1_unrelated,Photo_153.pdf,Photo_193.xlsx,pair,False
+3504,D1_unrelated,議事メモ_190.pdf,議事メモ_333.xlsx,pair,False
+3505,D1_unrelated,議事メモ_524.pdf,納品明細_116.xlsx,pair,False
+3506,D1_unrelated,決裁書_953.pdf,決裁書_296.xlsx,pair,False
+3507,D1_unrelated,検査記録_158.pdf,決裁書_190.xlsx,pair,False
+3508,D1_unrelated,Photo_248.pdf,Draft_8.xlsx,pair,False
+3509,D1_unrelated,納品明細_507.pdf,決裁書_234.xlsx,pair,False
+3510,D1_unrelated,検査記録_141.pdf,Invoice_944.xlsx,pair,False
+3511,D1_unrelated,Draft_349.pdf,Invoice_617.xlsx,pair,False
+3512,D1_unrelated,納品明細_810.pdf,議事メモ_41.xlsx,pair,False
+3513,D1_unrelated,検査記録_319.pdf,Photo_384.xlsx,pair,False
+3514,D1_unrelated,検査記録_710.pdf,決裁書_600.xlsx,pair,False
+3515,D1_unrelated,決裁書_92.pdf,Draft_335.xlsx,pair,False
+3516,D1_unrelated,Draft_582.pdf,Photo_557.xlsx,pair,False
+3517,D1_unrelated,納品明細_411.pdf,議事メモ_761.xlsx,pair,False
+3518,D1_unrelated,Invoice_115.pdf,決裁書_724.xlsx,pair,False
+3519,D1_unrelated,決裁書_423.pdf,Invoice_561.xlsx,pair,False
+3520,D1_unrelated,納品明細_470.pdf,Draft_718.xlsx,pair,False
+3521,D1_unrelated,決裁書_376.pdf,Draft_603.xlsx,pair,False
+3522,D1_unrelated,Photo_464.pdf,納品明細_883.xlsx,pair,False
+3523,D1_unrelated,Photo_570.pdf,納品明細_694.xlsx,pair,False
+3524,D1_unrelated,Draft_360.pdf,議事メモ_821.xlsx,pair,False
+3525,D1_unrelated,Draft_234.pdf,議事メモ_189.xlsx,pair,False
+3526,D1_unrelated,決裁書_77.pdf,Invoice_34.xlsx,pair,False
+3527,D1_unrelated,納品明細_692.pdf,議事メモ_117.xlsx,pair,False
+3528,D1_unrelated,議事メモ_171.pdf,決裁書_643.xlsx,pair,False
+3529,D1_unrelated,納品明細_11.pdf,決裁書_2.xlsx,pair,False
+3530,D1_unrelated,決裁書_545.pdf,議事メモ_830.xlsx,pair,False
+3531,D1_unrelated,Invoice_419.pdf,納品明細_669.xlsx,pair,False
+3532,D1_unrelated,Draft_109.pdf,決裁書_621.xlsx,pair,False
+3533,D1_unrelated,検査記録_678.pdf,納品明細_291.xlsx,pair,False
+3534,D1_unrelated,検査記録_217.pdf,決裁書_191.xlsx,pair,False
+3535,D1_unrelated,Draft_748.pdf,決裁書_222.xlsx,pair,False
+3536,D1_unrelated,議事メモ_714.pdf,決裁書_379.xlsx,pair,False
+3537,D1_unrelated,検査記録_230.pdf,Invoice_518.xlsx,pair,False
+3538,D1_unrelated,決裁書_858.pdf,議事メモ_871.xlsx,pair,False
+3539,D1_unrelated,Photo_140.pdf,決裁書_708.xlsx,pair,False
+3540,D1_unrelated,決裁書_761.pdf,納品明細_859.xlsx,pair,False
+3541,D1_unrelated,検査記録_896.pdf,検査記録_897.xlsx,pair,False
+3542,D1_unrelated,Invoice_320.pdf,議事メモ_366.xlsx,pair,False
+3543,D1_unrelated,Invoice_898.pdf,納品明細_824.xlsx,pair,False
+3544,D1_unrelated,決裁書_488.pdf,Invoice_149.xlsx,pair,False
+3545,D1_unrelated,Photo_167.pdf,議事メモ_422.xlsx,pair,False
+3546,D1_unrelated,検査記録_822.pdf,Draft_285.xlsx,pair,False
+3547,D1_unrelated,Photo_171.pdf,決裁書_110.xlsx,pair,False
+3548,D1_unrelated,Photo_56.pdf,納品明細_625.xlsx,pair,False
+3549,D1_unrelated,決裁書_763.pdf,検査記録_909.xlsx,pair,False
+3550,D1_unrelated,Invoice_600.pdf,Photo_62.xlsx,pair,False
+3551,D1_unrelated,決裁書_793.pdf,納品明細_393.xlsx,pair,False
+3552,D1_unrelated,議事メモ_544.pdf,納品明細_907.xlsx,pair,False
+3553,D1_unrelated,決裁書_915.pdf,決裁書_462.xlsx,pair,False
+3554,D1_unrelated,検査記録_823.pdf,納品明細_220.xlsx,pair,False
+3555,D1_unrelated,納品明細_299.pdf,納品明細_942.xlsx,pair,False
+3556,D1_unrelated,決裁書_69.pdf,議事メモ_291.xlsx,pair,False
+3557,D1_unrelated,納品明細_504.pdf,納品明細_739.xlsx,pair,False
+3558,D1_unrelated,決裁書_604.pdf,議事メモ_463.xlsx,pair,False
+3559,D1_unrelated,Draft_438.pdf,決裁書_365.xlsx,pair,False
+3560,D1_unrelated,納品明細_880.pdf,Invoice_447.xlsx,pair,False
+3561,D1_unrelated,検査記録_44.pdf,Draft_290.xlsx,pair,False
+3562,D1_unrelated,検査記録_501.pdf,議事メモ_885.xlsx,pair,False
+3563,D1_unrelated,Photo_687.pdf,Invoice_558.xlsx,pair,False
+3564,D1_unrelated,Draft_235.pdf,議事メモ_438.xlsx,pair,False
+3565,D1_unrelated,Draft_312.pdf,Photo_708.xlsx,pair,False
+3566,D1_unrelated,納品明細_351.pdf,Draft_262.xlsx,pair,False
+3567,D1_unrelated,決裁書_664.pdf,納品明細_776.xlsx,pair,False
+3568,D1_unrelated,Photo_775.pdf,決裁書_683.xlsx,pair,False
+3569,D1_unrelated,Invoice_422.pdf,Draft_315.xlsx,pair,False
+3570,D1_unrelated,納品明細_320.pdf,議事メモ_617.xlsx,pair,False
+3571,D1_unrelated,検査記録_465.pdf,決裁書_586.xlsx,pair,False
+3572,D1_unrelated,議事メモ_347.pdf,議事メモ_594.xlsx,pair,False
+3573,D1_unrelated,Invoice_514.pdf,決裁書_746.xlsx,pair,False
+3574,D1_unrelated,決裁書_220.pdf,議事メモ_301.xlsx,pair,False
+3575,D1_unrelated,決裁書_468.pdf,納品明細_949.xlsx,pair,False
+3576,D1_unrelated,納品明細_177.pdf,納品明細_623.xlsx,pair,False
+3577,D1_unrelated,納品明細_474.pdf,決裁書_238.xlsx,pair,False
+3578,D1_unrelated,議事メモ_186.pdf,議事メモ_494.xlsx,pair,False
+3579,D1_unrelated,議事メモ_162.pdf,検査記録_906.xlsx,pair,False
+3580,D1_unrelated,Invoice_943.pdf,決裁書_440.xlsx,pair,False
+3581,D1_unrelated,Draft_481.pdf,Draft_155.xlsx,pair,False
+3582,D1_unrelated,決裁書_764.pdf,Draft_860.xlsx,pair,False
+3583,D1_unrelated,Invoice_8.pdf,Invoice_330.xlsx,pair,False
+3584,D1_unrelated,検査記録_894.pdf,検査記録_923.xlsx,pair,False
+3585,D1_unrelated,議事メモ_666.pdf,納品明細_531.xlsx,pair,False
+3586,D1_unrelated,議事メモ_569.pdf,納品明細_943.xlsx,pair,False
+3587,D1_unrelated,議事メモ_335.pdf,Draft_957.xlsx,pair,False
+3588,D1_unrelated,納品明細_994.pdf,Invoice_928.xlsx,pair,False
+3589,D1_unrelated,決裁書_234.pdf,決裁書_795.xlsx,pair,False
+3590,D1_unrelated,議事メモ_143.pdf,Draft_784.xlsx,pair,False
+3591,D1_unrelated,Invoice_398.pdf,納品明細_691.xlsx,pair,False
+3592,D1_unrelated,決裁書_337.pdf,Photo_324.xlsx,pair,False
+3593,D1_unrelated,議事メモ_962.pdf,Photo_992.xlsx,pair,False
+3594,D1_unrelated,検査記録_769.pdf,決裁書_79.xlsx,pair,False
+3595,D1_unrelated,納品明細_267.pdf,Invoice_82.xlsx,pair,False
+3596,D1_unrelated,決裁書_228.pdf,検査記録_790.xlsx,pair,False
+3597,D1_unrelated,納品明細_825.pdf,検査記録_903.xlsx,pair,False
+3598,D1_unrelated,決裁書_560.pdf,Draft_919.xlsx,pair,False
+3599,D1_unrelated,Draft_247.pdf,議事メモ_522.xlsx,pair,False
+3600,D2_nfkc_risk,湿度５０％.txt,湿度50%.txt,pair,False
+3601,D2_nfkc_risk,第Ⅳ四半期.pptx,第IV四半期.pptx,pair,False
+3602,D2_nfkc_risk,価格㌫表示.csv,価格パーセント表示.csv,pair,False
